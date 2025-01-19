@@ -3,6 +3,7 @@
 - [x] Scrapování playerIDs - tj. jsem schopen si z webovky stáhnout data co potřebuju
 - [x] Scrapování dat fotbalistů - pomocí playerIDs si vytáhnu veškerá potřebná data o fotbalistech
 - [x] Vytvoření nejlepší jedenáctky každého týmu
+- [x] Spočítání průměrného útoku, zálohy, obrany
 - [ ] Simulace turnaje
 - [ ] Datová analýza
 - [ ] Webová aplikace
