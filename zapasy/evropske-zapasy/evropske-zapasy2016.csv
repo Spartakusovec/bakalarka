@@ -1,0 +1,220 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2016-03-23,Croatia,Israel,2,0,Friendly,Croatia,+4,-4,1817,1575
+2016-03-23,Poland,Serbia,1,0,Friendly,Poland,+6,-6,1778,1710
+2016-03-23,Romania,Lithuania,1,0,Friendly,Romania,+1,-1,1766,1426
+2016-03-23,Slovenia,Macedonia,1,0,Friendly,Slovenia,+3,-3,1622,1435
+2016-03-24,Czechia,Scotland,0,1,Friendly,Czechia,-14,+14,1752,1714
+2016-03-24,Denmark,Iceland,2,1,Friendly,Denmark,+6,-6,1734,1661
+2016-03-24,Italy,Spain,1,1,Friendly,Italy,+1,-1,1872,2002
+2016-03-24,Ukraine,Cyprus,1,0,Friendly,Ukraine,+1,-1,1818,1423
+2016-03-25,Ireland,Switzerland,1,0,Friendly,Ireland,+8,-8,1778,1801
+2016-03-25,Netherlands,France,2,3,Friendly,the Netherlands,-11,+11,1887,1965
+2016-03-25,Portugal,Bulgaria,0,1,Friendly,Portugal,-18,+18,1902,1602
+2016-03-25,Slovakia,Latvia,0,0,Friendly,Slovakia,-8,+8,1736,1458
+2016-03-26,Austria,Albania,2,1,Friendly,Austria,+3,-3,1804,1605
+2016-03-26,Germany,England,2,3,Friendly,Germany,-15,+15,2054,1974
+2016-03-26,Hungary,Croatia,1,1,Friendly,Hungary,0,0,1700,1817
+2016-03-26,Poland,Finland,5,0,Friendly,Poland,+6,-6,1784,1579
+2016-03-27,Romania,Spain,0,0,Friendly,Romania,+4,-4,1770,1998
+2016-03-28,Northern Ireland,Slovenia,1,0,Friendly,Northern Ireland,+8,-8,1608,1614
+2016-03-28,Ukraine,Wales,1,0,Friendly,Ukraine,+4,-4,1822,1664
+2016-03-29,Austria,Turkey,1,2,Friendly,Austria,-13,+13,1791,1824
+2016-03-29,England,Netherlands,1,2,Friendly,England,-15,+15,1959,1902
+2016-03-29,Estonia,Serbia,0,1,Friendly,Estonia,-7,+7,1494,1717
+2016-03-29,France,Russia,4,2,Friendly,France,+5,-5,1970,1771
+2016-03-29,Georgia,Kazakhstan,1,1,Friendly,Georgia,-5,+5,1475,1404
+2016-03-29,Germany,Italy,4,1,Friendly,Germany,+6,-6,2060,1866
+2016-03-29,Ireland,Slovakia,2,2,Friendly,Ireland,-4,+4,1774,1740
+2016-03-29,Luxembourg,Albania,0,2,Friendly,Luxembourg,-6,+6,1245,1611
+2016-03-29,Portugal,Belgium,2,1,Friendly,Portugal,+8,-8,1910,1920
+2016-03-29,Scotland,Denmark,1,0,Friendly,Scotland,+8,-8,1722,1726
+2016-03-29,Sweden,Czechia,1,1,Friendly,Sweden,-3,+3,1761,1755
+2016-03-29,Switzerland,Bosnia and Herzegovina,0,2,Friendly,Switzerland,-22,+22,1779,1748
+2016-05-20,Hungary,Ivory Coast,0,0,Friendly,Hungary,-2,+2,1698,1725
+2016-05-22,England,Turkey,2,1,Friendly,England,+4,-4,1963,1820
+2016-05-25,Democratic Republic of Congo,Romania,1,1,Friendly,Italy,+6,-6,1553,1764
+2016-05-25,Serbia,Cyprus,2,1,Friendly,Serbia,+2,-2,1719,1421
+2016-05-27,Croatia,Moldova,1,0,Friendly,Croatia,+1,-1,1818,1352
+2016-05-27,Czechia,Malta,6,0,Friendly,Austria,+2,-2,1757,1232
+2016-05-27,England,Australia,2,1,Friendly,England,+2,-2,1965,1716
+2016-05-27,Ireland,Netherlands,1,1,Friendly,Ireland,+1,-1,1775,1901
+2016-05-27,Slovakia,Georgia,3,1,Friendly,Austria,+5,-5,1745,1470
+2016-05-28,Switzerland,Belgium,1,2,Friendly,Switzerland,-9,+9,1770,1929
+2016-05-29,Albania,Qatar,3,1,Friendly,Austria,+12,-12,1623,1537
+2016-05-29,Germany,Slovakia,1,3,Friendly,Germany,-27,+27,2033,1772
+2016-05-29,Italy,Scotland,1,0,Friendly,Malta,+6,-6,1872,1716
+2016-05-29,Portugal,Norway,3,0,Friendly,Portugal,+4,-4,1914,1629
+2016-05-29,Spain,Bosnia and Herzegovina,3,1,Friendly,Switzerland,+6,-6,2004,1742
+2016-05-29,Ukraine,Romania,4,3,Friendly,Italy,+8,-8,1830,1756
+2016-05-30,France,Cameroon,3,2,Friendly,France,+1,-1,1971,1606
+2016-05-30,Sweden,Slovenia,0,0,Friendly,Sweden,-6,+6,1755,1620
+2016-05-31,Austria,Malta,2,1,Friendly,Austria,0,0,1791,1232
+2016-05-31,Serbia,Israel,3,1,Friendly,Serbia,+6,-6,1725,1569
+2016-06-01,Belgium,Finland,1,1,Friendly,Belgium,-9,+9,1920,1579
+2016-06-01,Czechia,Russia,2,1,Friendly,Austria,+10,-10,1767,1761
+2016-06-01,Poland,Netherlands,1,2,Friendly,Poland,-10,+10,1774,1911
+2016-06-01,Spain,South Korea,6,1,Friendly,Austria,+9,-9,2013,1783
+2016-06-02,England,Portugal,1,0,Friendly,England,+6,-6,1971,1908
+2016-06-03,Bosnia and Herzegovina,Denmark,2,2,Friendly tournament,Japan,-1,+1,1741,1727
+2016-06-03,Romania,Georgia,5,1,Friendly,Romania,+4,-4,1760,1466
+2016-06-03,Switzerland,Moldova,2,1,Friendly,Switzerland,+1,-1,1771,1351
+2016-06-03,Ukraine,Albania,3,1,Friendly,Italy,+7,-7,1837,1616
+2016-06-04,Austria,Netherlands,0,2,Friendly,Austria,-14,+14,1777,1925
+2016-06-04,Croatia,San Marino,10,0,Friendly,Croatia,0,0,1818,884
+2016-06-04,France,Scotland,3,0,Friendly,France,+4,-4,1975,1712
+2016-06-04,Germany,Hungary,2,0,Friendly,Germany,+2,-2,2035,1696
+2016-06-04,Slovakia,Northern Ireland,0,0,Friendly,Slovakia,-6,+6,1766,1625
+2016-06-05,Belgium,Norway,3,2,Friendly,Belgium,+2,-2,1922,1635
+2016-06-05,Czechia,South Korea,1,2,Friendly,Czechia,-12,+12,1755,1795
+2016-06-05,Russia,Serbia,1,1,Friendly,Monaco,-1,+1,1760,1726
+2016-06-05,Slovenia,Turkey,0,1,Friendly,Slovenia,-7,+7,1613,1829
+2016-06-06,Italy,Finland,2,0,Friendly,Italy,+3,-3,1875,1576
+2016-06-06,Poland,Lithuania,0,0,Friendly,Poland,-9,+9,1765,1444
+2016-06-07,Denmark,Bulgaria,4,0,Friendly tournament,Japan,+18,-18,1745,1584
+2016-06-07,Spain,Georgia,0,1,Friendly,Spain,-20,+20,1993,1486
+2016-06-08,Portugal,Estonia,7,0,Friendly,Portugal,+2,-2,1910,1468
+2016-06-10,France,Romania,2,1,European Championship,France,+7,-7,1982,1753
+2016-06-11,England,Russia,1,1,European Championship,France,-14,+14,1957,1774
+2016-06-11,Switzerland,Albania,1,0,European Championship,France,+15,-15,1786,1601
+2016-06-11,Wales,Slovakia,2,1,European Championship,France,+33,-33,1688,1733
+2016-06-12,Croatia,Turkey,1,0,European Championship,France,+26,-26,1844,1803
+2016-06-12,Germany,Ukraine,2,0,European Championship,France,+18,-18,2053,1819
+2016-06-12,Poland,Northern Ireland,1,0,European Championship,France,+15,-15,1780,1610
+2016-06-13,Italy,Belgium,2,0,European Championship,France,+43,-43,1918,1879
+2016-06-13,Spain,Czechia,1,0,European Championship,France,+10,-10,2003,1745
+2016-06-14,Hungary,Austria,2,0,European Championship,France,+46,-46,1742,1731
+2016-06-14,Iceland,Portugal,1,1,European Championship,France,+15,-15,1681,1895
+2016-06-15,France,Albania,2,0,European Championship,France,+4,-4,1986,1597
+2016-06-15,Romania,Switzerland,1,1,European Championship,France,+2,-2,1755,1784
+2016-06-15,Slovakia,Russia,2,1,European Championship,France,+28,-28,1761,1746
+2016-06-16,England,Wales,2,1,European Championship,France,+9,-9,1966,1679
+2016-06-16,Germany,Poland,0,0,European Championship,France,-16,+16,2037,1796
+2016-06-16,Northern Ireland,Ukraine,2,0,European Championship,France,+58,-58,1668,1761
+2016-06-17,Croatia,Czechia,2,2,European Championship,France,-7,+7,1837,1752
+2016-06-17,Italy,Sweden,1,0,European Championship,France,+15,-15,1933,1749
+2016-06-17,Spain,Turkey,3,0,European Championship,France,+21,-21,2024,1782
+2016-06-18,Austria,Portugal,0,0,European Championship,France,+11,-11,1742,1884
+2016-06-18,Belgium,Ireland,3,0,European Championship,France,+29,-29,1908,1729
+2016-06-18,Hungary,Iceland,1,1,European Championship,France,-4,+4,1738,1685
+2016-06-19,Albania,Romania,1,0,European Championship,France,+36,-36,1633,1719
+2016-06-19,France,Switzerland,0,0,European Championship,France,-18,+18,1968,1802
+2016-06-20,England,Slovakia,0,0,European Championship,France,-13,+13,1953,1774
+2016-06-21,Croatia,Spain,2,1,European Championship,France,+37,-37,1874,1987
+2016-06-21,Germany,Northern Ireland,1,0,European Championship,France,+5,-5,2042,1663
+2016-06-21,Poland,Ukraine,1,0,European Championship,France,+22,-22,1818,1739
+2016-06-21,Turkey,Czechia,2,0,European Championship,France,+34,-34,1816,1718
+2016-06-22,Belgium,Sweden,1,0,European Championship,France,+14,-14,1922,1735
+2016-06-22,Hungary,Portugal,3,3,European Championship,France,+10,-10,1748,1874
+2016-06-22,Iceland,Austria,2,1,European Championship,France,+29,-29,1714,1713
+2016-06-22,Ireland,Italy,1,0,European Championship,France,+38,-38,1767,1895
+2016-06-25,Poland,Switzerland,1,1,European Championship,France,-1,+1,1817,1803
+2016-06-25,Portugal,Croatia,1,0,European Championship,France,+25,-25,1899,1849
+2016-06-26,Belgium,Hungary,4,0,European Championship,France,+25,-25,1947,1723
+2016-06-26,France,Ireland,2,1,European Championship,France,+8,-8,1976,1759
+2016-06-26,Germany,Slovakia,3,0,European Championship,France,+15,-15,2057,1759
+2016-06-27,Iceland,England,2,1,European Championship,France,+40,-40,1754,1913
+2016-06-27,Italy,Spain,2,0,European Championship,France,+47,-47,1942,1940
+2016-06-30,Poland,Portugal,1,1,European Championship,France,+6,-6,1823,1893
+2016-07-01,Wales,Belgium,3,1,European Championship,France,+57,-57,1808,1890
+2016-07-02,Germany,Italy,1,1,European Championship,France,-8,+8,2049,1950
+2016-07-03,France,Iceland,5,2,European Championship,France,+12,-12,1988,1742
+2016-07-06,Portugal,Wales,2,0,European Championship,France,+29,-29,1922,1779
+2016-07-07,France,Germany,2,0,European Championship,France,+33,-33,2021,2016
+2016-07-10,France,Portugal,0,1,European Championship,France,-38,+38,1983,1960
+2016-08-31,Albania,Morocco,0,0,Friendly,Albania,-4,+4,1629,1581
+2016-08-31,Czechia,Armenia,3,0,Friendly,Czechia,+5,-5,1723,1518
+2016-08-31,Denmark,Liechtenstein,5,0,Friendly,Denmark,+1,-1,1746,1192
+2016-08-31,Germany,Finland,2,0,Friendly,Germany,+1,-1,2017,1575
+2016-09-01,Belgium,Spain,0,2,Friendly,Belgium,-17,+17,1873,1957
+2016-09-01,Italy,France,1,3,Friendly,Italy,-18,+18,1932,2001
+2016-09-01,Netherlands,Greece,1,2,Friendly,the Netherlands,-18,+18,1907,1634
+2016-09-01,Portugal,Gibraltar,5,0,Friendly,Portugal,0,0,1960,1111
+2016-09-04,Czechia,Northern Ireland,0,0,World Cup qualifier,Czechia,-10,+10,1713,1653
+2016-09-04,Denmark,Armenia,1,0,World Cup qualifier,Denmark,+5,-5,1751,1513
+2016-09-04,Kazakhstan,Poland,2,2,World Cup qualifier,Kazakhstan,+15,-15,1416,1808
+2016-09-04,Lithuania,Slovenia,2,2,World Cup qualifier,Lithuania,+4,-4,1448,1609
+2016-09-04,Malta,Scotland,1,5,World Cup qualifier,Malta,-8,+8,1231,1720
+2016-09-04,Norway,Germany,0,3,World Cup qualifier,Norway,-11,+11,1610,2028
+2016-09-04,Romania,Montenegro,1,1,World Cup qualifier,Romania,-13,+13,1706,1569
+2016-09-04,Slovakia,England,0,1,World Cup qualifier,Slovakia,-17,+17,1742,1930
+2016-09-05,Croatia,Turkey,1,1,World Cup qualifier,Croatia,-8,+8,1841,1818
+2016-09-05,Georgia,Austria,1,2,World Cup qualifier,Georgia,-13,+13,1473,1726
+2016-09-05,Israel,Italy,1,3,World Cup qualifier,Israel,-11,+11,1558,1943
+2016-09-05,Serbia,Ireland,2,2,World Cup qualifier,Serbia,-4,+4,1722,1767
+2016-09-05,Spain,Liechtenstein,8,0,World Cup qualifier,Spain,+1,-1,1958,1191
+2016-09-05,Ukraine,Iceland,1,1,World Cup qualifier,Ukraine,-5,+5,1734,1747
+2016-09-06,Albania,Macedonia,2,1,World Cup qualifier,Albania,+6,-6,1635,1424
+2016-09-06,Belarus,France,0,0,World Cup qualifier,Belarus,+14,-14,1614,1987
+2016-09-06,Cyprus,Belgium,0,3,World Cup qualifier,Cyprus,-8,+8,1413,1881
+2016-09-06,Faroe Islands,Hungary,0,0,World Cup qualifier,the Faroe Islands,+16,-16,1249,1707
+2016-09-06,Sweden,Netherlands,1,1,World Cup qualifier,Sweden,+4,-4,1739,1903
+2016-09-06,Switzerland,Portugal,2,0,World Cup qualifier,Switzerland,+35,-35,1838,1925
+2016-09-29,Qatar,Serbia,3,0,Friendly,Qatar,+22,-22,1554,1700
+2016-10-06,Austria,Wales,2,2,World Cup qualifier,Austria,-3,+3,1723,1785
+2016-10-06,Croatia,Kosovo,6,0,World Cup qualifier,Albania,+7,-7,1848,1406
+2016-10-06,Ireland,Georgia,1,0,World Cup qualifier,Ireland,+4,-4,1771,1469
+2016-10-06,Italy,Spain,1,1,World Cup qualifier,Italy,-5,+5,1938,1963
+2016-10-06,Liechtenstein,Albania,0,2,World Cup qualifier,Liechtenstein,-7,+7,1184,1642
+2016-10-06,Moldova,Serbia,0,3,World Cup qualifier,Moldova,-13,+13,1335,1713
+2016-10-06,Turkey,Ukraine,2,2,World Cup qualifier,Turkey,-10,+10,1808,1744
+2016-10-07,Belgium,Bosnia and Herzegovina,4,0,World Cup qualifier,Belgium,+17,-17,1898,1751
+2016-10-07,France,Bulgaria,4,1,World Cup qualifier,France,+4,-4,1991,1583
+2016-10-07,Hungary,Switzerland,2,3,World Cup qualifier,Hungary,-18,+18,1689,1856
+2016-10-07,Netherlands,Belarus,4,1,World Cup qualifier,the Netherlands,+7,-7,1910,1607
+2016-10-07,Portugal,Andorra,6,0,World Cup qualifier,Portugal,0,0,1925,958
+2016-10-08,Armenia,Romania,0,5,World Cup qualifier,Armenia,-30,+30,1483,1736
+2016-10-08,England,Malta,2,0,World Cup qualifier,England,+1,-1,1931,1230
+2016-10-08,Germany,Czechia,3,0,World Cup qualifier,Germany,+6,-6,2034,1707
+2016-10-08,Poland,Denmark,3,2,World Cup qualifier,Poland,+12,-12,1820,1739
+2016-10-08,Scotland,Lithuania,1,1,World Cup qualifier,Scotland,-16,+16,1704,1464
+2016-10-08,Slovenia,Slovakia,1,0,World Cup qualifier,Slovenia,+22,-22,1631,1720
+2016-10-09,Albania,Spain,0,2,World Cup qualifier,Albania,-13,+13,1629,1976
+2016-10-09,Finland,Croatia,0,1,World Cup qualifier,Finland,-10,+10,1546,1858
+2016-10-09,Macedonia,Italy,2,3,World Cup qualifier,Macedonia,-3,+3,1403,1941
+2016-10-09,Serbia,Austria,3,2,World Cup qualifier,Serbia,+15,-15,1728,1708
+2016-10-09,Ukraine,Kosovo,3,0,World Cup qualifier,Poland,+9,-9,1753,1397
+2016-10-09,Wales,Georgia,1,1,World Cup qualifier,Wales,-17,+17,1768,1486
+2016-10-10,Andorra,Switzerland,1,2,World Cup qualifier,Andorra,0,0,958,1856
+2016-10-10,Belgium,Gibraltar,6,0,World Cup qualifier,Portugal,+1,-1,1899,1102
+2016-10-10,Faroe Islands,Portugal,0,6,World Cup qualifier,the Faroe Islands,-4,+4,1297,1929
+2016-10-10,Latvia,Hungary,0,2,World Cup qualifier,Latvia,-18,+18,1417,1707
+2016-10-10,Netherlands,France,0,1,World Cup qualifier,the Netherlands,-21,+21,1889,2012
+2016-10-11,Czechia,Azerbaijan,0,0,World Cup qualifier,Czechia,-16,+16,1691,1435
+2016-10-11,Denmark,Montenegro,0,1,World Cup qualifier,Denmark,-33,+33,1706,1617
+2016-10-11,Germany,Northern Ireland,2,0,World Cup qualifier,Germany,+4,-4,2038,1649
+2016-10-11,Kazakhstan,Romania,0,0,World Cup qualifier,Kazakhstan,+12,-12,1413,1724
+2016-10-11,Poland,Armenia,2,1,World Cup qualifier,Poland,+3,-3,1823,1480
+2016-10-11,Slovakia,Scotland,3,0,World Cup qualifier,Slovakia,+24,-24,1744,1680
+2016-10-11,Slovenia,England,0,0,World Cup qualifier,Slovenia,+10,-10,1641,1921
+2016-11-09,Netherlands,Belgium,1,1,Friendly,the Netherlands,-3,+3,1886,1902
+2016-11-11,Czechia,Norway,2,1,World Cup qualifier,Czechia,+9,-9,1700,1575
+2016-11-11,Denmark,Kazakhstan,4,1,World Cup qualifier,Denmark,+7,-7,1713,1406
+2016-11-11,England,Scotland,3,0,World Cup qualifier,England,+9,-9,1930,1671
+2016-11-11,France,Sweden,2,1,World Cup qualifier,France,+5,-5,2017,1751
+2016-11-11,Malta,Slovenia,0,1,World Cup qualifier,Malta,-5,+5,1217,1646
+2016-11-11,Romania,Poland,0,3,World Cup qualifier,Romania,-35,+35,1689,1858
+2016-11-11,San Marino,Germany,0,8,World Cup qualifier,San Marino,0,0,879,2038
+2016-11-11,Slovakia,Lithuania,4,0,World Cup qualifier,Slovakia,+8,-8,1752,1464
+2016-11-12,Albania,Israel,0,3,World Cup qualifier,Albania,-49,+49,1580,1627
+2016-11-12,Austria,Ireland,0,1,World Cup qualifier,Austria,-22,+22,1686,1801
+2016-11-12,Croatia,Iceland,2,0,World Cup qualifier,Croatia,+16,-16,1874,1763
+2016-11-12,Georgia,Moldova,1,1,World Cup qualifier,Georgia,-13,+13,1473,1340
+2016-11-12,Liechtenstein,Italy,0,4,World Cup qualifier,Liechtenstein,-2,+2,1180,1943
+2016-11-12,Spain,Macedonia,4,0,World Cup qualifier,Spain,+2,-2,1978,1401
+2016-11-12,Ukraine,Finland,1,0,World Cup qualifier,Ukraine,+6,-6,1759,1540
+2016-11-12,Wales,Serbia,1,1,World Cup qualifier,Wales,-8,+8,1760,1736
+2016-11-13,Belgium,Estonia,8,1,World Cup qualifier,Belgium,+3,-3,1905,1433
+2016-11-13,Hungary,Andorra,4,0,World Cup qualifier,Hungary,+1,-1,1708,957
+2016-11-13,Luxembourg,Netherlands,1,3,World Cup qualifier,Luxembourg,-3,+3,1244,1889
+2016-11-13,Portugal,Latvia,4,1,World Cup qualifier,Portugal,+2,-2,1931,1415
+2016-11-13,Switzerland,Faroe Islands,2,0,World Cup qualifier,Switzerland,+1,-1,1857,1296
+2016-11-14,Poland,Slovenia,1,1,Friendly,Poland,-7,+7,1851,1653
+2016-11-15,Austria,Slovakia,0,0,Friendly,Austria,-1,+1,1685,1753
+2016-11-15,Czechia,Denmark,1,1,Friendly,Czechia,-2,+2,1698,1715
+2016-11-15,England,Spain,2,2,Friendly,England,-1,+1,1929,1979
+2016-11-15,France,Ivory Coast,0,0,Friendly,France,-8,+8,2009,1728
+2016-11-15,Hungary,Sweden,0,2,Friendly,Hungary,-17,+17,1691,1768
+2016-11-15,Italy,Germany,0,0,Friendly,Italy,0,0,1943,2038
+2016-11-15,Northern Ireland,Croatia,0,3,Friendly,Northern Ireland,-12,+12,1648,1886
+2016-11-15,Russia,Romania,1,0,Friendly,Russia,+7,-7,1691,1682
+2016-11-15,Ukraine,Serbia,2,0,Friendly,Ukraine,+10,-10,1769,1726
