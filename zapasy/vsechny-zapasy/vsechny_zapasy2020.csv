@@ -1,0 +1,367 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2020-01-07,Canada,Barbados,4,1,Friendly,the United States,+2,-2,1607,1103
+2020-01-09,Sweden,Moldova,1,0,Friendly,Qatar,+1,-1,1861,1239
+2020-01-10,Canada,Barbados,4,1,Friendly,the United States,+2,-2,1609,1101
+2020-01-12,Sweden,Kosovo,1,0,Friendly,Qatar,+3,-3,1864,1562
+2020-01-15,Iceland,Canada,1,0,Friendly,the United States,+8,-8,1679,1601
+2020-01-15,Bangladesh,Palestine,0,2,Bangabandhu Gold Cup,Bangladesh,-3,+3,828,1384
+2020-01-16,Burundi,Mauritius,4,1,Bangabandhu Gold Cup,Bangladesh,+16,-16,1184,1012
+2020-01-17,Palestine,Sri Lanka,2,0,Bangabandhu Gold Cup,Bangladesh,+1,-1,1385,670
+2020-01-18,Burundi,Seychelles,3,1,Bangabandhu Gold Cup,Bangladesh,+8,-8,1192,906
+2020-01-19,Bangladesh,Sri Lanka,3,0,Bangabandhu Gold Cup,Bangladesh,+10,-10,838,660
+2020-01-19,Iceland,El Salvador,1,0,Friendly,the United States,+5,-5,1684,1485
+2020-01-20,Mauritius,Seychelles,2,2,Bangabandhu Gold Cup,Bangladesh,-4,+4,1008,910
+2020-01-22,Palestine,Seychelles,1,0,Bangabandhu Gold Cup,Bangladesh,+2,-2,1387,908
+2020-01-23,Bangladesh,Burundi,0,3,Bangabandhu Gold Cup,Bangladesh,-10,+10,828,1202
+2020-01-25,Palestine,Burundi,3,1,Bangabandhu Gold Cup,Bangladesh,+12,-12,1399,1190
+2020-01-25,Eritrea,Sudan,0,1,Friendly,Eritrea,-9,+9,1144,1280
+2020-02-01,United States,Costa Rica,1,0,Friendly,the United States,+6,-6,1727,1653
+2020-02-23,Belarus,Uzbekistan,1,0,Friendly,the United Arab Emirates,+12,-12,1506,1567
+2020-02-25,Nicaragua,Panama,0,0,Friendly,Nicaragua,+6,-6,1195,1499
+2020-02-26,Bulgaria,Belarus,0,1,Friendly,Bulgaria,-15,+15,1560,1521
+2020-03-04,Guatemala,Panama,0,2,Friendly,Guatemala,-19,+19,1483,1518
+2020-03-11,Jamaica,Bermuda,2,0,Friendly,Jamaica,+3,-3,1585,1297
+2020-09-03,Uzbekistan,Tajikistan,2,1,Friendly,Uzbekistan,+2,-2,1569,1231
+2020-09-03,Latvia,Andorra,0,0,European Nations League D,Latvia,-12,+12,1242,1118
+2020-09-03,Faroe Islands,Malta,3,2,European Nations League D,the Faroe Islands,+12,-12,1238,1157
+2020-09-03,Slovenia,Greece,0,0,European Nations League C,Slovenia,-4,+4,1581,1612
+2020-09-03,Kosovo,Moldova,1,1,European Nations League C,Italy,-15,+15,1547,1254
+2020-09-03,Turkey,Hungary,0,1,European Nations League B,Turkey,-33,+33,1746,1652
+2020-09-03,Russia,Serbia,3,1,European Nations League B,Russia,+21,-21,1815,1770
+2020-09-03,Finland,Wales,0,1,European Nations League B,Finland,-18,+18,1629,1801
+2020-09-03,Bulgaria,Ireland,1,1,European Nations League B,Bulgaria,+4,-4,1564,1725
+2020-09-03,Ukraine,Switzerland,2,1,European Nations League A,Ukraine,+17,-17,1871,1881
+2020-09-03,Germany,Spain,1,1,European Nations League A,Germany,-2,+2,1963,2031
+2020-09-04,Lithuania,Kazakhstan,0,2,European Nations League C,Lithuania,-35,+35,1285,1396
+2020-09-04,Belarus,Albania,0,2,European Nations League C,Belarus,-38,+38,1483,1569
+2020-09-04,Slovakia,Czechia,1,3,European Nations League B,Slovakia,-38,+38,1696,1774
+2020-09-04,Scotland,Israel,1,1,European Nations League B,Scotland,-11,+11,1630,1549
+2020-09-04,Romania,Northern Ireland,1,1,European Nations League B,Romania,-7,+7,1694,1686
+2020-09-04,Norway,Austria,1,2,European Nations League B,Norway,-25,+25,1697,1766
+2020-09-04,Netherlands,Poland,1,0,European Nations League A,the Netherlands,+5,-5,2023,1785
+2020-09-04,Italy,Bosnia and Herzegovina,1,1,European Nations League A,Italy,-16,+16,1953,1699
+2020-09-05,Gibraltar,San Marino,1,0,European Nations League D,Gibraltar,+4,-4,1091,817
+2020-09-05,North Macedonia,Armenia,2,1,European Nations League C,North Macedonia,+10,-10,1556,1441
+2020-09-05,Estonia,Georgia,0,1,European Nations League C,Estonia,-19,+19,1415,1570
+2020-09-05,Cyprus,Montenegro,0,2,European Nations League C,Cyprus,-28,+28,1371,1551
+2020-09-05,Azerbaijan,Luxembourg,1,2,European Nations League C,Azerbaijan,-27,+27,1349,1367
+2020-09-05,Sweden,France,0,1,European Nations League A,Sweden,-15,+15,1849,2062
+2020-09-05,Portugal,Croatia,4,1,European Nations League A,Portugal,+20,-20,2005,1901
+2020-09-05,Iceland,England,0,1,European Nations League A,Iceland,-11,+11,1673,1967
+2020-09-05,Denmark,Belgium,0,2,European Nations League A,Denmark,-22,+22,1869,2106
+2020-09-06,Malta,Latvia,1,1,European Nations League D,Malta,-1,+1,1156,1243
+2020-09-06,Andorra,Faroe Islands,0,1,European Nations League D,Andorra,-19,+19,1099,1257
+2020-09-06,Slovenia,Moldova,1,0,European Nations League C,Slovenia,+3,-3,1584,1251
+2020-09-06,Kosovo,Greece,1,2,European Nations League C,Kosovo,-22,+22,1525,1634
+2020-09-06,Wales,Bulgaria,1,0,European Nations League B,Wales,+5,-5,1806,1559
+2020-09-06,Serbia,Turkey,0,0,European Nations League B,Serbia,-7,+7,1763,1753
+2020-09-06,Ireland,Finland,0,1,European Nations League B,Ireland,-30,+30,1695,1659
+2020-09-06,Hungary,Russia,2,3,European Nations League B,Hungary,-16,+16,1636,1831
+2020-09-06,Switzerland,Germany,1,1,European Nations League A,Switzerland,-1,+1,1880,1964
+2020-09-06,Spain,Ukraine,4,0,European Nations League A,Spain,+14,-14,2045,1857
+2020-09-07,Kazakhstan,Belarus,1,2,European Nations League C,Kazakhstan,-21,+21,1375,1504
+2020-09-07,Albania,Lithuania,0,1,European Nations League C,Albania,-36,+36,1533,1321
+2020-09-07,Northern Ireland,Norway,1,5,European Nations League B,Northern Ireland,-47,+47,1639,1744
+2020-09-07,Israel,Slovakia,1,1,European Nations League B,Israel,+3,-3,1552,1693
+2020-09-07,Czechia,Scotland,1,2,European Nations League B,Czechia,-32,+32,1742,1662
+2020-09-07,Austria,Romania,2,3,European Nations League B,Austria,-29,+29,1737,1723
+2020-09-07,Netherlands,Italy,0,1,European Nations League A,the Netherlands,-29,+29,1994,1982
+2020-09-07,Bosnia and Herzegovina,Poland,1,2,European Nations League A,Bosnia and Herzegovina,-21,+21,1678,1806
+2020-09-08,Liechtenstein,San Marino,2,0,European Nations League D,Italy,+8,-8,1150,809
+2020-09-08,Luxembourg,Montenegro,0,1,European Nations League C,Luxembourg,-15,+15,1352,1566
+2020-09-08,Georgia,North Macedonia,1,1,European Nations League C,Georgia,-6,+6,1564,1562
+2020-09-08,Cyprus,Azerbaijan,0,1,European Nations League C,Cyprus,-27,+27,1344,1376
+2020-09-08,Armenia,Estonia,2,0,European Nations League C,Armenia,+20,-20,1461,1395
+2020-09-08,Sweden,Portugal,0,2,European Nations League A,Sweden,-25,+25,1824,2030
+2020-09-08,France,Croatia,4,2,European Nations League A,France,+11,-11,2073,1890
+2020-09-08,Denmark,England,0,0,European Nations League A,Denmark,0,0,1869,1967
+2020-09-08,Belgium,Iceland,5,1,European Nations League A,Belgium,+3,-3,2109,1670
+2020-09-23,Chad,Sudan,2,3,Friendly,Chad,-11,+11,1201,1291
+2020-09-25,Chad,Sudan,0,2,Friendly,Chad,-15,+15,1186,1306
+2020-09-30,Mexico,Guatemala,3,0,Friendly,Mexico,+2,-2,1906,1481
+2020-10-06,Nicaragua,Guatemala,0,0,Friendly,Nicaragua,+5,-5,1200,1476
+2020-10-07,Zambia,Malawi,1,0,Friendly,Zambia,+5,-5,1434,1339
+2020-10-07,Switzerland,Croatia,1,2,Friendly,Switzerland,-13,+13,1867,1903
+2020-10-07,Slovenia,San Marino,4,0,Friendly,Slovenia,0,0,1584,809
+2020-10-07,Portugal,Spain,0,0,Friendly,Portugal,-2,+2,2028,2047
+2020-10-07,Poland,Finland,5,1,Friendly,Poland,+7,-7,1813,1652
+2020-10-07,Netherlands,Mexico,0,1,Friendly,the Netherlands,-15,+15,1979,1921
+2020-10-07,Montenegro,Latvia,1,1,Friendly,Montenegro,-8,+8,1558,1251
+2020-10-07,Malta,Gibraltar,2,0,Friendly,Malta,+8,-8,1164,1083
+2020-10-07,Luxembourg,Liechtenstein,1,2,Friendly,Luxembourg,-17,+17,1335,1167
+2020-10-07,Italy,Moldova,6,0,Friendly,Italy,0,0,1982,1251
+2020-10-07,Germany,Turkey,3,3,Friendly,Germany,-7,+7,1957,1760
+2020-10-07,France,Ukraine,7,1,Friendly,France,+6,-6,2079,1851
+2020-10-07,Estonia,Lithuania,1,3,Friendly,Estonia,-22,+22,1373,1343
+2020-10-07,Denmark,Faroe Islands,4,0,Friendly,Denmark,+1,-1,1870,1256
+2020-10-07,Cyprus,Czechia,1,2,Friendly,Cyprus,-3,+3,1341,1745
+2020-10-07,Austria,Greece,2,1,Friendly,Austria,+5,-5,1742,1629
+2020-10-07,Andorra,Cape Verde,1,2,Friendly,Andorra,-5,+5,1094,1412
+2020-10-08,Uzbekistan,Iran,1,2,Friendly,Uzbekistan,-8,+8,1561,1747
+2020-10-08,South Africa,Namibia,1,1,Friendly,South Africa,-7,+7,1526,1338
+2020-10-08,Russia,Sweden,1,2,Friendly,Russia,-13,+13,1818,1837
+2020-10-08,Guinea-Bissau,Mozambique,1,0,Friendly,Portugal,+11,-11,1305,1330
+2020-10-08,England,Wales,3,0,Friendly,England,+6,-6,1973,1800
+2020-10-08,Belgium,Ivory Coast,1,1,Friendly,Belgium,-9,+9,2100,1626
+2020-10-08,Slovakia,Ireland,0,0,European Championship qualifier,Slovakia,-5,+5,1688,1700
+2020-10-08,Scotland,Israel,0,0,European Championship qualifier,Scotland,-11,+11,1651,1563
+2020-10-08,Norway,Serbia,1,2,European Championship qualifier,Norway,-25,+25,1719,1788
+2020-10-08,North Macedonia,Kosovo,2,1,European Championship qualifier,North Macedonia,+12,-12,1574,1513
+2020-10-08,Iceland,Romania,2,1,European Championship qualifier,Iceland,+17,-17,1687,1706
+2020-10-08,Georgia,Belarus,1,0,European Championship qualifier,Georgia,+11,-11,1575,1493
+2020-10-08,Bulgaria,Hungary,1,3,European Championship qualifier,Bulgaria,-32,+32,1527,1668
+2020-10-08,Bosnia and Herzegovina,Northern Ireland,1,1,European Championship qualifier,Bosnia and Herzegovina,-8,+8,1670,1647
+2020-10-08,Uruguay,Chile,2,1,World Cup qualifier,Uruguay,+7,-7,1974,1800
+2020-10-08,Paraguay,Peru,2,2,World Cup qualifier,Paraguay,+2,-2,1740,1864
+2020-10-08,Argentina,Ecuador,1,0,World Cup qualifier,Argentina,+5,-5,1972,1721
+2020-10-09,Tunisia,Sudan,3,0,Friendly,Tunisia,+3,-3,1625,1303
+2020-10-09,Morocco,Senegal,3,1,Friendly,Morocco,+15,-15,1676,1751
+2020-10-09,Mauritania,Sierra Leone,2,1,Friendly,Mauritania,+6,-6,1389,1328
+2020-10-09,Mali,Ghana,3,0,Friendly,Turkey,+22,-22,1560,1612
+2020-10-09,Kenya,Zambia,2,1,Friendly,Kenya,+9,-9,1389,1425
+2020-10-09,Gambia,Congo,1,0,Friendly,Portugal,+12,-12,1347,1381
+2020-10-09,Cameroon,Japan,0,0,Friendly,the Netherlands,+4,-4,1584,1740
+2020-10-09,Burkina Faso,Democratic Republic of Congo,3,0,Friendly,Morocco,+16,-16,1545,1490
+2020-10-09,Algeria,Nigeria,1,0,Friendly,Austria,+9,-9,1754,1702
+2020-10-09,Colombia,Venezuela,3,0,World Cup qualifier,Colombia,+13,-13,1998,1817
+2020-10-09,Brazil,Bolivia,5,0,World Cup qualifier,Brazil,+3,-3,2085,1592
+2020-10-10,Niger,Chad,2,0,Friendly,Niger,+8,-8,1263,1178
+2020-10-10,Honduras,Nicaragua,1,1,Friendly,Honduras,-9,+9,1621,1209
+2020-10-10,Guinea,Cape Verde,2,1,Friendly,Portugal,+9,-9,1443,1403
+2020-10-10,Costa Rica,Panama,0,1,Friendly,Costa Rica,-16,+16,1637,1534
+2020-10-10,Liechtenstein,Gibraltar,0,1,European Nations League D,Liechtenstein,-30,+30,1137,1113
+2020-10-10,Faroe Islands,Latvia,1,1,European Nations League D,the Faroe Islands,-6,+6,1250,1257
+2020-10-10,Andorra,Malta,0,0,European Nations League D,Andorra,-2,+2,1092,1166
+2020-10-10,Montenegro,Azerbaijan,2,0,European Nations League C,Montenegro,+10,-10,1568,1366
+2020-10-10,Luxembourg,Cyprus,2,0,European Nations League C,Luxembourg,+22,-22,1357,1319
+2020-10-10,Ukraine,Germany,1,2,European Nations League A,Ukraine,-20,+20,1831,1977
+2020-10-10,Spain,Switzerland,1,0,European Nations League A,Spain,+7,-7,2054,1860
+2020-10-11,Tanzania,Burundi,0,1,Friendly,Tanzania,-15,+15,1286,1205
+2020-10-11,South Africa,Zambia,1,2,Friendly,South Africa,-15,+15,1511,1440
+2020-10-11,Malawi,Zimbabwe,0,0,Friendly,Malawi,-1,+1,1338,1413
+2020-10-11,Comoros,Libya,2,1,Friendly,Tunisia,+17,-17,1206,1450
+2020-10-11,Benin,Gabon,2,0,Friendly,Portugal,+15,-15,1478,1445
+2020-10-11,Lithuania,Belarus,2,2,European Nations League C,Lithuania,+3,-3,1346,1490
+2020-10-11,Kosovo,Slovenia,0,1,European Nations League C,Kosovo,-22,+22,1491,1606
+2020-10-11,Kazakhstan,Albania,0,0,European Nations League C,Kazakhstan,+3,-3,1378,1530
+2020-10-11,Greece,Moldova,2,0,European Nations League C,Greece,+4,-4,1633,1247
+2020-10-11,Estonia,North Macedonia,3,3,European Nations League C,Estonia,+6,-6,1379,1568
+2020-10-11,Armenia,Georgia,2,2,European Nations League C,Poland,+6,-6,1467,1569
+2020-10-11,Serbia,Hungary,0,1,European Nations League B,Serbia,-31,+31,1757,1699
+2020-10-11,Scotland,Slovakia,1,0,European Nations League B,Scotland,+16,-16,1667,1672
+2020-10-11,Russia,Turkey,1,1,European Nations League B,Russia,-9,+9,1809,1769
+2020-10-11,Northern Ireland,Austria,0,1,European Nations League B,Northern Ireland,-20,+20,1627,1762
+2020-10-11,Norway,Romania,4,0,European Nations League B,Norway,+26,-26,1745,1680
+2020-10-11,Israel,Czechia,1,2,European Nations League B,Israel,-15,+15,1548,1760
+2020-10-11,Ireland,Wales,0,0,European Nations League B,Ireland,0,0,1700,1800
+2020-10-11,Finland,Bulgaria,2,0,European Nations League B,Finland,+13,-13,1665,1514
+2020-10-11,Poland,Italy,0,0,European Nations League A,Poland,+4,-4,1817,1978
+2020-10-11,Iceland,Denmark,0,3,European Nations League A,Iceland,-27,+27,1660,1897
+2020-10-11,France,Portugal,0,0,European Nations League A,France,-8,+8,2071,2036
+2020-10-11,England,Belgium,2,1,European Nations League A,England,+22,-22,1995,2078
+2020-10-11,Croatia,Sweden,2,1,European Nations League A,Croatia,+11,-11,1914,1826
+2020-10-11,Bosnia and Herzegovina,Netherlands,0,0,European Nations League A,Bosnia and Herzegovina,+11,-11,1681,1968
+2020-10-12,United Arab Emirates,Uzbekistan,1,2,Friendly,the United Arab Emirates,-10,+10,1439,1571
+2020-10-12,Sudan,Togo,1,1,Friendly,Tunisia,0,0,1303,1316
+2020-10-12,Ghana,Qatar,5,1,Friendly,Turkey,+22,-22,1634,1648
+2020-10-12,Burkina Faso,Madagascar,2,1,Friendly,Morocco,+7,-7,1552,1425
+2020-10-13,Nigeria,Tunisia,1,1,Friendly,Austria,-2,+2,1700,1627
+2020-10-13,Niger,Sierra Leone,1,0,Friendly,Niger,+9,-9,1272,1319
+2020-10-13,Morocco,Democratic Republic of Congo,1,1,Friendly,Morocco,-7,+7,1669,1497
+2020-10-13,Japan,Ivory Coast,1,0,Friendly,the Netherlands,+7,-7,1747,1619
+2020-10-13,Costa Rica,Panama,0,1,Friendly,Costa Rica,-15,+15,1622,1549
+2020-10-13,Angola,Mozambique,3,0,Friendly,Portugal,+17,-17,1360,1313
+2020-10-13,Algeria,Mexico,2,2,Friendly,the Netherlands,+4,-4,1758,1917
+2020-10-13,Latvia,Malta,0,1,European Nations League D,Latvia,-30,+30,1227,1196
+2020-10-13,Liechtenstein,San Marino,0,0,European Nations League D,Liechtenstein,-17,+17,1120,826
+2020-10-13,Faroe Islands,Andorra,2,0,European Nations League D,the Faroe Islands,+11,-11,1261,1081
+2020-10-13,Montenegro,Luxembourg,1,2,European Nations League C,Montenegro,-34,+34,1534,1391
+2020-10-13,Azerbaijan,Cyprus,0,0,European Nations League C,Albania,-3,+3,1363,1322
+2020-10-13,Ukraine,Spain,1,0,European Nations League A,Ukraine,+27,-27,1858,2027
+2020-10-13,Germany,Switzerland,3,3,European Nations League A,Germany,-11,+11,1966,1871
+2020-10-13,Venezuela,Paraguay,0,1,World Cup qualifier,Venezuela,-29,+29,1788,1769
+2020-10-13,Peru,Brazil,2,4,World Cup qualifier,Peru,-20,+20,1844,2105
+2020-10-13,Ecuador,Uruguay,4,2,World Cup qualifier,Ecuador,+42,-42,1763,1932
+2020-10-13,Chile,Colombia,2,2,World Cup qualifier,Chile,+5,-5,1805,1993
+2020-10-13,Bolivia,Argentina,1,2,World Cup qualifier,Bolivia,-7,+7,1585,1979
+2020-10-14,North Macedonia,Georgia,1,1,European Nations League C,North Macedonia,-6,+6,1562,1575
+2020-10-14,Moldova,Slovenia,0,4,European Nations League C,Moldova,-14,+14,1233,1620
+2020-10-14,Lithuania,Albania,0,0,European Nations League C,Lithuania,+5,-5,1351,1525
+2020-10-14,Greece,Kosovo,0,0,European Nations League C,Greece,-12,+12,1621,1503
+2020-10-14,Estonia,Armenia,1,1,European Nations League C,Estonia,-1,+1,1378,1468
+2020-10-14,Belarus,Kazakhstan,2,0,European Nations League C,Belarus,+14,-14,1504,1364
+2020-10-14,Turkey,Serbia,2,2,European Nations League B,Turkey,-6,+6,1763,1763
+2020-10-14,Slovakia,Israel,2,3,European Nations League B,Slovakia,-31,+31,1641,1579
+2020-10-14,Scotland,Czechia,1,0,European Nations League B,Scotland,+20,-20,1687,1740
+2020-10-14,Russia,Hungary,0,0,European Nations League B,Russia,-11,+11,1798,1710
+2020-10-14,Romania,Austria,0,1,European Nations League B,Romania,-21,+21,1659,1783
+2020-10-14,Norway,Northern Ireland,1,0,European Nations League B,Norway,+9,-9,1754,1618
+2020-10-14,Finland,Ireland,1,0,European Nations League B,Finland,+16,-16,1681,1684
+2020-10-14,Bulgaria,Wales,0,1,European Nations League B,Bulgaria,-10,+10,1504,1810
+2020-10-14,Portugal,Sweden,3,0,European Nations League A,Portugal,+10,-10,2046,1816
+2020-10-14,Poland,Bosnia and Herzegovina,3,0,European Nations League A,Poland,+14,-14,1831,1667
+2020-10-14,Italy,Netherlands,1,1,European Nations League A,Italy,-6,+6,1972,1974
+2020-10-14,Iceland,Belgium,1,2,European Nations League A,Iceland,-6,+6,1654,2084
+2020-10-14,England,Denmark,0,1,European Nations League A,England,-30,+30,1965,1927
+2020-10-14,Croatia,France,1,2,European Nations League A,Croatia,-17,+17,1897,2088
+2020-10-22,Ethiopia,Zambia,2,3,Friendly,Ethiopia,-8,+8,1277,1448
+2020-10-25,Ethiopia,Zambia,1,3,Friendly,Ethiopia,-12,+12,1265,1460
+2020-11-06,Ethiopia,Sudan,2,2,Friendly,Ethiopia,-2,+2,1263,1305
+2020-11-07,Bahrain,Tajikistan,1,0,Friendly,the United Arab Emirates,+3,-3,1537,1228
+2020-11-11,Turkey,Croatia,3,3,Friendly,Turkey,+1,-1,1764,1896
+2020-11-11,Slovenia,Azerbaijan,0,0,Friendly,Slovenia,-8,+8,1612,1371
+2020-11-11,San Marino,Latvia,0,3,Friendly,San Marino,-5,+5,821,1232
+2020-11-11,Romania,Belarus,5,3,Friendly,Romania,+6,-6,1665,1498
+2020-11-11,Portugal,Andorra,7,0,Friendly,Portugal,0,0,2046,1081
+2020-11-11,Poland,Ukraine,2,0,Friendly,Poland,+12,-12,1843,1846
+2020-11-11,Netherlands,Spain,1,1,Friendly,the Netherlands,-1,+1,1973,2028
+2020-11-11,Montenegro,Kazakhstan,0,0,Friendly,Montenegro,-7,+7,1527,1371
+2020-11-11,Malta,Liechtenstein,3,0,Friendly,Malta,+9,-9,1205,1111
+2020-11-11,Luxembourg,Austria,0,3,Friendly,Luxembourg,-5,+5,1386,1788
+2020-11-11,Lithuania,Faroe Islands,2,1,Friendly,Lithuania,+5,-5,1356,1256
+2020-11-11,Italy,Estonia,4,0,Friendly,Italy,+1,-1,1973,1377
+2020-11-11,Greece,Cyprus,2,1,Friendly,Greece,+2,-2,1623,1320
+2020-11-11,Germany,Czechia,1,0,Friendly,Germany,+3,-3,1969,1737
+2020-11-11,France,Finland,0,2,Friendly,France,-28,+28,2060,1709
+2020-11-11,Denmark,Sweden,2,0,Friendly,Denmark,+7,-7,1934,1809
+2020-11-11,Bulgaria,Gibraltar,3,0,Friendly,Bulgaria,+2,-2,1506,1111
+2020-11-11,Belgium,Switzerland,2,1,Friendly,Belgium,+3,-3,2087,1868
+2020-11-11,Albania,Kosovo,2,1,Friendly,Albania,+7,-7,1532,1496
+2020-11-11,Senegal,Guinea-Bissau,2,0,African Nations Cup qualifier,Senegal,+2,-2,1753,1303
+2020-11-11,Kenya,Comoros,1,1,African Nations Cup qualifier,Kenya,-13,+13,1376,1219
+2020-11-11,Mauritania,Burundi,1,1,African Nations Cup qualifier,Mauritania,-13,+13,1376,1218
+2020-11-11,Guinea,Chad,1,0,African Nations Cup qualifier,Guinea,+4,-4,1447,1174
+2020-11-11,Equatorial Guinea,Libya,3,2,African Nations Cup qualifier,Tunisia,+28,-28,1328,1422
+2020-11-12,Wales,United States,0,0,Friendly,Wales,-5,+5,1805,1732
+2020-11-12,United Arab Emirates,Tajikistan,3,2,Friendly,the United Arab Emirates,+3,-3,1442,1225
+2020-11-12,Syria,Uzbekistan,1,0,Friendly,the United Arab Emirates,+12,-12,1495,1559
+2020-11-12,Moldova,Russia,0,0,Friendly,Moldova,+9,-9,1242,1789
+2020-11-12,Iraq,Jordan,0,0,Friendly,the United Arab Emirates,-4,+4,1618,1479
+2020-11-12,England,Ireland,3,0,Friendly,England,+4,-4,1969,1680
+2020-11-12,Bosnia and Herzegovina,Iran,0,2,Friendly,Bosnia and Herzegovina,-16,+16,1651,1763
+2020-11-12,Bahrain,Lebanon,3,1,Friendly,the United Arab Emirates,+10,-10,1547,1394
+2020-11-12,Zambia,Botswana,2,1,African Nations Cup qualifier,Zambia,+7,-7,1467,1290
+2020-11-12,Uganda,South Sudan,1,0,African Nations Cup qualifier,Uganda,+1,-1,1522,1056
+2020-11-12,Ivory Coast,Madagascar,2,1,African Nations Cup qualifier,Ivory Coast,+6,-6,1625,1419
+2020-11-12,Ghana,Sudan,2,0,African Nations Cup qualifier,Ghana,+5,-5,1639,1300
+2020-11-12,Gabon,Gambia,2,1,African Nations Cup qualifier,Gabon,+10,-10,1455,1337
+2020-11-12,Congo,Eswatini,2,0,African Nations Cup qualifier,Congo,+7,-7,1388,1116
+2020-11-12,Cape Verde,Rwanda,0,0,African Nations Cup qualifier,Cape Verde,-12,+12,1391,1268
+2020-11-12,Cameroon,Mozambique,4,1,African Nations Cup qualifier,Cameroon,+7,-7,1591,1306
+2020-11-12,Burkina Faso,Malawi,3,1,African Nations Cup qualifier,Burkina Faso,+8,-8,1560,1330
+2020-11-12,Algeria,Zimbabwe,3,1,African Nations Cup qualifier,Algeria,+4,-4,1762,1409
+2020-11-12,Serbia,Scotland,1,1,European Championship qualifier,Serbia,-9,+9,1754,1696
+2020-11-12,Northern Ireland,Slovakia,1,2,European Championship qualifier,Northern Ireland,-24,+24,1594,1665
+2020-11-12,Hungary,Iceland,2,1,European Championship qualifier,Hungary,+12,-12,1722,1642
+2020-11-12,Georgia,North Macedonia,0,1,European Championship qualifier,Georgia,-26,+26,1549,1588
+2020-11-12,Bolivia,Ecuador,2,3,World Cup qualifier,Bolivia,-16,+16,1569,1779
+2020-11-12,Argentina,Paraguay,1,1,World Cup qualifier,Argentina,-14,+14,1965,1783
+2020-11-13,Japan,Panama,1,0,Friendly,Austria,+5,-5,1752,1544
+2020-11-13,Costa Rica,Qatar,1,1,Friendly,Austria,+1,-1,1623,1647
+2020-11-13,Bangladesh,Nepal,2,0,Friendly,Bangladesh,+15,-15,843,903
+2020-11-13,Tunisia,Tanzania,1,0,African Nations Cup qualifier,Tunisia,+3,-3,1630,1283
+2020-11-13,South Africa,São Tomé and Príncipe,2,0,African Nations Cup qualifier,South Africa,+3,-3,1514,1089
+2020-11-13,Nigeria,Sierra Leone,4,4,African Nations Cup qualifier,Nigeria,-18,+18,1682,1337
+2020-11-13,Niger,Ethiopia,1,0,African Nations Cup qualifier,Niger,+14,-14,1286,1249
+2020-11-13,Morocco,Central African Republic,4,1,African Nations Cup qualifier,Morocco,+6,-6,1675,1342
+2020-11-13,Mali,Namibia,1,0,African Nations Cup qualifier,Mali,+5,-5,1565,1333
+2020-11-13,Colombia,Uruguay,0,3,World Cup qualifier,Colombia,-50,+50,1943,1982
+2020-11-13,Chile,Peru,2,0,World Cup qualifier,Chile,+25,-25,1830,1819
+2020-11-13,Brazil,Venezuela,1,0,World Cup qualifier,Brazil,+3,-3,2108,1785
+2020-11-14,Saudi Arabia,Jamaica,3,0,Friendly,Saudi Arabia,+14,-14,1568,1571
+2020-11-14,Mexico,South Korea,3,2,Friendly,Austria,+6,-6,1923,1765
+2020-11-14,Egypt,Togo,1,0,African Nations Cup qualifier,Egypt,+4,-4,1589,1312
+2020-11-14,Democratic Republic of Congo,Angola,0,0,African Nations Cup qualifier,the Democratic Republic of the Congo,-12,+12,1485,1372
+2020-11-14,Benin,Lesotho,1,0,African Nations Cup qualifier,Benin,+7,-7,1485,1293
+2020-11-14,San Marino,Gibraltar,0,0,European Nations League D,San Marino,+10,-10,831,1101
+2020-11-14,Malta,Andorra,3,1,European Nations League D,Malta,+13,-13,1218,1068
+2020-11-14,Latvia,Faroe Islands,1,1,European Nations League D,Latvia,-4,+4,1228,1260
+2020-11-14,Cyprus,Luxembourg,2,1,European Nations League C,Cyprus,+18,-18,1338,1368
+2020-11-14,Azerbaijan,Montenegro,0,0,European Nations League C,Croatia,+8,-8,1379,1519
+2020-11-14,Switzerland,Spain,1,1,European Nations League A,Switzerland,+3,-3,1871,2025
+2020-11-14,Sweden,Croatia,2,1,European Nations League A,Sweden,+19,-19,1828,1877
+2020-11-14,Portugal,France,0,1,European Nations League A,Portugal,-25,+25,2021,2085
+2020-11-14,Germany,Ukraine,3,1,European Nations League A,Germany,+13,-13,1982,1833
+2020-11-15,Guatemala,Honduras,2,1,Friendly,Guatemala,+11,-11,1487,1610
+2020-11-15,Guinea-Bissau,Senegal,0,1,African Nations Cup qualifier,Guinea-Bissau,-5,+5,1298,1758
+2020-11-15,Equatorial Guinea,Libya,1,0,African Nations Cup qualifier,Equatorial Guinea,+20,-20,1348,1402
+2020-11-15,Comoros,Kenya,2,1,African Nations Cup qualifier,the Comoros,+23,-23,1242,1353
+2020-11-15,Chad,Guinea,1,1,African Nations Cup qualifier,Chad,+9,-9,1183,1438
+2020-11-15,Burundi,Mauritania,3,1,African Nations Cup qualifier,Burundi,+35,-35,1253,1341
+2020-11-15,Slovenia,Kosovo,2,1,European Nations League C,Slovenia,+9,-9,1621,1487
+2020-11-15,North Macedonia,Estonia,2,1,European Nations League C,North Macedonia,+6,-6,1594,1371
+2020-11-15,Moldova,Greece,0,2,European Nations League C,Moldova,-10,+10,1232,1633
+2020-11-15,Georgia,Armenia,1,2,European Nations League C,Georgia,-30,+30,1519,1498
+2020-11-15,Belarus,Lithuania,2,0,European Nations League C,Belarus,+12,-12,1510,1344
+2020-11-15,Albania,Kazakhstan,3,1,European Nations League C,Albania,+11,-11,1543,1360
+2020-11-15,Wales,Ireland,1,0,European Nations League B,Wales,+9,-9,1814,1671
+2020-11-15,Turkey,Russia,3,2,European Nations League B,Turkey,+16,-16,1780,1773
+2020-11-15,Slovakia,Scotland,1,0,European Nations League B,Slovakia,+16,-16,1681,1680
+2020-11-15,Hungary,Serbia,1,1,European Nations League B,Hungary,-4,+4,1718,1758
+2020-11-15,Czechia,Israel,1,0,European Nations League B,Czechia,+7,-7,1744,1572
+2020-11-15,Bulgaria,Finland,1,2,European Nations League B,Bulgaria,-14,+14,1492,1723
+2020-11-15,Austria,Northern Ireland,2,1,European Nations League B,Austria,+6,-6,1794,1588
+2020-11-15,Netherlands,Bosnia and Herzegovina,3,1,European Nations League A,the Netherlands,+5,-5,1978,1646
+2020-11-15,Italy,Poland,2,0,European Nations League A,Italy,+13,-13,1986,1830
+2020-11-15,Denmark,Iceland,2,1,European Nations League A,Denmark,+4,-4,1938,1638
+2020-11-15,Belgium,England,2,0,European Nations League A,Belgium,+13,-13,2100,1956
+2020-11-16,United States,Panama,6,2,Friendly,Austria,+9,-9,1741,1535
+2020-11-16,United Arab Emirates,Bahrain,1,3,Friendly,the United Arab Emirates,-15,+15,1427,1562
+2020-11-16,Jordan,Syria,1,0,Friendly,the United Arab Emirates,+10,-10,1489,1485
+2020-11-16,Zimbabwe,Algeria,2,2,African Nations Cup qualifier,Zimbabwe,+12,-12,1421,1750
+2020-11-16,South Sudan,Uganda,1,0,African Nations Cup qualifier,Kenya,+37,-37,1093,1485
+2020-11-16,South Africa,São Tomé and Príncipe,4,2,African Nations Cup qualifier,South Africa,+3,-3,1517,1086
+2020-11-16,Mozambique,Cameroon,0,2,African Nations Cup qualifier,Mozambique,-15,+15,1291,1606
+2020-11-16,Malawi,Burkina Faso,0,0,African Nations Cup qualifier,Malawi,+7,-7,1337,1553
+2020-11-16,Gambia,Gabon,2,1,African Nations Cup qualifier,The Gambia,+21,-21,1358,1434
+2020-11-16,Eswatini,Congo,0,0,African Nations Cup qualifier,Eswatini,+9,-9,1125,1379
+2020-11-16,Botswana,Zambia,1,0,African Nations Cup qualifier,Botswana,+24,-24,1314,1443
+2020-11-17,South Korea,Qatar,2,1,Friendly,Austria,+7,-7,1772,1640
+2020-11-17,Saudi Arabia,Jamaica,1,2,Friendly,Saudi Arabia,-13,+13,1555,1584
+2020-11-17,Mexico,Japan,2,0,Friendly,Austria,+8,-8,1931,1744
+2020-11-17,Iraq,Uzbekistan,2,1,Friendly,the United Arab Emirates,+8,-8,1626,1551
+2020-11-17,Bangladesh,Nepal,0,0,Friendly,Bangladesh,-1,+1,842,904
+2020-11-17,Togo,Egypt,1,3,African Nations Cup qualifier,Togo,-16,+16,1296,1605
+2020-11-17,Tanzania,Tunisia,1,1,African Nations Cup qualifier,Tanzania,+12,-12,1295,1618
+2020-11-17,Sudan,Ghana,1,0,African Nations Cup qualifier,Sudan,+32,-32,1332,1607
+2020-11-17,Sierra Leone,Nigeria,0,0,African Nations Cup qualifier,Sierra Leone,+12,-12,1349,1670
+2020-11-17,Rwanda,Cape Verde,0,0,African Nations Cup qualifier,Rwanda,+1,-1,1269,1390
+2020-11-17,Namibia,Mali,1,2,African Nations Cup qualifier,Namibia,-13,+13,1320,1578
+2020-11-17,Madagascar,Ivory Coast,1,1,African Nations Cup qualifier,Madagascar,+6,-6,1425,1619
+2020-11-17,Lesotho,Benin,0,0,African Nations Cup qualifier,Lesotho,+5,-5,1298,1480
+2020-11-17,Ethiopia,Niger,3,0,African Nations Cup qualifier,Ethiopia,+29,-29,1278,1257
+2020-11-17,Central African Republic,Morocco,0,2,African Nations Cup qualifier,Cameroon,-8,+8,1334,1683
+2020-11-17,Angola,Democratic Republic of Congo,0,1,African Nations Cup qualifier,Angola,-19,+19,1353,1504
+2020-11-17,Malta,Faroe Islands,1,1,European Nations League D,Malta,-3,+3,1215,1263
+2020-11-17,Gibraltar,Liechtenstein,1,1,European Nations League D,Gibraltar,-5,+5,1096,1116
+2020-11-17,Andorra,Latvia,0,5,European Nations League D,Andorra,-33,+33,1035,1261
+2020-11-17,Montenegro,Cyprus,4,0,European Nations League C,Montenegro,+12,-12,1531,1326
+2020-11-17,Luxembourg,Azerbaijan,0,0,European Nations League C,Luxembourg,-5,+5,1363,1384
+2020-11-17,Spain,Germany,6,0,European Nations League A,Spain,+26,-26,2051,1956
+2020-11-17,France,Sweden,4,2,European Nations League A,France,+7,-7,2092,1821
+2020-11-17,Croatia,Portugal,2,3,European Nations League A,Croatia,-17,+17,1860,2038
+2020-11-17,Venezuela,Chile,2,1,World Cup qualifier,Venezuela,+17,-17,1802,1813
+2020-11-17,Uruguay,Brazil,0,2,World Cup qualifier,Uruguay,-28,+28,1954,2136
+2020-11-17,Peru,Argentina,0,2,World Cup qualifier,Peru,-26,+26,1793,1991
+2020-11-17,Paraguay,Bolivia,2,2,World Cup qualifier,Paraguay,-14,+14,1769,1583
+2020-11-17,Ecuador,Colombia,6,1,World Cup qualifier,Ecuador,+47,-47,1826,1896
+2020-11-18,Kosovo,Moldova,1,0,European Nations League C,Kosovo,+5,-5,1492,1227
+2020-11-18,Kazakhstan,Lithuania,1,2,European Nations League C,Kazakhstan,-26,+26,1334,1370
+2020-11-18,Greece,Slovenia,0,0,European Nations League C,Greece,-6,+6,1627,1627
+2020-11-18,Georgia,Estonia,0,0,European Nations League C,Georgia,-12,+12,1507,1383
+2020-11-18,Armenia,North Macedonia,1,0,European Nations League C,Cyprus,+25,-25,1523,1569
+2020-11-18,Albania,Belarus,3,2,European Nations League C,Albania,+13,-13,1556,1497
+2020-11-18,Wales,Finland,3,1,European Nations League B,Wales,+15,-15,1829,1708
+2020-11-18,Serbia,Russia,5,0,European Nations League B,Serbia,+30,-30,1788,1743
+2020-11-18,Northern Ireland,Romania,1,1,European Nations League B,Northern Ireland,-1,+1,1587,1666
+2020-11-18,Israel,Scotland,1,0,European Nations League B,Israel,+20,-20,1592,1660
+2020-11-18,Ireland,Bulgaria,0,0,European Nations League B,Ireland,-13,+13,1658,1505
+2020-11-18,Hungary,Turkey,2,0,European Nations League B,Hungary,+27,-27,1745,1753
+2020-11-18,Czechia,Slovakia,2,0,European Nations League B,Czechia,+17,-17,1761,1664
+2020-11-18,Austria,Norway,1,1,European Nations League B,Austria,-8,+8,1786,1762
+2020-11-18,Poland,Netherlands,1,2,European Nations League A,Poland,-17,+17,1813,1995
+2020-11-18,England,Iceland,4,0,European Nations League A,England,+6,-6,1962,1632
+2020-11-18,Bosnia and Herzegovina,Italy,0,2,European Nations League A,Bosnia and Herzegovina,-12,+12,1634,1998
+2020-11-18,Belgium,Denmark,4,2,European Nations League A,Belgium,+11,-11,2111,1927
+2020-12-04,Qatar,Bangladesh,5,0,World Cup and Asian Cup qualifier,Qatar,0,0,1640,842
+2020-12-09,United States,El Salvador,6,0,Friendly,the United States,+5,-5,1746,1480

@@ -1,0 +1,1291 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2024-01-01,Japan,Thailand,5,0,Friendly,Japan,+1,-1,1905,1381
+2024-01-01,Hong Kong,China,2,1,Friendly,the United Arab Emirates,+18,-18,1084,1431
+2024-01-02,Libya,Indonesia,4,0,Friendly,Turkey,+15,-15,1375,1266
+2024-01-04,Tajikistan,Hong Kong,2,1,Friendly,the United Arab Emirates,+3,-3,1377,1081
+2024-01-04,Saudi Arabia,Lebanon,1,0,Friendly,Qatar,+3,-3,1588,1309
+2024-01-05,Togo,Algeria,0,3,Friendly,Togo,-7,+7,1384,1733
+2024-01-05,Qatar,Jordan,1,2,Friendly,Qatar,-14,+14,1521,1517
+2024-01-05,Libya,Indonesia,2,1,Friendly,Turkey,+7,-7,1382,1259
+2024-01-05,Kyrgyzstan,Syria,1,1,Friendly,the United Arab Emirates,+5,-5,1254,1420
+2024-01-05,Iran,Burkina Faso,2,1,Friendly,Iran,+2,-2,1828,1563
+2024-01-06,United Arab Emirates,Oman,0,1,Friendly,the United Arab Emirates,-12,+12,1517,1566
+2024-01-06,Tunisia,Mauritania,0,0,Friendly,Tunisia,-9,+9,1731,1401
+2024-01-06,South Korea,Iraq,1,0,Friendly,the United Arab Emirates,+5,-5,1803,1615
+2024-01-06,Mozambique,Lesotho,2,0,Friendly,South Africa,+10,-10,1367,1234
+2024-01-06,Mali,Guinea-Bissau,6,2,Friendly,Mali,+6,-6,1622,1410
+2024-01-06,Ivory Coast,Sierra Leone,5,1,Friendly,Ivory Coast,+3,-3,1647,1312
+2024-01-06,Australia,Bahrain,2,0,Friendly,the United Arab Emirates,+4,-4,1787,1444
+2024-01-06,Angola,Democratic Republic of Congo,0,0,Friendly,the United Arab Emirates,+3,-3,1389,1497
+2024-01-07,Uzbekistan,Palestine,1,0,Friendly,Qatar,+4,-4,1646,1403
+2024-01-07,Egypt,Tanzania,2,0,Friendly,Egypt,+2,-2,1688,1349
+2024-01-08,Senegal,Niger,1,0,Friendly,Senegal,+1,-1,1732,1239
+2024-01-08,Malaysia,Syria,2,2,Friendly,Qatar,+3,-3,1303,1417
+2024-01-08,Guinea,Nigeria,2,0,Friendly,the United Arab Emirates,+22,-22,1449,1568
+2024-01-08,Ghana,Namibia,0,0,Friendly,Ghana,-7,+7,1544,1388
+2024-01-08,Botswana,Mozambique,1,1,Friendly,South Africa,+1,-1,1348,1366
+2024-01-09,Palestine,Saudi Arabia,0,0,Friendly,Qatar,+5,-5,1408,1583
+2024-01-09,Kyrgyzstan,Vietnam,2,1,Friendly,Qatar,+14,-14,1268,1378
+2024-01-09,Japan,Jordan,6,1,Friendly,Qatar,+4,-4,1909,1513
+2024-01-09,Iran,Indonesia,5,0,Friendly,Qatar,+1,-1,1829,1258
+2024-01-09,Equatorial Guinea,Djibouti,1,1,Friendly,Equatorial Guinea,-10,+10,1506,924
+2024-01-09,Cameroon,Zambia,1,1,Friendly,Saudi Arabia,-4,+4,1616,1493
+2024-01-09,Algeria,Burundi,4,0,Friendly,Togo,+3,-3,1736,1287
+2024-01-10,Tunisia,Cape Verde,2,0,Friendly,Tunisia,+4,-4,1735,1477
+2024-01-10,South Africa,Lesotho,0,0,Friendly,South Africa,-8,+8,1481,1242
+2024-01-10,Saudi Arabia,Hong Kong,2,0,Friendly,Qatar,+2,-2,1585,1079
+2024-01-10,Burkina Faso,Democratic Republic of Congo,2,1,Friendly,the United Arab Emirates,+8,-8,1571,1489
+2024-01-10,Angola,Bahrain,3,0,Friendly,the United Arab Emirates,+20,-20,1409,1424
+2024-01-11,Morocco,Sierra Leone,3,1,Friendly,Ivory Coast,+1,-1,1848,1311
+2024-01-12,Sweden,Estonia,2,1,Friendly,Cyprus,+3,-3,1695,1363
+2024-01-12,Libya,Kuwait,3,1,Friendly,Egypt,+15,-15,1397,1362
+2024-01-12,Qatar,Lebanon,3,0,Asian Cup,Qatar,+12,-12,1533,1297
+2024-01-13,Syria,Uzbekistan,0,0,Asian Cup,Qatar,+14,-14,1431,1632
+2024-01-13,China,Tajikistan,0,0,Asian Cup,Qatar,-4,+4,1427,1381
+2024-01-13,Australia,India,2,0,Asian Cup,Qatar,+3,-3,1790,1257
+2024-01-13,Ivory Coast,Guinea-Bissau,2,0,African Nations Cup,Ivory Coast,+9,-9,1656,1401
+2024-01-13,Iceland,Guatemala,1,0,Friendly,the United States,+10,-10,1488,1485
+2024-01-14,United Arab Emirates,Hong Kong,3,1,Asian Cup,Qatar,+6,-6,1523,1073
+2024-01-14,Japan,Vietnam,4,2,Asian Cup,Qatar,+3,-3,1912,1375
+2024-01-14,Iran,Palestine,4,1,Asian Cup,Qatar,+7,-7,1836,1401
+2024-01-14,Equatorial Guinea,Nigeria,1,1,African Nations Cup,Ivory Coast,+4,-4,1510,1564
+2024-01-14,Egypt,Mozambique,2,2,African Nations Cup,Ivory Coast,-18,+18,1670,1384
+2024-01-14,Cape Verde,Ghana,2,1,African Nations Cup,Ivory Coast,+30,-30,1507,1514
+2024-01-15,South Korea,Bahrain,3,1,Asian Cup,Qatar,+8,-8,1811,1416
+2024-01-15,Jordan,Malaysia,4,0,Asian Cup,Qatar,+22,-22,1535,1281
+2024-01-15,Iraq,Indonesia,3,1,Asian Cup,Qatar,+9,-9,1624,1249
+2024-01-15,Senegal,Gambia,3,0,African Nations Cup,Ivory Coast,+11,-11,1743,1388
+2024-01-15,Cameroon,Guinea,1,1,African Nations Cup,Ivory Coast,-11,+11,1605,1460
+2024-01-15,Algeria,Angola,1,1,African Nations Cup,Ivory Coast,-18,+18,1718,1427
+2024-01-16,Thailand,Kyrgyzstan,2,0,Asian Cup,Qatar,+26,-26,1407,1242
+2024-01-16,Saudi Arabia,Oman,2,1,Asian Cup,Qatar,+24,-24,1609,1542
+2024-01-16,Namibia,Tunisia,1,0,African Nations Cup,Ivory Coast,+44,-44,1432,1691
+2024-01-16,Mali,South Africa,2,0,African Nations Cup,Ivory Coast,+23,-23,1645,1458
+2024-01-16,Burkina Faso,Mauritania,1,0,African Nations Cup,Ivory Coast,+14,-14,1585,1387
+2024-01-17,Qatar,Tajikistan,1,0,Asian Cup,Qatar,+9,-9,1542,1372
+2024-01-17,China,Lebanon,0,0,Asian Cup,Qatar,-9,+9,1418,1306
+2024-01-17,Morocco,Tanzania,3,0,African Nations Cup,Ivory Coast,+5,-5,1853,1344
+2024-01-17,Democratic Republic of Congo,Zambia,1,1,African Nations Cup,Ivory Coast,0,0,1489,1493
+2024-01-17,Iceland,Honduras,2,0,Friendly,the United States,+17,-17,1505,1515
+2024-01-18,Uzbekistan,India,3,0,Asian Cup,Qatar,+9,-9,1641,1248
+2024-01-18,Palestine,United Arab Emirates,1,1,Asian Cup,Qatar,+8,-8,1409,1515
+2024-01-18,Australia,Syria,1,0,Asian Cup,Qatar,+6,-6,1796,1425
+2024-01-18,Ivory Coast,Nigeria,0,1,African Nations Cup,Ivory Coast,-38,+38,1618,1602
+2024-01-18,Equatorial Guinea,Guinea-Bissau,4,2,African Nations Cup,Ivory Coast,+26,-26,1536,1375
+2024-01-18,Egypt,Ghana,2,2,African Nations Cup,Ivory Coast,-11,+11,1659,1525
+2024-01-19,Uganda,Kuwait,2,0,Friendly,Egypt,+15,-15,1383,1347
+2024-01-19,Iraq,Japan,2,1,Asian Cup,Qatar,+42,-42,1666,1870
+2024-01-19,Iran,Hong Kong,1,0,Asian Cup,Qatar,+1,-1,1837,1072
+2024-01-19,Indonesia,Vietnam,1,0,Asian Cup,Qatar,+34,-34,1283,1341
+2024-01-19,Senegal,Cameroon,3,1,African Nations Cup,Ivory Coast,+23,-23,1766,1582
+2024-01-19,Guinea,Gambia,1,0,African Nations Cup,Ivory Coast,+20,-20,1480,1368
+2024-01-19,Cape Verde,Mozambique,3,0,African Nations Cup,Ivory Coast,+29,-29,1536,1355
+2024-01-20,Jordan,South Korea,2,2,Asian Cup,Qatar,+17,-17,1552,1794
+2024-01-20,Bahrain,Malaysia,1,0,Asian Cup,Qatar,+16,-16,1432,1265
+2024-01-20,Mali,Tunisia,1,1,African Nations Cup,Ivory Coast,+3,-3,1648,1688
+2024-01-20,Angola,Mauritania,3,2,African Nations Cup,Ivory Coast,+22,-22,1449,1365
+2024-01-20,Algeria,Burkina Faso,2,2,African Nations Cup,Ivory Coast,-9,+9,1709,1594
+2024-01-20,United States,Slovenia,0,1,Friendly,the United States,-14,+14,1762,1724
+2024-01-21,Saudi Arabia,Kyrgyzstan,2,0,Asian Cup,Qatar,+8,-8,1617,1234
+2024-01-21,Oman,Thailand,0,0,Asian Cup,Qatar,-9,+9,1533,1416
+2024-01-21,Tanzania,Zambia,1,1,African Nations Cup,Ivory Coast,+10,-10,1354,1483
+2024-01-21,South Africa,Namibia,4,0,African Nations Cup,Ivory Coast,+43,-43,1501,1389
+2024-01-21,Democratic Republic of Congo,Morocco,1,1,African Nations Cup,Ivory Coast,+20,-20,1509,1833
+2024-01-22,Tajikistan,Lebanon,2,1,Asian Cup,Qatar,+20,-20,1392,1286
+2024-01-22,Qatar,China,1,0,Asian Cup,Qatar,+11,-11,1553,1407
+2024-01-22,Nigeria,Guinea-Bissau,1,0,African Nations Cup,Ivory Coast,+11,-11,1613,1364
+2024-01-22,Ivory Coast,Equatorial Guinea,0,4,African Nations Cup,Ivory Coast,-69,+69,1549,1605
+2024-01-22,Ghana,Mozambique,2,2,African Nations Cup,Ivory Coast,-11,+11,1514,1366
+2024-01-22,Cape Verde,Egypt,2,2,African Nations Cup,Ivory Coast,+8,-8,1544,1651
+2024-01-23,Syria,India,1,0,Asian Cup,Qatar,+13,-13,1438,1235
+2024-01-23,Palestine,Hong Kong,3,0,Asian Cup,Qatar,+11,-11,1420,1061
+2024-01-23,Iran,United Arab Emirates,2,1,Asian Cup,Qatar,+7,-7,1844,1508
+2024-01-23,Australia,Uzbekistan,1,1,Asian Cup,Qatar,-10,+10,1786,1651
+2024-01-23,Senegal,Guinea,2,0,African Nations Cup,Ivory Coast,+12,-12,1778,1468
+2024-01-23,Mauritania,Algeria,1,0,African Nations Cup,Ivory Coast,+44,-44,1409,1665
+2024-01-23,Cameroon,Gambia,3,2,African Nations Cup,Ivory Coast,+11,-11,1593,1357
+2024-01-23,Angola,Burkina Faso,2,0,African Nations Cup,Ivory Coast,+52,-52,1501,1542
+2024-01-24,Japan,Indonesia,3,1,Asian Cup,Qatar,+2,-2,1872,1281
+2024-01-24,Iraq,Vietnam,3,2,Asian Cup,Qatar,+7,-7,1673,1334
+2024-01-24,South Africa,Tunisia,0,0,African Nations Cup,Ivory Coast,+12,-12,1513,1676
+2024-01-24,Morocco,Zambia,1,0,African Nations Cup,Ivory Coast,+6,-6,1839,1477
+2024-01-24,Mali,Namibia,0,0,African Nations Cup,Ivory Coast,-16,+16,1632,1405
+2024-01-24,Democratic Republic of Congo,Tanzania,0,0,African Nations Cup,Ivory Coast,-10,+10,1499,1364
+2024-01-25,Saudi Arabia,Thailand,0,0,Asian Cup,Qatar,-13,+13,1604,1429
+2024-01-25,Malaysia,South Korea,3,3,Asian Cup,Qatar,+23,-23,1288,1771
+2024-01-25,Kyrgyzstan,Oman,1,1,Asian Cup,Qatar,+17,-17,1251,1516
+2024-01-25,Bahrain,Jordan,1,0,Asian Cup,Qatar,+33,-33,1465,1519
+2024-01-27,Nigeria,Cameroon,2,0,African Nations Cup,Ivory Coast,+35,-35,1648,1558
+2024-01-27,Angola,Namibia,3,0,African Nations Cup,Ivory Coast,+32,-32,1533,1373
+2024-01-28,Tajikistan,United Arab Emirates,1,1,Asian Cup,Qatar,+8,-8,1400,1500
+2024-01-28,Australia,Indonesia,4,0,Asian Cup,Qatar,+5,-5,1791,1276
+2024-01-28,Guinea,Equatorial Guinea,1,0,African Nations Cup,Ivory Coast,+34,-34,1502,1571
+2024-01-28,Democratic Republic of Congo,Egypt,1,1,African Nations Cup,Ivory Coast,+10,-10,1509,1641
+2024-01-29,Qatar,Palestine,2,1,Asian Cup,Qatar,+10,-10,1563,1410
+2024-01-29,Jordan,Iraq,3,2,Asian Cup,Qatar,+35,-35,1554,1638
+2024-01-29,Ivory Coast,Senegal,1,1,African Nations Cup,Ivory Coast,+9,-9,1558,1769
+2024-01-29,Cape Verde,Mauritania,1,0,African Nations Cup,Ivory Coast,+16,-16,1560,1393
+2024-01-30,Uzbekistan,Thailand,2,1,Asian Cup,Qatar,+11,-11,1662,1418
+2024-01-30,Saudi Arabia,South Korea,1,1,Asian Cup,Qatar,+11,-11,1615,1760
+2024-01-30,South Africa,Morocco,2,0,African Nations Cup,Ivory Coast,+65,-65,1578,1774
+2024-01-30,Mali,Burkina Faso,2,1,African Nations Cup,Ivory Coast,+19,-19,1651,1523
+2024-01-31,Japan,Bahrain,3,1,Asian Cup,Qatar,+7,-7,1879,1458
+2024-01-31,Iran,Syria,1,1,Asian Cup,Qatar,-21,+21,1823,1459
+2024-02-02,South Korea,Australia,2,1,Asian Cup,Qatar,+27,-27,1787,1764
+2024-02-02,Jordan,Tajikistan,1,0,Asian Cup,Qatar,+15,-15,1569,1385
+2024-02-02,Nigeria,Angola,1,0,African Nations Cup,Ivory Coast,+17,-17,1665,1516
+2024-02-02,Democratic Republic of Congo,Guinea,3,1,African Nations Cup,Ivory Coast,+37,-37,1546,1465
+2024-02-02,Costa Rica,El Salvador,2,0,Friendly,Costa Rica,+5,-5,1582,1404
+2024-02-03,Qatar,Uzbekistan,1,1,Asian Cup,Qatar,0,0,1563,1662
+2024-02-03,Iran,Japan,2,1,Asian Cup,Qatar,+29,-29,1852,1850
+2024-02-03,Ivory Coast,Mali,2,1,African Nations Cup,Ivory Coast,+24,-24,1582,1627
+2024-02-03,Cape Verde,South Africa,0,0,African Nations Cup,Ivory Coast,+1,-1,1561,1577
+2024-02-06,Jordan,South Korea,2,0,Asian Cup,Qatar,+58,-58,1627,1729
+2024-02-07,Qatar,Iran,3,2,Asian Cup,Qatar,+37,-37,1600,1815
+2024-02-07,Nigeria,South Africa,1,1,African Nations Cup,Ivory Coast,-6,+6,1659,1583
+2024-02-07,Ivory Coast,Democratic Republic of Congo,1,0,African Nations Cup,Ivory Coast,+16,-16,1598,1530
+2024-02-10,Qatar,Jordan,3,1,Asian Cup,Qatar,+30,-30,1630,1597
+2024-02-10,Democratic Republic of Congo,South Africa,0,0,African Nations Cup,Ivory Coast,+4,-4,1534,1579
+2024-02-11,Ivory Coast,Nigeria,2,1,African Nations Cup,Ivory Coast,+22,-22,1620,1637
+2024-03-01,Trinidad and Tobago,Jamaica,0,1,Friendly,Trinidad and Tobago,-8,+8,1424,1626
+2024-03-03,Trinidad and Tobago,Jamaica,0,0,Friendly,Trinidad and Tobago,+3,-3,1427,1623
+2024-03-10,Bangladesh,Sudan,0,0,Friendly,Saudi Arabia,+8,-8,945,1308
+2024-03-14,Sudan,Bangladesh,3,0,Friendly,Saudi Arabia,+4,-4,1312,941
+2024-03-14,Kazakhstan,Turkmenistan,2,0,Friendly,the United Arab Emirates,+5,-5,1486,1215
+2024-03-15,Malaysia,Nepal,5,1,Friendly,Malaysia,+2,-2,1290,892
+2024-03-17,Sint Maarten,Anguilla,1,1,Friendly,Sint Maarten,-8,+8,872,556
+2024-03-18,Solomon Islands,Fiji,2,1,Friendly,the Solomon Islands,+5,-5,1313,1199
+2024-03-20,San Marino,Saint Kitts and Nevis,1,3,Friendly,San Marino,-7,+7,771,1086
+2024-03-20,Bonaire,El Salvador,1,1,Friendly,the United States,+9,-9,842,1395
+2024-03-20,Tonga,Samoa,1,4,Oceania Nations Cup qualifier,Tonga,-28,+28,497,727
+2024-03-20,Liberia,Djibouti,2,0,African Nations Cup qualifier,Morocco,+8,-8,1269,916
+2024-03-20,Eswatini,Somalia,3,0,African Nations Cup qualifier,Morocco,+8,-8,1266,890
+2024-03-21,Solomon Islands,Fiji,0,2,Friendly,the Solomon Islands,-23,+23,1290,1222
+2024-03-21,Russia,Serbia,4,0,Friendly,Russia,+16,-16,1772,1786
+2024-03-21,Portugal,Sweden,5,2,Friendly,Portugal,+3,-3,2035,1692
+2024-03-21,Montenegro,Belarus,2,0,Friendly,Turkey,+12,-12,1561,1457
+2024-03-21,Malta,Slovenia,2,2,Friendly,Malta,+8,-8,1258,1716
+2024-03-21,Italy,Venezuela,2,1,Friendly,the United States,+5,-5,1942,1751
+2024-03-21,Guinea,Vanuatu,6,0,Friendly tournament,Saudi Arabia,+6,-6,1471,1074
+2024-03-21,Ethiopia,Lesotho,1,2,Friendly,Ethiopia,-14,+14,1289,1256
+2024-03-21,Ecuador,Guatemala,2,0,Friendly,the United States,+3,-3,1886,1482
+2024-03-21,Cyprus,Latvia,1,1,Friendly,Cyprus,-2,+2,1321,1349
+2024-03-21,Cape Verde,Guyana,1,0,Friendly tournament,Saudi Arabia,+5,-5,1566,1269
+2024-03-21,Belize,Puerto Rico,1,1,Friendly,Belize,0,0,1058,1147
+2024-03-21,Andorra,South Africa,1,1,Friendly tournament,Algeria,+13,-13,1115,1566
+2024-03-21,United Arab Emirates,Yemen,2,1,World Cup and Asian Cup qualifier,the United Arab Emirates,+2,-2,1502,1100
+2024-03-21,Taiwan,Kyrgyzstan,0,2,World Cup and Asian Cup qualifier,Taiwan,-13,+13,911,1264
+2024-03-21,South Korea,Thailand,1,1,World Cup and Asian Cup qualifier,South Korea,-17,+17,1712,1435
+2024-03-21,Singapore,China,2,2,World Cup and Asian Cup qualifier,Singapore,+10,-10,1125,1397
+2024-03-21,Saudi Arabia,Tajikistan,1,0,World Cup and Asian Cup qualifier,Saudi Arabia,+5,-5,1620,1380
+2024-03-21,Qatar,Kuwait,3,0,World Cup and Asian Cup qualifier,Qatar,+7,-7,1637,1340
+2024-03-21,Palestine,Bangladesh,5,0,World Cup and Asian Cup qualifier,Kuwait,+5,-5,1415,936
+2024-03-21,Pakistan,Jordan,0,3,World Cup and Asian Cup qualifier,Pakistan,-1,+1,828,1598
+2024-03-21,Oman,Malaysia,2,0,World Cup and Asian Cup qualifier,Oman,+8,-8,1524,1282
+2024-03-21,Myanmar,Syria,1,1,World Cup and Asian Cup qualifier,Myanmar,+17,-17,923,1442
+2024-03-21,Japan,North Korea,1,0,World Cup and Asian Cup qualifier,Japan,+1,-1,1851,1366
+2024-03-21,Iraq,Philippines,1,0,World Cup and Asian Cup qualifier,Iraq,+1,-1,1639,1049
+2024-03-21,Iran,Turkmenistan,5,0,World Cup and Asian Cup qualifier,Iran,+1,-1,1816,1214
+2024-03-21,Indonesia,Vietnam,1,0,World Cup and Asian Cup qualifier,Indonesia,+18,-18,1294,1316
+2024-03-21,Hong Kong,Uzbekistan,0,2,World Cup and Asian Cup qualifier,Hong Kong,-3,+3,1058,1665
+2024-03-21,Bahrain,Nepal,5,0,World Cup and Asian Cup qualifier,Bahrain,+2,-2,1460,890
+2024-03-21,Australia,Lebanon,2,0,World Cup and Asian Cup qualifier,Australia,+2,-2,1766,1284
+2024-03-21,Afghanistan,India,0,0,World Cup and Asian Cup qualifier,Saudi Arabia,+9,-9,1082,1226
+2024-03-21,Lithuania,Gibraltar,1,0,European Nations League C,Portugal,+7,-7,1327,1052
+2024-03-21,Wales,Finland,4,1,European Championship qualifier,Wales,+20,-20,1716,1621
+2024-03-21,Poland,Estonia,5,1,European Championship qualifier,Poland,+5,-5,1715,1358
+2024-03-21,Iceland,Israel,4,1,European Championship qualifier,Hungary,+45,-45,1550,1558
+2024-03-21,Greece,Kazakhstan,5,0,European Championship qualifier,Greece,+10,-10,1739,1476
+2024-03-21,Georgia,Luxembourg,2,0,European Championship qualifier,Georgia,+13,-13,1651,1507
+2024-03-21,Bosnia and Herzegovina,Ukraine,1,2,European Championship qualifier,Bosnia and Herzegovina,-7,+7,1478,1857
+2024-03-21,United States,Jamaica,3,1,CONCACAF Nations League,the United States,+12,-12,1774,1611
+2024-03-21,Mexico,Panama,3,0,CONCACAF Nations League,the United States,+32,-32,1826,1734
+2024-03-22,Togo,Niger,2,1,Friendly,Morocco,+6,-6,1390,1233
+2024-03-22,Sudan,Guinea-Bissau,1,0,Friendly,Morocco,+11,-11,1323,1353
+2024-03-22,Sri Lanka,Papua New Guinea,0,0,Friendly tournament,Sri Lanka,+11,-11,695,1096
+2024-03-22,Senegal,Gabon,3,0,Friendly,France,+5,-5,1774,1437
+2024-03-22,Romania,Northern Ireland,1,1,Friendly,Romania,-7,+7,1667,1498
+2024-03-22,Peru,Nicaragua,2,0,Friendly,Peru,+2,-2,1745,1330
+2024-03-22,Norway,Czechia,1,2,Friendly,Norway,-13,+13,1741,1770
+2024-03-22,Nigeria,Ghana,2,1,Friendly,Morocco,+7,-7,1644,1507
+2024-03-22,Netherlands,Scotland,4,0,Friendly,the Netherlands,+7,-7,1978,1794
+2024-03-22,Morocco,Angola,1,0,Friendly,Morocco,+2,-2,1776,1514
+2024-03-22,Moldova,North Macedonia,1,1,Friendly,Turkey,+6,-6,1345,1562
+2024-03-22,Mali,Mauritania,2,0,Friendly,Morocco,+6,-6,1633,1387
+2024-03-22,Madagascar,Burundi,1,0,Friendly tournament,Madagascar,+10,-10,1326,1277
+2024-03-22,Libya,Burkina Faso,2,1,Friendly,Morocco,+13,-13,1410,1510
+2024-03-22,Hungary,Turkey,1,0,Friendly,Hungary,+6,-6,1840,1760
+2024-03-22,Faroe Islands,Liechtenstein,4,0,Friendly,Spain,+5,-5,1270,951
+2024-03-22,Equatorial Guinea,Cambodia,2,0,Friendly tournament,Saudi Arabia,+1,-1,1572,846
+2024-03-22,Egypt,New Zealand,1,0,Friendly tournament,Egypt,+7,-7,1648,1519
+2024-03-22,Comoros,Uganda,4,0,Friendly,Morocco,+24,-24,1299,1359
+2024-03-22,Colombia,Spain,1,0,Friendly,England,+11,-11,1996,2022
+2024-03-22,Chile,Albania,3,0,Friendly,Italy,+14,-14,1714,1617
+2024-03-22,Central African Republic,Bhutan,6,0,Friendly tournament,Sri Lanka,+1,-1,1307,619
+2024-03-22,Bulgaria,Tanzania,1,0,Friendly tournament,Azerbaijan,+11,-11,1468,1353
+2024-03-22,Botswana,Rwanda,0,0,Friendly tournament,Madagascar,-2,+2,1346,1310
+2024-03-22,Bermuda,Brunei,2,0,Friendly tournament,Saudi Arabia,+2,-2,1151,593
+2024-03-22,Azerbaijan,Mongolia,1,0,Friendly tournament,Azerbaijan,0,0,1498,793
+2024-03-22,Armenia,Kosovo,0,1,Friendly,Armenia,-12,+12,1458,1512
+2024-03-22,Argentina,El Salvador,3,0,Friendly,the United States,0,0,2138,1395
+2024-03-22,Algeria,Bolivia,3,2,Friendly tournament,Algeria,+9,-9,1674,1603
+2024-03-22,São Tomé and Príncipe,South Sudan,1,1,African Nations Cup qualifier,Morocco,+5,-5,1062,1142
+2024-03-22,Chad,Mauritius,1,0,African Nations Cup qualifier,Cameroon,+14,-14,1173,1029
+2024-03-22,US Virgin Islands,British Virgin Islands,1,1,World Cup qualifier,the US Virgin Islands,-3,+3,610,662
+2024-03-22,Anguilla,Turks and Caicos Islands,0,0,World Cup qualifier,Anguilla,+3,-3,559,702
+2024-03-23,Zambia,Zimbabwe,2,2,Friendly tournament,Malawi,-6,+6,1471,1342
+2024-03-23,Slovakia,Austria,0,2,Friendly,Slovakia,-12,+12,1650,1847
+2024-03-23,Malawi,Kenya,0,4,Friendly tournament,Malawi,-36,+36,1314,1386
+2024-03-23,Ireland,Belgium,0,0,Friendly,Ireland,+7,-7,1616,1983
+2024-03-23,French Guiana,Haiti,1,1,Friendly,French Guiana,+3,-3,1287,1494
+2024-03-23,France,Germany,0,2,Friendly,France,-26,+26,2084,1912
+2024-03-23,England,Brazil,0,1,Friendly,England,-13,+13,2002,2025
+2024-03-23,Dominican Republic,Aruba,2,0,Friendly,the Dominican Republic,+4,-4,1210,998
+2024-03-23,Denmark,Switzerland,0,0,Friendly,Denmark,-4,+4,1821,1796
+2024-03-23,Croatia,Tunisia,0,0,Friendly tournament,Egypt,-10,+10,1942,1686
+2024-03-23,Benin,Ivory Coast,2,2,Friendly,France,+7,-7,1355,1613
+2024-03-23,Samoa,Cook Islands,1,0,Oceania Nations Cup qualifier,Tonga,+18,-18,745,669
+2024-03-23,Costa Rica,Honduras,3,1,Copa América qualifier,the United States,+24,-24,1606,1491
+2024-03-23,Canada,Trinidad and Tobago,2,0,Copa América qualifier,the United States,+10,-10,1716,1417
+2024-03-24,San Marino,Saint Kitts and Nevis,0,0,Friendly,San Marino,+6,-6,777,1080
+2024-03-24,Martinique,Suriname,1,1,Friendly,the Netherlands,-4,+4,1437,1307
+2024-03-24,Italy,Ecuador,2,0,Friendly,the United States,+13,-13,1955,1873
+2024-03-24,Guatemala,Venezuela,0,0,Friendly,the United States,+6,-6,1488,1745
+2024-03-24,Ethiopia,Lesotho,2,1,Friendly,Ethiopia,+6,-6,1295,1250
+2024-03-24,Belize,Puerto Rico,3,0,Friendly,Belize,+17,-17,1075,1130
+2024-03-24,United States,Mexico,2,0,CONCACAF Nations League,the United States,+26,-26,1800,1800
+2024-03-24,Jamaica,Panama,1,0,CONCACAF Nations League,the United States,+27,-27,1638,1707
+2024-03-25,Tanzania,Mongolia,3,0,Friendly tournament,Azerbaijan,+2,-2,1355,791
+2024-03-25,Sweden,Albania,1,0,Friendly,Sweden,+5,-5,1697,1612
+2024-03-25,Sri Lanka,Bhutan,2,0,Friendly tournament,Sri Lanka,+12,-12,707,607
+2024-03-25,Montenegro,North Macedonia,1,0,Friendly,Turkey,+10,-10,1571,1552
+2024-03-25,Madagascar,Rwanda,0,2,Friendly tournament,Madagascar,-30,+30,1296,1340
+2024-03-25,Guinea-Bissau,Sudan,2,1,Friendly,Morocco,+9,-9,1362,1314
+2024-03-25,Guinea,Bermuda,5,1,Friendly tournament,Saudi Arabia,+8,-8,1479,1143
+2024-03-25,Cyprus,Serbia,0,1,Friendly,Cyprus,-2,+2,1319,1788
+2024-03-25,Congo,Gabon,1,1,Friendly,France,+4,-4,1274,1433
+2024-03-25,Central African Republic,Papua New Guinea,4,0,Friendly tournament,Sri Lanka,+13,-13,1320,1083
+2024-03-25,Cape Verde,Equatorial Guinea,1,0,Friendly tournament,Saudi Arabia,+15,-15,1581,1557
+2024-03-25,Botswana,Burundi,0,0,Friendly tournament,Madagascar,-3,+3,1343,1280
+2024-03-25,Bolivia,Andorra,1,0,Friendly tournament,Algeria,+2,-2,1605,1113
+2024-03-25,Azerbaijan,Bulgaria,1,1,Friendly tournament,Azerbaijan,-5,+5,1493,1473
+2024-03-25,Angola,Comoros,0,0,Friendly,Morocco,-6,+6,1508,1305
+2024-03-26,Spain,Brazil,3,3,Friendly,Spain,-3,+3,2019,2028
+2024-03-26,Slovenia,Portugal,2,0,Friendly,Slovenia,+23,-23,1739,2012
+2024-03-26,Senegal,Benin,1,0,Friendly,France,+2,-2,1776,1353
+2024-03-26,Scotland,Northern Ireland,0,1,Friendly,Scotland,-18,+18,1776,1516
+2024-03-26,Peru,Dominican Republic,4,1,Friendly,Peru,+1,-1,1746,1209
+2024-03-26,Norway,Slovakia,1,1,Friendly,Norway,-5,+5,1736,1655
+2024-03-26,Nicaragua,Cuba,0,1,Friendly,Nicaragua,-14,+14,1316,1305
+2024-03-26,New Zealand,Tunisia,0,0,Friendly tournament,Egypt,+7,-7,1526,1679
+2024-03-26,Morocco,Mauritania,0,0,Friendly,Morocco,-9,+9,1767,1396
+2024-03-26,Moldova,Cayman Islands,4,0,Friendly,Turkey,+2,-2,1347,799
+2024-03-26,Malta,Belarus,0,0,Friendly,Malta,+3,-3,1261,1454
+2024-03-26,Mali,Nigeria,2,0,Friendly,Morocco,+15,-15,1648,1629
+2024-03-26,Malawi,Zambia,1,2,Friendly tournament,Malawi,-13,+13,1301,1484
+2024-03-26,Luxembourg,Kazakhstan,2,1,Friendly,Luxembourg,+6,-6,1513,1470
+2024-03-26,Libya,Togo,1,1,Friendly,Morocco,-1,+1,1409,1391
+2024-03-26,Latvia,Liechtenstein,1,1,Friendly,Cyprus,-8,+8,1341,959
+2024-03-26,Kenya,Zimbabwe,3,1,Friendly tournament,Malawi,+20,-20,1406,1322
+2024-03-26,Ivory Coast,Uruguay,2,1,Friendly,France,+18,-18,1631,1989
+2024-03-26,Ireland,Switzerland,0,1,Friendly,Ireland,-8,+8,1608,1804
+2024-03-26,Hungary,Kosovo,2,0,Friendly,Hungary,+2,-2,1842,1510
+2024-03-26,Guyana,Cambodia,4,1,Friendly tournament,Saudi Arabia,+4,-4,1273,842
+2024-03-26,Ghana,Uganda,2,2,Friendly,Morocco,-4,+4,1503,1363
+2024-03-26,Germany,Netherlands,2,1,Friendly,Germany,+9,-9,1921,1969
+2024-03-26,France,Chile,3,2,Friendly,France,+1,-1,2085,1713
+2024-03-26,Finland,Estonia,2,1,Friendly,Finland,+2,-2,1623,1356
+2024-03-26,England,Belgium,2,2,Friendly,England,-3,+3,1999,1986
+2024-03-26,El Salvador,Honduras,1,1,Friendly,the United States,+3,-3,1398,1488
+2024-03-26,Egypt,Croatia,2,4,Friendly tournament,Egypt,-11,+11,1637,1953
+2024-03-26,Denmark,Faroe Islands,2,0,Friendly,Denmark,+1,-1,1822,1269
+2024-03-26,Czechia,Armenia,2,1,Friendly,Czechia,+2,-2,1772,1456
+2024-03-26,Colombia,Romania,3,2,Friendly,Spain,+3,-3,1999,1664
+2024-03-26,Burkina Faso,Niger,1,1,Friendly,Morocco,-7,+7,1503,1240
+2024-03-26,Brunei,Vanuatu,3,2,Friendly tournament,Saudi Arabia,+28,-28,621,1046
+2024-03-26,Austria,Turkey,6,1,Friendly,Austria,+10,-10,1857,1750
+2024-03-26,Argentina,Costa Rica,3,1,Friendly,the United States,+1,-1,2139,1605
+2024-03-26,Algeria,South Africa,3,3,Friendly tournament,Algeria,-8,+8,1666,1574
+2024-03-26,Tonga,Cook Islands,0,1,Oceania Nations Cup qualifier,Tonga,-16,+16,481,685
+2024-03-26,São Tomé and Príncipe,South Sudan,0,0,African Nations Cup qualifier,Morocco,+5,-5,1067,1137
+2024-03-26,Mauritius,Chad,1,2,African Nations Cup qualifier,Mauritius,-17,+17,1012,1190
+2024-03-26,Liberia,Djibouti,0,0,African Nations Cup qualifier,Liberia,-17,+17,1252,933
+2024-03-26,Eswatini,Somalia,2,2,African Nations Cup qualifier,South Africa,-16,+16,1250,906
+2024-03-26,Lithuania,Gibraltar,1,0,European Nations League C,Lithuania,+4,-4,1331,1048
+2024-03-26,Wales,Poland,0,0,European Championship qualifier,Wales,-6,+6,1710,1721
+2024-03-26,Ukraine,Iceland,2,1,European Championship qualifier,Poland,+6,-6,1863,1544
+2024-03-26,Georgia,Greece,0,0,European Championship qualifier,Georgia,-1,+1,1650,1740
+2024-03-26,Vietnam,Indonesia,0,3,World Cup and Asian Cup qualifier,Vietnam,-47,+47,1269,1341
+2024-03-26,Uzbekistan,Hong Kong,3,0,World Cup and Asian Cup qualifier,Uzbekistan,+1,-1,1666,1057
+2024-03-26,United Arab Emirates,Yemen,3,0,World Cup and Asian Cup qualifier,Saudi Arabia,+6,-6,1508,1094
+2024-03-26,Turkmenistan,Iran,0,1,World Cup and Asian Cup qualifier,Turkmenistan,-2,+2,1212,1818
+2024-03-26,Thailand,South Korea,0,3,World Cup and Asian Cup qualifier,Thailand,-19,+19,1416,1731
+2024-03-26,Tajikistan,Saudi Arabia,1,1,World Cup and Asian Cup qualifier,Tajikistan,+8,-8,1388,1612
+2024-03-26,Syria,Myanmar,7,0,World Cup and Asian Cup qualifier,Saudi Arabia,+4,-4,1446,919
+2024-03-26,Philippines,Iraq,0,5,World Cup and Asian Cup qualifier,the Philippines,-4,+4,1045,1643
+2024-03-26,Malaysia,Oman,0,2,World Cup and Asian Cup qualifier,Malaysia,-18,+18,1264,1542
+2024-03-26,Kyrgyzstan,Taiwan,5,1,World Cup and Asian Cup qualifier,Kyrgyzstan,+5,-5,1269,906
+2024-03-26,Kuwait,Qatar,1,2,World Cup and Asian Cup qualifier,Kuwait,-10,+10,1330,1647
+2024-03-26,Jordan,Pakistan,7,0,World Cup and Asian Cup qualifier,Jordan,+1,-1,1599,827
+2024-03-26,India,Afghanistan,1,2,World Cup and Asian Cup qualifier,India,-32,+32,1194,1114
+2024-03-26,China,Singapore,4,1,World Cup and Asian Cup qualifier,China,+7,-7,1404,1118
+2024-03-26,Bangladesh,Palestine,0,1,World Cup and Asian Cup qualifier,Bangladesh,-4,+4,932,1419
+2024-03-26,Bahrain,Nepal,3,0,World Cup and Asian Cup qualifier,Bahrain,+1,-1,1461,889
+2024-03-26,Australia,Lebanon,5,0,World Cup and Asian Cup qualifier,Australia,+3,-3,1769,1281
+2024-03-26,Turks and Caicos Islands,Anguilla,1,1,World Cup qualifier,Turks and Caicos Islands,-12,+12,690,571
+2024-03-26,British Virgin Islands,US Virgin Islands,0,0,World Cup qualifier,the British Virgin Islands,-8,+8,654,618
+2024-04-06,Northern Mariana Islands,Guam,2,2,Friendly,the Northern Mariana Islands,+4,-4,438,694
+2024-04-07,Northern Mariana Islands,Guam,2,1,Friendly,the Northern Mariana Islands,+14,-14,452,680
+2024-05-02,Saint Vincent and the Grenadines,Dominica,1,3,Friendly,Saint Vincent and the Grenadines,-22,+22,1056,1023
+2024-05-05,Saint Vincent and the Grenadines,Dominica,2,0,Friendly,Saint Vincent and the Grenadines,+10,-10,1066,1013
+2024-05-13,Trinidad and Tobago,Guyana,2,1,Friendly,Trinidad and Tobago,+4,-4,1421,1269
+2024-05-15,Trinidad and Tobago,Guyana,2,0,Friendly,Trinidad and Tobago,+6,-6,1427,1263
+2024-05-15,Sudan,Tanzania,2,1,Friendly,Saudi Arabia,+11,-11,1325,1344
+2024-05-19,Sudan,Tanzania,1,1,Friendly,Saudi Arabia,+1,-1,1326,1343
+2024-05-26,Guatemala,Nicaragua,1,1,Friendly,the United States,-5,+5,1483,1321
+2024-05-26,Grenada,Saint Vincent and the Grenadines,0,3,Friendly,Grenada,-24,+24,1072,1090
+2024-05-31,Mexico,Bolivia,1,0,Friendly,the United States,+5,-5,1805,1600
+2024-05-31,Costa Rica,Uruguay,0,0,Friendly,Costa Rica,+7,-7,1612,1982
+2024-06-01,Turkmenistan,Greenland,5,0,Friendly,Turkey,+7,-7,1219,946
+2024-06-01,Lesotho,Namibia,1,1,Friendly,South Africa,+3,-3,1253,1370
+2024-06-02,Indonesia,Tanzania,0,0,Friendly,Indonesia,-3,+3,1338,1346
+2024-06-02,Sint Maarten,Anguilla,0,3,Friendly,Sint Maarten,-32,+32,840,603
+2024-06-03,Scotland,Gibraltar,2,0,Friendly,Portugal,0,0,1776,1048
+2024-06-03,Germany,Ukraine,0,0,Friendly,Germany,-4,+4,1917,1867
+2024-06-03,England,Bosnia and Herzegovina,3,0,Friendly,England,+1,-1,2000,1477
+2024-06-03,Croatia,North Macedonia,3,0,Friendly,Croatia,+2,-2,1955,1550
+2024-06-03,Albania,Liechtenstein,3,0,Friendly,Hungary,+1,-1,1613,958
+2024-06-04,Switzerland,Estonia,4,0,Friendly,Switzerland,+2,-2,1806,1354
+2024-06-04,Slovenia,Armenia,2,1,Friendly,Slovenia,+2,-2,1741,1454
+2024-06-04,Sint Maarten,Bonaire,3,1,Friendly,the Netherlands,+15,-15,855,827
+2024-06-04,Romania,Bulgaria,0,0,Friendly,Romania,-7,+7,1657,1480
+2024-06-04,Portugal,Finland,4,2,Friendly,Portugal,+2,-2,2014,1621
+2024-06-04,Italy,Turkey,0,0,Friendly,Italy,-7,+7,1948,1757
+2024-06-04,Ireland,Hungary,2,1,Friendly,Ireland,+14,-14,1622,1828
+2024-06-04,Austria,Serbia,2,1,Friendly,Austria,+5,-5,1862,1783
+2024-06-05,Uruguay,Mexico,4,0,Friendly,the United States,+10,-10,1992,1795
+2024-06-05,Spain,Andorra,5,0,Friendly,Spain,0,0,2019,1113
+2024-06-05,Slovakia,San Marino,4,0,Friendly,Austria,0,0,1655,777
+2024-06-05,Norway,Kosovo,3,0,Friendly,Norway,+5,-5,1741,1505
+2024-06-05,France,Luxembourg,3,0,Friendly,France,+1,-1,2086,1512
+2024-06-05,Denmark,Sweden,2,1,Friendly,Denmark,+4,-4,1826,1693
+2024-06-05,Belgium,Montenegro,2,0,Friendly,Belgium,+1,-1,1987,1570
+2024-06-05,Tunisia,Equatorial Guinea,1,0,World Cup qualifier,Tunisia,+9,-9,1688,1548
+2024-06-05,Togo,South Sudan,1,1,World Cup qualifier,Togo,-15,+15,1376,1152
+2024-06-05,Sierra Leone,Djibouti,2,1,World Cup qualifier,Morocco,+4,-4,1315,929
+2024-06-05,Liberia,Namibia,1,1,World Cup qualifier,South Africa,+7,-7,1259,1363
+2024-06-05,Central African Republic,Chad,1,0,World Cup qualifier,Morocco,+13,-13,1333,1177
+2024-06-05,Trinidad and Tobago,Grenada,2,2,World Cup qualifier,Trinidad and Tobago,-17,+17,1410,1089
+2024-06-05,Suriname,Saint Vincent and the Grenadines,4,1,World Cup qualifier,Suriname,+10,-10,1317,1080
+2024-06-05,Nicaragua,Montserrat,4,1,World Cup qualifier,Nicaragua,+6,-6,1327,1016
+2024-06-05,Guatemala,Dominica,6,0,World Cup qualifier,Guatemala,+3,-3,1486,1010
+2024-06-05,Curaçao,Barbados,4,1,World Cup qualifier,Curaçao,+4,-4,1343,934
+2024-06-05,Antigua and Barbuda,Bermuda,1,1,World Cup qualifier,Antigua and Barbuda,+2,-2,1014,1141
+2024-06-06,Netherlands,Canada,4,0,Friendly,the Netherlands,+4,-4,1973,1712
+2024-06-06,Gibraltar,Wales,0,0,Friendly,Portugal,+10,-10,1058,1700
+2024-06-06,Vietnam,Philippines,3,2,World Cup and Asian Cup qualifier,Vietnam,+5,-5,1274,1040
+2024-06-06,Uzbekistan,Turkmenistan,3,1,World Cup and Asian Cup qualifier,Uzbekistan,+2,-2,1668,1217
+2024-06-06,United Arab Emirates,Nepal,4,0,World Cup and Asian Cup qualifier,Saudi Arabia,+2,-2,1510,887
+2024-06-06,Taiwan,Oman,0,3,World Cup and Asian Cup qualifier,Taiwan,-3,+3,903,1545
+2024-06-06,Singapore,South Korea,0,7,World Cup and Asian Cup qualifier,Singapore,-4,+4,1114,1735
+2024-06-06,Pakistan,Saudi Arabia,0,3,World Cup and Asian Cup qualifier,Pakistan,-1,+1,826,1613
+2024-06-06,North Korea,Syria,1,0,World Cup and Asian Cup qualifier,Laos,+25,-25,1391,1421
+2024-06-06,Myanmar,Japan,0,5,World Cup and Asian Cup qualifier,Myanmar,-1,+1,918,1852
+2024-06-06,Lebanon,Palestine,0,0,World Cup and Asian Cup qualifier,Qatar,+8,-8,1289,1411
+2024-06-06,Kyrgyzstan,Malaysia,1,1,World Cup and Asian Cup qualifier,Kyrgyzstan,-6,+6,1263,1270
+2024-06-06,Jordan,Tajikistan,3,0,World Cup and Asian Cup qualifier,Jordan,+10,-10,1609,1378
+2024-06-06,Indonesia,Iraq,0,2,World Cup and Asian Cup qualifier,Indonesia,-14,+14,1324,1657
+2024-06-06,India,Kuwait,0,0,World Cup and Asian Cup qualifier,India,+2,-2,1196,1328
+2024-06-06,Hong Kong,Iran,2,4,World Cup and Asian Cup qualifier,Hong Kong,-1,+1,1056,1819
+2024-06-06,China,Thailand,1,1,World Cup and Asian Cup qualifier,China,-5,+5,1399,1421
+2024-06-06,Bangladesh,Australia,0,2,World Cup and Asian Cup qualifier,Bangladesh,-1,+1,931,1770
+2024-06-06,Bahrain,Yemen,0,0,World Cup and Asian Cup qualifier,Bahrain,-17,+17,1444,1111
+2024-06-06,Afghanistan,Qatar,0,0,World Cup and Asian Cup qualifier,Saudi Arabia,+18,-18,1132,1629
+2024-06-06,Senegal,Democratic Republic of Congo,1,1,World Cup qualifier,Senegal,-15,+15,1761,1549
+2024-06-06,Mauritania,Sudan,0,2,World Cup qualifier,Mauritania,-44,+44,1352,1370
+2024-06-06,Mali,Ghana,1,2,World Cup qualifier,Mali,-32,+32,1616,1535
+2024-06-06,Malawi,São Tomé and Príncipe,3,1,World Cup qualifier,Malawi,+8,-8,1309,1059
+2024-06-06,Libya,Mauritius,2,1,World Cup qualifier,Libya,+2,-2,1411,1010
+2024-06-06,Guinea-Bissau,Ethiopia,0,0,World Cup qualifier,Guinea-Bissau,-9,+9,1353,1304
+2024-06-06,Egypt,Burkina Faso,2,1,World Cup qualifier,Egypt,+8,-8,1645,1495
+2024-06-06,Benin,Rwanda,1,0,World Cup qualifier,Ivory Coast,+19,-19,1372,1321
+2024-06-06,Algeria,Guinea,1,2,World Cup qualifier,Algeria,-34,+34,1632,1513
+2024-06-06,Panama,Guyana,2,0,World Cup qualifier,Panama,+3,-3,1710,1260
+2024-06-06,Jamaica,Dominican Republic,1,0,World Cup qualifier,Jamaica,+2,-2,1640,1207
+2024-06-06,Honduras,Cuba,3,1,World Cup qualifier,Honduras,+10,-10,1498,1295
+2024-06-06,Haiti,Saint Lucia,2,1,World Cup qualifier,Barbados,+4,-4,1498,1090
+2024-06-06,El Salvador,Puerto Rico,0,0,World Cup qualifier,El Salvador,-16,+16,1382,1146
+2024-06-06,Costa Rica,Saint Kitts and Nevis,4,0,World Cup qualifier,Costa Rica,+2,-2,1614,1078
+2024-06-07,Scotland,Finland,2,2,Friendly,Scotland,-6,+6,1770,1627
+2024-06-07,Romania,Liechtenstein,0,0,Friendly,Romania,-10,+10,1647,968
+2024-06-07,Poland,Ukraine,3,1,Friendly,Poland,+17,-17,1738,1850
+2024-06-07,Peru,Paraguay,0,0,Friendly,Peru,-4,+4,1742,1709
+2024-06-07,Germany,Greece,2,1,Friendly,Germany,+3,-3,1920,1737
+2024-06-07,England,Iceland,0,1,Friendly,England,-19,+19,1981,1563
+2024-06-07,Czechia,Malta,7,1,Friendly,Austria,+2,-2,1774,1259
+2024-06-07,Cambodia,Mongolia,2,0,Friendly,Cambodia,+9,-9,851,782
+2024-06-07,Belarus,Russia,0,4,Friendly,Belarus,-8,+8,1446,1780
+2024-06-07,Armenia,Kazakhstan,2,1,Friendly,Armenia,+8,-8,1462,1462
+2024-06-07,Albania,Azerbaijan,3,1,Friendly,Hungary,+10,-10,1623,1483
+2024-06-07,Uganda,Botswana,1,0,World Cup qualifier,Uganda,+13,-13,1376,1330
+2024-06-07,Nigeria,South Africa,1,1,World Cup qualifier,Nigeria,-8,+8,1621,1582
+2024-06-07,Mozambique,Somalia,2,1,World Cup qualifier,Mozambique,+2,-2,1368,904
+2024-06-07,Morocco,Zambia,2,1,World Cup qualifier,Morocco,+4,-4,1771,1480
+2024-06-07,Madagascar,Comoros,2,1,World Cup qualifier,South Africa,+21,-21,1317,1284
+2024-06-07,Lesotho,Zimbabwe,2,0,World Cup qualifier,South Africa,+36,-36,1289,1286
+2024-06-07,Ivory Coast,Gabon,1,0,World Cup qualifier,Ivory Coast,+6,-6,1637,1427
+2024-06-07,Burundi,Kenya,1,1,World Cup qualifier,Malawi,+7,-7,1287,1399
+2024-06-07,Angola,Eswatini,1,0,World Cup qualifier,Angola,+5,-5,1513,1245
+2024-06-08,United States,Colombia,1,5,Friendly,the United States,-14,+14,1786,2013
+2024-06-08,Switzerland,Austria,1,1,Friendly,Switzerland,-1,+1,1805,1863
+2024-06-08,Sweden,Serbia,0,3,Friendly,Sweden,-18,+18,1675,1801
+2024-06-08,Spain,Northern Ireland,5,1,Friendly,Spain,+1,-1,2020,1515
+2024-06-08,Slovenia,Bulgaria,1,1,Friendly,Slovenia,-8,+8,1733,1488
+2024-06-08,Portugal,Croatia,1,2,Friendly,Portugal,-14,+14,2000,1969
+2024-06-08,Moldova,Cyprus,3,2,Friendly,Moldova,+6,-6,1353,1313
+2024-06-08,Hungary,Israel,3,0,Friendly,Hungary,+4,-4,1832,1554
+2024-06-08,Denmark,Norway,3,1,Friendly,Denmark,+8,-8,1834,1733
+2024-06-08,Brunei,Sri Lanka,1,0,Friendly,Brunei,+10,-10,631,697
+2024-06-08,Brazil,Mexico,3,2,Friendly,the United States,+4,-4,2032,1791
+2024-06-08,Belgium,Luxembourg,3,0,Friendly,Belgium,+1,-1,1988,1511
+2024-06-08,Latvia,Lithuania,0,2,Baltic Cup,Latvia,-29,+29,1312,1360
+2024-06-08,Estonia,Faroe Islands,4,1,Baltic Cup,Estonia,+13,-13,1367,1256
+2024-06-08,Gambia,Seychelles,5,1,World Cup qualifier,Morocco,+4,-4,1361,851
+2024-06-08,Cameroon,Cape Verde,4,1,World Cup qualifier,Cameroon,+27,-27,1585,1554
+2024-06-08,Trinidad and Tobago,Bahamas,7,1,World Cup qualifier,Saint Kitts and Nevis,+3,-3,1413,815
+2024-06-08,Cayman Islands,Antigua and Barbuda,1,0,World Cup qualifier,the Cayman Islands,+26,-26,825,988
+2024-06-08,British Virgin Islands,Guatemala,0,3,World Cup qualifier,the British Virgin Islands,-1,+1,653,1487
+2024-06-08,Belize,Nicaragua,0,4,World Cup qualifier,Belize,-22,+22,1053,1349
+2024-06-08,Aruba,Curaçao,0,2,World Cup qualifier,Aruba,-12,+12,986,1355
+2024-06-08,Anguilla,Suriname,0,4,World Cup qualifier,Anguilla,-2,+2,601,1319
+2024-06-09,Slovakia,Wales,4,0,Friendly,Slovakia,+16,-16,1671,1684
+2024-06-09,Montenegro,Georgia,1,3,Friendly,Montenegro,-16,+16,1554,1666
+2024-06-09,Italy,Bosnia and Herzegovina,1,0,Friendly,Italy,+1,-1,1949,1476
+2024-06-09,France,Canada,0,0,Friendly,France,-9,+9,2077,1721
+2024-06-09,Argentina,Ecuador,1,0,Friendly,the United States,+4,-4,2143,1869
+2024-06-09,Namibia,Tunisia,0,0,World Cup qualifier,South Africa,+15,-15,1378,1673
+2024-06-09,Mauritania,Senegal,0,1,World Cup qualifier,Mauritania,-6,+6,1346,1767
+2024-06-09,Liberia,São Tomé and Príncipe,1,0,World Cup qualifier,Morocco,+10,-10,1269,1049
+2024-06-09,Democratic Republic of Congo,Togo,1,0,World Cup qualifier,the Democratic Republic of the Congo,+7,-7,1556,1369
+2024-06-09,Djibouti,Ethiopia,1,1,World Cup qualifier,Morocco,+16,-16,945,1288
+2024-06-09,Panama,Montserrat,3,1,World Cup qualifier,Nicaragua,+1,-1,1711,1015
+2024-06-09,Grenada,Costa Rica,0,3,World Cup qualifier,Grenada,-6,+6,1083,1620
+2024-06-09,El Salvador,Saint Vincent and the Grenadines,3,1,World Cup qualifier,Suriname,+9,-9,1391,1071
+2024-06-09,Dominica,Jamaica,2,3,World Cup qualifier,Dominica,-2,+2,1008,1642
+2024-06-09,Bermuda,Honduras,1,6,World Cup qualifier,Bermuda,-15,+15,1126,1513
+2024-06-09,Barbados,Haiti,1,3,World Cup qualifier,Barbados,-4,+4,930,1502
+2024-06-10,Poland,Turkey,2,1,Friendly,Poland,+8,-8,1746,1749
+2024-06-10,Netherlands,Iceland,4,0,Friendly,the Netherlands,+2,-2,1975,1561
+2024-06-10,Czechia,North Macedonia,2,1,Friendly,Czechia,+3,-3,1777,1547
+2024-06-10,Uganda,Algeria,1,2,World Cup qualifier,Uganda,-12,+12,1364,1644
+2024-06-10,Mozambique,Guinea,1,0,World Cup qualifier,Morocco,+28,-28,1396,1485
+2024-06-10,Guinea-Bissau,Egypt,1,1,World Cup qualifier,Guinea-Bissau,+10,-10,1363,1635
+2024-06-10,Ghana,Central African Republic,4,3,World Cup qualifier,Ghana,+6,-6,1541,1327
+2024-06-10,Equatorial Guinea,Malawi,1,0,World Cup qualifier,Equatorial Guinea,+5,-5,1553,1304
+2024-06-10,Burkina Faso,Sierra Leone,2,2,World Cup qualifier,Mali,-10,+10,1485,1325
+2024-06-10,Botswana,Somalia,3,1,World Cup qualifier,Mozambique,+5,-5,1335,899
+2024-06-10,Benin,Nigeria,2,1,World Cup qualifier,Ivory Coast,+32,-32,1404,1589
+2024-06-11,San Marino,Cyprus,1,4,Friendly,San Marino,-3,+3,774,1316
+2024-06-11,Portugal,Ireland,3,0,Friendly,Portugal,+2,-2,2002,1620
+2024-06-11,Northern Ireland,Andorra,2,0,Friendly,Spain,+3,-3,1518,1110
+2024-06-11,Mongolia,Cambodia,2,1,Friendly,Mongolia,+9,-9,791,842
+2024-06-11,Moldova,Ukraine,0,4,Friendly,Moldova,-3,+3,1350,1853
+2024-06-11,Israel,Belarus,4,0,Friendly,Hungary,+13,-13,1567,1433
+2024-06-11,Greece,Malta,2,0,Friendly,Austria,+2,-2,1739,1257
+2024-06-11,Chile,Paraguay,3,0,Friendly,Chile,+12,-12,1725,1697
+2024-06-11,Brunei,Sri Lanka,1,0,Friendly,Brunei,+9,-9,640,688
+2024-06-11,Azerbaijan,Kazakhstan,3,2,Friendly,Hungary,+9,-9,1492,1453
+2024-06-11,Lithuania,Estonia,1,1,Baltic Cup,Lithuania,-4,+4,1356,1371
+2024-06-11,Latvia,Faroe Islands,1,0,Baltic Cup,Latvia,+9,-9,1321,1247
+2024-06-11,United Arab Emirates,Bahrain,1,1,World Cup and Asian Cup qualifier,the United Arab Emirates,-9,+9,1501,1453
+2024-06-11,Turkmenistan,Hong Kong,0,0,World Cup and Asian Cup qualifier,Turkmenistan,-13,+13,1204,1069
+2024-06-11,Thailand,Singapore,3,1,World Cup and Asian Cup qualifier,Thailand,+5,-5,1426,1109
+2024-06-11,Tajikistan,Pakistan,3,0,World Cup and Asian Cup qualifier,Tajikistan,+2,-2,1380,824
+2024-06-11,South Korea,China,1,0,World Cup and Asian Cup qualifier,South Korea,+3,-3,1738,1396
+2024-06-11,Saudi Arabia,Jordan,1,2,World Cup and Asian Cup qualifier,Saudi Arabia,-26,+26,1587,1635
+2024-06-11,Qatar,India,2,1,World Cup and Asian Cup qualifier,Qatar,+2,-2,1631,1194
+2024-06-11,Oman,Kyrgyzstan,1,1,World Cup and Asian Cup qualifier,Oman,-16,+16,1529,1279
+2024-06-11,North Korea,Myanmar,4,1,World Cup and Asian Cup qualifier,Laos,+4,-4,1395,914
+2024-06-11,Nepal,Yemen,2,2,World Cup and Asian Cup qualifier,Saudi Arabia,+11,-11,898,1100
+2024-06-11,Malaysia,Taiwan,3,1,World Cup and Asian Cup qualifier,Malaysia,+4,-4,1274,899
+2024-06-11,Lebanon,Bangladesh,4,0,World Cup and Asian Cup qualifier,Qatar,+8,-8,1297,923
+2024-06-11,Kuwait,Afghanistan,1,0,World Cup and Asian Cup qualifier,Kuwait,+6,-6,1334,1126
+2024-06-11,Japan,Syria,5,0,World Cup and Asian Cup qualifier,Japan,+4,-4,1856,1417
+2024-06-11,Iraq,Vietnam,3,1,World Cup and Asian Cup qualifier,Iraq,+4,-4,1661,1270
+2024-06-11,Iran,Uzbekistan,0,0,World Cup and Asian Cup qualifier,Iran,-12,+12,1807,1680
+2024-06-11,Indonesia,Philippines,2,0,World Cup and Asian Cup qualifier,Indonesia,+6,-6,1330,1034
+2024-06-11,Australia,Palestine,5,0,World Cup and Asian Cup qualifier,Australia,+5,-5,1775,1406
+2024-06-11,Zambia,Tanzania,0,1,World Cup qualifier,Zambia,-32,+32,1448,1378
+2024-06-11,South Sudan,Sudan,0,3,World Cup qualifier,South Sudan,-24,+24,1128,1394
+2024-06-11,South Africa,Zimbabwe,3,1,World Cup qualifier,South Africa,+6,-6,1588,1280
+2024-06-11,Rwanda,Lesotho,1,0,World Cup qualifier,South Africa,+18,-18,1339,1271
+2024-06-11,Morocco,Congo,6,0,World Cup qualifier,Morocco,+3,-3,1774,1271
+2024-06-11,Mauritius,Eswatini,2,1,World Cup qualifier,Mauritius,+27,-27,1037,1218
+2024-06-11,Madagascar,Mali,0,0,World Cup qualifier,South Africa,+14,-14,1331,1602
+2024-06-11,Ivory Coast,Kenya,0,0,World Cup qualifier,Malawi,-12,+12,1625,1411
+2024-06-11,Gabon,Gambia,3,2,World Cup qualifier,Gabon,+11,-11,1438,1350
+2024-06-11,Comoros,Chad,2,0,World Cup qualifier,Morocco,+21,-21,1305,1156
+2024-06-11,Cape Verde,Libya,1,0,World Cup qualifier,Cape Verde,+8,-8,1562,1403
+2024-06-11,Burundi,Seychelles,3,1,World Cup qualifier,Morocco,+5,-5,1292,846
+2024-06-11,Angola,Cameroon,1,1,World Cup qualifier,Angola,-2,+2,1511,1587
+2024-06-11,Saint Kitts and Nevis,Bahamas,1,0,World Cup qualifier,Saint Kitts and Nevis,+4,-4,1082,811
+2024-06-11,Puerto Rico,Anguilla,8,0,World Cup qualifier,Puerto Rico,+2,-2,1148,599
+2024-06-11,Guyana,Belize,3,1,World Cup qualifier,Barbados,+14,-14,1274,1039
+2024-06-11,Dominican Republic,British Virgin Islands,4,0,World Cup qualifier,the Dominican Republic,+2,-2,1209,651
+2024-06-11,Aruba,Saint Lucia,2,2,World Cup qualifier,Barbados,+6,-6,992,1084
+2024-06-12,United States,Brazil,1,1,Friendly,the United States,+4,-4,1790,2028
+2024-06-12,Ecuador,Bolivia,3,1,Friendly,the United States,+5,-5,1874,1595
+2024-06-14,Peru,El Salvador,1,0,Friendly,the United States,+2,-2,1744,1389
+2024-06-14,Argentina,Guatemala,4,1,Friendly,the United States,+1,-1,2144,1486
+2024-06-14,Germany,Scotland,5,1,European Championship,Germany,+18,-18,1938,1752
+2024-06-15,Colombia,Bolivia,3,0,Friendly,the United States,+3,-3,2016,1592
+2024-06-15,Vanuatu,Solomon Islands,1,0,Oceania Nations Cup,Vanuatu,+35,-35,1081,1255
+2024-06-15,Switzerland,Hungary,3,1,European Championship,Germany,+40,-40,1845,1792
+2024-06-15,Spain,Croatia,3,0,European Championship,Germany,+37,-37,2057,1932
+2024-06-15,Italy,Albania,2,1,European Championship,Germany,+7,-7,1956,1616
+2024-06-16,Panama,Paraguay,0,1,Friendly,Panama,-13,+13,1698,1710
+2024-06-16,Ecuador,Honduras,2,1,Friendly,the United States,+2,-2,1876,1511
+2024-06-16,Tahiti,Samoa,2,0,Oceania Nations Cup,Fiji,+5,-5,1191,740
+2024-06-16,Fiji,Papua New Guinea,5,1,Oceania Nations Cup,Fiji,+19,-19,1241,1064
+2024-06-16,Netherlands,Poland,2,1,European Championship,Germany,+11,-11,1986,1735
+2024-06-16,England,Serbia,1,0,European Championship,Germany,+13,-13,1994,1788
+2024-06-16,Denmark,Slovenia,1,1,European Championship,Germany,-7,+7,1827,1740
+2024-06-17,Slovakia,Belgium,1,0,European Championship,Germany,+43,-43,1714,1945
+2024-06-17,Romania,Ukraine,3,0,European Championship,Germany,+67,-67,1714,1786
+2024-06-17,France,Austria,1,0,European Championship,Germany,+11,-11,2088,1852
+2024-06-18,New Zealand,Solomon Islands,3,0,Oceania Nations Cup,Vanuatu,+15,-15,1541,1240
+2024-06-18,Turkey,Georgia,3,1,European Championship,Germany,+29,-29,1778,1637
+2024-06-18,Portugal,Czechia,2,1,European Championship,Germany,+11,-11,2013,1766
+2024-06-19,Papua New Guinea,Tahiti,1,1,Oceania Nations Cup,Fiji,+9,-9,1073,1182
+2024-06-19,Fiji,Samoa,9,1,Oceania Nations Cup,Fiji,+4,-4,1245,736
+2024-06-19,Scotland,Switzerland,1,1,European Championship,Germany,+7,-7,1759,1838
+2024-06-19,Germany,Hungary,2,0,European Championship,Germany,+15,-15,1953,1777
+2024-06-19,Albania,Croatia,2,2,European Championship,Germany,+18,-18,1634,1914
+2024-06-20,Spain,Italy,1,0,European Championship,Germany,+18,-18,2075,1938
+2024-06-20,Serbia,Slovenia,1,1,European Championship,Germany,-3,+3,1785,1743
+2024-06-20,Denmark,England,1,1,European Championship,Germany,+11,-11,1838,1983
+2024-06-20,Argentina,Canada,2,0,Copa América,the United States,+6,-6,2150,1715
+2024-06-21,Vanuatu,New Zealand,0,4,Oceania Nations Cup,Vanuatu,-10,+10,1071,1551
+2024-06-21,Ukraine,Slovakia,2,1,European Championship,Germany,+20,-20,1806,1694
+2024-06-21,France,Netherlands,0,0,European Championship,Germany,-7,+7,2081,1993
+2024-06-21,Austria,Poland,3,1,European Championship,Germany,+25,-25,1877,1710
+2024-06-21,Chile,Peru,0,0,Copa América,the United States,+1,-1,1726,1743
+2024-06-22,Papua New Guinea,Samoa,2,1,Oceania Nations Cup,Fiji,+6,-6,1079,730
+2024-06-22,Fiji,Tahiti,1,0,Oceania Nations Cup,Fiji,+14,-14,1259,1168
+2024-06-22,Portugal,Turkey,3,0,European Championship,Germany,+18,-18,2031,1760
+2024-06-22,Czechia,Georgia,1,1,European Championship,Germany,-9,+9,1757,1646
+2024-06-22,Belgium,Romania,2,0,European Championship,Germany,+16,-16,1961,1698
+2024-06-22,Venezuela,Ecuador,2,1,Copa América,the United States,+34,-34,1779,1842
+2024-06-22,Mexico,Jamaica,1,0,Copa América,the United States,+15,-15,1806,1627
+2024-06-23,Hungary,Scotland,1,0,European Championship,Germany,+24,-24,1801,1735
+2024-06-23,Germany,Switzerland,1,1,European Championship,Germany,-14,+14,1939,1852
+2024-06-23,Uruguay,Panama,3,1,Copa América,the United States,+12,-12,2004,1686
+2024-06-23,United States,Bolivia,2,0,Copa América,the United States,+11,-11,1801,1581
+2024-06-24,Spain,Albania,1,0,European Championship,Germany,+4,-4,2079,1630
+2024-06-24,Croatia,Italy,1,1,European Championship,Germany,+2,-2,1916,1936
+2024-06-24,Colombia,Paraguay,2,1,Copa América,the United States,+7,-7,2023,1703
+2024-06-24,Brazil,Costa Rica,0,0,Copa América,the United States,-21,+21,2007,1641
+2024-06-25,France,Poland,1,1,European Championship,Germany,-20,+20,2061,1730
+2024-06-25,England,Slovenia,0,0,European Championship,Germany,-15,+15,1968,1758
+2024-06-25,Denmark,Serbia,0,0,European Championship,Germany,-4,+4,1834,1789
+2024-06-25,Austria,Netherlands,3,2,European Championship,Germany,+33,-33,1910,1960
+2024-06-25,Canada,Peru,1,0,Copa América,the United States,+27,-27,1742,1716
+2024-06-25,Argentina,Chile,1,0,Copa América,the United States,+4,-4,2154,1722
+2024-06-26,South Africa,Mozambique,1,1,COSAFA Cup,South Africa,-14,+14,1574,1410
+2024-06-26,Botswana,Eswatini,0,0,COSAFA Cup,South Africa,-6,+6,1329,1224
+2024-06-26,Turkey,Czechia,2,1,European Championship,Germany,+25,-25,1785,1732
+2024-06-26,Romania,Slovakia,1,1,European Championship,Germany,0,0,1698,1694
+2024-06-26,Georgia,Portugal,2,0,European Championship,Germany,+68,-68,1714,1963
+2024-06-26,Belgium,Ukraine,0,0,European Championship,Germany,-10,+10,1951,1816
+2024-06-26,Venezuela,Mexico,1,0,Copa América,the United States,+27,-27,1806,1779
+2024-06-26,Ecuador,Jamaica,3,1,Copa América,the United States,+17,-17,1859,1610
+2024-06-27,Zimbabwe,Comoros,1,0,COSAFA Cup,South Africa,+21,-21,1301,1284
+2024-06-27,Kenya,Zambia,2,0,COSAFA Cup,South Africa,+33,-33,1444,1415
+2024-06-27,Vanuatu,Fiji,2,1,Oceania Nations Cup,Vanuatu,+31,-31,1102,1228
+2024-06-27,New Zealand,Tahiti,5,0,Oceania Nations Cup,Vanuatu,+10,-10,1561,1158
+2024-06-27,Uruguay,Bolivia,5,0,Copa América,the United States,+8,-8,2012,1573
+2024-06-27,United States,Panama,1,2,Copa América,the United States,-39,+39,1762,1725
+2024-06-28,Lesotho,Seychelles,1,1,COSAFA Cup,South Africa,-17,+17,1254,863
+2024-06-28,Angola,Namibia,0,0,COSAFA Cup,South Africa,-7,+7,1504,1385
+2024-06-28,Colombia,Costa Rica,3,0,Copa América,the United States,+9,-9,2032,1632
+2024-06-28,Brazil,Paraguay,4,1,Copa América,the United States,+13,-13,2020,1690
+2024-06-29,South Africa,Botswana,0,0,COSAFA Cup,South Africa,-15,+15,1559,1344
+2024-06-29,Eswatini,Mozambique,0,0,COSAFA Cup,South Africa,+10,-10,1234,1400
+2024-06-29,Switzerland,Italy,2,0,European Championship,Germany,+46,-46,1898,1890
+2024-06-29,Germany,Denmark,2,0,European Championship,Germany,+18,-18,1957,1816
+2024-06-29,Canada,Chile,0,0,Copa América,the United States,-1,+1,1741,1723
+2024-06-29,Argentina,Peru,2,0,Copa América,the United States,+6,-6,2160,1710
+2024-06-30,Vanuatu,New Zealand,0,3,Oceania Nations Cup,Vanuatu,-10,+10,1092,1571
+2024-06-30,Tahiti,Fiji,2,1,Oceania Nations Cup,Vanuatu,+30,-30,1188,1198
+2024-06-30,Zimbabwe,Zambia,2,0,COSAFA Cup,South Africa,+40,-40,1341,1375
+2024-06-30,Comoros,Kenya,2,0,COSAFA Cup,South Africa,+43,-43,1327,1401
+2024-06-30,Spain,Georgia,4,1,European Championship,Germany,+10,-10,2089,1704
+2024-06-30,England,Slovakia,2,1,European Championship,Germany,+9,-9,1977,1685
+2024-06-30,Venezuela,Jamaica,3,0,Copa América,the United States,+21,-21,1827,1589
+2024-06-30,Ecuador,Mexico,0,0,Copa América,the United States,-6,+6,1853,1785
+2024-07-01,Namibia,Lesotho,2,1,COSAFA Cup,South Africa,+13,-13,1398,1241
+2024-07-01,Angola,Seychelles,3,2,COSAFA Cup,South Africa,+1,-1,1505,862
+2024-07-01,Portugal,Slovenia,0,0,European Championship,Germany,-13,+13,1950,1771
+2024-07-01,France,Belgium,1,0,European Championship,Germany,+17,-17,2078,1934
+2024-07-01,United States,Uruguay,0,1,Copa América,the United States,-15,+15,1747,2027
+2024-07-01,Panama,Bolivia,3,1,Copa América,the United States,+22,-22,1747,1551
+2024-07-02,South Africa,Eswatini,1,0,COSAFA Cup,South Africa,+3,-3,1562,1231
+2024-07-02,Mozambique,Botswana,3,1,COSAFA Cup,South Africa,+25,-25,1425,1319
+2024-07-02,Kenya,Zimbabwe,2,0,COSAFA Cup,South Africa,+25,-25,1426,1316
+2024-07-02,Comoros,Zambia,1,0,COSAFA Cup,South Africa,+23,-23,1350,1352
+2024-07-02,Turkey,Austria,2,1,European Championship,Germany,+34,-34,1819,1876
+2024-07-02,Netherlands,Romania,3,0,European Championship,Germany,+16,-16,1976,1682
+2024-07-02,Costa Rica,Paraguay,2,1,Copa América,the United States,+29,-29,1661,1661
+2024-07-02,Brazil,Colombia,1,1,Copa América,the United States,+1,-1,2021,2031
+2024-07-03,Namibia,Seychelles,3,1,COSAFA Cup,South Africa,+3,-3,1401,859
+2024-07-03,Angola,Lesotho,3,1,COSAFA Cup,South Africa,+11,-11,1516,1230
+2024-07-04,Argentina,Ecuador,1,1,Copa América,the United States,-18,+18,2142,1871
+2024-07-05,Mozambique,Namibia,0,0,COSAFA Cup,South Africa,-1,+1,1424,1402
+2024-07-05,Angola,Comoros,2,1,COSAFA Cup,South Africa,+11,-11,1527,1339
+2024-07-05,Germany,Spain,1,2,European Championship,Germany,-23,+23,1934,2112
+2024-07-05,France,Portugal,0,0,European Championship,Germany,-9,+9,2069,1959
+2024-07-05,Canada,Venezuela,1,1,Copa América,the United States,+6,-6,1747,1821
+2024-07-06,Netherlands,Turkey,2,1,European Championship,Germany,+14,-14,1990,1805
+2024-07-06,England,Switzerland,1,1,European Championship,Germany,-6,+6,1971,1904
+2024-07-06,Colombia,Panama,5,0,Copa América,the United States,+16,-16,2047,1731
+2024-07-06,Brazil,Uruguay,0,0,Copa América,the United States,0,0,2021,2027
+2024-07-07,Comoros,Mozambique,2,2,COSAFA Cup,South Africa,+5,-5,1344,1419
+2024-07-07,Angola,Namibia,5,0,COSAFA Cup,South Africa,+26,-26,1553,1376
+2024-07-09,Spain,France,2,1,European Championship,Germany,+22,-22,2134,2047
+2024-07-09,Argentina,Canada,2,0,Copa América,the United States,+7,-7,2149,1740
+2024-07-10,England,Netherlands,2,1,European Championship,Germany,+26,-26,1997,1964
+2024-07-10,Colombia,Uruguay,1,0,Copa América,the United States,+24,-24,2071,2003
+2024-07-13,Canada,Uruguay,2,2,Copa América,the United States,+16,-16,1756,1987
+2024-07-14,Spain,England,2,1,European Championship,Germany,+16,-16,2150,1981
+2024-07-14,Argentina,Colombia,1,0,Copa América,the United States,+19,-19,2168,2052
+2024-07-27,El Salvador,Guatemala,1,0,Friendly,the United States,+13,-13,1402,1473
+2024-08-17,Anguilla,Saint Martin,0,0,Friendly,Anguilla,+6,-6,605,936
+2024-08-27,Jordan,North Korea,0,0,Friendly,Jordan,-8,+8,1627,1403
+2024-08-29,Jordan,North Korea,2,1,Friendly,Jordan,+3,-3,1630,1400
+2024-08-30,Ethiopia,Sudan,2,0,Friendly,Ethiopia,+15,-15,1303,1379
+2024-08-31,Libya,Botswana,1,0,Friendly,Libya,+5,-5,1408,1314
+2024-09-01,Guatemala,Uruguay,1,1,Friendly,the United States,+9,-9,1482,1978
+2024-09-02,Fiji,Solomon Islands,1,0,Friendly tournament,Fiji,+13,-13,1211,1227
+2024-09-03,India,Mauritius,0,0,Friendly tournament,India,-9,+9,1185,1046
+2024-09-04,Gibraltar,Andorra,1,0,Friendly,Gibraltar,+9,-9,1067,1101
+2024-09-04,Malaysia,Philippines,2,1,Independence Tournament,Malaysia,+4,-4,1278,1030
+2024-09-04,Lebanon,Tajikistan,1,0,Independence Tournament,Malaysia,+19,-19,1316,1361
+2024-09-04,Tanzania,Ethiopia,0,0,African Nations Cup qualifier,Tanzania,-9,+9,1369,1312
+2024-09-04,Sudan,Niger,1,0,African Nations Cup qualifier,South Sudan,+12,-12,1391,1228
+2024-09-04,Libya,Rwanda,1,1,African Nations Cup qualifier,Libya,-9,+9,1399,1348
+2024-09-04,Comoros,Gambia,1,1,African Nations Cup qualifier,Morocco,0,0,1344,1350
+2024-09-04,US Virgin Islands,Bahamas,3,3,CONCACAF Nations League C,the US Virgin Islands,+5,-5,623,806
+2024-09-04,Turks and Caicos Islands,Anguilla,0,2,CONCACAF Nations League C,Turks and Caicos Islands,-45,+45,645,650
+2024-09-04,Cayman Islands,British Virgin Islands,1,0,CONCACAF Nations League C,the Cayman Islands,+7,-7,832,644
+2024-09-05,Bhutan,Bangladesh,0,1,Friendly,Bhutan,-4,+4,603,927
+2024-09-05,Vietnam,Russia,0,3,Friendly tournament,Vietnam,-5,+5,1265,1785
+2024-09-05,Sri Lanka,Cambodia,0,0,Asian Cup qualifier,Sri Lanka,+3,-3,691,839
+2024-09-05,Hong Kong,Solomon Islands,3,0,Friendly tournament,Fiji,+37,-37,1106,1190
+2024-09-05,East Timor,Mongolia,4,1,Asian Cup qualifier,Indonesia,+52,-52,662,739
+2024-09-05,Uzbekistan,North Korea,1,0,World Cup qualifier,Uzbekistan,+4,-4,1684,1396
+2024-09-05,South Korea,Palestine,0,0,World Cup qualifier,South Korea,-17,+17,1721,1423
+2024-09-05,Saudi Arabia,Indonesia,1,1,World Cup qualifier,Saudi Arabia,-15,+15,1572,1345
+2024-09-05,Qatar,United Arab Emirates,1,3,World Cup qualifier,Qatar,-47,+47,1584,1548
+2024-09-05,Jordan,Kuwait,1,1,World Cup qualifier,Jordan,-16,+16,1614,1350
+2024-09-05,Japan,China,7,0,World Cup qualifier,Japan,+3,-3,1859,1393
+2024-09-05,Iraq,Oman,1,0,World Cup qualifier,Iraq,+8,-8,1669,1521
+2024-09-05,Iran,Kyrgyzstan,1,0,World Cup qualifier,Iran,+1,-1,1808,1278
+2024-09-05,Australia,Bahrain,0,1,World Cup qualifier,Australia,-37,+37,1738,1490
+2024-09-05,Tunisia,Madagascar,1,0,African Nations Cup qualifier,Tunisia,+3,-3,1676,1328
+2024-09-05,Malawi,Burundi,2,3,African Nations Cup qualifier,Malawi,-26,+26,1278,1318
+2024-09-05,Guinea-Bissau,Eswatini,1,0,African Nations Cup qualifier,Guinea-Bissau,+8,-8,1371,1223
+2024-09-05,Ghana,Angola,0,1,African Nations Cup qualifier,Ghana,-25,+25,1516,1578
+2024-09-05,Congo,South Sudan,1,0,African Nations Cup qualifier,Congo,+8,-8,1279,1120
+2024-09-05,Central African Republic,Lesotho,3,1,African Nations Cup qualifier,Morocco,+22,-22,1349,1208
+2024-09-05,Algeria,Equatorial Guinea,2,0,African Nations Cup qualifier,Algeria,+15,-15,1659,1538
+2024-09-05,San Marino,Liechtenstein,1,0,European Nations League D,San Marino,+25,-25,799,943
+2024-09-05,Northern Ireland,Luxembourg,2,0,European Nations League C,Northern Ireland,+21,-21,1539,1490
+2024-09-05,Estonia,Slovakia,0,1,European Nations League C,Estonia,-9,+9,1362,1694
+2024-09-05,Belarus,Bulgaria,0,0,European Nations League C,Hungary,+3,-3,1436,1485
+2024-09-05,Azerbaijan,Sweden,1,3,European Nations League C,Azerbaijan,-23,+23,1469,1698
+2024-09-05,Serbia,Spain,0,0,European Nations League A,Serbia,+13,-13,1802,2137
+2024-09-05,Scotland,Poland,2,3,European Nations League A,Scotland,-26,+26,1709,1756
+2024-09-05,Portugal,Croatia,2,1,European Nations League A,Portugal,+12,-12,1971,1904
+2024-09-05,Denmark,Switzerland,2,0,European Nations League A,Denmark,+29,-29,1845,1875
+2024-09-05,El Salvador,Montserrat,4,1,CONCACAF Nations League B,Bonaire,+7,-7,1409,1008
+2024-09-05,Bonaire,Saint Vincent and the Grenadines,1,1,CONCACAF Nations League B,Bonaire,+8,-8,835,1063
+2024-09-05,Guyana,Suriname,1,3,CONCACAF Nations League A,Guyana,-35,+35,1239,1354
+2024-09-05,Guatemala,Martinique,3,1,CONCACAF Nations League A,Guatemala,+18,-18,1500,1419
+2024-09-05,Costa Rica,Guadeloupe,3,0,CONCACAF Nations League A,Costa Rica,+5,-5,1666,1322
+2024-09-05,Bolivia,Venezuela,4,0,World Cup qualifier,Bolivia,+55,-55,1606,1766
+2024-09-05,Argentina,Chile,3,0,World Cup qualifier,Argentina,+3,-3,2171,1720
+2024-09-06,Syria,Mauritius,2,0,Friendly tournament,India,+5,-5,1422,1041
+2024-09-06,Tonga,Cook Islands,3,1,World Cup qualifier,Samoa,+46,-46,527,639
+2024-09-06,Samoa,Eastern Samoa,2,0,World Cup qualifier,Samoa,+4,-4,734,373
+2024-09-06,Brunei,Macao,3,0,Asian Cup qualifier,Brunei,+28,-28,668,637
+2024-09-06,Togo,Liberia,1,1,African Nations Cup qualifier,Togo,-10,+10,1359,1279
+2024-09-06,South Africa,Uganda,2,2,African Nations Cup qualifier,South Africa,-14,+14,1548,1378
+2024-09-06,Senegal,Burkina Faso,1,1,African Nations Cup qualifier,Senegal,-16,+16,1751,1501
+2024-09-06,Morocco,Gabon,4,1,African Nations Cup qualifier,Morocco,+5,-5,1779,1433
+2024-09-06,Mali,Mozambique,1,1,African Nations Cup qualifier,Mali,-13,+13,1589,1432
+2024-09-06,Kenya,Zimbabwe,0,0,African Nations Cup qualifier,Uganda,-6,+6,1420,1322
+2024-09-06,Ivory Coast,Zambia,2,0,African Nations Cup qualifier,Ivory Coast,+6,-6,1631,1346
+2024-09-06,Egypt,Cape Verde,3,0,African Nations Cup qualifier,Egypt,+19,-19,1654,1543
+2024-09-06,Democratic Republic of Congo,Guinea,1,0,African Nations Cup qualifier,the Democratic Republic of the Congo,+11,-11,1567,1474
+2024-09-06,Chad,Sierra Leone,0,0,African Nations Cup qualifier,Liberia,+9,-9,1165,1316
+2024-09-06,Lithuania,Cyprus,0,1,European Nations League C,Lithuania,-28,+28,1328,1344
+2024-09-06,Kosovo,Romania,0,3,European Nations League C,Kosovo,-27,+27,1478,1709
+2024-09-06,Wales,Turkey,0,0,European Nations League B,Wales,+1,-1,1685,1804
+2024-09-06,Slovenia,Austria,1,1,European Nations League B,Slovenia,0,0,1771,1876
+2024-09-06,Kazakhstan,Norway,0,0,European Nations League B,Kazakhstan,+10,-10,1463,1723
+2024-09-06,Iceland,Montenegro,2,0,European Nations League B,Iceland,+21,-21,1582,1533
+2024-09-06,France,Italy,1,3,European Nations League A,France,-49,+49,1998,1939
+2024-09-06,Belgium,Israel,3,1,European Nations League A,Hungary,+6,-6,1940,1561
+2024-09-06,Sint Maarten,Aruba,2,0,CONCACAF Nations League B,Puerto Rico,+41,-41,896,951
+2024-09-06,Saint Lucia,Curaçao,2,1,CONCACAF Nations League B,Grenada,+33,-33,1117,1322
+2024-09-06,Puerto Rico,Haiti,1,4,CONCACAF Nations League B,Puerto Rico,-13,+13,1135,1515
+2024-09-06,Grenada,Saint Martin,2,0,CONCACAF Nations League B,Grenada,+12,-12,1095,924
+2024-09-06,Jamaica,Cuba,0,0,CONCACAF Nations League A,Jamaica,-16,+16,1573,1311
+2024-09-06,Honduras,Trinidad and Tobago,4,0,CONCACAF Nations League A,Honduras,+18,-18,1529,1395
+2024-09-06,French Guiana,Nicaragua,0,1,CONCACAF Nations League A,French Guiana,-22,+22,1265,1371
+2024-09-06,Uruguay,Paraguay,0,0,World Cup qualifier,Uruguay,-17,+17,1961,1678
+2024-09-06,Peru,Colombia,1,1,World Cup qualifier,Peru,+12,-12,1722,2040
+2024-09-06,Brazil,Ecuador,1,0,World Cup qualifier,Brazil,+8,-8,2029,1863
+2024-09-07,United States,Canada,1,2,Friendly,the United States,-13,+13,1734,1769
+2024-09-07,Mexico,New Zealand,3,0,Friendly,the United States,+8,-8,1793,1563
+2024-09-07,Nigeria,Benin,3,0,African Nations Cup qualifier,Nigeria,+11,-11,1600,1393
+2024-09-07,Mauritania,Botswana,1,0,African Nations Cup qualifier,Mauritania,+13,-13,1359,1301
+2024-09-07,Cameroon,Namibia,1,0,African Nations Cup qualifier,Cameroon,+6,-6,1593,1370
+2024-09-07,Moldova,Malta,2,0,European Nations League D,Moldova,+15,-15,1365,1242
+2024-09-07,Faroe Islands,North Macedonia,1,1,European Nations League C,the Faroe Islands,+10,-10,1257,1537
+2024-09-07,Armenia,Latvia,4,1,European Nations League C,Armenia,+14,-14,1476,1307
+2024-09-07,Ireland,England,0,2,European Nations League B,Ireland,-11,+11,1609,1992
+2024-09-07,Greece,Finland,3,0,European Nations League B,Greece,+16,-16,1755,1611
+2024-09-07,Georgia,Czechia,4,1,European Nations League B,Georgia,+28,-28,1732,1704
+2024-09-07,Albania,Ukraine,2,1,European Nations League B,Czechia,+30,-30,1660,1786
+2024-09-07,Netherlands,Bosnia and Herzegovina,5,2,European Nations League A,the Netherlands,+2,-2,1966,1474
+2024-09-07,Germany,Hungary,5,0,European Nations League A,Germany,+17,-17,1951,1784
+2024-09-07,Turks and Caicos Islands,Belize,0,4,CONCACAF Nations League C,Turks and Caicos Islands,-12,+12,633,1051
+2024-09-07,Cayman Islands,Saint Kitts and Nevis,1,4,CONCACAF Nations League C,the Cayman Islands,-21,+21,811,1103
+2024-09-07,Barbados,Bahamas,3,2,CONCACAF Nations League C,the US Virgin Islands,+13,-13,943,793
+2024-09-07,Dominican Republic,Bermuda,3,2,CONCACAF Nations League B,Antigua and Barbuda,+15,-15,1224,1111
+2024-09-07,Antigua and Barbuda,Dominica,1,2,CONCACAF Nations League B,Antigua and Barbuda,-25,+25,963,1033
+2024-09-08,Fiji,Hong Kong,1,1,Friendly tournament,Fiji,-8,+8,1203,1114
+2024-09-08,Bhutan,Bangladesh,1,0,Friendly,Bhutan,+16,-16,619,911
+2024-09-08,Philippines,Tajikistan,0,0,Independence Tournament,Malaysia,+11,-11,1041,1350
+2024-09-08,Malaysia,Lebanon,1,0,Independence Tournament,Malaysia,+12,-12,1290,1304
+2024-09-08,Gambia,Tunisia,1,2,African Nations Cup qualifier,Morocco,-5,+5,1345,1681
+2024-09-08,Gibraltar,Liechtenstein,2,2,European Nations League D,Gibraltar,-11,+11,1056,954
+2024-09-08,Sweden,Estonia,3,0,European Nations League C,Sweden,+5,-5,1703,1357
+2024-09-08,Slovakia,Azerbaijan,2,0,European Nations League C,Slovakia,+8,-8,1702,1461
+2024-09-08,Luxembourg,Belarus,0,1,European Nations League C,Luxembourg,-28,+28,1462,1464
+2024-09-08,Bulgaria,Northern Ireland,1,0,European Nations League C,Bulgaria,+17,-17,1502,1522
+2024-09-08,Switzerland,Spain,1,4,European Nations League A,Switzerland,-20,+20,1855,2157
+2024-09-08,Portugal,Scotland,2,1,European Nations League A,Portugal,+4,-4,1975,1705
+2024-09-08,Denmark,Serbia,2,0,European Nations League A,Denmark,+18,-18,1863,1784
+2024-09-08,Croatia,Poland,1,0,European Nations League A,Croatia,+8,-8,1912,1748
+2024-09-08,Saint Vincent and the Grenadines,Montserrat,2,0,CONCACAF Nations League B,Bonaire,+25,-25,1088,983
+2024-09-08,Bonaire,El Salvador,1,2,CONCACAF Nations League B,Bonaire,-2,+2,833,1411
+2024-09-09,India,Syria,0,3,Friendly tournament,India,-16,+16,1169,1438
+2024-09-09,Eastern Samoa,Cook Islands,2,1,Friendly,Samoa,+16,-16,389,623
+2024-09-09,Samoa,Tonga,2,1,World Cup qualifier,Samoa,+6,-6,740,521
+2024-09-09,Uganda,Congo,2,0,African Nations Cup qualifier,Uganda,+14,-14,1392,1265
+2024-09-09,Senegal,Burundi,1,0,African Nations Cup qualifier,Malawi,+3,-3,1754,1315
+2024-09-09,Morocco,Lesotho,1,0,African Nations Cup qualifier,Morocco,+1,-1,1780,1207
+2024-09-09,Ghana,Niger,1,1,African Nations Cup qualifier,Morocco,-14,+14,1502,1242
+2024-09-09,Equatorial Guinea,Togo,2,2,African Nations Cup qualifier,Equatorial Guinea,-13,+13,1525,1372
+2024-09-09,Democratic Republic of Congo,Ethiopia,2,0,African Nations Cup qualifier,Tanzania,+11,-11,1578,1301
+2024-09-09,Comoros,Madagascar,1,1,African Nations Cup qualifier,Tunisia,-1,+1,1343,1329
+2024-09-09,Angola,Sudan,2,1,African Nations Cup qualifier,Angola,+6,-6,1584,1385
+2024-09-09,Cyprus,Kosovo,0,4,European Nations League C,Cyprus,-34,+34,1310,1512
+2024-09-09,Romania,Lithuania,3,1,European Nations League C,Romania,+4,-4,1713,1324
+2024-09-09,Turkey,Iceland,3,1,European Nations League B,Turkey,+8,-8,1812,1574
+2024-09-09,Slovenia,Kazakhstan,3,0,European Nations League B,Slovenia,+6,-6,1777,1457
+2024-09-09,Norway,Austria,2,1,European Nations League B,Norway,+23,-23,1746,1853
+2024-09-09,Montenegro,Wales,1,2,European Nations League B,Montenegro,-17,+17,1516,1702
+2024-09-09,Italy,Israel,2,1,European Nations League A,Hungary,+4,-4,1943,1557
+2024-09-09,France,Belgium,2,0,European Nations League A,France,+17,-17,2015,1923
+2024-09-09,Puerto Rico,Aruba,1,0,CONCACAF Nations League B,Puerto Rico,+7,-7,1142,944
+2024-09-09,Haiti,Sint Maarten,6,0,CONCACAF Nations League B,Puerto Rico,+2,-2,1517,894
+2024-09-09,Grenada,Saint Lucia,1,2,CONCACAF Nations League B,Grenada,-24,+24,1071,1141
+2024-09-09,Curaçao,Saint Martin,4,0,CONCACAF Nations League B,Grenada,+7,-7,1329,917
+2024-09-09,Martinique,Guyana,2,2,CONCACAF Nations League A,Martinique,-13,+13,1406,1252
+2024-09-09,Guatemala,Costa Rica,0,0,CONCACAF Nations League A,Guatemala,+4,-4,1504,1662
+2024-09-09,Guadeloupe,Suriname,1,0,CONCACAF Nations League A,Guadeloupe,+16,-16,1338,1338
+2024-09-10,Vietnam,Thailand,1,2,Friendly tournament,Vietnam,-12,+12,1253,1438
+2024-09-10,United States,New Zealand,1,1,Friendly,the United States,-7,+7,1727,1570
+2024-09-10,Moldova,San Marino,1,0,Friendly,Moldova,0,0,1365,799
+2024-09-10,Canada,Mexico,0,0,Friendly,the United States,+1,-1,1770,1792
+2024-09-10,Zambia,Sierra Leone,3,2,African Nations Cup qualifier,Zambia,+13,-13,1359,1303
+2024-09-10,South Sudan,South Africa,2,3,African Nations Cup qualifier,South Sudan,-5,+5,1115,1553
+2024-09-10,Rwanda,Nigeria,0,0,African Nations Cup qualifier,Rwanda,+8,-8,1356,1592
+2024-09-10,Mozambique,Guinea-Bissau,2,1,African Nations Cup qualifier,Mozambique,+11,-11,1443,1360
+2024-09-10,Mali,Eswatini,1,0,African Nations Cup qualifier,South Africa,+4,-4,1593,1219
+2024-09-10,Liberia,Algeria,0,3,African Nations Cup qualifier,Liberia,-12,+12,1267,1671
+2024-09-10,Kenya,Namibia,2,1,African Nations Cup qualifier,South Africa,+17,-17,1437,1353
+2024-09-10,Ivory Coast,Chad,2,0,African Nations Cup qualifier,Cameroon,+4,-4,1635,1161
+2024-09-10,Guinea,Tanzania,1,2,African Nations Cup qualifier,Ivory Coast,-26,+26,1448,1395
+2024-09-10,Gabon,Central African Republic,2,0,African Nations Cup qualifier,Gabon,+15,-15,1448,1334
+2024-09-10,Cape Verde,Mauritania,2,0,African Nations Cup qualifier,Cape Verde,+10,-10,1553,1349
+2024-09-10,Cameroon,Zimbabwe,0,0,African Nations Cup qualifier,Uganda,-13,+13,1580,1335
+2024-09-10,Burkina Faso,Malawi,3,1,African Nations Cup qualifier,Mali,+13,-13,1514,1265
+2024-09-10,Botswana,Egypt,0,4,African Nations Cup qualifier,Botswana,-14,+14,1287,1668
+2024-09-10,Benin,Libya,2,1,African Nations Cup qualifier,Ivory Coast,+20,-20,1413,1379
+2024-09-10,Mongolia,East Timor,2,0,Asian Cup qualifier,Mongolia,+16,-16,755,646
+2024-09-10,Macao,Brunei,0,1,Asian Cup qualifier,Macao,-24,+24,613,692
+2024-09-10,Cambodia,Sri Lanka,2,2,Asian Cup qualifier,Cambodia,-12,+12,827,703
+2024-09-10,United Arab Emirates,Iran,0,1,World Cup qualifier,the United Arab Emirates,-11,+11,1537,1819
+2024-09-10,Oman,South Korea,1,3,World Cup qualifier,Oman,-22,+22,1499,1743
+2024-09-10,North Korea,Qatar,2,2,World Cup qualifier,Laos,+10,-10,1406,1574
+2024-09-10,Kyrgyzstan,Uzbekistan,2,3,World Cup qualifier,Kyrgyzstan,-6,+6,1272,1690
+2024-09-10,Kuwait,Iraq,0,0,World Cup qualifier,Kuwait,+11,-11,1361,1658
+2024-09-10,Jordan,Palestine,3,1,World Cup qualifier,Malaysia,+15,-15,1629,1408
+2024-09-10,Indonesia,Australia,0,0,World Cup qualifier,Indonesia,+14,-14,1359,1724
+2024-09-10,China,Saudi Arabia,1,2,World Cup qualifier,China,-16,+16,1377,1588
+2024-09-10,Bahrain,Japan,0,5,World Cup qualifier,Bahrain,-14,+14,1476,1873
+2024-09-10,Andorra,Malta,0,1,European Nations League D,Andorra,-18,+18,1083,1260
+2024-09-10,North Macedonia,Armenia,2,0,European Nations League C,North Macedonia,+17,-17,1554,1459
+2024-09-10,Latvia,Faroe Islands,1,0,European Nations League C,Latvia,+12,-12,1319,1245
+2024-09-10,Ireland,Greece,0,2,European Nations League B,Ireland,-26,+26,1583,1781
+2024-09-10,England,Finland,2,0,European Nations League B,England,+4,-4,1996,1607
+2024-09-10,Czechia,Ukraine,3,2,European Nations League B,Czechia,+19,-19,1723,1767
+2024-09-10,Albania,Georgia,0,1,European Nations League B,Albania,-22,+22,1638,1754
+2024-09-10,Netherlands,Germany,2,2,European Nations League A,the Netherlands,-6,+6,1960,1957
+2024-09-10,Hungary,Bosnia and Herzegovina,0,0,European Nations League A,Hungary,-17,+17,1767,1491
+2024-09-10,US Virgin Islands,Barbados,0,3,CONCACAF Nations League C,the US Virgin Islands,-15,+15,608,958
+2024-09-10,Saint Kitts and Nevis,British Virgin Islands,2,0,CONCACAF Nations League C,the Cayman Islands,+4,-4,1107,640
+2024-09-10,Belize,Anguilla,1,0,CONCACAF Nations League C,Turks and Caicos Islands,+4,-4,1055,646
+2024-09-10,Dominican Republic,Dominica,2,0,CONCACAF Nations League B,Antigua and Barbuda,+15,-15,1239,1018
+2024-09-10,Antigua and Barbuda,Bermuda,0,1,CONCACAF Nations League B,Antigua and Barbuda,-17,+17,946,1128
+2024-09-10,Trinidad and Tobago,French Guiana,0,0,CONCACAF Nations League A,Trinidad and Tobago,-12,+12,1383,1277
+2024-09-10,Honduras,Jamaica,1,2,CONCACAF Nations League A,Honduras,-23,+23,1506,1596
+2024-09-10,Cuba,Nicaragua,1,1,CONCACAF Nations League A,Cuba,-2,+2,1309,1373
+2024-09-10,Venezuela,Uruguay,0,0,World Cup qualifier,Venezuela,+5,-5,1771,1956
+2024-09-10,Paraguay,Brazil,1,0,World Cup qualifier,Paraguay,+32,-32,1710,1997
+2024-09-10,Ecuador,Peru,1,0,World Cup qualifier,Ecuador,+8,-8,1871,1714
+2024-09-10,Colombia,Argentina,2,1,World Cup qualifier,Colombia,+22,-22,2062,2149
+2024-09-10,Chile,Bolivia,1,2,World Cup qualifier,Chile,-31,+31,1689,1637
+2024-10-08,Brunei,East Timor,0,1,Southeast Asian Championship qualifier,Brunei,-28,+28,664,674
+2024-10-09,Saint Kitts and Nevis,British Virgin Islands,3,1,CONCACAF Nations League C,Saint Kitts and Nevis,+2,-2,1109,638
+2024-10-09,Belize,Anguilla,1,0,CONCACAF Nations League C,Belize,+2,-2,1057,644
+2024-10-09,Barbados,US Virgin Islands,5,0,CONCACAF Nations League C,Barbados,+6,-6,964,602
+2024-10-10,Myanmar,Sri Lanka,2,0,Friendly,Myanmar,+4,-4,918,699
+2024-10-10,Liechtenstein,Hong Kong,1,0,Friendly,Liechtenstein,+12,-12,966,1102
+2024-10-10,New Caledonia,Papua New Guinea,3,1,World Cup qualifier,Fiji,+18,-18,1251,1061
+2024-10-10,Fiji,Solomon Islands,1,0,World Cup qualifier,Fiji,+14,-14,1217,1176
+2024-10-10,Uzbekistan,Iran,0,0,World Cup qualifier,Uzbekistan,+2,-2,1692,1817
+2024-10-10,United Arab Emirates,North Korea,1,1,World Cup qualifier,the United Arab Emirates,-12,+12,1525,1418
+2024-10-10,Saudi Arabia,Japan,0,2,World Cup qualifier,Saudi Arabia,-15,+15,1573,1888
+2024-10-10,Qatar,Kyrgyzstan,3,1,World Cup qualifier,Qatar,+5,-5,1579,1267
+2024-10-10,Oman,Kuwait,4,0,World Cup qualifier,Oman,+15,-15,1514,1346
+2024-10-10,Jordan,South Korea,0,2,World Cup qualifier,Jordan,-29,+29,1600,1772
+2024-10-10,Iraq,Palestine,1,0,World Cup qualifier,Iraq,+5,-5,1663,1403
+2024-10-10,Bahrain,Indonesia,2,2,World Cup qualifier,Bahrain,-11,+11,1465,1370
+2024-10-10,Australia,China,3,1,World Cup qualifier,Australia,+4,-4,1728,1373
+2024-10-10,Zimbabwe,Namibia,1,0,African Nations Cup qualifier,South Africa,+21,-21,1356,1332
+2024-10-10,Ghana,Sudan,0,0,African Nations Cup qualifier,Ghana,-11,+11,1491,1396
+2024-10-10,Democratic Republic of Congo,Tanzania,1,0,African Nations Cup qualifier,the Democratic Republic of the Congo,+7,-7,1585,1388
+2024-10-10,Cape Verde,Botswana,0,1,African Nations Cup qualifier,Cape Verde,-36,+36,1517,1323
+2024-10-10,Burkina Faso,Burundi,4,1,African Nations Cup qualifier,Ivory Coast,+17,-17,1531,1298
+2024-10-10,Algeria,Togo,5,1,African Nations Cup qualifier,Algeria,+7,-7,1678,1365
+2024-10-10,Moldova,Andorra,2,0,European Nations League D,Moldova,+6,-6,1371,1077
+2024-10-10,Gibraltar,San Marino,1,0,European Nations League D,Gibraltar,+5,-5,1061,794
+2024-10-10,Latvia,North Macedonia,0,3,European Nations League C,Latvia,-22,+22,1297,1576
+2024-10-10,Faroe Islands,Armenia,2,2,European Nations League C,the Faroe Islands,+6,-6,1251,1453
+2024-10-10,Norway,Slovenia,3,0,European Nations League B,Norway,+28,-28,1774,1749
+2024-10-10,Finland,Ireland,1,2,European Nations League B,Finland,-27,+27,1580,1610
+2024-10-10,England,Greece,1,2,European Nations League B,England,-34,+34,1962,1815
+2024-10-10,Austria,Kazakhstan,4,0,European Nations League B,Austria,+4,-4,1857,1453
+2024-10-10,Italy,Belgium,2,2,European Nations League A,Italy,-7,+7,1936,1930
+2024-10-10,France,Israel,4,1,European Nations League A,Hungary,+5,-5,2020,1552
+2024-10-10,Saint Vincent and the Grenadines,El Salvador,2,3,CONCACAF Nations League B,Saint Vincent and the Grenadines,-9,+9,1079,1420
+2024-10-10,Montserrat,Bonaire,1,0,CONCACAF Nations League B,Saint Vincent and the Grenadines,+12,-12,995,821
+2024-10-10,Nicaragua,Jamaica,0,2,CONCACAF Nations League A,Nicaragua,-20,+20,1353,1616
+2024-10-10,French Guiana,Honduras,2,3,CONCACAF Nations League A,French Guiana,-13,+13,1264,1519
+2024-10-10,Cuba,Trinidad and Tobago,2,2,CONCACAF Nations League A,Cuba,-1,+1,1308,1384
+2024-10-10,Venezuela,Argentina,1,1,World Cup qualifier,Venezuela,+13,-13,1784,2136
+2024-10-10,Ecuador,Paraguay,0,0,World Cup qualifier,Ecuador,-13,+13,1858,1723
+2024-10-10,Chile,Brazil,1,2,World Cup qualifier,Chile,-9,+9,1680,2006
+2024-10-10,Bolivia,Colombia,1,0,World Cup qualifier,Bolivia,+35,-35,1672,2027
+2024-10-11,Cambodia,Taiwan,3,2,Friendly,Cambodia,+9,-9,836,890
+2024-10-11,Thailand,Philippines,3,1,King's Cup,Thailand,+2,-2,1440,1039
+2024-10-11,Syria,Tajikistan,1,0,King's Cup,Thailand,+11,-11,1449,1339
+2024-10-11,New Zealand,Tahiti,3,0,World Cup qualifier,Vanuatu,+7,-7,1577,1181
+2024-10-11,Zambia,Chad,0,0,African Nations Cup qualifier,Zambia,-14,+14,1345,1175
+2024-10-11,Uganda,South Sudan,1,0,African Nations Cup qualifier,Uganda,+4,-4,1396,1111
+2024-10-11,Tunisia,Comoros,0,1,African Nations Cup qualifier,Tunisia,-37,+37,1644,1380
+2024-10-11,South Africa,Congo,5,0,African Nations Cup qualifier,South Africa,+8,-8,1561,1257
+2024-10-11,Senegal,Malawi,4,0,African Nations Cup qualifier,Senegal,+2,-2,1756,1263
+2024-10-11,Nigeria,Libya,1,0,African Nations Cup qualifier,Nigeria,+6,-6,1598,1373
+2024-10-11,Mozambique,Eswatini,1,1,African Nations Cup qualifier,Mozambique,-15,+15,1428,1234
+2024-10-11,Mali,Guinea-Bissau,1,0,African Nations Cup qualifier,Mali,+5,-5,1598,1355
+2024-10-11,Ivory Coast,Sierra Leone,4,1,African Nations Cup qualifier,Ivory Coast,+5,-5,1640,1298
+2024-10-11,Gambia,Madagascar,1,1,African Nations Cup qualifier,Morocco,-1,+1,1344,1330
+2024-10-11,Gabon,Lesotho,0,0,African Nations Cup qualifier,Gabon,-15,+15,1433,1222
+2024-10-11,Equatorial Guinea,Liberia,1,0,African Nations Cup qualifier,Equatorial Guinea,+5,-5,1530,1262
+2024-10-11,Egypt,Mauritania,2,0,African Nations Cup qualifier,Egypt,+5,-5,1673,1344
+2024-10-11,Cameroon,Kenya,4,1,African Nations Cup qualifier,Cameroon,+14,-14,1594,1423
+2024-10-11,Benin,Rwanda,3,0,African Nations Cup qualifier,Ivory Coast,+29,-29,1442,1327
+2024-10-11,Angola,Niger,2,0,African Nations Cup qualifier,Angola,+4,-4,1588,1238
+2024-10-11,Estonia,Azerbaijan,3,1,European Nations League C,Estonia,+30,-30,1387,1431
+2024-10-11,Slovakia,Sweden,2,2,European Nations League C,Slovakia,-6,+6,1696,1709
+2024-10-11,Ukraine,Georgia,1,0,European Nations League B,Poland,+19,-19,1786,1735
+2024-10-11,Turkey,Montenegro,1,0,European Nations League B,Turkey,+4,-4,1816,1512
+2024-10-11,Iceland,Wales,2,2,European Nations League B,Iceland,+2,-2,1576,1700
+2024-10-11,Czechia,Albania,2,0,European Nations League B,Czechia,+15,-15,1738,1623
+2024-10-11,Hungary,Netherlands,1,1,European Nations League A,Hungary,+5,-5,1772,1955
+2024-10-11,Bosnia and Herzegovina,Germany,1,2,European Nations League A,Bosnia and Herzegovina,-4,+4,1487,1961
+2024-10-11,Sint Maarten,Puerto Rico,3,2,CONCACAF Nations League B,Aruba,+32,-32,926,1110
+2024-10-11,Saint Lucia,Saint Martin,2,1,CONCACAF Nations League B,Saint Lucia,+5,-5,1146,912
+2024-10-11,Curaçao,Grenada,0,0,CONCACAF Nations League B,Saint Lucia,-13,+13,1316,1084
+2024-10-11,Aruba,Haiti,1,3,CONCACAF Nations League B,Aruba,-4,+4,940,1521
+2024-10-11,Suriname,Costa Rica,1,1,CONCACAF Nations League A,Suriname,+11,-11,1349,1651
+2024-10-11,Guyana,Guatemala,1,3,CONCACAF Nations League A,Guyana,-18,+18,1234,1522
+2024-10-11,Guadeloupe,Martinique,0,1,CONCACAF Nations League A,Guadeloupe,-22,+22,1316,1428
+2024-10-11,Peru,Uruguay,1,0,World Cup qualifier,Peru,+28,-28,1742,1928
+2024-10-12,Vietnam,India,1,1,Friendly,Vietnam,-5,+5,1248,1174
+2024-10-12,United States,Panama,2,0,Friendly,the United States,+11,-11,1738,1720
+2024-10-12,Vanuatu,Samoa,4,1,World Cup qualifier,Vanuatu,+5,-5,1097,735
+2024-10-12,Morocco,Central African Republic,5,0,African Nations Cup qualifier,Morocco,+3,-3,1783,1331
+2024-10-12,Guinea,Ethiopia,4,1,African Nations Cup qualifier,Ivory Coast,+21,-21,1469,1280
+2024-10-12,Lithuania,Kosovo,1,2,European Nations League C,Lithuania,-15,+15,1309,1527
+2024-10-12,Cyprus,Romania,0,3,European Nations League C,Cyprus,-10,+10,1300,1723
+2024-10-12,Bulgaria,Luxembourg,0,0,European Nations League C,Bulgaria,-8,+8,1494,1470
+2024-10-12,Belarus,Northern Ireland,0,0,European Nations League C,Hungary,+3,-3,1467,1519
+2024-10-12,Spain,Denmark,1,0,European Nations League A,Spain,+4,-4,2161,1859
+2024-10-12,Serbia,Switzerland,2,0,European Nations League A,Serbia,+28,-28,1812,1827
+2024-10-12,Poland,Portugal,1,3,European Nations League A,Poland,-19,+19,1729,1994
+2024-10-12,Croatia,Scotland,2,1,European Nations League A,Croatia,+6,-6,1918,1699
+2024-10-12,Turks and Caicos Islands,Anguilla,2,1,CONCACAF Nations League C,Belize,+21,-21,654,623
+2024-10-12,Cayman Islands,British Virgin Islands,1,0,CONCACAF Nations League C,Saint Kitts and Nevis,+11,-11,822,627
+2024-10-12,Bahamas,US Virgin Islands,3,1,CONCACAF Nations League C,Barbados,+15,-15,808,587
+2024-10-12,Dominican Republic,Antigua and Barbuda,5,0,CONCACAF Nations League B,Bermuda,+12,-12,1251,934
+2024-10-12,Bermuda,Dominica,6,1,CONCACAF Nations League B,Bermuda,+18,-18,1146,1000
+2024-10-13,Myanmar,Sri Lanka,0,0,Friendly,Myanmar,-7,+7,911,706
+2024-10-13,Andorra,San Marino,2,0,Friendly,Andorra,+3,-3,1080,791
+2024-10-13,Burkina Faso,Burundi,2,0,African Nations Cup qualifier,Ivory Coast,+12,-12,1543,1286
+2024-10-13,Malta,Moldova,1,0,European Nations League D,Malta,+21,-21,1281,1350
+2024-10-13,Liechtenstein,Gibraltar,0,0,European Nations League D,Liechtenstein,0,0,966,1061
+2024-10-13,Faroe Islands,Latvia,1,1,European Nations League C,the Faroe Islands,-3,+3,1248,1300
+2024-10-13,Armenia,North Macedonia,0,2,European Nations League C,Armenia,-28,+28,1425,1604
+2024-10-13,Kazakhstan,Slovenia,0,1,European Nations League B,Kazakhstan,-10,+10,1443,1759
+2024-10-13,Greece,Ireland,2,0,European Nations League B,Greece,+9,-9,1824,1601
+2024-10-13,Finland,England,1,3,European Nations League B,Finland,-10,+10,1570,1972
+2024-10-13,Austria,Norway,5,1,European Nations League B,Austria,+19,-19,1876,1755
+2024-10-13,Saint Vincent and the Grenadines,El Salvador,2,1,CONCACAF Nations League B,Saint Vincent and the Grenadines,+32,-32,1111,1388
+2024-10-13,Bonaire,Montserrat,1,0,CONCACAF Nations League B,Saint Vincent and the Grenadines,+29,-29,850,966
+2024-10-14,New Zealand,Malaysia,4,0,Friendly,New Zealand,+4,-4,1581,1286
+2024-10-14,Thailand,Syria,2,1,King's Cup,Thailand,+11,-11,1451,1438
+2024-10-14,Philippines,Tajikistan,3,0,King's Cup,Thailand,+45,-45,1084,1294
+2024-10-14,Zimbabwe,Namibia,3,1,African Nations Cup qualifier,South Africa,+28,-28,1384,1304
+2024-10-14,Togo,Algeria,0,1,African Nations Cup qualifier,Togo,-9,+9,1356,1687
+2024-10-14,Mozambique,Eswatini,3,0,African Nations Cup qualifier,South Africa,+17,-17,1445,1217
+2024-10-14,Liberia,Equatorial Guinea,1,2,African Nations Cup qualifier,Liberia,-11,+11,1251,1541
+2024-10-14,Gambia,Madagascar,1,0,African Nations Cup qualifier,Morocco,+19,-19,1363,1311
+2024-10-14,Cameroon,Kenya,1,0,African Nations Cup qualifier,Uganda,+11,-11,1605,1412
+2024-10-14,Estonia,Sweden,0,3,European Nations League C,Estonia,-15,+15,1372,1724
+2024-10-14,Azerbaijan,Slovakia,1,3,European Nations League C,Azerbaijan,-17,+17,1414,1713
+2024-10-14,Wales,Montenegro,1,0,European Nations League B,Wales,+6,-6,1706,1506
+2024-10-14,Iceland,Turkey,2,4,European Nations League B,Iceland,-19,+19,1557,1835
+2024-10-14,Georgia,Albania,0,1,European Nations League B,Georgia,-31,+31,1704,1654
+2024-10-14,Czechia,Ukraine,1,1,European Nations League B,Poland,+3,-3,1741,1783
+2024-10-14,Italy,Israel,4,1,European Nations League A,Italy,+4,-4,1940,1548
+2024-10-14,Germany,Netherlands,1,0,European Nations League A,Germany,+14,-14,1975,1941
+2024-10-14,Bosnia and Herzegovina,Hungary,0,2,European Nations League A,Bosnia and Herzegovina,-15,+15,1472,1787
+2024-10-14,Belgium,France,1,2,European Nations League A,Belgium,-21,+21,1909,2041
+2024-10-14,Saint Lucia,Saint Martin,0,4,CONCACAF Nations League B,Saint Lucia,-65,+65,1081,977
+2024-10-14,Puerto Rico,Sint Maarten,2,1,CONCACAF Nations League B,Aruba,+10,-10,1120,916
+2024-10-14,Curaçao,Grenada,1,0,CONCACAF Nations League B,Saint Lucia,+8,-8,1324,1076
+2024-10-14,Aruba,Haiti,3,5,CONCACAF Nations League B,Aruba,-4,+4,936,1525
+2024-10-14,Trinidad and Tobago,Cuba,3,1,CONCACAF Nations League A,Trinidad and Tobago,+16,-16,1400,1292
+2024-10-14,Nicaragua,French Guiana,3,2,CONCACAF Nations League A,Nicaragua,+10,-10,1363,1254
+2024-10-14,Jamaica,Honduras,0,0,CONCACAF Nations League A,Jamaica,-10,+10,1606,1529
+2024-10-15,Mexico,United States,2,0,Friendly,Mexico,+9,-9,1801,1729
+2024-10-15,Hong Kong,Cambodia,3,0,Friendly,Hong Kong,+4,-4,1106,832
+2024-10-15,Canada,Panama,2,1,Friendly,Canada,+6,-6,1776,1714
+2024-10-15,Brunei,East Timor,0,0,Southeast Asian Championship qualifier,Thailand,+1,-1,665,673
+2024-10-15,Uzbekistan,United Arab Emirates,1,0,World Cup qualifier,Uzbekistan,+7,-7,1699,1518
+2024-10-15,South Korea,Iraq,3,2,World Cup qualifier,South Korea,+9,-9,1781,1654
+2024-10-15,Saudi Arabia,Bahrain,0,0,World Cup qualifier,Saudi Arabia,-11,+11,1562,1476
+2024-10-15,Kyrgyzstan,North Korea,1,0,World Cup qualifier,Kyrgyzstan,+23,-23,1290,1395
+2024-10-15,Kuwait,Palestine,2,2,World Cup qualifier,Qatar,+3,-3,1349,1400
+2024-10-15,Jordan,Oman,4,0,World Cup qualifier,Jordan,+19,-19,1619,1495
+2024-10-15,Japan,Australia,1,1,World Cup qualifier,Japan,-13,+13,1875,1741
+2024-10-15,Iran,Qatar,4,1,World Cup qualifier,the United Arab Emirates,+14,-14,1831,1565
+2024-10-15,China,Indonesia,2,1,World Cup qualifier,China,+14,-14,1387,1356
+2024-10-15,Zambia,Chad,1,0,African Nations Cup qualifier,Cameroon,+11,-11,1356,1164
+2024-10-15,Tanzania,Democratic Republic of Congo,0,2,African Nations Cup qualifier,Tanzania,-22,+22,1366,1607
+2024-10-15,Sudan,Ghana,2,0,African Nations Cup qualifier,Libya,+38,-38,1434,1453
+2024-10-15,South Sudan,Uganda,1,2,African Nations Cup qualifier,South Sudan,-10,+10,1101,1406
+2024-10-15,Sierra Leone,Ivory Coast,1,0,African Nations Cup qualifier,Liberia,+35,-35,1333,1605
+2024-10-15,Rwanda,Benin,2,1,African Nations Cup qualifier,Rwanda,+21,-21,1348,1421
+2024-10-15,Morocco,Central African Republic,4,0,African Nations Cup qualifier,Morocco,+3,-3,1786,1328
+2024-10-15,Mauritania,Egypt,0,1,African Nations Cup qualifier,Mauritania,-8,+8,1336,1681
+2024-10-15,Malawi,Senegal,0,1,African Nations Cup qualifier,Malawi,-4,+4,1259,1760
+2024-10-15,Guinea-Bissau,Mali,0,0,African Nations Cup qualifier,Guinea-Bissau,+8,-8,1363,1590
+2024-10-15,Guinea,Ethiopia,3,0,African Nations Cup qualifier,Ivory Coast,+18,-18,1487,1262
+2024-10-15,Gabon,Lesotho,2,0,African Nations Cup qualifier,South Africa,+14,-14,1447,1208
+2024-10-15,Congo,South Africa,1,1,African Nations Cup qualifier,Congo,+11,-11,1268,1550
+2024-10-15,Comoros,Tunisia,1,1,African Nations Cup qualifier,Ivory Coast,+13,-13,1393,1631
+2024-10-15,Botswana,Cape Verde,1,0,African Nations Cup qualifier,Botswana,+25,-25,1348,1492
+2024-10-15,Angola,Niger,1,0,African Nations Cup qualifier,Morocco,+5,-5,1593,1233
+2024-10-15,Northern Ireland,Bulgaria,5,0,European Nations League C,Northern Ireland,+26,-26,1545,1468
+2024-10-15,Lithuania,Romania,1,2,European Nations League C,Lithuania,-6,+6,1303,1729
+2024-10-15,Kosovo,Cyprus,3,0,European Nations League C,Kosovo,+9,-9,1536,1291
+2024-10-15,Belarus,Luxembourg,1,1,European Nations League C,Hungary,0,0,1467,1470
+2024-10-15,Switzerland,Denmark,2,2,European Nations League A,Switzerland,-4,+4,1823,1863
+2024-10-15,Spain,Serbia,3,0,European Nations League A,Spain,+5,-5,2166,1807
+2024-10-15,Scotland,Portugal,0,0,European Nations League A,Scotland,+10,-10,1709,1984
+2024-10-15,Poland,Croatia,3,3,European Nations League A,Poland,+5,-5,1734,1913
+2024-10-15,Saint Kitts and Nevis,Cayman Islands,1,1,CONCACAF Nations League C,Saint Kitts and Nevis,-16,+16,1093,838
+2024-10-15,Belize,Turks and Caicos Islands,3,0,CONCACAF Nations League C,Belize,+4,-4,1061,650
+2024-10-15,Barbados,Bahamas,6,2,CONCACAF Nations League C,Barbados,+14,-14,978,794
+2024-10-15,Dominican Republic,Antigua and Barbuda,5,0,CONCACAF Nations League B,Bermuda,+11,-11,1262,923
+2024-10-15,Bermuda,Dominica,3,2,CONCACAF Nations League B,Bermuda,+8,-8,1154,992
+2024-10-15,Suriname,Guyana,5,1,CONCACAF Nations League A,Suriname,+17,-17,1366,1217
+2024-10-15,Martinique,Guadeloupe,0,0,CONCACAF Nations League A,Martinique,-11,+11,1417,1327
+2024-10-15,Costa Rica,Guatemala,3,0,CONCACAF Nations League A,Costa Rica,+15,-15,1666,1507
+2024-10-15,Uruguay,Ecuador,0,0,World Cup qualifier,Uruguay,-9,+9,1919,1867
+2024-10-15,Paraguay,Venezuela,2,1,World Cup qualifier,Paraguay,+18,-18,1741,1766
+2024-10-15,Colombia,Chile,4,0,World Cup qualifier,Colombia,+5,-5,2032,1675
+2024-10-15,Brazil,Peru,4,0,World Cup qualifier,Brazil,+8,-8,2014,1734
+2024-10-15,Argentina,Bolivia,6,0,World Cup qualifier,Argentina,+3,-3,2139,1669
+2024-11-13,Tajikistan,Nepal,4,0,Friendly tournament,Tajikistan,+3,-3,1297,895
+2024-11-13,Bangladesh,Maldives,0,1,Friendly,Bangladesh,-14,+14,897,893
+2024-11-13,Liberia,Togo,1,0,African Nations Cup qualifier,Liberia,+20,-20,1271,1336
+2024-11-13,Chad,Sierra Leone,1,1,African Nations Cup qualifier,Ivory Coast,+9,-9,1173,1324
+2024-11-13,Cameroon,Namibia,0,0,African Nations Cup qualifier,South Africa,-14,+14,1591,1318
+2024-11-14,Thailand,Lebanon,0,0,Friendly,Thailand,-6,+6,1445,1310
+2024-11-14,Singapore,Myanmar,3,2,Friendly,Singapore,+3,-3,1112,908
+2024-11-14,Malta,Liechtenstein,2,0,Friendly,Malta,+3,-3,1284,963
+2024-11-14,Malaysia,Laos,3,1,Friendly,Thailand,+1,-1,1287,664
+2024-11-14,Hong Kong,Philippines,3,1,Friendly,Hong Kong,+10,-10,1116,1074
+2024-11-14,Tunisia,Madagascar,3,2,African Nations Cup qualifier,South Africa,+5,-5,1636,1306
+2024-11-14,South Sudan,Congo,3,2,African Nations Cup qualifier,South Sudan,+24,-24,1125,1244
+2024-11-14,Senegal,Burkina Faso,1,0,African Nations Cup qualifier,Mali,+9,-9,1769,1534
+2024-11-14,Rwanda,Libya,0,1,African Nations Cup qualifier,Rwanda,-24,+24,1324,1397
+2024-11-14,Niger,Sudan,4,0,African Nations Cup qualifier,Togo,+57,-57,1290,1377
+2024-11-14,Lesotho,Central African Republic,1,0,African Nations Cup qualifier,South Africa,+27,-27,1235,1301
+2024-11-14,Equatorial Guinea,Algeria,0,0,African Nations Cup qualifier,Equatorial Guinea,+3,-3,1544,1684
+2024-11-14,Burundi,Malawi,0,0,African Nations Cup qualifier,Ivory Coast,-2,+2,1284,1261
+2024-11-14,Benin,Nigeria,1,1,African Nations Cup qualifier,Ivory Coast,+9,-9,1430,1589
+2024-11-14,North Macedonia,Latvia,1,0,European Nations League C,North Macedonia,+4,-4,1608,1296
+2024-11-14,Armenia,Faroe Islands,0,1,European Nations League C,Armenia,-33,+33,1392,1281
+2024-11-14,Slovenia,Norway,1,4,European Nations League B,Slovenia,-45,+45,1714,1800
+2024-11-14,Kazakhstan,Austria,0,2,European Nations League B,Kazakhstan,-8,+8,1435,1884
+2024-11-14,Ireland,Finland,1,0,European Nations League B,Ireland,+13,-13,1614,1557
+2024-11-14,Greece,England,0,3,European Nations League B,Greece,-30,+30,1794,2002
+2024-11-14,France,Israel,0,0,European Nations League A,France,-19,+19,2022,1567
+2024-11-14,Belgium,Italy,0,1,European Nations League A,Belgium,-24,+24,1885,1964
+2024-11-14,New Caledonia,Solomon Islands,3,2,World Cup qualifier,Papua New Guinea,+16,-16,1267,1160
+2024-11-14,Papua New Guinea,Fiji,3,3,World Cup qualifier,Papua New Guinea,+3,-3,1064,1214
+2024-11-14,United Arab Emirates,Kyrgyzstan,3,0,World Cup qualifier,the United Arab Emirates,+9,-9,1527,1281
+2024-11-14,Qatar,Uzbekistan,3,2,World Cup qualifier,Qatar,+22,-22,1587,1677
+2024-11-14,Oman,Palestine,1,0,World Cup qualifier,Oman,+10,-10,1505,1390
+2024-11-14,Kuwait,South Korea,1,3,World Cup qualifier,Kuwait,-8,+8,1341,1789
+2024-11-14,Iraq,Jordan,0,0,World Cup qualifier,Iraq,-7,+7,1647,1626
+2024-11-14,Iran,North Korea,3,2,World Cup qualifier,Laos,+3,-3,1834,1392
+2024-11-14,Bahrain,China,0,1,World Cup qualifier,Bahrain,-30,+30,1446,1417
+2024-11-14,Australia,Saudi Arabia,0,0,World Cup qualifier,Australia,-13,+13,1728,1575
+2024-11-14,Saint Kitts and Nevis,Cuba,2,1,CONCACAF Championship qualifier,Saint Kitts and Nevis,+26,-26,1119,1266
+2024-11-14,Belize,French Guiana,2,1,CONCACAF Championship qualifier,Belize,+25,-25,1086,1229
+2024-11-14,Saint Vincent and the Grenadines,Montserrat,2,1,CONCACAF Nations League B,El Salvador,+12,-12,1123,954
+2024-11-14,El Salvador,Bonaire,1,0,CONCACAF Nations League B,El Salvador,+1,-1,1389,849
+2024-11-14,Jamaica,United States,0,1,CONCACAF Nations League,Jamaica,-19,+19,1587,1748
+2024-11-14,Costa Rica,Panama,0,1,CONCACAF Nations League,Costa Rica,-23,+23,1643,1737
+2024-11-14,Venezuela,Brazil,1,1,World Cup qualifier,Venezuela,+8,-8,1774,2006
+2024-11-14,Paraguay,Argentina,2,1,World Cup qualifier,Paraguay,+34,-34,1775,2105
+2024-11-14,Ecuador,Bolivia,4,0,World Cup qualifier,Ecuador,+11,-11,1878,1658
+2024-11-15,Russia,Brunei,11,0,Friendly,Russia,0,0,1785,665
+2024-11-15,Zambia,Ivory Coast,1,0,African Nations Cup qualifier,Zambia,+28,-28,1384,1577
+2024-11-15,Uganda,South Africa,0,2,African Nations Cup qualifier,Uganda,-26,+26,1380,1576
+2024-11-15,Mozambique,Mali,0,1,African Nations Cup qualifier,Mozambique,-17,+17,1428,1607
+2024-11-15,Kenya,Zimbabwe,1,1,African Nations Cup qualifier,South Africa,-2,+2,1410,1386
+2024-11-15,Gabon,Morocco,1,5,African Nations Cup qualifier,Gabon,-15,+15,1432,1801
+2024-11-15,Eswatini,Guinea-Bissau,1,1,African Nations Cup qualifier,South Africa,+8,-8,1225,1355
+2024-11-15,Comoros,Gambia,2,1,African Nations Cup qualifier,Morocco,+18,-18,1411,1345
+2024-11-15,Cape Verde,Egypt,1,1,African Nations Cup qualifier,Cape Verde,+5,-5,1497,1676
+2024-11-15,Botswana,Mauritania,1,1,African Nations Cup qualifier,Botswana,-6,+6,1342,1342
+2024-11-15,Angola,Ghana,1,1,African Nations Cup qualifier,Angola,-12,+12,1581,1465
+2024-11-15,Cyprus,Lithuania,2,1,European Nations League C,Cyprus,+15,-15,1306,1288
+2024-11-15,Tahiti,Samoa,3,0,World Cup qualifier,New Zealand,+5,-5,1186,730
+2024-11-15,New Zealand,Vanuatu,8,1,World Cup qualifier,New Zealand,+3,-3,1584,1094
+2024-11-15,Indonesia,Japan,0,4,World Cup qualifier,Indonesia,-6,+6,1350,1881
+2024-11-15,San Marino,Gibraltar,1,1,European Nations League D,San Marino,+9,-9,800,1052
+2024-11-15,Romania,Kosovo,0,0,European Nations League C,Romania,-14,+14,1715,1550
+2024-11-15,Northern Ireland,Belarus,2,0,European Nations League C,Northern Ireland,+16,-16,1561,1451
+2024-11-15,Luxembourg,Bulgaria,0,1,European Nations League C,Luxembourg,-26,+26,1444,1494
+2024-11-15,Switzerland,Serbia,1,1,European Nations League A,Switzerland,-6,+6,1817,1813
+2024-11-15,Scotland,Croatia,1,0,European Nations League A,Scotland,+26,-26,1735,1887
+2024-11-15,Portugal,Poland,5,1,European Nations League A,Portugal,+9,-9,1993,1725
+2024-11-15,Denmark,Spain,1,2,European Nations League A,Denmark,-9,+9,1854,2175
+2024-11-15,Cayman Islands,Guadeloupe,0,6,CONCACAF Championship qualifier,the Cayman Islands,-8,+8,830,1335
+2024-11-15,Barbados,Guyana,1,4,CONCACAF Championship qualifier,Barbados,-22,+22,956,1239
+2024-11-15,Puerto Rico,Aruba,5,1,CONCACAF Nations League B,Puerto Rico,+12,-12,1132,924
+2024-11-15,Haiti,Sint Maarten,8,0,CONCACAF Nations League B,Puerto Rico,+3,-3,1528,913
+2024-11-15,Grenada,Saint Lucia,4,0,CONCACAF Nations League B,Curaçao,+38,-38,1114,1043
+2024-11-15,Curaçao,Saint Martin,5,0,CONCACAF Nations League B,Curaçao,+6,-6,1330,971
+2024-11-15,Suriname,Canada,0,1,CONCACAF Nations League,Suriname,-6,+6,1360,1782
+2024-11-15,Honduras,Mexico,2,0,CONCACAF Nations League,Honduras,+44,-44,1573,1757
+2024-11-15,Uruguay,Colombia,3,2,World Cup qualifier,Uruguay,+21,-21,1940,2011
+2024-11-15,Peru,Chile,0,0,World Cup qualifier,Peru,-9,+9,1725,1684
+2024-11-16,Sri Lanka,Yemen,1,0,Friendly,Qatar,+18,-18,724,1082
+2024-11-16,Nepal,Afghanistan,2,0,Friendly tournament,Tajikistan,+36,-36,931,1090
+2024-11-16,Bangladesh,Maldives,2,1,Friendly,Bangladesh,+7,-7,904,886
+2024-11-16,Tanzania,Ethiopia,2,0,African Nations Cup qualifier,the Democratic Republic of the Congo,+21,-21,1387,1241
+2024-11-16,Guinea,Democratic Republic of Congo,1,0,African Nations Cup qualifier,Ivory Coast,+27,-27,1514,1580
+2024-11-16,Andorra,Moldova,0,1,European Nations League D,Andorra,-11,+11,1069,1361
+2024-11-16,Sweden,Slovakia,2,1,European Nations League C,Sweden,+14,-14,1738,1699
+2024-11-16,Azerbaijan,Estonia,0,0,European Nations League C,Azerbaijan,-8,+8,1406,1380
+2024-11-16,Turkey,Wales,0,0,European Nations League B,Turkey,-12,+12,1823,1718
+2024-11-16,Montenegro,Iceland,0,2,European Nations League B,Montenegro,-34,+34,1472,1591
+2024-11-16,Georgia,Ukraine,1,1,European Nations League B,Georgia,-1,+1,1703,1784
+2024-11-16,Albania,Czechia,0,0,European Nations League B,Albania,-1,+1,1653,1742
+2024-11-16,Netherlands,Hungary,4,0,European Nations League A,the Netherlands,+14,-14,1955,1773
+2024-11-16,Germany,Bosnia and Herzegovina,7,0,European Nations League A,Germany,+3,-3,1978,1469
+2024-11-16,Dominican Republic,Dominica,6,1,CONCACAF Nations League B,the Dominican Republic,+8,-8,1270,984
+2024-11-16,Bermuda,Antigua and Barbuda,2,1,CONCACAF Nations League B,the Dominican Republic,+8,-8,1162,915
+2024-11-17,Thailand,Laos,1,1,Friendly,Thailand,-10,+10,1435,674
+2024-11-17,Togo,Equatorial Guinea,3,0,African Nations Cup qualifier,Togo,+46,-46,1382,1498
+2024-11-17,Algeria,Liberia,5,1,African Nations Cup qualifier,Algeria,+4,-4,1688,1267
+2024-11-17,North Macedonia,Faroe Islands,1,0,European Nations League C,North Macedonia,+3,-3,1611,1278
+2024-11-17,Latvia,Armenia,1,2,European Nations League C,Latvia,-20,+20,1276,1412
+2024-11-17,Norway,Kazakhstan,5,0,European Nations League B,Norway,+5,-5,1805,1430
+2024-11-17,Finland,Greece,0,2,European Nations League B,Finland,-19,+19,1538,1813
+2024-11-17,England,Ireland,5,0,European Nations League B,England,+5,-5,2007,1609
+2024-11-17,Austria,Slovenia,1,1,European Nations League B,Austria,-13,+13,1871,1727
+2024-11-17,Italy,France,1,3,European Nations League A,Italy,-34,+34,1930,2056
+2024-11-17,Israel,Belgium,1,0,European Nations League A,Hungary,+34,-34,1601,1851
+2024-11-17,Papua New Guinea,Solomon Islands,1,2,World Cup qualifier,Papua New Guinea,-20,+20,1044,1180
+2024-11-17,Fiji,New Caledonia,1,1,World Cup qualifier,Papua New Guinea,+3,-3,1217,1264
+2024-11-17,Saint Vincent and the Grenadines,Bonaire,3,1,CONCACAF Nations League B,El Salvador,+10,-10,1133,839
+2024-11-17,El Salvador,Montserrat,1,0,CONCACAF Nations League B,El Salvador,+2,-2,1391,952
+2024-11-18,Singapore,Taiwan,2,3,Friendly,Singapore,-17,+17,1095,907
+2024-11-18,India,Malaysia,1,1,Friendly,India,0,0,1174,1287
+2024-11-18,Tunisia,Gambia,0,1,African Nations Cup qualifier,Tunisia,-36,+36,1600,1381
+2024-11-18,Nigeria,Rwanda,1,2,African Nations Cup qualifier,Nigeria,-36,+36,1553,1360
+2024-11-18,Morocco,Lesotho,7,0,African Nations Cup qualifier,Morocco,+2,-2,1803,1233
+2024-11-18,Malawi,Burkina Faso,3,0,African Nations Cup qualifier,Malawi,+51,-51,1312,1483
+2024-11-18,Libya,Benin,0,0,African Nations Cup qualifier,Libya,-4,+4,1393,1434
+2024-11-18,Ghana,Niger,1,2,African Nations Cup qualifier,Ghana,-33,+33,1432,1323
+2024-11-18,Gabon,Central African Republic,1,0,African Nations Cup qualifier,South Africa,+13,-13,1445,1288
+2024-11-18,Comoros,Madagascar,1,0,African Nations Cup qualifier,Morocco,+14,-14,1425,1292
+2024-11-18,Angola,Sudan,0,0,African Nations Cup qualifier,Libya,-11,+11,1570,1388
+2024-11-18,Liechtenstein,San Marino,1,3,European Nations League D,Liechtenstein,-49,+49,914,849
+2024-11-18,Romania,Cyprus,4,1,European Nations League C,Romania,+4,-4,1719,1302
+2024-11-18,Luxembourg,Northern Ireland,2,2,European Nations League C,Luxembourg,+1,-1,1445,1560
+2024-11-18,Kosovo,Lithuania,1,0,European Nations League C,Kosovo,+4,-4,1554,1284
+2024-11-18,Bulgaria,Belarus,1,1,European Nations League C,Bulgaria,-8,+8,1486,1459
+2024-11-18,Spain,Switzerland,3,2,European Nations League A,Spain,+3,-3,2178,1814
+2024-11-18,Serbia,Denmark,0,0,European Nations League A,Serbia,-3,+3,1810,1857
+2024-11-18,Poland,Scotland,1,2,European Nations League A,Poland,-25,+25,1700,1760
+2024-11-18,Croatia,Portugal,1,1,European Nations League A,Croatia,0,0,1887,1993
+2024-11-18,Tahiti,Vanuatu,2,0,World Cup qualifier,New Zealand,+22,-22,1208,1072
+2024-11-18,New Zealand,Samoa,8,0,World Cup qualifier,New Zealand,0,0,1584,730
+2024-11-18,Cuba,Saint Kitts and Nevis,4,0,CONCACAF Championship qualifier,Cuba,+15,-15,1281,1104
+2024-11-18,Sint Maarten,Aruba,1,0,CONCACAF Nations League B,Puerto Rico,+21,-21,934,903
+2024-11-18,Saint Martin,Grenada,3,0,CONCACAF Nations League B,Curaçao,+49,-49,1020,1065
+2024-11-18,Puerto Rico,Haiti,0,3,CONCACAF Nations League B,Puerto Rico,-11,+11,1121,1539
+2024-11-18,Curaçao,Saint Lucia,4,1,CONCACAF Nations League B,Curaçao,+7,-7,1337,1036
+2024-11-18,United States,Jamaica,4,2,CONCACAF Nations League,the United States,+11,-11,1759,1576
+2024-11-18,Panama,Costa Rica,2,2,CONCACAF Nations League,Panama,-10,+10,1727,1653
+2024-11-19,Yemen,Sri Lanka,2,0,Friendly,Qatar,+3,-3,1085,721
+2024-11-19,Tajikistan,Afghanistan,3,1,Friendly tournament,Tajikistan,+7,-7,1304,1083
+2024-11-19,Russia,Syria,4,0,Friendly,Russia,+3,-3,1788,1435
+2024-11-19,Myanmar,Lebanon,2,3,Friendly,Myanmar,-3,+3,905,1313
+2024-11-19,Hong Kong,Mauritius,1,0,Friendly,Hong Kong,+5,-5,1121,1036
+2024-11-19,Gibraltar,Moldova,1,1,Friendly,Gibraltar,+5,-5,1057,1356
+2024-11-19,Zambia,Sierra Leone,2,0,African Nations Cup qualifier,Liberia,+25,-25,1409,1299
+2024-11-19,Tanzania,Guinea,1,0,African Nations Cup qualifier,Tanzania,+22,-22,1409,1492
+2024-11-19,South Africa,South Sudan,3,0,African Nations Cup qualifier,South Africa,+3,-3,1579,1122
+2024-11-19,Senegal,Burundi,2,0,African Nations Cup qualifier,Senegal,+2,-2,1771,1282
+2024-11-19,Mauritania,Cape Verde,1,0,African Nations Cup qualifier,Mauritania,+23,-23,1365,1474
+2024-11-19,Mali,Eswatini,6,0,African Nations Cup qualifier,Mali,+5,-5,1612,1220
+2024-11-19,Kenya,Namibia,0,0,African Nations Cup qualifier,South Africa,-5,+5,1405,1323
+2024-11-19,Ivory Coast,Chad,4,0,African Nations Cup qualifier,Ivory Coast,+4,-4,1581,1169
+2024-11-19,Guinea-Bissau,Mozambique,1,2,African Nations Cup qualifier,Guinea-Bissau,-22,+22,1333,1450
+2024-11-19,Egypt,Botswana,1,1,African Nations Cup qualifier,Egypt,-17,+17,1659,1359
+2024-11-19,Democratic Republic of Congo,Ethiopia,1,2,African Nations Cup qualifier,the Democratic Republic of the Congo,-37,+37,1543,1278
+2024-11-19,Congo,Uganda,0,1,African Nations Cup qualifier,Congo,-18,+18,1226,1398
+2024-11-19,Cameroon,Zimbabwe,2,1,African Nations Cup qualifier,Cameroon,+6,-6,1597,1380
+2024-11-19,Malta,Andorra,0,0,European Nations League D,Malta,-14,+14,1270,1083
+2024-11-19,Sweden,Azerbaijan,6,0,European Nations League C,Sweden,+7,-7,1745,1399
+2024-11-19,Slovakia,Estonia,1,0,European Nations League C,Slovakia,+3,-3,1702,1377
+2024-11-19,Wales,Iceland,4,1,European Nations League B,Wales,+15,-15,1733,1576
+2024-11-19,Montenegro,Turkey,3,1,European Nations League B,Montenegro,+49,-49,1521,1774
+2024-11-19,Czechia,Georgia,2,1,European Nations League B,Czechia,+12,-12,1754,1691
+2024-11-19,Albania,Ukraine,1,2,European Nations League B,Albania,-18,+18,1635,1802
+2024-11-19,Hungary,Germany,1,1,European Nations League A,Hungary,+6,-6,1779,1972
+2024-11-19,Bosnia and Herzegovina,Netherlands,1,1,European Nations League A,Bosnia and Herzegovina,+16,-16,1485,1939
+2024-11-19,Uzbekistan,North Korea,1,0,World Cup qualifier,Laos,+6,-6,1683,1386
+2024-11-19,United Arab Emirates,Qatar,5,0,World Cup qualifier,the United Arab Emirates,+35,-35,1562,1552
+2024-11-19,Palestine,South Korea,1,1,World Cup qualifier,Jordan,+16,-16,1406,1773
+2024-11-19,Oman,Iraq,0,1,World Cup qualifier,Oman,-18,+18,1487,1665
+2024-11-19,Kyrgyzstan,Iran,2,3,World Cup qualifier,Kyrgyzstan,-3,+3,1278,1837
+2024-11-19,Kuwait,Jordan,1,1,World Cup qualifier,Kuwait,+10,-10,1351,1616
+2024-11-19,Indonesia,Saudi Arabia,2,0,World Cup qualifier,Indonesia,+40,-40,1390,1535
+2024-11-19,China,Japan,1,3,World Cup qualifier,China,-7,+7,1410,1888
+2024-11-19,Bahrain,Australia,2,2,World Cup qualifier,Bahrain,+10,-10,1456,1718
+2024-11-19,Guyana,Barbados,5,3,CONCACAF Championship qualifier,Guyana,+6,-6,1245,950
+2024-11-19,Guadeloupe,Cayman Islands,1,0,CONCACAF Championship qualifier,Guadeloupe,+1,-1,1336,829
+2024-11-19,Belize,French Guiana,2,2,CONCACAF Championship qualifier,Suriname,+8,-8,1094,1221
+2024-11-19,Dominican Republic,Bermuda,6,1,CONCACAF Nations League B,the Dominican Republic,+19,-19,1289,1143
+2024-11-19,Antigua and Barbuda,Dominica,0,0,CONCACAF Nations League B,the Dominican Republic,+4,-4,919,980
+2024-11-19,Mexico,Honduras,4,0,CONCACAF Nations League,Mexico,+12,-12,1769,1561
+2024-11-19,Canada,Suriname,3,0,CONCACAF Nations League,Canada,+3,-3,1785,1357
+2024-11-19,Colombia,Ecuador,0,1,World Cup qualifier,Colombia,-32,+32,1979,1910
+2024-11-19,Chile,Venezuela,4,2,World Cup qualifier,Chile,+29,-29,1713,1745
+2024-11-19,Brazil,Uruguay,1,1,World Cup qualifier,Brazil,-9,+9,1997,1949
+2024-11-19,Bolivia,Paraguay,2,2,World Cup qualifier,Bolivia,+1,-1,1659,1774
+2024-11-19,Argentina,Peru,1,0,World Cup qualifier,Argentina,+2,-2,2107,1723
+2024-12-08,Hong Kong,Mongolia,3,0,East Asian Championship qualifier,Hong Kong,+4,-4,1125,751
+2024-12-08,Thailand,East Timor,10,0,Southeast Asian Championship,Vietnam,+1,-1,1436,672
+2024-12-08,Cambodia,Malaysia,2,2,Southeast Asian Championship,Cambodia,+15,-15,847,1272
+2024-12-09,Kuwait,Yemen,1,1,Friendly,Qatar,-6,+6,1345,1091
+2024-12-09,Solomon Islands,Vanuatu,4,1,Melanesian Cup,the Solomon Islands,+16,-16,1196,1056
+2024-12-09,Myanmar,Indonesia,0,1,Southeast Asian Championship,Myanmar,-4,+4,901,1394
+2024-12-09,Laos,Vietnam,1,4,Southeast Asian Championship,Laos,-4,+4,670,1252
+2024-12-11,Taiwan,Mongolia,4,0,East Asian Championship qualifier,Hong Kong,+22,-22,929,729
+2024-12-11,Singapore,Cambodia,2,1,Southeast Asian Championship,Singapore,+5,-5,1100,842
+2024-12-11,Malaysia,East Timor,3,2,Southeast Asian Championship,Malaysia,+1,-1,1273,671
+2024-12-12,Lebanon,Kuwait,2,1,Friendly,Qatar,+11,-11,1324,1334
+2024-12-12,Fiji,Vanuatu,1,1,Melanesian Cup,the Solomon Islands,-9,+9,1208,1065
+2024-12-12,Philippines,Myanmar,1,1,Southeast Asian Championship,the Philippines,-13,+13,1061,914
+2024-12-12,Indonesia,Laos,3,3,Southeast Asian Championship,Indonesia,-20,+20,1374,690
+2024-12-14,Hong Kong,Taiwan,2,1,East Asian Championship qualifier,Hong Kong,+6,-6,1131,923
+2024-12-14,Guam,Macao,2,1,East Asian Championship qualifier,Hong Kong,+16,-16,696,597
+2024-12-14,Thailand,Malaysia,1,0,Southeast Asian Championship,Thailand,+7,-7,1443,1266
+2024-12-14,Singapore,East Timor,3,0,Southeast Asian Championship,Vietnam,+5,-5,1105,666
+2024-12-15,Lebanon,Kuwait,2,0,Friendly,Qatar,+15,-15,1339,1319
+2024-12-15,Fiji,Papua New Guinea,1,1,Melanesian Cup,the Solomon Islands,-9,+9,1199,1053
+2024-12-15,Vietnam,Indonesia,1,0,Southeast Asian Championship,Vietnam,+21,-21,1273,1353
+2024-12-15,Laos,Philippines,1,1,Southeast Asian Championship,Laos,+13,-13,703,1048
+2024-12-16,Oman,Yemen,1,0,Friendly,Oman,+1,-1,1488,1090
+2024-12-17,Saudi Arabia,Trinidad and Tobago,3,1,Friendly,Saudi Arabia,+6,-6,1541,1394
+2024-12-17,Hong Kong,Guam,5,0,East Asian Championship qualifier,Hong Kong,+4,-4,1135,692
+2024-12-17,Singapore,Thailand,2,4,Southeast Asian Championship,Singapore,-12,+12,1093,1455
+2024-12-17,Cambodia,East Timor,2,1,Southeast Asian Championship,Cambodia,+7,-7,849,659
+2024-12-18,Solomon Islands,Papua New Guinea,2,3,Melanesian Cup,the Solomon Islands,-32,+32,1164,1085
+2024-12-18,Philippines,Vietnam,1,1,Southeast Asian Championship,the Philippines,+7,-7,1055,1266
+2024-12-18,Myanmar,Laos,3,2,Southeast Asian Championship,Myanmar,+6,-6,920,697
+2024-12-20,Thailand,Cambodia,3,2,Southeast Asian Championship,Thailand,+1,-1,1456,848
+2024-12-20,Malaysia,Singapore,0,0,Southeast Asian Championship,Malaysia,-13,+13,1253,1106
+2024-12-21,Northern Mariana Islands,Guam,1,2,Friendly,the Northern Mariana Islands,-6,+6,446,698
+2024-12-21,Solomon Islands,Fiji,1,3,Melanesian Cup,the Solomon Islands,-36,+36,1128,1235
+2024-12-21,Papua New Guinea,Vanuatu,2,1,Melanesian Cup,the Solomon Islands,+19,-19,1104,1046
+2024-12-21,Vietnam,Myanmar,5,0,Southeast Asian Championship,Vietnam,+6,-6,1272,914
+2024-12-21,Indonesia,Philippines,0,1,Southeast Asian Championship,Indonesia,-36,+36,1317,1091
+2024-12-21,Qatar,United Arab Emirates,1,1,Gulf Cup,Kuwait,+1,-1,1553,1561
+2024-12-21,Kuwait,Oman,1,1,Gulf Cup,Kuwait,+4,-4,1323,1484
+2024-12-22,Northern Mariana Islands,Guam,0,8,Friendly,the Northern Mariana Islands,-14,+14,432,712
+2024-12-22,Iraq,Yemen,1,0,Gulf Cup,Kuwait,+1,-1,1666,1089
+2024-12-22,Bahrain,Saudi Arabia,3,2,Gulf Cup,Kuwait,+25,-25,1481,1516
+2024-12-24,Oman,Qatar,2,1,Gulf Cup,Kuwait,+24,-24,1508,1529
+2024-12-24,Kuwait,United Arab Emirates,2,1,Gulf Cup,Kuwait,+28,-28,1351,1533
+2024-12-25,Saudi Arabia,Yemen,3,2,Gulf Cup,Kuwait,+3,-3,1519,1086
+2024-12-25,Bahrain,Iraq,2,0,Gulf Cup,Kuwait,+45,-45,1526,1621
+2024-12-26,Singapore,Vietnam,0,2,Southeast Asian Championship,Singapore,-24,+24,1082,1296
+2024-12-27,Philippines,Thailand,2,1,Southeast Asian Championship,the Philippines,+33,-33,1124,1423
+2024-12-27,Oman,United Arab Emirates,1,1,Gulf Cup,Kuwait,+1,-1,1509,1532
+2024-12-27,Kuwait,Qatar,1,1,Gulf Cup,Kuwait,+4,-4,1355,1525
+2024-12-28,Yemen,Bahrain,2,1,Gulf Cup,Kuwait,+37,-37,1123,1489
+2024-12-28,Saudi Arabia,Iraq,3,1,Gulf Cup,Kuwait,+39,-39,1558,1582
+2024-12-29,Vietnam,Singapore,3,1,Southeast Asian Championship,Vietnam,+8,-8,1304,1074
+2024-12-30,Thailand,Philippines,3,1,Southeast Asian Championship,Thailand,+5,-5,1428,1119
+2024-12-31,Oman,Saudi Arabia,2,1,Gulf Cup,Kuwait,+23,-23,1532,1535
+2024-12-31,Kuwait,Bahrain,0,1,Gulf Cup,Kuwait,-18,+18,1337,1507

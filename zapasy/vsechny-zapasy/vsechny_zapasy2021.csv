@@ -1,0 +1,1133 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2021-01-12,United Arab Emirates,Iraq,0,0,Friendly,the United Arab Emirates,+3,-3,1430,1623
+2021-01-18,Kuwait,Palestine,0,1,Friendly,Kuwait,-13,+13,1404,1412
+2021-01-19,Dominican Republic,Puerto Rico,0,1,Friendly,the Dominican Republic,-17,+17,1165,990
+2021-01-22,Guatemala,Puerto Rico,1,0,Friendly,Guatemala,+1,-1,1488,989
+2021-01-25,Dominican Republic,Serbia,0,0,Friendly,the Dominican Republic,+9,-9,1174,1779
+2021-01-27,Iraq,Kuwait,2,1,Friendly,Iraq,+3,-3,1626,1401
+2021-01-28,Panama,Serbia,0,0,Friendly,Panama,+4,-4,1539,1775
+2021-01-31,United States,Trinidad and Tobago,7,0,Friendly,the United States,+2,-2,1748,1343
+2021-02-01,Jordan,Tajikistan,2,0,Friendly,the United Arab Emirates,+5,-5,1494,1220
+2021-02-05,Tajikistan,Jordan,1,0,Friendly,the United Arab Emirates,+17,-17,1237,1477
+2021-02-15,Uzbekistan,Jordan,2,0,Friendly,the United Arab Emirates,+12,-12,1563,1465
+2021-02-24,Guatemala,Nicaragua,1,0,Friendly,Guatemala,+2,-2,1490,1207
+2021-03-05,Bermuda,Bahamas,3,0,Friendly,the United States,+3,-3,1300,898
+2021-03-07,Bahamas,Bermuda,0,0,Friendly,the United States,+8,-8,906,1292
+2021-03-13,Kenya,South Sudan,1,0,Friendly,Kenya,+2,-2,1355,1091
+2021-03-15,Kenya,Tanzania,2,1,Friendly,Kenya,+6,-6,1361,1289
+2021-03-17,Ethiopia,Malawi,4,0,Friendly,Ethiopia,+17,-17,1295,1320
+2021-03-19,Barbados,Turks and Caicos Islands,2,0,Friendly,the Dominican Republic,+5,-5,1106,797
+2021-03-20,Jordan,Oman,0,0,Friendly,the United Arab Emirates,+1,-1,1466,1500
+2021-03-21,Antigua and Barbuda,British Virgin Islands,3,0,Friendly,Curaçao,+1,-1,1159,608
+2021-03-21,Anguilla,US Virgin Islands,0,0,Friendly,the United States,+4,-4,552,702
+2021-03-24,Qatar,Luxembourg,1,0,Friendly,Hungary,+3,-3,1643,1360
+2021-03-24,Kosovo,Lithuania,4,0,Friendly,Kosovo,+8,-8,1500,1362
+2021-03-24,Jordan,Lebanon,1,0,Friendly,the United Arab Emirates,+8,-8,1474,1386
+2021-03-24,Belarus,Honduras,1,1,Friendly,Belarus,0,0,1497,1610
+2021-03-24,Uganda,Burkina Faso,0,0,African Nations Cup qualifier,Uganda,-2,+2,1483,1555
+2021-03-24,São Tomé and Príncipe,Sudan,0,2,African Nations Cup qualifier,São Tomé and Príncipe,-18,+18,1068,1350
+2021-03-24,Rwanda,Mozambique,1,0,African Nations Cup qualifier,Rwanda,+16,-16,1285,1275
+2021-03-24,Malawi,South Sudan,1,0,African Nations Cup qualifier,Sudan,+8,-8,1328,1083
+2021-03-24,Guinea,Mali,1,0,African Nations Cup qualifier,Guinea,+22,-22,1460,1556
+2021-03-24,Ethiopia,Madagascar,4,0,African Nations Cup qualifier,Ethiopia,+41,-41,1336,1384
+2021-03-24,Turkey,Netherlands,4,2,World Cup qualifier,Turkey,+42,-42,1795,1953
+2021-03-24,Slovenia,Croatia,1,0,World Cup qualifier,Slovenia,+27,-27,1654,1833
+2021-03-24,Serbia,Ireland,3,2,World Cup qualifier,Serbia,+9,-9,1784,1649
+2021-03-24,Portugal,Azerbaijan,1,0,World Cup qualifier,Italy,+1,-1,2039,1383
+2021-03-24,Malta,Russia,1,3,World Cup qualifier,Malta,-5,+5,1210,1748
+2021-03-24,Latvia,Montenegro,1,2,World Cup qualifier,Latvia,-11,+11,1250,1542
+2021-03-24,Gibraltar,Norway,0,3,World Cup qualifier,Gibraltar,-3,+3,1093,1765
+2021-03-24,France,Ukraine,1,1,World Cup qualifier,France,-16,+16,2076,1849
+2021-03-24,Finland,Bosnia and Herzegovina,2,2,World Cup qualifier,Finland,-9,+9,1699,1643
+2021-03-24,Czechia,Estonia,6,2,World Cup qualifier,Poland,+8,-8,1769,1375
+2021-03-24,Cyprus,Slovakia,0,0,World Cup qualifier,Cyprus,+12,-12,1338,1652
+2021-03-24,Belgium,Wales,3,1,World Cup qualifier,Belgium,+6,-6,2117,1823
+2021-03-24,Suriname,Cayman Islands,3,0,World Cup qualifier,Suriname,+4,-4,1317,910
+2021-03-24,Saint Kitts and Nevis,Puerto Rico,1,0,World Cup qualifier,the Dominican Republic,+9,-9,1207,980
+2021-03-24,Guatemala,Cuba,1,0,World Cup qualifier,Guatemala,+5,-5,1495,1264
+2021-03-24,Dominican Republic,Dominica,1,0,World Cup qualifier,the Dominican Republic,+8,-8,1182,1015
+2021-03-24,Antigua and Barbuda,Montserrat,2,2,World Cup qualifier,Curaçao,-14,+14,1145,875
+2021-03-25,United States,Jamaica,4,1,Friendly,Austria,+10,-10,1758,1574
+2021-03-25,Saudi Arabia,Kuwait,1,0,Friendly,Saudi Arabia,+4,-4,1559,1397
+2021-03-25,Japan,South Korea,3,0,Friendly,Japan,+14,-14,1758,1758
+2021-03-25,India,Oman,1,1,Friendly,the United Arab Emirates,+7,-7,1197,1493
+2021-03-25,Bahrain,Syria,3,1,Friendly,Bahrain,+8,-8,1570,1477
+2021-03-25,Zambia,Algeria,3,3,African Nations Cup qualifier,Zambia,+11,-11,1454,1739
+2021-03-25,South Africa,Ghana,1,1,African Nations Cup qualifier,South Africa,-1,+1,1516,1608
+2021-03-25,Libya,Tunisia,2,5,African Nations Cup qualifier,Libya,-24,+24,1378,1642
+2021-03-25,Kenya,Egypt,1,1,African Nations Cup qualifier,Kenya,+8,-8,1369,1597
+2021-03-25,Gambia,Angola,1,0,African Nations Cup qualifier,The Gambia,+14,-14,1372,1339
+2021-03-25,Gabon,Democratic Republic of Congo,3,0,African Nations Cup qualifier,Gabon,+32,-32,1466,1472
+2021-03-25,Equatorial Guinea,Tanzania,1,0,African Nations Cup qualifier,Equatorial Guinea,+11,-11,1359,1278
+2021-03-25,Comoros,Togo,0,0,African Nations Cup qualifier,the Comoros,-3,+3,1239,1299
+2021-03-25,Botswana,Zimbabwe,0,1,African Nations Cup qualifier,Botswana,-20,+20,1294,1441
+2021-03-25,Tajikistan,Mongolia,3,0,World Cup and Asian Cup qualifier,Tajikistan,+2,-2,1239,730
+2021-03-25,Sweden,Georgia,1,0,World Cup qualifier,Sweden,+3,-3,1824,1504
+2021-03-25,Spain,Greece,1,1,World Cup qualifier,Spain,-18,+18,2033,1645
+2021-03-25,Scotland,Austria,2,2,World Cup qualifier,Scotland,+1,-1,1661,1785
+2021-03-25,Romania,North Macedonia,3,2,World Cup qualifier,Romania,+10,-10,1676,1559
+2021-03-25,Moldova,Faroe Islands,1,1,World Cup qualifier,Moldova,-4,+4,1223,1267
+2021-03-25,Liechtenstein,Armenia,0,1,World Cup qualifier,Liechtenstein,-6,+6,1110,1529
+2021-03-25,Italy,Northern Ireland,2,0,World Cup qualifier,Italy,+3,-3,2001,1584
+2021-03-25,Israel,Denmark,0,2,World Cup qualifier,Israel,-12,+12,1580,1939
+2021-03-25,Hungary,Poland,3,3,World Cup qualifier,Hungary,-2,+2,1743,1815
+2021-03-25,Germany,Iceland,3,0,World Cup qualifier,Germany,+6,-6,1962,1626
+2021-03-25,England,San Marino,5,0,World Cup qualifier,England,0,0,1962,831
+2021-03-25,Bulgaria,Switzerland,1,3,World Cup qualifier,Bulgaria,-11,+11,1494,1882
+2021-03-25,Andorra,Albania,0,1,World Cup qualifier,Andorra,-3,+3,1032,1559
+2021-03-25,Trinidad and Tobago,Guyana,3,0,World Cup qualifier,the Dominican Republic,+23,-23,1366,1196
+2021-03-25,Panama,Barbados,1,0,World Cup qualifier,the Dominican Republic,+3,-3,1542,1103
+2021-03-25,Haiti,Belize,2,0,World Cup qualifier,Haiti,+3,-3,1560,1135
+2021-03-25,El Salvador,Grenada,2,0,World Cup qualifier,El Salvador,+6,-6,1486,1207
+2021-03-25,Curaçao,Saint Vincent and the Grenadines,5,0,World Cup qualifier,Curaçao,+10,-10,1424,1168
+2021-03-25,Canada,Bermuda,5,1,World Cup qualifier,the United States,+11,-11,1612,1281
+2021-03-26,Niger,Ivory Coast,0,3,African Nations Cup qualifier,Niger,-13,+13,1244,1632
+2021-03-26,Mauritania,Morocco,0,0,African Nations Cup qualifier,Mauritania,+12,-12,1353,1671
+2021-03-26,Eswatini,Guinea-Bissau,1,3,African Nations Cup qualifier,Eswatini,-24,+24,1101,1322
+2021-03-26,Congo,Senegal,0,0,African Nations Cup qualifier,Congo,+13,-13,1392,1745
+2021-03-26,Cape Verde,Cameroon,3,1,African Nations Cup qualifier,Cape Verde,+40,-40,1430,1566
+2021-03-26,Burundi,Central African Republic,2,2,African Nations Cup qualifier,Burundi,-1,+1,1252,1335
+2021-03-26,Chile,Bolivia,2,1,Friendly,Chile,+3,-3,1816,1580
+2021-03-27,Wales,Mexico,1,0,Friendly,Wales,+10,-10,1833,1921
+2021-03-27,Qatar,Azerbaijan,2,1,Friendly,Hungary,+4,-4,1647,1379
+2021-03-27,Nepal,Bangladesh,0,0,Friendly tournament,Nepal,-7,+7,897,849
+2021-03-27,Bosnia and Herzegovina,Costa Rica,0,0,Friendly,Bosnia and Herzegovina,-3,+3,1640,1626
+2021-03-27,Lesotho,Sierra Leone,0,0,African Nations Cup qualifier,Lesotho,-3,+3,1295,1352
+2021-03-27,Benin,Nigeria,0,1,African Nations Cup qualifier,Benin,-15,+15,1465,1685
+2021-03-27,Slovakia,Malta,2,2,World Cup qualifier,Slovakia,-18,+18,1634,1228
+2021-03-27,Serbia,Portugal,2,2,World Cup qualifier,Serbia,+8,-8,1792,2031
+2021-03-27,Russia,Slovenia,2,1,World Cup qualifier,Russia,+10,-10,1758,1644
+2021-03-27,Norway,Turkey,0,3,World Cup qualifier,Spain,-32,+32,1733,1827
+2021-03-27,Netherlands,Latvia,2,0,World Cup qualifier,the Netherlands,+1,-1,1954,1249
+2021-03-27,Montenegro,Gibraltar,4,1,World Cup qualifier,Montenegro,+3,-3,1545,1090
+2021-03-27,Ireland,Luxembourg,0,1,World Cup qualifier,Ireland,-36,+36,1613,1396
+2021-03-27,Czechia,Belgium,1,1,World Cup qualifier,Czechia,+12,-12,1781,2105
+2021-03-27,Croatia,Cyprus,1,0,World Cup qualifier,Croatia,+1,-1,1834,1337
+2021-03-27,Belarus,Estonia,4,2,World Cup qualifier,Belarus,+13,-13,1510,1362
+2021-03-27,US Virgin Islands,Antigua and Barbuda,0,3,World Cup qualifier,the US Virgin Islands,-9,+9,693,1154
+2021-03-27,Suriname,Aruba,6,0,World Cup qualifier,the United States,+7,-7,1324,885
+2021-03-27,Nicaragua,Turks and Caicos Islands,7,0,World Cup qualifier,the Dominican Republic,+8,-8,1215,789
+2021-03-27,Guatemala,British Virgin Islands,3,0,World Cup qualifier,Curaçao,0,0,1495,608
+2021-03-27,Dominican Republic,Anguilla,6,0,World Cup qualifier,the United States,+2,-2,1184,550
+2021-03-27,Bahamas,Saint Kitts and Nevis,0,4,World Cup qualifier,the Bahamas,-18,+18,888,1225
+2021-03-28,Northern Ireland,United States,1,2,Friendly,Northern Ireland,-8,+8,1576,1766
+2021-03-28,Greece,Honduras,2,1,Friendly,Greece,+6,-6,1651,1604
+2021-03-28,Tunisia,Equatorial Guinea,2,1,African Nations Cup qualifier,Tunisia,+4,-4,1646,1355
+2021-03-28,Tanzania,Libya,1,0,African Nations Cup qualifier,Tanzania,+20,-20,1298,1358
+2021-03-28,Sudan,South Africa,2,0,African Nations Cup qualifier,Sudan,+36,-36,1386,1480
+2021-03-28,Namibia,Guinea,2,1,African Nations Cup qualifier,Namibia,+22,-22,1342,1438
+2021-03-28,Ghana,São Tomé and Príncipe,3,1,African Nations Cup qualifier,Ghana,+1,-1,1609,1067
+2021-03-28,Ukraine,Finland,1,1,World Cup qualifier,Ukraine,-12,+12,1837,1711
+2021-03-28,Switzerland,Lithuania,1,0,World Cup qualifier,Switzerland,+1,-1,1883,1361
+2021-03-28,San Marino,Hungary,0,3,World Cup qualifier,San Marino,-1,+1,830,1744
+2021-03-28,Romania,Germany,0,1,World Cup qualifier,Romania,-10,+10,1666,1972
+2021-03-28,Poland,Andorra,3,0,World Cup qualifier,Poland,0,0,1815,1032
+2021-03-28,North Macedonia,Liechtenstein,5,0,World Cup qualifier,North Macedonia,+3,-3,1562,1107
+2021-03-28,Kosovo,Sweden,0,3,World Cup qualifier,Kosovo,-15,+15,1485,1839
+2021-03-28,Kazakhstan,France,0,2,World Cup qualifier,Kazakhstan,-1,+1,1333,2077
+2021-03-28,Israel,Scotland,1,1,World Cup qualifier,Israel,-1,+1,1579,1662
+2021-03-28,Georgia,Spain,1,2,World Cup qualifier,Georgia,-3,+3,1501,2036
+2021-03-28,Denmark,Moldova,8,0,World Cup qualifier,Denmark,+1,-1,1940,1222
+2021-03-28,Bulgaria,Italy,0,2,World Cup qualifier,Bulgaria,-5,+5,1489,2006
+2021-03-28,Austria,Faroe Islands,3,1,World Cup qualifier,Austria,+2,-2,1787,1265
+2021-03-28,Armenia,Iceland,2,0,World Cup qualifier,Armenia,+30,-30,1559,1596
+2021-03-28,Albania,England,0,2,World Cup qualifier,Albania,-9,+9,1550,1971
+2021-03-28,Puerto Rico,Trinidad and Tobago,1,1,World Cup qualifier,Puerto Rico,+14,-14,994,1352
+2021-03-28,Panama,Dominica,2,1,World Cup qualifier,the Dominican Republic,+2,-2,1544,1013
+2021-03-28,El Salvador,Montserrat,1,1,World Cup qualifier,Curaçao,-19,+19,1467,894
+2021-03-28,Curaçao,Cuba,2,1,World Cup qualifier,Guatemala,+11,-11,1435,1253
+2021-03-29,Uzbekistan,Iraq,0,1,Friendly,Uzbekistan,-11,+11,1552,1637
+2021-03-29,United Arab Emirates,India,6,0,Friendly,the United Arab Emirates,+5,-5,1435,1192
+2021-03-29,Nepal,Bangladesh,2,1,Friendly tournament,Nepal,+9,-9,906,840
+2021-03-29,Kuwait,Lebanon,1,1,Friendly,the United Arab Emirates,0,0,1397,1386
+2021-03-29,Ecuador,Bolivia,2,1,Friendly,Ecuador,+2,-2,1828,1578
+2021-03-29,Zimbabwe,Zambia,0,2,African Nations Cup qualifier,Zimbabwe,-37,+37,1404,1491
+2021-03-29,Togo,Kenya,1,2,African Nations Cup qualifier,Togo,-22,+22,1277,1391
+2021-03-29,Malawi,Uganda,1,0,African Nations Cup qualifier,Malawi,+23,-23,1351,1460
+2021-03-29,Egypt,Comoros,4,0,African Nations Cup qualifier,Egypt,+5,-5,1602,1234
+2021-03-29,Democratic Republic of Congo,Gambia,1,0,African Nations Cup qualifier,the Democratic Republic of the Congo,+10,-10,1482,1362
+2021-03-29,Burkina Faso,South Sudan,1,0,African Nations Cup qualifier,Burkina Faso,+1,-1,1556,1082
+2021-03-29,Angola,Gabon,2,0,African Nations Cup qualifier,Angola,+32,-32,1371,1434
+2021-03-29,Algeria,Botswana,5,0,African Nations Cup qualifier,Algeria,+3,-3,1742,1291
+2021-03-29,Canada,Cayman Islands,11,0,World Cup qualifier,the United States,+2,-2,1614,908
+2021-03-30,Mexico,Costa Rica,1,0,Friendly,Austria,+3,-3,1924,1623
+2021-03-30,Ireland,Qatar,1,1,Friendly,Hungary,+1,-1,1614,1646
+2021-03-30,Iran,Syria,3,0,Friendly,Iran,+3,-3,1766,1474
+2021-03-30,Bahrain,Jordan,1,2,Friendly,Bahrain,-15,+15,1555,1489
+2021-03-30,Senegal,Eswatini,1,1,African Nations Cup qualifier,Senegal,-19,+19,1726,1120
+2021-03-30,Nigeria,Lesotho,3,0,African Nations Cup qualifier,Nigeria,+4,-4,1689,1291
+2021-03-30,Mozambique,Cape Verde,0,1,African Nations Cup qualifier,Mozambique,-17,+17,1258,1447
+2021-03-30,Morocco,Burundi,1,0,African Nations Cup qualifier,Morocco,+2,-2,1673,1250
+2021-03-30,Madagascar,Niger,0,0,African Nations Cup qualifier,Madagascar,-12,+12,1372,1256
+2021-03-30,Ivory Coast,Ethiopia,3,1,African Nations Cup qualifier,Ivory Coast,+6,-6,1638,1330
+2021-03-30,Guinea-Bissau,Congo,3,0,African Nations Cup qualifier,Guinea-Bissau,+32,-32,1354,1360
+2021-03-30,Central African Republic,Mauritania,0,1,African Nations Cup qualifier,Central African Republic,-25,+25,1310,1378
+2021-03-30,Cameroon,Rwanda,0,0,African Nations Cup qualifier,Cameroon,-16,+16,1550,1301
+2021-03-30,Saudi Arabia,Palestine,5,0,World Cup and Asian Cup qualifier,Saudi Arabia,+16,-16,1575,1396
+2021-03-30,Japan,Mongolia,14,0,World Cup and Asian Cup qualifier,Japan,0,0,1758,730
+2021-03-30,Wales,Czechia,1,0,World Cup qualifier,Wales,+12,-12,1845,1769
+2021-03-30,Turkey,Latvia,3,3,World Cup qualifier,Turkey,-19,+19,1808,1268
+2021-03-30,Slovakia,Russia,2,1,World Cup qualifier,Slovakia,+21,-21,1655,1737
+2021-03-30,Montenegro,Norway,0,1,World Cup qualifier,Montenegro,-15,+15,1530,1748
+2021-03-30,Luxembourg,Portugal,1,3,World Cup qualifier,Luxembourg,-3,+3,1393,2034
+2021-03-30,Gibraltar,Netherlands,0,7,World Cup qualifier,Gibraltar,-1,+1,1089,1955
+2021-03-30,Cyprus,Slovenia,1,0,World Cup qualifier,Cyprus,+31,-31,1368,1613
+2021-03-30,Croatia,Malta,3,0,World Cup qualifier,Croatia,+1,-1,1835,1227
+2021-03-30,Belgium,Belarus,8,0,World Cup qualifier,Belgium,+2,-2,2107,1508
+2021-03-30,Azerbaijan,Serbia,1,2,World Cup qualifier,Azerbaijan,-6,+6,1373,1798
+2021-03-30,Saint Vincent and the Grenadines,British Virgin Islands,3,0,World Cup qualifier,Curaçao,+3,-3,1171,605
+2021-03-30,Guyana,Bahamas,4,0,World Cup qualifier,the Dominican Republic,+11,-11,1207,877
+2021-03-30,Grenada,US Virgin Islands,1,0,World Cup qualifier,Grenada,+1,-1,1208,692
+2021-03-30,Bermuda,Aruba,5,0,World Cup qualifier,Bermuda,+4,-4,1285,881
+2021-03-30,Belize,Turks and Caicos Islands,5,0,World Cup qualifier,the Dominican Republic,+10,-10,1145,779
+2021-03-30,Barbados,Anguilla,1,0,World Cup qualifier,the Dominican Republic,+2,-2,1105,548
+2021-03-31,Switzerland,Finland,3,2,Friendly,Switzerland,+3,-3,1886,1708
+2021-03-31,Sweden,Estonia,1,0,Friendly,Sweden,+1,-1,1840,1361
+2021-03-31,Ukraine,Kazakhstan,1,1,World Cup qualifier,Ukraine,-19,+19,1818,1352
+2021-03-31,Spain,Kosovo,3,1,World Cup qualifier,Spain,+1,-1,2037,1484
+2021-03-31,Scotland,Faroe Islands,4,0,World Cup qualifier,Scotland,+4,-4,1666,1261
+2021-03-31,San Marino,Albania,0,2,World Cup qualifier,San Marino,-2,+2,828,1552
+2021-03-31,Northern Ireland,Bulgaria,0,0,World Cup qualifier,Northern Ireland,-10,+10,1566,1499
+2021-03-31,Moldova,Israel,1,4,World Cup qualifier,Moldova,-13,+13,1209,1592
+2021-03-31,Lithuania,Italy,0,2,World Cup qualifier,Lithuania,-2,+2,1359,2008
+2021-03-31,Liechtenstein,Iceland,1,4,World Cup qualifier,Liechtenstein,-7,+7,1100,1603
+2021-03-31,Greece,Georgia,1,1,World Cup qualifier,Greece,-12,+12,1639,1513
+2021-03-31,Germany,North Macedonia,1,2,World Cup qualifier,Germany,-38,+38,1934,1600
+2021-03-31,England,Poland,2,1,World Cup qualifier,England,+7,-7,1978,1808
+2021-03-31,Bosnia and Herzegovina,France,0,1,World Cup qualifier,Bosnia and Herzegovina,-5,+5,1635,2082
+2021-03-31,Austria,Denmark,0,4,World Cup qualifier,Austria,-32,+32,1755,1972
+2021-03-31,Armenia,Romania,3,2,World Cup qualifier,Armenia,+20,-20,1579,1646
+2021-03-31,Andorra,Hungary,1,4,World Cup qualifier,Andorra,-2,+2,1030,1746
+2021-04-28,Sierra Leone,Liberia,0,2,Friendly tournament,Sierra Leone,-30,+30,1322,1359
+2021-05-23,Ukraine,Bahrain,1,1,Friendly,Ukraine,-8,+8,1810,1563
+2021-05-23,Kuwait,Malaysia,4,1,Friendly,the United Arab Emirates,+9,-9,1406,1193
+2021-05-23,Anguilla,US Virgin Islands,1,0,Friendly,the Dominican Republic,+14,-14,562,678
+2021-05-24,United Arab Emirates,Jordan,5,1,Friendly,the United Arab Emirates,+16,-16,1451,1473
+2021-05-24,Iraq,Tajikistan,0,0,Friendly,Iraq,-9,+9,1628,1248
+2021-05-25,Oman,Thailand,1,0,Friendly,the United Arab Emirates,+6,-6,1499,1351
+2021-05-25,Afghanistan,Indonesia,3,2,Friendly,the United Arab Emirates,+9,-9,1145,1108
+2021-05-27,Turkey,Azerbaijan,2,1,Friendly,Turkey,+1,-1,1809,1372
+2021-05-28,Italy,San Marino,7,0,Friendly,Italy,0,0,2008,828
+2021-05-28,Bahrain,Malaysia,2,0,Friendly,Bahrain,+2,-2,1565,1191
+2021-05-28,Japan,Myanmar,10,0,World Cup and Asian Cup qualifier,Japan,+1,-1,1759,1046
+2021-05-29,Tajikistan,Thailand,2,2,Friendly,the United Arab Emirates,+3,-3,1251,1348
+2021-05-29,Sweden,Finland,2,0,Friendly,Sweden,+6,-6,1846,1702
+2021-05-29,Oman,Indonesia,3,1,Friendly,the United Arab Emirates,+3,-3,1502,1105
+2021-05-29,Mexico,Iceland,2,1,Friendly,the United States,+3,-3,1927,1600
+2021-05-29,Iraq,Nepal,6,2,Friendly,Iraq,0,0,1628,906
+2021-05-29,Afghanistan,Singapore,1,1,Friendly,the United Arab Emirates,0,0,1145,1160
+2021-05-30,Uzbekistan,Thailand,4,1,Friendly,the United Arab Emirates,+8,-8,1560,1340
+2021-05-30,Switzerland,United States,2,1,Friendly,Switzerland,+4,-4,1890,1762
+2021-05-30,Northern Ireland,Malta,3,0,Friendly,Austria,+4,-4,1570,1223
+2021-05-30,China,Guam,7,0,World Cup and Asian Cup qualifier,China,+1,-1,1461,733
+2021-05-31,Turkey,Guinea,0,0,Friendly,Turkey,-9,+9,1800,1447
+2021-05-31,Jordan,Vietnam,1,1,Friendly,the United Arab Emirates,-2,+2,1471,1410
+2021-06-01,Poland,Russia,1,1,Friendly,Poland,-5,+5,1803,1742
+2021-06-01,North Macedonia,Slovenia,1,1,Friendly,North Macedonia,-2,+2,1598,1615
+2021-06-01,Kosovo,San Marino,4,1,Friendly,Kosovo,0,0,1484,828
+2021-06-01,Croatia,Armenia,1,1,Friendly,Croatia,-8,+8,1827,1587
+2021-06-01,Bulgaria,Slovakia,1,1,Friendly,Austria,+4,-4,1503,1651
+2021-06-01,Lithuania,Estonia,0,1,Baltic Cup,Lithuania,-19,+19,1340,1380
+2021-06-02,Romania,Georgia,1,2,Friendly,Romania,-16,+16,1630,1529
+2021-06-02,Norway,Luxembourg,1,0,Friendly,Spain,+2,-2,1750,1391
+2021-06-02,Netherlands,Scotland,2,2,Friendly,Portugal,-7,+7,1948,1673
+2021-06-02,Mozambique,Lesotho,5,0,Friendly tournament,Mozambique,+24,-24,1282,1267
+2021-06-02,France,Wales,3,0,Friendly,France,+4,-4,2086,1841
+2021-06-02,England,Austria,1,0,Friendly,England,+3,-3,1981,1752
+2021-06-02,Denmark,Germany,1,1,Friendly,Austria,-1,+1,1971,1935
+2021-06-02,Bosnia and Herzegovina,Montenegro,0,0,Friendly,Bosnia and Herzegovina,-5,+5,1630,1535
+2021-06-02,Belarus,Azerbaijan,1,2,Friendly,Belarus,-16,+16,1492,1388
+2021-06-02,Puerto Rico,Bahamas,7,0,World Cup qualifier,Puerto Rico,+20,-20,1014,857
+2021-06-02,Montserrat,US Virgin Islands,4,0,World Cup qualifier,the Dominican Republic,+17,-17,911,661
+2021-06-02,Dominica,Anguilla,3,0,World Cup qualifier,the Dominican Republic,+5,-5,1018,557
+2021-06-02,Cuba,British Virgin Islands,5,0,World Cup qualifier,Guatemala,+2,-2,1255,603
+2021-06-02,Aruba,Cayman Islands,3,1,World Cup qualifier,the United States,+32,-32,913,876
+2021-06-03,United Arab Emirates,Malaysia,4,0,World Cup and Asian Cup qualifier,the United Arab Emirates,+8,-8,1459,1183
+2021-06-03,Qatar,India,1,0,World Cup and Asian Cup qualifier,Qatar,+2,-2,1648,1190
+2021-06-03,Palestine,Singapore,4,0,World Cup and Asian Cup qualifier,Saudi Arabia,+15,-15,1411,1145
+2021-06-03,Nepal,Taiwan,2,0,World Cup and Asian Cup qualifier,Kuwait,+33,-33,939,909
+2021-06-03,Kuwait,Australia,0,3,World Cup and Asian Cup qualifier,Kuwait,-16,+16,1390,1728
+2021-06-03,Iran,Hong Kong,3,1,World Cup and Asian Cup qualifier,Bahrain,+2,-2,1768,1168
+2021-06-03,Indonesia,Thailand,2,2,World Cup and Asian Cup qualifier,the United Arab Emirates,+12,-12,1117,1328
+2021-06-03,Bahrain,Cambodia,8,0,World Cup and Asian Cup qualifier,Bahrain,+1,-1,1566,836
+2021-06-03,Afghanistan,Bangladesh,1,1,World Cup and Asian Cup qualifier,Qatar,-14,+14,1131,854
+2021-06-03,Ukraine,Northern Ireland,1,0,Friendly,Ukraine,+2,-2,1812,1568
+2021-06-03,Turkey,Moldova,2,0,Friendly,Germany,+1,-1,1801,1208
+2021-06-03,Switzerland,Liechtenstein,7,0,Friendly,Switzerland,0,0,1890,1100
+2021-06-03,Belgium,Greece,1,1,Friendly,Belgium,-9,+9,2098,1648
+2021-06-03,Andorra,Ireland,1,4,Friendly,Andorra,-2,+2,1028,1616
+2021-06-03,Algeria,Mauritania,4,1,Friendly,Algeria,+2,-2,1744,1376
+2021-06-03,United States,Honduras,1,0,CONCACAF Nations League,the United States,+7,-7,1769,1597
+2021-06-03,Costa Rica,Mexico,0,0,CONCACAF Nations League,the United States,+14,-14,1637,1913
+2021-06-03,Uruguay,Paraguay,0,0,World Cup qualifier,Uruguay,-14,+14,1940,1783
+2021-06-03,Peru,Colombia,0,3,World Cup qualifier,Peru,-35,+35,1758,1931
+2021-06-03,Bolivia,Venezuela,3,1,World Cup qualifier,Bolivia,+40,-40,1618,1762
+2021-06-03,Argentina,Chile,1,1,World Cup qualifier,Argentina,-13,+13,1978,1829
+2021-06-04,Syria,Maldives,4,0,World Cup and Asian Cup qualifier,the United Arab Emirates,+3,-3,1477,944
+2021-06-04,Spain,Portugal,0,0,Friendly,Spain,-3,+3,2034,2037
+2021-06-04,Slovenia,Gibraltar,6,0,Friendly,Slovenia,+1,-1,1616,1088
+2021-06-04,Rwanda,Central African Republic,2,0,Friendly,Rwanda,+11,-11,1312,1299
+2021-06-04,North Macedonia,Kazakhstan,4,0,Friendly,North Macedonia,+5,-5,1603,1347
+2021-06-04,Kosovo,Malta,2,1,Friendly,Austria,+4,-4,1488,1219
+2021-06-04,Italy,Czechia,4,0,Friendly,Italy,+5,-5,2013,1764
+2021-06-04,Hungary,Cyprus,1,0,Friendly,Hungary,+1,-1,1747,1367
+2021-06-04,Finland,Estonia,0,1,Friendly,Finland,-18,+18,1684,1398
+2021-06-04,Faroe Islands,Iceland,0,1,Friendly,the Faroe Islands,-4,+4,1257,1604
+2021-06-04,Cameroon,Nigeria,1,0,Friendly,Austria,+14,-14,1564,1675
+2021-06-04,Latvia,Lithuania,3,1,Baltic Cup,Latvia,+21,-21,1289,1319
+2021-06-04,Suriname,Bermuda,6,0,World Cup qualifier,Suriname,+26,-26,1350,1259
+2021-06-04,Saint Kitts and Nevis,Guyana,3,0,World Cup qualifier,Saint Kitts and Nevis,+24,-24,1249,1183
+2021-06-04,Guatemala,Saint Vincent and the Grenadines,10,0,World Cup qualifier,Guatemala,+8,-8,1503,1163
+2021-06-04,Dominican Republic,Barbados,1,1,World Cup qualifier,the Dominican Republic,-9,+9,1175,1114
+2021-06-04,Antigua and Barbuda,Grenada,1,0,World Cup qualifier,Antigua and Barbuda,+17,-17,1171,1191
+2021-06-04,Nicaragua,Belize,3,0,World Cup qualifier,Nicaragua,+19,-19,1234,1126
+2021-06-04,Brazil,Ecuador,2,0,World Cup qualifier,Brazil,+5,-5,2141,1823
+2021-06-05,South Korea,Turkmenistan,5,0,World Cup and Asian Cup qualifier,South Korea,+3,-3,1761,1261
+2021-06-05,Saudi Arabia,Yemen,3,0,World Cup and Asian Cup qualifier,Saudi Arabia,+4,-4,1579,1203
+2021-06-05,Lebanon,Sri Lanka,3,2,World Cup and Asian Cup qualifier,South Korea,+1,-1,1387,659
+2021-06-05,Wales,Albania,0,0,Friendly,Wales,-8,+8,1833,1560
+2021-06-05,Tunisia,Democratic Republic of Congo,1,0,Friendly,Tunisia,+4,-4,1650,1478
+2021-06-05,Togo,Guinea,2,0,Friendly,Turkey,+22,-22,1299,1425
+2021-06-05,Sweden,Armenia,3,1,Friendly,Sweden,+3,-3,1849,1584
+2021-06-05,Senegal,Zambia,3,1,Friendly,Senegal,+4,-4,1730,1487
+2021-06-05,Russia,Bulgaria,1,0,Friendly,Russia,+2,-2,1744,1501
+2021-06-05,Montenegro,Israel,1,3,Friendly,Montenegro,-17,+17,1518,1609
+2021-06-05,Ivory Coast,Burkina Faso,2,1,Friendly,Ivory Coast,+5,-5,1643,1551
+2021-06-05,Gambia,Niger,2,0,Friendly,Turkey,+11,-11,1373,1245
+2021-06-05,Eswatini,Lesotho,1,0,Friendly tournament,Mozambique,+21,-21,1141,1246
+2021-06-05,US Virgin Islands,El Salvador,0,7,World Cup qualifier,the US Virgin Islands,-2,+2,659,1469
+2021-06-05,Turks and Caicos Islands,Haiti,0,10,World Cup qualifier,Turks and Caicos Islands,-2,+2,777,1562
+2021-06-05,Panama,Anguilla,13,0,World Cup qualifier,Panama,0,0,1544,557
+2021-06-05,Curaçao,British Virgin Islands,8,0,World Cup qualifier,Guatemala,+1,-1,1436,602
+2021-06-05,Canada,Aruba,7,0,World Cup qualifier,the United States,+2,-2,1616,911
+2021-06-05,Bahamas,Trinidad and Tobago,0,0,World Cup qualifier,the Bahamas,+16,-16,873,1336
+2021-06-06,Netherlands,Georgia,3,0,Friendly,the Netherlands,+2,-2,1950,1527
+2021-06-06,Moldova,Azerbaijan,1,0,Friendly,Moldova,+12,-12,1220,1376
+2021-06-06,Luxembourg,Scotland,0,1,Friendly,Luxembourg,-5,+5,1386,1678
+2021-06-06,Greece,Norway,2,1,Friendly,Spain,+13,-13,1661,1737
+2021-06-06,England,Romania,1,0,Friendly,England,+1,-1,1982,1629
+2021-06-06,Denmark,Bosnia and Herzegovina,2,0,Friendly,Denmark,+2,-2,1973,1628
+2021-06-06,Belgium,Croatia,1,0,Friendly,Belgium,+2,-2,2100,1825
+2021-06-06,Austria,Slovakia,0,0,Friendly,Austria,-5,+5,1747,1656
+2021-06-06,Algeria,Mali,1,0,Friendly,Algeria,+3,-3,1747,1553
+2021-06-06,Costa Rica,Honduras,2,2,CONCACAF Nations League,the United States,-2,+2,1635,1599
+2021-06-06,United States,Mexico,3,2,CONCACAF Nations League,the United States,+23,-23,1792,1890
+2021-06-07,Vietnam,Indonesia,4,0,World Cup and Asian Cup qualifier,the United Arab Emirates,+12,-12,1422,1105
+2021-06-07,Uzbekistan,Singapore,5,0,World Cup and Asian Cup qualifier,Saudi Arabia,+7,-7,1567,1138
+2021-06-07,United Arab Emirates,Thailand,3,1,World Cup and Asian Cup qualifier,the United Arab Emirates,+13,-13,1472,1315
+2021-06-07,Syria,Guam,3,0,World Cup and Asian Cup qualifier,the United Arab Emirates,+1,-1,1478,732
+2021-06-07,Qatar,Oman,1,0,World Cup and Asian Cup qualifier,Qatar,+8,-8,1656,1494
+2021-06-07,Mongolia,Kyrgyzstan,1,0,World Cup and Asian Cup qualifier,Japan,+38,-38,768,1232
+2021-06-07,Jordan,Nepal,3,0,World Cup and Asian Cup qualifier,Kuwait,+3,-3,1474,936
+2021-06-07,Japan,Tajikistan,4,1,World Cup and Asian Cup qualifier,Japan,+2,-2,1761,1249
+2021-06-07,Iraq,Cambodia,4,1,World Cup and Asian Cup qualifier,Bahrain,+1,-1,1629,835
+2021-06-07,India,Bangladesh,2,0,World Cup and Asian Cup qualifier,Qatar,+8,-8,1198,846
+2021-06-07,China,Philippines,2,0,World Cup and Asian Cup qualifier,the United Arab Emirates,+9,-9,1470,1143
+2021-06-07,Bahrain,Iran,0,3,World Cup and Asian Cup qualifier,Bahrain,-25,+25,1541,1793
+2021-06-07,Australia,Taiwan,5,1,World Cup and Asian Cup qualifier,Kuwait,+1,-1,1729,908
+2021-06-07,Ukraine,Cyprus,4,0,Friendly,Ukraine,+2,-2,1814,1365
+2021-06-07,Rwanda,Central African Republic,5,0,Friendly,Rwanda,+14,-14,1326,1285
+2021-06-07,Jamaica,Serbia,1,1,Friendly,Japan,+6,-6,1580,1792
+2021-06-07,Germany,Latvia,7,1,Friendly,Germany,+1,-1,1936,1288
+2021-06-07,Faroe Islands,Liechtenstein,5,1,Friendly,the Faroe Islands,+7,-7,1264,1093
+2021-06-07,Andorra,Gibraltar,0,0,Friendly,Andorra,-1,+1,1027,1089
+2021-06-08,Spain,Lithuania,4,0,Friendly,Spain,0,0,2034,1319
+2021-06-08,Senegal,Cape Verde,2,0,Friendly,Senegal,+3,-3,1733,1444
+2021-06-08,Poland,Iceland,2,2,Friendly,Poland,-7,+7,1796,1611
+2021-06-08,Mozambique,Eswatini,1,1,Friendly tournament,Mozambique,-9,+9,1273,1150
+2021-06-08,Morocco,Ghana,1,0,Friendly,Morocco,+6,-6,1679,1603
+2021-06-08,Hungary,Ireland,0,0,Friendly,Hungary,-6,+6,1741,1622
+2021-06-08,Guinea,Kosovo,2,1,Friendly,Turkey,+12,-12,1437,1476
+2021-06-08,Gambia,Togo,1,0,Friendly,Turkey,+8,-8,1381,1291
+2021-06-08,France,Bulgaria,3,0,Friendly,France,+1,-1,2087,1500
+2021-06-08,Czechia,Albania,3,1,Friendly,Czechia,+4,-4,1768,1556
+2021-06-08,Cameroon,Nigeria,0,0,Friendly,Austria,+3,-3,1567,1672
+2021-06-08,Benin,Zambia,2,2,Friendly,Benin,-2,+2,1463,1489
+2021-06-08,Trinidad and Tobago,Saint Kitts and Nevis,2,0,World Cup qualifier,the Dominican Republic,+23,-23,1359,1226
+2021-06-08,Puerto Rico,Guyana,2,0,World Cup qualifier,Saint Kitts and Nevis,+44,-44,1058,1139
+2021-06-08,Panama,Dominican Republic,3,0,World Cup qualifier,Panama,+4,-4,1548,1171
+2021-06-08,Haiti,Nicaragua,1,0,World Cup qualifier,Haiti,+3,-3,1565,1231
+2021-06-08,Grenada,Montserrat,1,2,World Cup qualifier,Grenada,-36,+36,1155,947
+2021-06-08,El Salvador,Antigua and Barbuda,3,0,World Cup qualifier,El Salvador,+6,-6,1475,1165
+2021-06-08,Curaçao,Guatemala,0,0,World Cup qualifier,Curaçao,-2,+2,1434,1505
+2021-06-08,Cuba,Saint Vincent and the Grenadines,1,0,World Cup qualifier,Grenada,+15,-15,1270,1148
+2021-06-08,Canada,Suriname,4,0,World Cup qualifier,the United States,+13,-13,1629,1337
+2021-06-08,Bermuda,Cayman Islands,1,1,World Cup qualifier,the United States,-16,+16,1243,892
+2021-06-08,Barbados,Dominica,1,1,World Cup qualifier,the Dominican Republic,-5,+5,1109,1023
+2021-06-08,Venezuela,Uruguay,0,0,World Cup qualifier,Venezuela,+4,-4,1766,1936
+2021-06-08,Paraguay,Brazil,0,2,World Cup qualifier,Paraguay,-11,+11,1772,2152
+2021-06-08,Ecuador,Peru,1,2,World Cup qualifier,Ecuador,-29,+29,1794,1787
+2021-06-08,Colombia,Argentina,2,2,World Cup qualifier,Colombia,-3,+3,1928,1981
+2021-06-08,Chile,Bolivia,1,1,World Cup qualifier,Chile,-14,+14,1815,1632
+2021-06-09,Turkmenistan,Lebanon,3,2,World Cup and Asian Cup qualifier,South Korea,+27,-27,1288,1360
+2021-06-09,South Korea,Sri Lanka,5,0,World Cup and Asian Cup qualifier,South Korea,0,0,1761,659
+2021-06-09,United States,Costa Rica,4,0,Friendly,the United States,+7,-7,1799,1628
+2021-06-09,Portugal,Israel,4,0,Friendly,Portugal,+2,-2,2039,1607
+2021-06-09,Congo,Niger,1,0,Friendly,Turkey,+7,-7,1367,1238
+2021-06-10,South Africa,Uganda,3,2,Friendly,South Africa,+7,-7,1487,1453
+2021-06-10,Estonia,Latvia,2,1,Baltic Cup,Estonia,+7,-7,1405,1281
+2021-06-11,Vietnam,Malaysia,2,1,World Cup and Asian Cup qualifier,the United Arab Emirates,+8,-8,1430,1175
+2021-06-11,Uzbekistan,Yemen,1,0,World Cup and Asian Cup qualifier,Saudi Arabia,+4,-4,1571,1199
+2021-06-11,United Arab Emirates,Indonesia,5,0,World Cup and Asian Cup qualifier,the United Arab Emirates,+5,-5,1477,1100
+2021-06-11,Saudi Arabia,Singapore,3,0,World Cup and Asian Cup qualifier,Saudi Arabia,+3,-3,1582,1135
+2021-06-11,Philippines,Guam,3,0,World Cup and Asian Cup qualifier,the United Arab Emirates,+6,-6,1149,726
+2021-06-11,Oman,Afghanistan,2,1,World Cup and Asian Cup qualifier,Qatar,+4,-4,1498,1127
+2021-06-11,Kyrgyzstan,Myanmar,8,1,World Cup and Asian Cup qualifier,Japan,+23,-23,1255,1023
+2021-06-11,Kuwait,Jordan,0,0,World Cup and Asian Cup qualifier,Kuwait,-1,+1,1389,1475
+2021-06-11,Iraq,Hong Kong,1,0,World Cup and Asian Cup qualifier,Bahrain,+3,-3,1632,1165
+2021-06-11,Iran,Cambodia,10,0,World Cup and Asian Cup qualifier,Bahrain,0,0,1793,835
+2021-06-11,China,Maldives,5,0,World Cup and Asian Cup qualifier,the United Arab Emirates,+4,-4,1474,940
+2021-06-11,Australia,Nepal,3,0,World Cup and Asian Cup qualifier,Kuwait,+1,-1,1730,935
+2021-06-11,Tunisia,Algeria,0,2,Friendly,Tunisia,-15,+15,1635,1762
+2021-06-11,Sudan,Zambia,3,2,Friendly,Sudan,+10,-10,1396,1479
+2021-06-11,Mauritania,Liberia,1,0,Friendly,Tunisia,+10,-10,1386,1349
+2021-06-11,Kosovo,Gambia,1,0,Friendly,Turkey,+7,-7,1483,1374
+2021-06-11,Japan,Serbia,1,0,Friendly,Japan,+8,-8,1769,1784
+2021-06-11,Guinea,Niger,2,1,Friendly,Turkey,+5,-5,1442,1233
+2021-06-11,Democratic Republic of Congo,Mali,1,1,Friendly,Tunisia,+2,-2,1480,1551
+2021-06-11,Italy,Turkey,3,0,European Championship,Italy,+12,-12,2025,1789
+2021-06-12,Morocco,Burkina Faso,1,0,Friendly,Morocco,+4,-4,1683,1547
+2021-06-12,Honduras,Mexico,0,0,Friendly,the United States,+7,-7,1606,1883
+2021-06-12,Ghana,Ivory Coast,0,0,Friendly,Ghana,-2,+2,1601,1645
+2021-06-12,Switzerland,Wales,1,1,European Championship,Azerbaijan,-4,+4,1886,1837
+2021-06-12,Russia,Belgium,0,3,European Championship,Russia,-16,+16,1728,2116
+2021-06-12,Denmark,Finland,0,1,European Championship,Denmark,-45,+45,1928,1729
+2021-06-12,Saint Kitts and Nevis,El Salvador,0,4,World Cup qualifier,Saint Kitts and Nevis,-22,+22,1204,1497
+2021-06-12,Panama,Curaçao,2,1,World Cup qualifier,Panama,+9,-9,1557,1425
+2021-06-12,Haiti,Canada,0,1,World Cup qualifier,Haiti,-22,+22,1543,1651
+2021-06-13,South Korea,Lebanon,2,1,World Cup and Asian Cup qualifier,South Korea,+2,-2,1763,1358
+2021-06-13,Tanzania,Malawi,2,0,Friendly,Tanzania,+13,-13,1311,1338
+2021-06-13,Sudan,Zambia,0,1,Friendly,Sudan,-10,+10,1386,1489
+2021-06-13,Netherlands,Ukraine,3,2,European Championship,the Netherlands,+10,-10,1960,1804
+2021-06-13,England,Croatia,1,0,European Championship,England,+9,-9,1991,1816
+2021-06-13,Austria,North Macedonia,3,1,European Championship,Romania,+23,-23,1770,1580
+2021-06-13,Colombia,Ecuador,1,0,Copa América,Brazil,+16,-16,1944,1778
+2021-06-13,Brazil,Venezuela,3,0,Copa América,Brazil,+5,-5,2157,1761
+2021-06-14,Liberia,Libya,1,0,Friendly,Tunisia,+10,-10,1359,1348
+2021-06-14,Spain,Sweden,0,0,European Championship,Spain,-17,+17,2017,1866
+2021-06-14,Slovakia,Poland,2,1,European Championship,Russia,+35,-35,1691,1761
+2021-06-14,Scotland,Czechia,0,2,European Championship,Scotland,-39,+39,1639,1807
+2021-06-14,Paraguay,Bolivia,3,1,Copa América,Brazil,+23,-23,1795,1609
+2021-06-14,Argentina,Chile,1,1,Copa América,Brazil,-11,+11,1970,1826
+2021-06-15,United Arab Emirates,Vietnam,3,2,World Cup and Asian Cup qualifier,the United Arab Emirates,+12,-12,1489,1418
+2021-06-15,Tajikistan,Myanmar,4,0,World Cup and Asian Cup qualifier,Japan,+16,-16,1265,1007
+2021-06-15,Saudi Arabia,Uzbekistan,3,0,World Cup and Asian Cup qualifier,Saudi Arabia,+24,-24,1606,1547
+2021-06-15,Palestine,Yemen,3,0,World Cup and Asian Cup qualifier,Saudi Arabia,+16,-16,1427,1183
+2021-06-15,Oman,Bangladesh,3,0,World Cup and Asian Cup qualifier,Qatar,+2,-2,1500,844
+2021-06-15,Maldives,Philippines,1,1,World Cup and Asian Cup qualifier,the United Arab Emirates,+11,-11,951,1138
+2021-06-15,Malaysia,Thailand,1,0,World Cup and Asian Cup qualifier,the United Arab Emirates,+28,-28,1203,1287
+2021-06-15,Kuwait,Taiwan,2,1,World Cup and Asian Cup qualifier,Kuwait,+1,-1,1390,907
+2021-06-15,Japan,Kyrgyzstan,5,1,World Cup and Asian Cup qualifier,Japan,+2,-2,1771,1253
+2021-06-15,Iran,Iraq,1,0,World Cup and Asian Cup qualifier,Bahrain,+11,-11,1804,1621
+2021-06-15,China,Syria,3,1,World Cup and Asian Cup qualifier,the United Arab Emirates,+30,-30,1504,1448
+2021-06-15,Bahrain,Hong Kong,4,0,World Cup and Asian Cup qualifier,Bahrain,+5,-5,1546,1160
+2021-06-15,Australia,Jordan,1,0,World Cup and Asian Cup qualifier,Kuwait,+7,-7,1737,1468
+2021-06-15,Afghanistan,India,1,1,World Cup and Asian Cup qualifier,Qatar,+4,-4,1131,1194
+2021-06-15,Tunisia,Mali,1,0,Friendly,Tunisia,+5,-5,1640,1546
+2021-06-15,Djibouti,Somalia,1,0,Friendly,Djibouti,+8,-8,908,913
+2021-06-15,Sierra Leone,Benin,1,0,African Nations Cup qualifier,Guinea,+28,-28,1350,1435
+2021-06-15,Hungary,Portugal,0,3,European Championship,Hungary,-21,+21,1720,2060
+2021-06-15,Germany,France,0,1,European Championship,Germany,-21,+21,1915,2108
+2021-06-15,El Salvador,Saint Kitts and Nevis,2,0,World Cup qualifier,El Salvador,+6,-6,1503,1198
+2021-06-15,Curaçao,Panama,0,0,World Cup qualifier,Curaçao,+2,-2,1427,1555
+2021-06-15,Canada,Haiti,3,0,World Cup qualifier,the United States,+24,-24,1675,1519
+2021-06-16,Wales,Turkey,2,0,European Championship,Azerbaijan,+32,-32,1869,1757
+2021-06-16,Russia,Finland,1,0,European Championship,Russia,+18,-18,1746,1711
+2021-06-16,Italy,Switzerland,3,0,European Championship,Italy,+18,-18,2043,1868
+2021-06-17,Algeria,Liberia,5,1,Friendly,Algeria,+2,-2,1764,1357
+2021-06-17,Ukraine,North Macedonia,2,1,European Championship,Romania,+11,-11,1815,1569
+2021-06-17,Netherlands,Austria,2,0,European Championship,the Netherlands,+12,-12,1972,1758
+2021-06-17,Denmark,Belgium,1,2,European Championship,Denmark,-19,+19,1909,2135
+2021-06-17,Colombia,Venezuela,0,0,Copa América,Brazil,-12,+12,1932,1773
+2021-06-17,Brazil,Peru,4,0,Copa América,Brazil,+6,-6,2163,1781
+2021-06-18,Sweden,Slovakia,1,0,European Championship,Russia,+13,-13,1879,1678
+2021-06-18,England,Scotland,0,0,European Championship,England,-22,+22,1969,1661
+2021-06-18,Croatia,Czechia,1,1,European Championship,Scotland,-1,+1,1815,1808
+2021-06-18,Chile,Bolivia,1,0,Copa América,Brazil,+11,-11,1837,1598
+2021-06-18,Argentina,Uruguay,1,0,Copa América,Brazil,+23,-23,1993,1913
+2021-06-19,Sudan,Libya,1,0,Arab Cup qualifier,Qatar,+18,-18,1404,1330
+2021-06-19,Spain,Poland,1,1,European Championship,Spain,-19,+19,1998,1780
+2021-06-19,Hungary,France,1,1,European Championship,Hungary,+17,-17,1737,2091
+2021-06-19,Germany,Portugal,4,2,European Championship,Germany,+42,-42,1957,2018
+2021-06-20,Oman,Somalia,2,1,Arab Cup qualifier,Qatar,+1,-1,1501,912
+2021-06-20,Switzerland,Turkey,3,1,European Championship,Azerbaijan,+26,-26,1894,1731
+2021-06-20,Italy,Wales,1,0,European Championship,Italy,+9,-9,2052,1860
+2021-06-20,Peru,Colombia,2,1,Copa América,Brazil,+35,-35,1816,1897
+2021-06-20,Ecuador,Venezuela,2,2,Copa América,Brazil,0,0,1778,1773
+2021-06-21,Netherlands,North Macedonia,3,0,European Championship,the Netherlands,+5,-5,1977,1564
+2021-06-21,Denmark,Russia,4,1,European Championship,Denmark,+16,-16,1925,1730
+2021-06-21,Belgium,Finland,2,0,European Championship,Russia,+6,-6,2141,1705
+2021-06-21,Austria,Ukraine,1,0,European Championship,Romania,+29,-29,1787,1786
+2021-06-21,Chile,Uruguay,1,1,Copa América,Brazil,+5,-5,1842,1908
+2021-06-21,Argentina,Paraguay,1,0,Copa América,Brazil,+12,-12,2005,1783
+2021-06-22,Mauritania,Yemen,2,0,Arab Cup qualifier,Qatar,+14,-14,1400,1169
+2021-06-22,Scotland,Croatia,1,3,European Championship,Scotland,-32,+32,1629,1847
+2021-06-22,England,Czechia,1,0,European Championship,England,+9,-9,1978,1799
+2021-06-23,Lebanon,Djibouti,1,0,Arab Cup qualifier,Qatar,+3,-3,1361,905
+2021-06-23,Sweden,Poland,3,2,European Championship,Russia,+18,-18,1897,1762
+2021-06-23,Spain,Slovakia,5,0,European Championship,Spain,+8,-8,2006,1670
+2021-06-23,Germany,Hungary,2,2,European Championship,Germany,-18,+18,1939,1755
+2021-06-23,France,Portugal,2,2,European Championship,Hungary,-5,+5,2086,2023
+2021-06-23,Martinique,Guadeloupe,1,2,Friendly,Martinique,-17,+17,1428,1226
+2021-06-23,Ecuador,Peru,2,2,Copa América,Brazil,+3,-3,1781,1813
+2021-06-23,Brazil,Colombia,2,1,Copa América,Brazil,+5,-5,2168,1892
+2021-06-24,Palestine,Comoros,5,1,Arab Cup qualifier,Qatar,+19,-19,1446,1215
+2021-06-24,Uruguay,Bolivia,2,0,Copa América,Brazil,+11,-11,1919,1587
+2021-06-24,Paraguay,Chile,2,0,Copa América,Brazil,+44,-44,1827,1798
+2021-06-25,Bahrain,Kuwait,2,0,Arab Cup qualifier,Qatar,+17,-17,1563,1373
+2021-06-26,Italy,Austria,2,1,European Championship,England,+9,-9,2061,1778
+2021-06-26,Denmark,Wales,4,0,European Championship,the Netherlands,+38,-38,1963,1822
+2021-06-26,El Salvador,Guatemala,0,0,Friendly,the United States,0,0,1503,1505
+2021-06-27,Czechia,Netherlands,2,0,European Championship,Hungary,+55,-55,1854,1922
+2021-06-27,Belgium,Portugal,1,0,European Championship,Spain,+17,-17,2158,2006
+2021-06-27,Peru,Venezuela,1,0,Copa América,Brazil,+22,-22,1835,1751
+2021-06-27,Brazil,Ecuador,1,1,Copa América,Brazil,-22,+22,2146,1803
+2021-06-28,Spain,Croatia,5,3,European Championship,Denmark,+21,-21,2027,1826
+2021-06-28,France,Switzerland,3,3,European Championship,Romania,-13,+13,2073,1907
+2021-06-28,Guyana,Bermuda,1,0,Friendly,the United States,+13,-13,1152,1230
+2021-06-28,Uruguay,Paraguay,1,0,Copa América,Brazil,+19,-19,1938,1808
+2021-06-28,Argentina,Bolivia,4,1,Copa América,Brazil,+7,-7,2012,1580
+2021-06-29,Ukraine,Sweden,2,1,European Championship,Scotland,+33,-33,1819,1864
+2021-06-29,England,Germany,2,0,European Championship,England,+23,-23,2001,1916
+2021-06-30,Mexico,Panama,3,0,Friendly,the United States,+5,-5,1888,1550
+2021-07-02,Spain,Switzerland,1,1,European Championship,Russia,-8,+8,2019,1915
+2021-07-02,Italy,Belgium,2,1,European Championship,Germany,+32,-32,2093,2126
+2021-07-02,Trinidad and Tobago,Montserrat,6,1,CONCACAF Championship qualifier,the United States,+7,-7,1366,940
+2021-07-02,Haiti,Saint Vincent and the Grenadines,6,1,CONCACAF Championship qualifier,the United States,+8,-8,1527,1140
+2021-07-02,Bermuda,Barbados,8,1,CONCACAF Championship qualifier,the United States,+30,-30,1260,1079
+2021-07-02,Paraguay,Peru,3,3,Copa América,Brazil,+2,-2,1810,1833
+2021-07-02,Brazil,Chile,1,0,Copa América,Brazil,+4,-4,2150,1794
+2021-07-03,Mexico,Nigeria,4,0,Friendly,the United States,+8,-8,1896,1664
+2021-07-03,Lesotho,Namibia,0,0,Friendly,South Africa,+3,-3,1249,1339
+2021-07-03,England,Ukraine,4,0,European Championship,Italy,+24,-24,2025,1795
+2021-07-03,Denmark,Czechia,2,1,European Championship,Azerbaijan,+17,-17,1980,1837
+2021-07-03,Guatemala,Guyana,4,0,CONCACAF Championship qualifier,the United States,+9,-9,1514,1143
+2021-07-03,Guadeloupe,Bahamas,2,0,CONCACAF Championship qualifier,the United States,+7,-7,1233,866
+2021-07-03,Colombia,Uruguay,0,0,Copa América,Brazil,+3,-3,1895,1935
+2021-07-03,Argentina,Ecuador,3,0,Copa América,Brazil,+20,-20,2032,1783
+2021-07-04,Qatar,El Salvador,1,0,Friendly,Croatia,+6,-6,1662,1497
+2021-07-04,Botswana,Namibia,1,1,Friendly,South Africa,+1,-1,1292,1338
+2021-07-05,Brazil,Peru,1,0,Copa América,Brazil,+4,-4,2154,1829
+2021-07-06,South Africa,Botswana,1,0,COSAFA Cup,South Africa,+6,-6,1493,1286
+2021-07-06,Eswatini,Lesotho,3,1,COSAFA Cup,South Africa,+38,-38,1188,1211
+2021-07-06,Italy,Spain,1,1,European Championship,England,-5,+5,2088,2024
+2021-07-06,Haiti,Bermuda,4,1,CONCACAF Championship qualifier,the United States,+12,-12,1539,1248
+2021-07-06,Guadeloupe,Guatemala,1,1,CONCACAF Championship qualifier,the United States,+13,-13,1246,1501
+2021-07-06,French Guiana,Trinidad and Tobago,1,1,CONCACAF Championship qualifier,the United States,+6,-6,1269,1360
+2021-07-06,Argentina,Colombia,1,1,Copa América,Brazil,-9,+9,2023,1904
+2021-07-07,Namibia,Senegal,2,1,COSAFA Cup,South Africa,+36,-36,1374,1697
+2021-07-07,Mozambique,Zimbabwe,0,0,COSAFA Cup,South Africa,+7,-7,1280,1397
+2021-07-07,England,Denmark,2,1,European Championship,England,+15,-15,2040,1965
+2021-07-08,South Africa,Eswatini,1,0,COSAFA Cup,South Africa,+4,-4,1497,1184
+2021-07-08,Lesotho,Zambia,2,1,COSAFA Cup,South Africa,+33,-33,1244,1456
+2021-07-09,Senegal,Mozambique,1,0,COSAFA Cup,South Africa,+3,-3,1700,1277
+2021-07-09,Malawi,Zimbabwe,2,2,COSAFA Cup,South Africa,+3,-3,1341,1394
+2021-07-09,Colombia,Peru,3,2,Copa América,Brazil,+20,-20,1924,1809
+2021-07-10,Eswatini,Zambia,1,0,COSAFA Cup,South Africa,+33,-33,1217,1423
+2021-07-10,Botswana,Lesotho,4,0,COSAFA Cup,South Africa,+33,-33,1319,1211
+2021-07-10,Mexico,Trinidad and Tobago,0,0,CONCACAF Championship,the United States,-23,+23,1873,1383
+2021-07-10,Brazil,Argentina,0,1,Copa América,Brazil,-40,+40,2114,2063
+2021-07-11,Namibia,Zimbabwe,2,0,COSAFA Cup,South Africa,+32,-32,1406,1362
+2021-07-11,Mozambique,Malawi,2,0,COSAFA Cup,South Africa,+35,-35,1312,1306
+2021-07-11,England,Italy,1,1,European Championship,England,-4,+4,2036,2092
+2021-07-11,United States,Haiti,1,0,CONCACAF Championship,the United States,+6,-6,1805,1533
+2021-07-11,El Salvador,Guatemala,2,0,CONCACAF Championship,the United States,+38,-38,1535,1463
+2021-07-11,Canada,Martinique,4,1,CONCACAF Championship,the United States,+17,-17,1692,1411
+2021-07-12,Jamaica,Suriname,2,0,CONCACAF Championship,the United States,+15,-15,1595,1322
+2021-07-12,Costa Rica,Guadeloupe,3,1,CONCACAF Championship,the United States,+7,-7,1635,1239
+2021-07-13,Zambia,Botswana,2,1,COSAFA Cup,South Africa,+14,-14,1437,1305
+2021-07-13,South Africa,Lesotho,4,0,COSAFA Cup,South Africa,+7,-7,1504,1204
+2021-07-13,Senegal,Zimbabwe,2,1,COSAFA Cup,South Africa,+5,-5,1705,1357
+2021-07-13,Malawi,Namibia,1,1,COSAFA Cup,South Africa,+6,-6,1312,1400
+2021-07-13,Panama,Qatar,3,3,CONCACAF Championship,the United States,+8,-8,1558,1654
+2021-07-13,Honduras,Grenada,4,0,CONCACAF Championship,the United States,+7,-7,1613,1148
+2021-07-14,South Africa,Zambia,0,0,COSAFA Cup,South Africa,-9,+9,1495,1446
+2021-07-14,Senegal,Malawi,2,1,COSAFA Cup,South Africa,+4,-4,1709,1308
+2021-07-14,Mozambique,Namibia,1,0,COSAFA Cup,South Africa,+25,-25,1337,1375
+2021-07-14,Botswana,Eswatini,1,1,COSAFA Cup,South Africa,-5,+5,1300,1222
+2021-07-14,Mexico,Guatemala,3,0,CONCACAF Championship,the United States,+8,-8,1881,1455
+2021-07-14,El Salvador,Trinidad and Tobago,2,0,CONCACAF Championship,the United States,+22,-22,1557,1361
+2021-07-15,United States,Martinique,6,1,CONCACAF Championship,the United States,+6,-6,1811,1405
+2021-07-15,Canada,Haiti,4,1,CONCACAF Championship,the United States,+25,-25,1717,1508
+2021-07-16,South Africa,Mozambique,3,0,COSAFA Cup,South Africa,+13,-13,1508,1324
+2021-07-16,Eswatini,Senegal,2,2,COSAFA Cup,South Africa,+18,-18,1240,1691
+2021-07-16,Jamaica,Guadeloupe,2,1,CONCACAF Championship,the United States,+6,-6,1601,1233
+2021-07-16,Costa Rica,Suriname,2,1,CONCACAF Championship,the United States,+7,-7,1642,1315
+2021-07-17,Qatar,Grenada,4,0,CONCACAF Championship,the United States,+5,-5,1659,1143
+2021-07-17,Honduras,Panama,3,2,CONCACAF Championship,the United States,+21,-21,1634,1537
+2021-07-18,South Africa,Senegal,0,0,COSAFA Cup,South Africa,+5,-5,1513,1686
+2021-07-18,Eswatini,Mozambique,1,1,COSAFA Cup,South Africa,+5,-5,1245,1319
+2021-07-18,United States,Canada,1,0,CONCACAF Championship,the United States,+12,-12,1823,1705
+2021-07-18,Mexico,El Salvador,1,0,CONCACAF Championship,the United States,+7,-7,1888,1550
+2021-07-18,Haiti,Martinique,2,1,CONCACAF Championship,the United States,+18,-18,1526,1387
+2021-07-18,Guatemala,Trinidad and Tobago,1,1,CONCACAF Championship,the United States,-7,+7,1448,1368
+2021-07-20,Suriname,Guadeloupe,2,1,CONCACAF Championship,the United States,+19,-19,1334,1214
+2021-07-20,Qatar,Honduras,2,0,CONCACAF Championship,the United States,+35,-35,1694,1599
+2021-07-20,Panama,Grenada,3,1,CONCACAF Championship,the United States,+7,-7,1544,1136
+2021-07-20,Costa Rica,Jamaica,1,0,CONCACAF Championship,the United States,+22,-22,1664,1579
+2021-07-24,Qatar,El Salvador,3,2,CONCACAF Championship,the United States,+15,-15,1709,1535
+2021-07-24,Mexico,Honduras,3,0,CONCACAF Championship,the United States,+14,-14,1902,1585
+2021-07-25,United States,Jamaica,1,0,CONCACAF Championship,the United States,+6,-6,1829,1573
+2021-07-25,Canada,Costa Rica,2,0,CONCACAF Championship,the United States,+33,-33,1738,1631
+2021-07-29,United States,Qatar,1,0,CONCACAF Championship,the United States,+11,-11,1840,1698
+2021-07-29,Mexico,Canada,2,1,CONCACAF Championship,the United States,+14,-14,1916,1724
+2021-08-01,United States,Mexico,1,0,CONCACAF Championship,the United States,+23,-23,1863,1893
+2021-08-19,Togo,Benin,0,2,Friendly,Togo,-13,+13,1278,1448
+2021-08-21,Costa Rica,El Salvador,0,0,Friendly,the United States,-3,+3,1628,1538
+2021-08-22,Niger,Sudan,2,1,Friendly,the United Arab Emirates,+15,-15,1248,1389
+2021-08-26,Sudan,Niger,3,0,Friendly,the United Arab Emirates,+11,-11,1400,1237
+2021-08-26,Ethiopia,Sierra Leone,0,0,Friendly,Ethiopia,-2,+2,1328,1352
+2021-08-26,Algeria,Syria,2,1,Friendly,Qatar,+3,-3,1767,1445
+2021-08-29,Ethiopia,Uganda,2,1,Friendly,Ethiopia,+11,-11,1339,1442
+2021-08-29,Algeria,Burundi,3,0,Friendly,Qatar,+2,-2,1769,1248
+2021-09-01,Switzerland,Greece,2,1,Friendly,Switzerland,+2,-2,1917,1659
+2021-09-01,Serbia,Qatar,4,0,Friendly,Hungary,+14,-14,1798,1684
+2021-09-01,Finland,Wales,0,0,Friendly,Finland,0,0,1705,1822
+2021-09-01,Comoros,Seychelles,7,1,Friendly tournament,the Comoros,+6,-6,1221,902
+2021-09-01,Bahrain,Haiti,6,1,Friendly tournament,Bahrain,+19,-19,1582,1507
+2021-09-01,Senegal,Togo,2,0,World Cup qualifier,Senegal,+3,-3,1689,1275
+2021-09-01,Mali,Rwanda,1,0,World Cup qualifier,Morocco,+9,-9,1555,1317
+2021-09-01,Libya,Gabon,2,1,World Cup qualifier,Libya,+20,-20,1350,1414
+2021-09-01,Guinea-Bissau,Guinea,1,1,World Cup qualifier,Mauritania,+5,-5,1359,1437
+2021-09-01,Egypt,Angola,1,0,World Cup qualifier,Egypt,+5,-5,1607,1366
+2021-09-01,Cape Verde,Central African Republic,1,1,World Cup qualifier,Cameroon,-9,+9,1435,1294
+2021-09-01,Turkey,Montenegro,2,2,World Cup qualifier,Turkey,-14,+14,1717,1532
+2021-09-01,Slovenia,Slovakia,1,1,World Cup qualifier,Slovenia,-3,+3,1613,1673
+2021-09-01,Russia,Croatia,0,0,World Cup qualifier,Russia,0,0,1730,1826
+2021-09-01,Portugal,Ireland,2,1,World Cup qualifier,Portugal,+2,-2,2008,1620
+2021-09-01,Norway,Netherlands,1,1,World Cup qualifier,Norway,+5,-5,1742,1917
+2021-09-01,Moldova,Austria,0,2,World Cup qualifier,Moldova,-4,+4,1216,1782
+2021-09-01,Malta,Cyprus,3,0,World Cup qualifier,Malta,+40,-40,1259,1325
+2021-09-01,Luxembourg,Azerbaijan,2,1,World Cup qualifier,Luxembourg,+14,-14,1400,1362
+2021-09-01,Latvia,Gibraltar,3,1,World Cup qualifier,Latvia,+9,-9,1290,1080
+2021-09-01,Kazakhstan,Ukraine,2,2,World Cup qualifier,Kazakhstan,+15,-15,1362,1780
+2021-09-01,France,Bosnia and Herzegovina,1,1,World Cup qualifier,France,-18,+18,2055,1646
+2021-09-01,Faroe Islands,Israel,0,4,World Cup qualifier,the Faroe Islands,-15,+15,1249,1622
+2021-09-01,Denmark,Scotland,2,0,World Cup qualifier,Denmark,+5,-5,1970,1624
+2021-09-02,Nepal,India,1,1,Friendly,Nepal,+4,-4,939,1190
+2021-09-02,Kyrgyzstan,Palestine,1,0,Friendly tournament,Kyrgyzstan,+19,-19,1272,1427
+2021-09-02,United Arab Emirates,Lebanon,0,0,World Cup qualifier,the United Arab Emirates,-12,+12,1477,1373
+2021-09-02,South Korea,Iraq,0,0,World Cup qualifier,South Korea,-12,+12,1751,1633
+2021-09-02,Saudi Arabia,Vietnam,3,1,World Cup qualifier,Saudi Arabia,+10,-10,1616,1408
+2021-09-02,Japan,Oman,0,1,World Cup qualifier,Japan,-36,+36,1735,1537
+2021-09-02,Iran,Syria,1,0,World Cup qualifier,Iran,+3,-3,1807,1442
+2021-09-02,Australia,China,3,0,World Cup qualifier,Qatar,+15,-15,1752,1489
+2021-09-02,Morocco,Sudan,2,0,World Cup qualifier,Morocco,+6,-6,1689,1394
+2021-09-02,Madagascar,Benin,0,1,World Cup qualifier,Madagascar,-21,+21,1351,1469
+2021-09-02,Kenya,Uganda,0,0,World Cup qualifier,Kenya,-3,+3,1388,1445
+2021-09-02,Democratic Republic of Congo,Tanzania,1,1,World Cup qualifier,the Democratic Republic of the Congo,-13,+13,1467,1324
+2021-09-02,Congo,Namibia,1,1,World Cup qualifier,South Africa,0,0,1367,1375
+2021-09-02,Burkina Faso,Niger,2,0,World Cup qualifier,Morocco,+9,-9,1556,1228
+2021-09-02,Algeria,Djibouti,8,0,World Cup qualifier,Algeria,0,0,1769,905
+2021-09-02,Sweden,Spain,2,1,World Cup qualifier,Sweden,+23,-23,1887,2001
+2021-09-02,Poland,Albania,4,1,World Cup qualifier,Poland,+10,-10,1772,1546
+2021-09-02,North Macedonia,Armenia,0,0,World Cup qualifier,North Macedonia,-5,+5,1559,1589
+2021-09-02,Lithuania,Northern Ireland,1,4,World Cup qualifier,Lithuania,-21,+21,1298,1589
+2021-09-02,Italy,Bulgaria,1,1,World Cup qualifier,Italy,-19,+19,2073,1519
+2021-09-02,Iceland,Romania,0,2,World Cup qualifier,Iceland,-37,+37,1574,1666
+2021-09-02,Hungary,England,0,4,World Cup qualifier,Hungary,-20,+20,1735,2056
+2021-09-02,Germany,Liechtenstein,2,0,World Cup qualifier,Switzerland,+1,-1,1917,1092
+2021-09-02,Georgia,Kosovo,0,1,World Cup qualifier,Georgia,-28,+28,1499,1511
+2021-09-02,Estonia,Belgium,2,5,World Cup qualifier,Estonia,-2,+2,1403,2128
+2021-09-02,Czechia,Belarus,1,0,World Cup qualifier,Czechia,+3,-3,1840,1489
+2021-09-02,Andorra,San Marino,2,0,World Cup qualifier,Andorra,+9,-9,1036,819
+2021-09-02,Panama,Costa Rica,0,0,World Cup qualifier,Panama,-1,+1,1543,1629
+2021-09-02,Mexico,Jamaica,2,1,World Cup qualifier,Mexico,+3,-3,1896,1570
+2021-09-02,El Salvador,United States,0,0,World Cup qualifier,El Salvador,+11,-11,1549,1852
+2021-09-02,Canada,Honduras,1,1,World Cup qualifier,Canada,-12,+12,1712,1597
+2021-09-02,Venezuela,Argentina,1,3,World Cup qualifier,Venezuela,-14,+14,1737,2077
+2021-09-02,Peru,Uruguay,1,1,World Cup qualifier,Peru,+1,-1,1810,1934
+2021-09-02,Ecuador,Paraguay,2,0,World Cup qualifier,Ecuador,+24,-24,1807,1786
+2021-09-02,Chile,Brazil,0,1,World Cup qualifier,Chile,-9,+9,1785,2123
+2021-09-02,Bolivia,Colombia,1,1,World Cup qualifier,Bolivia,+12,-12,1592,1912
+2021-09-03,Zimbabwe,South Africa,0,0,World Cup qualifier,Zimbabwe,+3,-3,1360,1510
+2021-09-03,Tunisia,Equatorial Guinea,3,0,World Cup qualifier,Tunisia,+7,-7,1647,1348
+2021-09-03,Nigeria,Liberia,2,0,World Cup qualifier,Nigeria,+5,-5,1669,1352
+2021-09-03,Mozambique,Ivory Coast,0,0,World Cup qualifier,Mozambique,+11,-11,1330,1634
+2021-09-03,Mauritania,Zambia,1,2,World Cup qualifier,Mauritania,-23,+23,1377,1469
+2021-09-03,Ghana,Ethiopia,1,0,World Cup qualifier,Ghana,+4,-4,1605,1335
+2021-09-03,Cameroon,Malawi,2,0,World Cup qualifier,Cameroon,+7,-7,1574,1301
+2021-09-04,Portugal,Qatar,3,1,Friendly,Hungary,+4,-4,2012,1680
+2021-09-04,Haiti,Jordan,2,0,Friendly tournament,Bahrain,+20,-20,1527,1448
+2021-09-04,Burundi,Seychelles,8,1,Friendly tournament,the Comoros,+8,-8,1256,894
+2021-09-04,Bosnia and Herzegovina,Kuwait,1,0,Friendly,Bosnia and Herzegovina,+2,-2,1648,1371
+2021-09-04,Ukraine,France,1,1,World Cup qualifier,Ukraine,+9,-9,1789,2046
+2021-09-04,Slovenia,Malta,1,0,World Cup qualifier,Slovenia,+3,-3,1616,1256
+2021-09-04,Slovakia,Croatia,0,1,World Cup qualifier,Slovakia,-17,+17,1656,1843
+2021-09-04,Serbia,Luxembourg,4,1,World Cup qualifier,Serbia,+4,-4,1802,1396
+2021-09-04,Scotland,Moldova,1,0,World Cup qualifier,Scotland,+2,-2,1626,1214
+2021-09-04,Netherlands,Montenegro,4,0,World Cup qualifier,the Netherlands,+4,-4,1921,1528
+2021-09-04,Latvia,Norway,0,2,World Cup qualifier,Latvia,-7,+7,1283,1749
+2021-09-04,Israel,Austria,5,2,World Cup qualifier,Israel,+41,-41,1663,1741
+2021-09-04,Ireland,Azerbaijan,1,1,World Cup qualifier,Ireland,-15,+15,1605,1377
+2021-09-04,Gibraltar,Turkey,0,3,World Cup qualifier,Gibraltar,-3,+3,1077,1720
+2021-09-04,Finland,Kazakhstan,1,0,World Cup qualifier,Finland,+3,-3,1708,1359
+2021-09-04,Faroe Islands,Denmark,0,1,World Cup qualifier,the Faroe Islands,-1,+1,1248,1971
+2021-09-04,Cyprus,Russia,0,2,World Cup qualifier,Cyprus,-9,+9,1316,1739
+2021-09-05,Sweden,Uzbekistan,2,1,Friendly,Sweden,+1,-1,1888,1546
+2021-09-05,Palestine,Bangladesh,2,0,Friendly tournament,Kyrgyzstan,+2,-2,1429,842
+2021-09-05,Nepal,India,1,2,Friendly,Nepal,-6,+6,933,1196
+2021-09-05,Estonia,Northern Ireland,0,1,Friendly,Estonia,-8,+8,1395,1597
+2021-09-05,Togo,Namibia,0,1,World Cup qualifier,Togo,-20,+20,1255,1395
+2021-09-05,Rwanda,Kenya,1,1,World Cup qualifier,Rwanda,-2,+2,1315,1390
+2021-09-05,Gabon,Egypt,1,1,World Cup qualifier,Gabon,+5,-5,1419,1602
+2021-09-05,Wales,Belarus,3,2,World Cup qualifier,Russia,+5,-5,1827,1484
+2021-09-05,Switzerland,Italy,0,0,World Cup qualifier,Switzerland,+3,-3,1920,2070
+2021-09-05,Spain,Georgia,4,0,World Cup qualifier,Spain,+2,-2,2003,1497
+2021-09-05,San Marino,Poland,1,7,World Cup qualifier,San Marino,-1,+1,818,1773
+2021-09-05,Romania,Liechtenstein,2,0,World Cup qualifier,Romania,+1,-1,1667,1091
+2021-09-05,Kosovo,Greece,1,1,World Cup qualifier,Kosovo,+3,-3,1514,1656
+2021-09-05,Iceland,North Macedonia,2,2,World Cup qualifier,Iceland,-6,+6,1568,1565
+2021-09-05,Germany,Armenia,6,0,World Cup qualifier,Germany,+7,-7,1924,1582
+2021-09-05,England,Andorra,4,0,World Cup qualifier,England,0,0,2056,1036
+2021-09-05,Bulgaria,Lithuania,1,0,World Cup qualifier,Bulgaria,+5,-5,1524,1293
+2021-09-05,Belgium,Czechia,3,0,World Cup qualifier,Belgium,+7,-7,2135,1833
+2021-09-05,Albania,Hungary,1,0,World Cup qualifier,Albania,+25,-25,1571,1710
+2021-09-05,United States,Canada,1,1,World Cup qualifier,the United States,-12,+12,1840,1724
+2021-09-05,Jamaica,Panama,0,3,World Cup qualifier,Jamaica,-47,+47,1523,1590
+2021-09-05,El Salvador,Honduras,0,0,World Cup qualifier,El Salvador,-3,+3,1546,1600
+2021-09-05,Costa Rica,Mexico,0,1,World Cup qualifier,Costa Rica,-11,+11,1618,1907
+2021-09-05,Uruguay,Bolivia,4,2,World Cup qualifier,Uruguay,+4,-4,1938,1588
+2021-09-05,Peru,Venezuela,1,0,World Cup qualifier,Peru,+11,-11,1821,1726
+2021-09-05,Paraguay,Colombia,1,1,World Cup qualifier,Paraguay,+1,-1,1787,1911
+2021-09-05,Ecuador,Chile,0,0,World Cup qualifier,Ecuador,-7,+7,1800,1792
+2021-09-06,Uganda,Mali,0,0,World Cup qualifier,Uganda,+1,-1,1446,1554
+2021-09-06,South Africa,Ghana,1,0,World Cup qualifier,South Africa,+20,-20,1530,1585
+2021-09-06,Niger,Djibouti,4,2,World Cup qualifier,Morocco,+8,-8,1236,897
+2021-09-06,Liberia,Central African Republic,1,0,World Cup qualifier,Cameroon,+17,-17,1369,1277
+2021-09-06,Ivory Coast,Cameroon,2,1,World Cup qualifier,Ivory Coast,+11,-11,1645,1563
+2021-09-06,Benin,Democratic Republic of Congo,1,1,World Cup qualifier,Benin,-6,+6,1463,1473
+2021-09-07,Luxembourg,Qatar,1,1,Friendly,Luxembourg,+5,-5,1401,1675
+2021-09-07,Kyrgyzstan,Bangladesh,4,1,Friendly tournament,Kyrgyzstan,+2,-2,1274,840
+2021-09-07,Comoros,Burundi,1,0,Friendly tournament,the Comoros,+12,-12,1233,1244
+2021-09-07,Bahrain,Jordan,1,2,Friendly tournament,Bahrain,-24,+24,1558,1472
+2021-09-07,Vietnam,Australia,0,1,World Cup qualifier,Vietnam,-8,+8,1400,1760
+2021-09-07,Syria,United Arab Emirates,1,1,World Cup qualifier,Jordan,+2,-2,1444,1475
+2021-09-07,South Korea,Lebanon,1,0,World Cup qualifier,South Korea,+2,-2,1753,1371
+2021-09-07,Oman,Saudi Arabia,0,1,World Cup qualifier,Oman,-21,+21,1516,1637
+2021-09-07,Japan,China,1,0,World Cup qualifier,Qatar,+8,-8,1743,1481
+2021-09-07,Iran,Iraq,3,0,World Cup qualifier,Qatar,+19,-19,1826,1614
+2021-09-07,Zambia,Tunisia,0,2,World Cup qualifier,Zambia,-23,+23,1446,1670
+2021-09-07,Tanzania,Madagascar,3,2,World Cup qualifier,Tanzania,+16,-16,1340,1335
+2021-09-07,Sudan,Guinea-Bissau,2,4,World Cup qualifier,Sudan,-41,+41,1353,1400
+2021-09-07,Malawi,Mozambique,1,0,World Cup qualifier,South Africa,+22,-22,1323,1308
+2021-09-07,Ethiopia,Zimbabwe,1,0,World Cup qualifier,Ethiopia,+16,-16,1351,1344
+2021-09-07,Equatorial Guinea,Mauritania,1,0,World Cup qualifier,Equatorial Guinea,+16,-16,1364,1361
+2021-09-07,Congo,Senegal,1,3,World Cup qualifier,Congo,-13,+13,1354,1702
+2021-09-07,Cape Verde,Nigeria,1,2,World Cup qualifier,Cape Verde,-13,+13,1422,1682
+2021-09-07,Burkina Faso,Algeria,1,1,World Cup qualifier,Morocco,+11,-11,1567,1758
+2021-09-07,Azerbaijan,Portugal,0,3,World Cup qualifier,Azerbaijan,-3,+3,1374,2015
+2021-09-07,Angola,Libya,0,1,World Cup qualifier,Angola,-26,+26,1340,1376
+2021-09-07,Slovakia,Cyprus,2,0,World Cup qualifier,Slovakia,+4,-4,1660,1312
+2021-09-07,Russia,Malta,2,0,World Cup qualifier,Russia,+2,-2,1741,1254
+2021-09-07,Norway,Gibraltar,5,1,World Cup qualifier,Norway,+1,-1,1750,1076
+2021-09-07,Netherlands,Turkey,6,1,World Cup qualifier,the Netherlands,+12,-12,1933,1708
+2021-09-07,Montenegro,Latvia,0,0,World Cup qualifier,Montenegro,-15,+15,1513,1298
+2021-09-07,Ireland,Serbia,1,1,World Cup qualifier,Ireland,+5,-5,1610,1797
+2021-09-07,France,Finland,2,0,World Cup qualifier,France,+4,-4,2050,1704
+2021-09-07,Faroe Islands,Moldova,2,1,World Cup qualifier,the Faroe Islands,+13,-13,1261,1201
+2021-09-07,Denmark,Israel,5,0,World Cup qualifier,Denmark,+7,-7,1978,1656
+2021-09-07,Croatia,Slovenia,3,0,World Cup qualifier,Croatia,+9,-9,1852,1607
+2021-09-07,Bosnia and Herzegovina,Kazakhstan,2,2,World Cup qualifier,Bosnia and Herzegovina,-16,+16,1632,1375
+2021-09-07,Austria,Scotland,0,1,World Cup qualifier,Austria,-31,+31,1710,1657
+2021-09-08,Guatemala,Nicaragua,2,2,Friendly,Guatemala,-7,+7,1441,1238
+2021-09-08,Czechia,Ukraine,1,1,Friendly,Czechia,-4,+4,1829,1793
+2021-09-08,Bulgaria,Georgia,4,1,Friendly,Bulgaria,+11,-11,1535,1486
+2021-09-08,Wales,Estonia,0,0,World Cup qualifier,Wales,-18,+18,1809,1413
+2021-09-08,Poland,England,1,1,World Cup qualifier,Poland,+10,-10,1783,2046
+2021-09-08,Northern Ireland,Switzerland,0,0,World Cup qualifier,Northern Ireland,+11,-11,1608,1909
+2021-09-08,North Macedonia,Romania,0,0,World Cup qualifier,North Macedonia,0,0,1565,1667
+2021-09-08,Kosovo,Spain,0,2,World Cup qualifier,Kosovo,-6,+6,1508,2009
+2021-09-08,Italy,Lithuania,5,0,World Cup qualifier,Italy,+1,-1,2071,1292
+2021-09-08,Iceland,Germany,0,4,World Cup qualifier,Iceland,-14,+14,1554,1938
+2021-09-08,Hungary,Andorra,2,1,World Cup qualifier,Hungary,0,0,1710,1036
+2021-09-08,Greece,Sweden,2,1,World Cup qualifier,Greece,+27,-27,1683,1861
+2021-09-08,Belarus,Belgium,0,1,World Cup qualifier,Russia,-1,+1,1483,2136
+2021-09-08,Armenia,Liechtenstein,1,1,World Cup qualifier,Armenia,-19,+19,1563,1110
+2021-09-08,Albania,San Marino,5,0,World Cup qualifier,Albania,+1,-1,1572,817
+2021-09-08,Panama,Mexico,1,1,World Cup qualifier,Panama,+11,-11,1601,1896
+2021-09-08,Honduras,United States,1,4,World Cup qualifier,Honduras,-22,+22,1578,1862
+2021-09-08,Costa Rica,Jamaica,1,1,World Cup qualifier,Costa Rica,-10,+10,1608,1533
+2021-09-08,Canada,El Salvador,3,0,World Cup qualifier,Canada,+12,-12,1736,1534
+2021-09-09,Uruguay,Ecuador,1,0,World Cup qualifier,Uruguay,+8,-8,1946,1792
+2021-09-09,Paraguay,Venezuela,2,1,World Cup qualifier,Paraguay,+11,-11,1798,1715
+2021-09-09,Colombia,Chile,3,1,World Cup qualifier,Colombia,+13,-13,1924,1779
+2021-09-09,Brazil,Peru,2,0,World Cup qualifier,Brazil,+5,-5,2128,1816
+2021-09-09,Argentina,Bolivia,3,0,World Cup qualifier,Argentina,+2,-2,2079,1586
+2021-09-24,Guatemala,El Salvador,2,0,Friendly,the United States,+19,-19,1460,1515
+2021-09-26,Oman,Nepal,7,2,Friendly,Qatar,+1,-1,1517,932
+2021-09-30,Egypt,Liberia,2,0,Friendly,Egypt,+4,-4,1606,1365
+2021-10-01,Maldives,Nepal,0,1,South Asian Championship,the Maldives,-27,+27,924,959
+2021-10-01,Bangladesh,Sri Lanka,1,0,South Asian Championship,the Maldives,+10,-10,850,649
+2021-10-01,Curaçao,Aruba,7,1,Friendly tournament,Curaçao,+2,-2,1429,909
+2021-10-03,Curaçao,Bonaire,1,0,Friendly tournament,Curaçao,+1,-1,1430,958
+2021-10-04,Nepal,Sri Lanka,3,2,South Asian Championship,the Maldives,+6,-6,965,643
+2021-10-04,Bangladesh,India,1,1,South Asian Championship,the Maldives,+15,-15,865,1181
+2021-10-06,Sierra Leone,South Sudan,1,1,Friendly tournament,Morocco,-10,+10,1342,1092
+2021-10-06,Jordan,Malaysia,4,0,Friendly tournament,Jordan,+6,-6,1478,1197
+2021-10-06,Bahrain,Curaçao,4,0,Friendly tournament,Bahrain,+12,-12,1570,1418
+2021-10-06,Morocco,Guinea-Bissau,5,0,World Cup qualifier,Morocco,+8,-8,1697,1392
+2021-10-06,Guinea,Sudan,1,1,World Cup qualifier,Morocco,-5,+5,1432,1358
+2021-10-06,Italy,Spain,1,2,European Nations League,Italy,-36,+36,2035,2045
+2021-10-07,Maldives,Bangladesh,2,0,South Asian Championship,the Maldives,+17,-17,941,848
+2021-10-07,India,Sri Lanka,0,0,South Asian Championship,the Maldives,-18,+18,1163,661
+2021-10-07,Indonesia,Taiwan,2,1,Asian Cup qualifier,Thailand,+10,-10,1110,897
+2021-10-07,United Arab Emirates,Iran,0,1,World Cup qualifier,the United Arab Emirates,-8,+8,1467,1834
+2021-10-07,South Korea,Syria,2,1,World Cup qualifier,South Korea,+3,-3,1756,1441
+2021-10-07,Saudi Arabia,Japan,1,0,World Cup qualifier,Saudi Arabia,+20,-20,1657,1723
+2021-10-07,Iraq,Lebanon,0,0,World Cup qualifier,Qatar,-12,+12,1602,1383
+2021-10-07,China,Vietnam,3,2,World Cup qualifier,the United Arab Emirates,+15,-15,1496,1385
+2021-10-07,Australia,Oman,3,1,World Cup qualifier,Qatar,+12,-12,1772,1505
+2021-10-07,Tunisia,Mauritania,3,0,World Cup qualifier,Tunisia,+6,-6,1676,1355
+2021-10-07,Tanzania,Benin,0,1,World Cup qualifier,Tanzania,-19,+19,1321,1482
+2021-10-07,Rwanda,Uganda,0,1,World Cup qualifier,Rwanda,-18,+18,1297,1464
+2021-10-07,Nigeria,Central African Republic,0,1,World Cup qualifier,Nigeria,-38,+38,1644,1315
+2021-10-07,Mali,Kenya,5,0,World Cup qualifier,Morocco,+22,-22,1576,1368
+2021-10-07,Equatorial Guinea,Zambia,2,0,World Cup qualifier,Equatorial Guinea,+28,-28,1392,1418
+2021-10-07,Democratic Republic of Congo,Madagascar,2,0,World Cup qualifier,the Democratic Republic of the Congo,+12,-12,1485,1323
+2021-10-07,Cape Verde,Liberia,2,1,World Cup qualifier,Ghana,+17,-17,1439,1348
+2021-10-07,France,Belgium,3,2,European Nations League,Italy,+31,-31,2081,2105
+2021-10-07,United States,Jamaica,2,0,World Cup qualifier,the United States,+5,-5,1867,1528
+2021-10-07,Mexico,Canada,1,1,World Cup qualifier,Mexico,-13,+13,1883,1749
+2021-10-07,Honduras,Costa Rica,0,0,World Cup qualifier,Honduras,-4,+4,1574,1612
+2021-10-07,El Salvador,Panama,1,0,World Cup qualifier,El Salvador,+19,-19,1534,1582
+2021-10-07,Venezuela,Brazil,1,3,World Cup qualifier,Venezuela,-8,+8,1707,2136
+2021-10-07,Uruguay,Colombia,0,0,World Cup qualifier,Uruguay,-7,+7,1939,1931
+2021-10-07,Peru,Chile,2,0,World Cup qualifier,Peru,+19,-19,1835,1760
+2021-10-07,Paraguay,Argentina,0,0,World Cup qualifier,Paraguay,+10,-10,1808,2069
+2021-10-07,Ecuador,Bolivia,3,0,World Cup qualifier,Ecuador,+10,-10,1802,1576
+2021-10-08,Ivory Coast,Malawi,3,0,World Cup qualifier,South Africa,+9,-9,1654,1314
+2021-10-08,Egypt,Libya,1,0,World Cup qualifier,Egypt,+5,-5,1611,1371
+2021-10-08,Cameroon,Mozambique,3,1,World Cup qualifier,Cameroon,+7,-7,1570,1301
+2021-10-08,Burkina Faso,Djibouti,4,0,World Cup qualifier,Morocco,+2,-2,1569,895
+2021-10-08,Angola,Gabon,3,1,World Cup qualifier,Angola,+28,-28,1368,1391
+2021-10-08,Algeria,Niger,6,1,World Cup qualifier,Algeria,+2,-2,1760,1234
+2021-10-08,Turkey,Norway,1,1,World Cup qualifier,Turkey,-3,+3,1705,1753
+2021-10-08,Russia,Slovakia,1,0,World Cup qualifier,Russia,+10,-10,1751,1650
+2021-10-08,Malta,Slovenia,0,4,World Cup qualifier,Malta,-14,+14,1240,1621
+2021-10-08,Liechtenstein,North Macedonia,0,4,World Cup qualifier,Liechtenstein,-9,+9,1101,1574
+2021-10-08,Latvia,Netherlands,0,1,World Cup qualifier,Latvia,-2,+2,1296,1935
+2021-10-08,Iceland,Armenia,1,1,World Cup qualifier,Iceland,-5,+5,1549,1568
+2021-10-08,Gibraltar,Montenegro,0,3,World Cup qualifier,Gibraltar,-9,+9,1067,1522
+2021-10-08,Germany,Romania,2,1,World Cup qualifier,Germany,+4,-4,1942,1663
+2021-10-08,Estonia,Belarus,2,0,World Cup qualifier,Estonia,+27,-27,1440,1456
+2021-10-08,Czechia,Wales,2,2,World Cup qualifier,Czechia,-7,+7,1822,1816
+2021-10-08,Cyprus,Croatia,0,3,World Cup qualifier,Cyprus,-5,+5,1307,1857
+2021-10-09,Uzbekistan,Malaysia,5,1,Friendly tournament,Jordan,+7,-7,1553,1190
+2021-10-09,Sierra Leone,Gambia,2,1,Friendly tournament,Morocco,+16,-16,1358,1358
+2021-10-09,Portugal,Qatar,3,0,Friendly,Portugal,+3,-3,2018,1672
+2021-10-09,New Zealand,Curaçao,2,1,Friendly tournament,Bahrain,+12,-12,1497,1406
+2021-10-09,Cambodia,Guam,1,0,Asian Cup qualifier,Bahrain,+14,-14,849,712
+2021-10-09,Togo,Congo,1,1,World Cup qualifier,Togo,0,0,1255,1354
+2021-10-09,Senegal,Namibia,4,1,World Cup qualifier,Senegal,+6,-6,1708,1389
+2021-10-09,Morocco,Guinea-Bissau,3,0,World Cup qualifier,Morocco,+6,-6,1703,1386
+2021-10-09,Guinea,Sudan,2,2,World Cup qualifier,Morocco,-4,+4,1428,1362
+2021-10-09,Ghana,Zimbabwe,3,1,World Cup qualifier,Ghana,+7,-7,1592,1337
+2021-10-09,Ethiopia,South Africa,1,3,World Cup qualifier,Ethiopia,-23,+23,1328,1553
+2021-10-09,Switzerland,Northern Ireland,2,0,World Cup qualifier,Switzerland,+5,-5,1914,1603
+2021-10-09,Sweden,Kosovo,3,0,World Cup qualifier,Sweden,+5,-5,1866,1503
+2021-10-09,Scotland,Israel,3,2,World Cup qualifier,Scotland,+14,-14,1671,1642
+2021-10-09,Poland,San Marino,5,0,World Cup qualifier,Poland,0,0,1783,817
+2021-10-09,Moldova,Denmark,0,4,World Cup qualifier,Moldova,-1,+1,1200,1979
+2021-10-09,Luxembourg,Serbia,0,1,World Cup qualifier,Luxembourg,-6,+6,1395,1803
+2021-10-09,Lithuania,Bulgaria,3,1,World Cup qualifier,Lithuania,+42,-42,1334,1493
+2021-10-09,Kazakhstan,Bosnia and Herzegovina,0,2,World Cup qualifier,Kazakhstan,-17,+17,1358,1649
+2021-10-09,Hungary,Albania,0,1,World Cup qualifier,Hungary,-32,+32,1678,1604
+2021-10-09,Georgia,Greece,0,2,World Cup qualifier,Georgia,-22,+22,1464,1705
+2021-10-09,Finland,Ukraine,1,2,World Cup qualifier,Finland,-21,+21,1683,1814
+2021-10-09,Faroe Islands,Austria,0,2,World Cup qualifier,the Faroe Islands,-7,+7,1254,1717
+2021-10-09,Azerbaijan,Ireland,0,3,World Cup qualifier,Azerbaijan,-22,+22,1352,1632
+2021-10-09,Andorra,England,0,5,World Cup qualifier,Andorra,0,0,1036,2046
+2021-10-10,Maldives,Sri Lanka,1,0,South Asian Championship,the Maldives,+4,-4,945,657
+2021-10-10,India,Nepal,1,0,South Asian Championship,the Maldives,+10,-10,1173,955
+2021-10-10,Zambia,Equatorial Guinea,1,1,World Cup qualifier,Zambia,-7,+7,1411,1399
+2021-10-10,Uganda,Rwanda,1,0,World Cup qualifier,Uganda,+7,-7,1471,1290
+2021-10-10,Nigeria,Central African Republic,2,0,World Cup qualifier,Cameroon,+8,-8,1652,1307
+2021-10-10,Mauritania,Tunisia,0,0,World Cup qualifier,Mauritania,+11,-11,1366,1665
+2021-10-10,Madagascar,Democratic Republic of Congo,1,0,World Cup qualifier,Madagascar,+24,-24,1347,1461
+2021-10-10,Kenya,Mali,0,1,World Cup qualifier,Kenya,-14,+14,1354,1590
+2021-10-10,Cape Verde,Liberia,1,0,World Cup qualifier,Cape Verde,+10,-10,1449,1338
+2021-10-10,Benin,Tanzania,0,1,World Cup qualifier,Benin,-33,+33,1449,1354
+2021-10-10,Italy,Belgium,2,1,European Nations League,Italy,+23,-23,2058,2082
+2021-10-10,France,Spain,2,1,European Nations League,Italy,+22,-22,2103,2023
+2021-10-10,Panama,United States,1,0,World Cup qualifier,Panama,+30,-30,1612,1837
+2021-10-10,Mexico,Honduras,3,0,World Cup qualifier,Mexico,+6,-6,1889,1568
+2021-10-10,Jamaica,Canada,0,0,World Cup qualifier,Jamaica,+7,-7,1535,1742
+2021-10-10,Costa Rica,El Salvador,2,1,World Cup qualifier,Costa Rica,+11,-11,1623,1523
+2021-10-10,Venezuela,Ecuador,2,1,World Cup qualifier,Venezuela,+20,-20,1727,1782
+2021-10-10,Colombia,Brazil,0,0,World Cup qualifier,Colombia,+6,-6,1937,2130
+2021-10-10,Chile,Paraguay,2,0,World Cup qualifier,Chile,+26,-26,1786,1782
+2021-10-10,Bolivia,Peru,1,0,World Cup qualifier,Bolivia,+29,-29,1605,1806
+2021-10-10,Argentina,Uruguay,3,0,World Cup qualifier,Argentina,+15,-15,2084,1924
+2021-10-11,Indonesia,Taiwan,3,0,Asian Cup qualifier,Thailand,+16,-16,1126,881
+2021-10-11,Libya,Egypt,0,3,World Cup qualifier,Libya,-22,+22,1349,1633
+2021-10-11,Ivory Coast,Malawi,2,1,World Cup qualifier,Benin,+5,-5,1659,1309
+2021-10-11,Gabon,Angola,2,0,World Cup qualifier,Gabon,+20,-20,1411,1348
+2021-10-11,Cameroon,Mozambique,1,0,World Cup qualifier,Morocco,+7,-7,1577,1294
+2021-10-11,Burkina Faso,Djibouti,2,0,World Cup qualifier,Morocco,+1,-1,1570,894
+2021-10-11,Slovenia,Russia,1,2,World Cup qualifier,Slovenia,-18,+18,1603,1769
+2021-10-11,Romania,Armenia,1,0,World Cup qualifier,Romania,+10,-10,1673,1558
+2021-10-11,Norway,Montenegro,2,0,World Cup qualifier,Norway,+8,-8,1761,1514
+2021-10-11,North Macedonia,Germany,0,4,World Cup qualifier,North Macedonia,-13,+13,1561,1955
+2021-10-11,Netherlands,Gibraltar,6,0,World Cup qualifier,the Netherlands,0,0,1935,1067
+2021-10-11,Latvia,Turkey,1,2,World Cup qualifier,Latvia,-6,+6,1290,1711
+2021-10-11,Iceland,Liechtenstein,4,0,World Cup qualifier,Iceland,+3,-3,1552,1098
+2021-10-11,Estonia,Wales,0,1,World Cup qualifier,Estonia,-7,+7,1433,1823
+2021-10-11,Czechia,Belarus,2,0,World Cup qualifier,Russia,+7,-7,1829,1449
+2021-10-11,Cyprus,Malta,2,2,World Cup qualifier,Cyprus,-9,+9,1298,1249
+2021-10-11,Croatia,Slovakia,2,2,World Cup qualifier,Croatia,-14,+14,1843,1664
+2021-10-12,Jordan,Uzbekistan,3,0,Friendly tournament,Jordan,+24,-24,1502,1529
+2021-10-12,Ireland,Qatar,4,0,Friendly,Ireland,+16,-16,1648,1656
+2021-10-12,Gambia,South Sudan,2,1,Friendly tournament,Morocco,+5,-5,1363,1087
+2021-10-12,Bahrain,New Zealand,0,1,Friendly tournament,Bahrain,-22,+22,1548,1519
+2021-10-12,Cambodia,Guam,2,1,Asian Cup qualifier,Bahrain,+12,-12,861,700
+2021-10-12,United Arab Emirates,Iraq,2,2,World Cup qualifier,the United Arab Emirates,+2,-2,1469,1600
+2021-10-12,Saudi Arabia,China,3,2,World Cup qualifier,Saudi Arabia,+7,-7,1664,1489
+2021-10-12,Oman,Vietnam,3,1,World Cup qualifier,Oman,+13,-13,1518,1372
+2021-10-12,Lebanon,Syria,3,2,World Cup qualifier,Jordan,+23,-23,1406,1418
+2021-10-12,Japan,Australia,2,1,World Cup qualifier,Japan,+17,-17,1740,1755
+2021-10-12,Iran,South Korea,1,1,World Cup qualifier,Iran,-9,+9,1825,1765
+2021-10-12,Zimbabwe,Ghana,0,1,World Cup qualifier,Zimbabwe,-12,+12,1325,1604
+2021-10-12,South Africa,Ethiopia,1,0,World Cup qualifier,South Africa,+5,-5,1558,1323
+2021-10-12,Senegal,Namibia,3,1,World Cup qualifier,South Africa,+8,-8,1716,1381
+2021-10-12,Niger,Algeria,0,4,World Cup qualifier,Niger,-6,+6,1228,1766
+2021-10-12,Morocco,Guinea,4,1,World Cup qualifier,Morocco,+7,-7,1710,1421
+2021-10-12,Congo,Togo,1,2,World Cup qualifier,Congo,-30,+30,1324,1285
+2021-10-12,Ukraine,Bosnia and Herzegovina,1,1,World Cup qualifier,Ukraine,-13,+13,1801,1662
+2021-10-12,Sweden,Greece,2,0,World Cup qualifier,Sweden,+11,-11,1877,1694
+2021-10-12,Serbia,Azerbaijan,3,1,World Cup qualifier,Serbia,+2,-2,1805,1350
+2021-10-12,San Marino,Andorra,0,3,World Cup qualifier,San Marino,-23,+23,794,1059
+2021-10-12,Portugal,Luxembourg,5,0,World Cup qualifier,Portugal,+1,-1,2019,1394
+2021-10-12,Lithuania,Switzerland,0,4,World Cup qualifier,Lithuania,-4,+4,1330,1918
+2021-10-12,Kosovo,Georgia,1,2,World Cup qualifier,Kosovo,-28,+28,1475,1492
+2021-10-12,Kazakhstan,Finland,0,2,World Cup qualifier,Kazakhstan,-13,+13,1345,1696
+2021-10-12,Israel,Moldova,2,1,World Cup qualifier,Israel,+2,-2,1644,1198
+2021-10-12,Faroe Islands,Scotland,0,1,World Cup qualifier,the Faroe Islands,-6,+6,1248,1677
+2021-10-12,England,Hungary,1,1,World Cup qualifier,England,-17,+17,2029,1695
+2021-10-12,Denmark,Austria,1,0,World Cup qualifier,Denmark,+4,-4,1983,1713
+2021-10-12,Bulgaria,Northern Ireland,2,1,World Cup qualifier,Bulgaria,+21,-21,1514,1582
+2021-10-12,Albania,Poland,0,1,World Cup qualifier,Albania,-16,+16,1588,1799
+2021-10-13,Maldives,India,1,3,South Asian Championship,the Maldives,-19,+19,926,1192
+2021-10-13,Bangladesh,Nepal,1,1,South Asian Championship,the Maldives,+6,-6,854,949
+2021-10-13,United States,Costa Rica,2,1,World Cup qualifier,the United States,+6,-6,1843,1617
+2021-10-13,Honduras,Jamaica,0,2,World Cup qualifier,Honduras,-41,+41,1527,1576
+2021-10-13,El Salvador,Mexico,0,2,World Cup qualifier,El Salvador,-11,+11,1512,1900
+2021-10-13,Canada,Panama,4,1,World Cup qualifier,Canada,+15,-15,1757,1597
+2021-10-14,Colombia,Ecuador,0,0,World Cup qualifier,Colombia,-13,+13,1924,1795
+2021-10-14,Chile,Venezuela,3,0,World Cup qualifier,Chile,+20,-20,1806,1707
+2021-10-14,Brazil,Uruguay,4,1,World Cup qualifier,Brazil,+10,-10,2140,1914
+2021-10-14,Bolivia,Paraguay,4,0,World Cup qualifier,Bolivia,+46,-46,1651,1736
+2021-10-14,Argentina,Peru,1,0,World Cup qualifier,Argentina,+4,-4,2088,1802
+2021-10-16,India,Nepal,3,0,South Asian Championship,the Maldives,+14,-14,1206,935
+2021-10-27,Ecuador,Mexico,3,2,Friendly,the United States,+13,-13,1808,1887
+2021-11-05,Bolivia,El Salvador,1,0,Friendly,the United States,+6,-6,1657,1506
+2021-11-09,Sri Lanka,Maldives,4,4,Friendly tournament,Sri Lanka,+7,-7,664,919
+2021-11-10,Nicaragua,Cuba,0,3,Friendly,Nicaragua,-21,+21,1217,1291
+2021-11-10,Kosovo,Jordan,0,2,Friendly,Kosovo,-18,+18,1457,1520
+2021-11-10,Bangladesh,Seychelles,1,1,Friendly tournament,Sri Lanka,+2,-2,856,892
+2021-11-11,Ukraine,Bulgaria,1,1,Friendly,Ukraine,-8,+8,1793,1522
+2021-11-11,Serbia,Qatar,4,0,Friendly,Serbia,+7,-7,1812,1649
+2021-11-11,Kyrgyzstan,Singapore,2,1,Friendly,the United Arab Emirates,+6,-6,1280,1129
+2021-11-11,Czechia,Kuwait,7,0,Friendly,Czechia,+2,-2,1831,1369
+2021-11-11,Vietnam,Japan,0,1,World Cup qualifier,Vietnam,-7,+7,1365,1747
+2021-11-11,South Korea,United Arab Emirates,1,0,World Cup qualifier,South Korea,+4,-4,1769,1465
+2021-11-11,Lebanon,Iran,1,2,World Cup qualifier,Lebanon,-5,+5,1401,1830
+2021-11-11,Iraq,Syria,1,1,World Cup qualifier,Qatar,-10,+10,1590,1428
+2021-11-11,China,Oman,1,1,World Cup qualifier,the United Arab Emirates,+2,-2,1491,1516
+2021-11-11,Australia,Saudi Arabia,0,0,World Cup qualifier,Australia,-10,+10,1745,1674
+2021-11-11,Uganda,Kenya,1,1,World Cup qualifier,Uganda,-11,+11,1460,1365
+2021-11-11,Togo,Senegal,1,1,World Cup qualifier,Togo,+15,-15,1300,1701
+2021-11-11,Tanzania,Democratic Republic of Congo,0,3,World Cup qualifier,Tanzania,-34,+34,1320,1495
+2021-11-11,South Africa,Zimbabwe,1,0,World Cup qualifier,South Africa,+5,-5,1563,1320
+2021-11-11,Rwanda,Mali,0,3,World Cup qualifier,Rwanda,-17,+17,1273,1607
+2021-11-11,Ethiopia,Ghana,1,1,World Cup qualifier,South Africa,+13,-13,1336,1591
+2021-11-11,Congo,Namibia,1,1,World Cup qualifier,Congo,-2,+2,1322,1383
+2021-11-11,Benin,Madagascar,2,0,World Cup qualifier,Benin,+14,-14,1463,1333
+2021-11-11,Slovakia,Slovenia,2,2,World Cup qualifier,Slovakia,-9,+9,1655,1612
+2021-11-11,Russia,Cyprus,6,0,World Cup qualifier,Russia,+3,-3,1772,1295
+2021-11-11,Romania,Iceland,0,0,World Cup qualifier,Romania,-11,+11,1662,1563
+2021-11-11,Malta,Croatia,1,7,World Cup qualifier,Malta,-5,+5,1244,1848
+2021-11-11,Ireland,Portugal,0,0,World Cup qualifier,Ireland,+13,-13,1661,2006
+2021-11-11,Greece,Spain,0,1,World Cup qualifier,Greece,-8,+8,1686,2031
+2021-11-11,Germany,Liechtenstein,9,0,World Cup qualifier,Germany,0,0,1955,1098
+2021-11-11,Georgia,Sweden,2,0,World Cup qualifier,Georgia,+50,-50,1542,1827
+2021-11-11,Azerbaijan,Luxembourg,1,3,World Cup qualifier,Azerbaijan,-35,+35,1315,1429
+2021-11-11,Armenia,North Macedonia,0,5,World Cup qualifier,Armenia,-51,+51,1507,1612
+2021-11-11,Peru,Bolivia,3,0,World Cup qualifier,Peru,+14,-14,1816,1643
+2021-11-11,Paraguay,Chile,0,1,World Cup qualifier,Paraguay,-22,+22,1714,1828
+2021-11-11,Ecuador,Venezuela,1,0,World Cup qualifier,Ecuador,+10,-10,1818,1697
+2021-11-11,Brazil,Colombia,1,0,World Cup qualifier,Brazil,+6,-6,2146,1918
+2021-11-12,Morocco,Sudan,3,0,World Cup qualifier,Morocco,+5,-5,1715,1357
+2021-11-12,Guinea,Guinea-Bissau,0,0,World Cup qualifier,Guinea,-7,+7,1414,1393
+2021-11-12,Gabon,Libya,1,0,World Cup qualifier,Gabon,+11,-11,1422,1338
+2021-11-12,Burkina Faso,Niger,1,1,World Cup qualifier,Morocco,-15,+15,1555,1243
+2021-11-12,Angola,Egypt,2,2,World Cup qualifier,Angola,+10,-10,1358,1623
+2021-11-12,Algeria,Djibouti,4,0,World Cup qualifier,Egypt,0,0,1766,894
+2021-11-12,Northern Ireland,Lithuania,1,0,World Cup qualifier,Northern Ireland,+5,-5,1587,1325
+2021-11-12,Moldova,Scotland,0,2,World Cup qualifier,Moldova,-6,+6,1192,1683
+2021-11-12,Italy,Switzerland,1,1,World Cup qualifier,Italy,-12,+12,2046,1930
+2021-11-12,Hungary,San Marino,4,0,World Cup qualifier,Hungary,0,0,1695,794
+2021-11-12,England,Albania,5,0,World Cup qualifier,England,+3,-3,2032,1585
+2021-11-12,Denmark,Faroe Islands,3,1,World Cup qualifier,Denmark,0,0,1983,1248
+2021-11-12,Austria,Israel,4,2,World Cup qualifier,Austria,+16,-16,1729,1628
+2021-11-12,Andorra,Poland,1,4,World Cup qualifier,Andorra,-2,+2,1057,1801
+2021-11-12,United States,Mexico,2,0,World Cup qualifier,the United States,+25,-25,1868,1862
+2021-11-12,Honduras,Panama,2,3,World Cup qualifier,Honduras,-22,+22,1505,1619
+2021-11-12,El Salvador,Jamaica,1,1,World Cup qualifier,El Salvador,-2,+2,1504,1578
+2021-11-12,Canada,Costa Rica,1,0,World Cup qualifier,Canada,+8,-8,1765,1609
+2021-11-12,Uruguay,Argentina,0,1,World Cup qualifier,Uruguay,-16,+16,1898,2104
+2021-11-13,Nicaragua,Cuba,2,0,Friendly,Nicaragua,+14,-14,1231,1277
+2021-11-13,Comoros,Sierra Leone,2,0,Friendly,Turkey,+20,-20,1253,1338
+2021-11-13,Burundi,Myanmar,2,1,Friendly,Turkey,+4,-4,1248,1003
+2021-11-13,Bangladesh,Maldives,2,1,Friendly tournament,Sri Lanka,+18,-18,874,901
+2021-11-13,Sri Lanka,Seychelles,0,1,Friendly tournament,Sri Lanka,-10,+10,654,902
+2021-11-13,Zambia,Mauritania,4,0,World Cup qualifier,Zambia,+23,-23,1434,1343
+2021-11-13,Nigeria,Liberia,2,0,World Cup qualifier,Morocco,+8,-8,1660,1330
+2021-11-13,Ivory Coast,Mozambique,3,0,World Cup qualifier,Benin,+8,-8,1667,1286
+2021-11-13,Equatorial Guinea,Tunisia,1,0,World Cup qualifier,Equatorial Guinea,+29,-29,1428,1636
+2021-11-13,Cape Verde,Central African Republic,2,1,World Cup qualifier,Cape Verde,+8,-8,1457,1299
+2021-11-13,Cameroon,Malawi,4,0,World Cup qualifier,South Africa,+13,-13,1590,1296
+2021-11-13,Wales,Belarus,5,1,World Cup qualifier,Wales,+5,-5,1828,1444
+2021-11-13,Turkey,Gibraltar,6,0,World Cup qualifier,Turkey,+1,-1,1712,1066
+2021-11-13,Norway,Latvia,0,0,World Cup qualifier,Norway,-19,+19,1742,1309
+2021-11-13,Montenegro,Netherlands,2,2,World Cup qualifier,Montenegro,+15,-15,1529,1920
+2021-11-13,France,Kazakhstan,8,0,World Cup qualifier,France,+1,-1,2104,1344
+2021-11-13,Bosnia and Herzegovina,Finland,1,3,World Cup qualifier,Bosnia and Herzegovina,-36,+36,1626,1732
+2021-11-13,Belgium,Estonia,3,1,World Cup qualifier,Belgium,+1,-1,2083,1432
+2021-11-14,Azerbaijan,Qatar,2,2,Friendly,Azerbaijan,+6,-6,1321,1643
+2021-11-14,Zimbabwe,Ethiopia,1,1,World Cup qualifier,Zimbabwe,-5,+5,1315,1341
+2021-11-14,Senegal,Congo,2,0,World Cup qualifier,Senegal,+4,-4,1705,1318
+2021-11-14,Mali,Uganda,1,0,World Cup qualifier,Morocco,+12,-12,1619,1448
+2021-11-14,Madagascar,Tanzania,1,1,World Cup qualifier,Madagascar,-6,+6,1327,1326
+2021-11-14,Ghana,South Africa,1,0,World Cup qualifier,Ghana,+13,-13,1604,1550
+2021-11-14,Democratic Republic of Congo,Benin,2,0,World Cup qualifier,the Democratic Republic of the Congo,+19,-19,1514,1444
+2021-11-14,Spain,Sweden,1,0,World Cup qualifier,Spain,+6,-6,2037,1821
+2021-11-14,Slovenia,Cyprus,2,1,World Cup qualifier,Slovenia,+3,-3,1615,1292
+2021-11-14,Portugal,Serbia,1,2,World Cup qualifier,Portugal,-34,+34,1972,1846
+2021-11-14,North Macedonia,Iceland,3,1,World Cup qualifier,North Macedonia,+18,-18,1630,1545
+2021-11-14,Malta,Slovakia,0,6,World Cup qualifier,Malta,-12,+12,1232,1667
+2021-11-14,Luxembourg,Ireland,0,3,World Cup qualifier,Luxembourg,-22,+22,1407,1683
+2021-11-14,Liechtenstein,Romania,0,2,World Cup qualifier,Liechtenstein,-4,+4,1094,1666
+2021-11-14,Greece,Kosovo,1,1,World Cup qualifier,Greece,-15,+15,1671,1472
+2021-11-14,Croatia,Russia,1,0,World Cup qualifier,Croatia,+11,-11,1859,1761
+2021-11-14,Armenia,Germany,1,4,World Cup qualifier,Armenia,-8,+8,1499,1963
+2021-11-15,Lithuania,Kuwait,1,1,Friendly,Lithuania,-2,+2,1323,1371
+2021-11-15,Georgia,Uzbekistan,1,0,Friendly,Georgia,+7,-7,1549,1522
+2021-11-15,Niger,Djibouti,7,2,World Cup qualifier,Niger,+6,-6,1249,888
+2021-11-15,Namibia,Togo,0,1,World Cup qualifier,South Africa,-25,+25,1358,1325
+2021-11-15,Kenya,Rwanda,2,1,World Cup qualifier,Kenya,+10,-10,1375,1263
+2021-11-15,Guinea-Bissau,Sudan,0,0,World Cup qualifier,Morocco,-2,+2,1391,1359
+2021-11-15,Switzerland,Bulgaria,4,0,World Cup qualifier,Switzerland,+4,-4,1934,1518
+2021-11-15,Scotland,Denmark,2,0,World Cup qualifier,Scotland,+46,-46,1729,1937
+2021-11-15,San Marino,England,0,10,World Cup qualifier,San Marino,0,0,794,2032
+2021-11-15,Poland,Hungary,1,2,World Cup qualifier,Poland,-31,+31,1770,1726
+2021-11-15,Northern Ireland,Italy,0,0,World Cup qualifier,Northern Ireland,+16,-16,1603,2030
+2021-11-15,Israel,Faroe Islands,3,2,World Cup qualifier,Israel,+2,-2,1630,1246
+2021-11-15,Austria,Moldova,4,1,World Cup qualifier,Austria,+2,-2,1731,1190
+2021-11-15,Albania,Andorra,1,0,World Cup qualifier,Albania,+1,-1,1586,1056
+2021-11-16,Sri Lanka,Bangladesh,2,1,Friendly tournament,Sri Lanka,+20,-20,674,854
+2021-11-16,New Zealand,Gambia,2,0,Friendly,the United Arab Emirates,+9,-9,1528,1354
+2021-11-16,Maldives,Seychelles,0,0,Friendly tournament,Sri Lanka,0,0,901,902
+2021-11-16,Kazakhstan,Tajikistan,1,0,Friendly,Kazakhstan,+5,-5,1349,1260
+2021-11-16,Belarus,Jordan,1,0,Friendly,Belarus,+9,-9,1453,1511
+2021-11-16,Bahrain,Kyrgyzstan,4,2,Friendly,Bahrain,+3,-3,1551,1277
+2021-11-16,Afghanistan,Indonesia,1,0,Friendly,Turkey,+10,-10,1141,1116
+2021-11-16,Vietnam,Saudi Arabia,0,1,World Cup qualifier,Vietnam,-9,+9,1356,1683
+2021-11-16,South Korea,Iraq,3,0,World Cup qualifier,Qatar,+18,-18,1787,1572
+2021-11-16,Oman,Japan,0,1,World Cup qualifier,Oman,-13,+13,1503,1760
+2021-11-16,Lebanon,United Arab Emirates,0,1,World Cup qualifier,Lebanon,-22,+22,1379,1487
+2021-11-16,Iran,Syria,3,0,World Cup qualifier,Jordan,+6,-6,1836,1422
+2021-11-16,Australia,China,1,1,World Cup qualifier,the United Arab Emirates,-12,+12,1733,1503
+2021-11-16,Tunisia,Zambia,3,1,World Cup qualifier,Tunisia,+9,-9,1645,1425
+2021-11-16,Nigeria,Cape Verde,1,1,World Cup qualifier,Nigeria,-14,+14,1646,1471
+2021-11-16,Mozambique,Malawi,1,0,World Cup qualifier,Benin,+21,-21,1307,1275
+2021-11-16,Morocco,Guinea,3,0,World Cup qualifier,Morocco,+6,-6,1721,1408
+2021-11-16,Mauritania,Equatorial Guinea,1,1,World Cup qualifier,Mauritania,-1,+1,1342,1429
+2021-11-16,Libya,Angola,1,1,World Cup qualifier,Libya,-5,+5,1333,1363
+2021-11-16,Liberia,Central African Republic,3,1,World Cup qualifier,Morocco,+27,-27,1357,1272
+2021-11-16,Egypt,Gabon,2,1,World Cup qualifier,Egypt,+6,-6,1629,1416
+2021-11-16,Cameroon,Ivory Coast,1,0,World Cup qualifier,Cameroon,+19,-19,1609,1648
+2021-11-16,Algeria,Burkina Faso,2,2,World Cup qualifier,Algeria,-14,+14,1752,1569
+2021-11-16,Wales,Belgium,1,1,World Cup qualifier,Wales,+8,-8,1836,2075
+2021-11-16,Netherlands,Norway,2,0,World Cup qualifier,the Netherlands,+10,-10,1930,1732
+2021-11-16,Montenegro,Turkey,1,2,World Cup qualifier,Montenegro,-15,+15,1514,1727
+2021-11-16,Gibraltar,Latvia,1,3,World Cup qualifier,Gibraltar,-18,+18,1048,1327
+2021-11-16,Finland,France,0,2,World Cup qualifier,Finland,-10,+10,1722,2114
+2021-11-16,Czechia,Estonia,2,0,World Cup qualifier,Czechia,+3,-3,1834,1429
+2021-11-16,Bosnia and Herzegovina,Ukraine,0,2,World Cup qualifier,Bosnia and Herzegovina,-24,+24,1602,1817
+2021-11-16,Panama,El Salvador,2,1,World Cup qualifier,Panama,+9,-9,1628,1495
+2021-11-16,Jamaica,United States,1,1,World Cup qualifier,Jamaica,+10,-10,1588,1858
+2021-11-16,Costa Rica,Honduras,2,1,World Cup qualifier,Costa Rica,+9,-9,1618,1496
+2021-11-16,Canada,Mexico,2,1,World Cup qualifier,Canada,+20,-20,1785,1842
+2021-11-16,Venezuela,Peru,1,2,World Cup qualifier,Venezuela,-19,+19,1678,1835
+2021-11-16,Colombia,Paraguay,0,0,World Cup qualifier,Colombia,-14,+14,1904,1728
+2021-11-16,Chile,Ecuador,0,2,World Cup qualifier,Chile,-39,+39,1789,1857
+2021-11-16,Bolivia,Uruguay,3,0,World Cup qualifier,Bolivia,+50,-50,1693,1848
+2021-11-16,Argentina,Brazil,0,0,World Cup qualifier,Argentina,-3,+3,2101,2149
+2021-11-19,Sri Lanka,Seychelles,3,3,Friendly tournament,Sri Lanka,+5,-5,679,897
+2021-11-25,Indonesia,Myanmar,4,1,Friendly,Turkey,+12,-12,1128,991
+2021-11-30,United Arab Emirates,Syria,2,1,Arab Cup,Qatar,+16,-16,1503,1406
+2021-11-30,Tunisia,Mauritania,5,1,Arab Cup,Qatar,+11,-11,1656,1331
+2021-11-30,Qatar,Bahrain,1,0,Arab Cup,Qatar,+10,-10,1653,1541
+2021-11-30,Iraq,Oman,1,1,Arab Cup,Qatar,-4,+4,1568,1507
+2021-12-01,Morocco,Palestine,4,0,Arab Cup,Qatar,+12,-12,1733,1417
+2021-12-01,Jordan,Saudi Arabia,1,0,Arab Cup,Qatar,+29,-29,1540,1654
+2021-12-01,Egypt,Lebanon,1,0,Arab Cup,Qatar,+8,-8,1637,1371
+2021-12-01,Algeria,Sudan,4,0,Arab Cup,Qatar,+7,-7,1759,1352
+2021-12-03,United Arab Emirates,Mauritania,1,0,Arab Cup,Qatar,+11,-11,1514,1320
+2021-12-03,Syria,Tunisia,2,0,Arab Cup,Qatar,+48,-48,1454,1608
+2021-12-03,Qatar,Oman,2,1,Arab Cup,Qatar,+8,-8,1661,1499
+2021-12-03,Bahrain,Iraq,0,0,Arab Cup,Qatar,+2,-2,1543,1566
+2021-12-04,Palestine,Saudi Arabia,1,1,Arab Cup,Qatar,+12,-12,1429,1642
+2021-12-04,Morocco,Jordan,4,0,Arab Cup,Qatar,+19,-19,1752,1521
+2021-12-04,Egypt,Sudan,5,0,Arab Cup,Qatar,+13,-13,1650,1339
+2021-12-04,Algeria,Lebanon,2,0,Arab Cup,Qatar,+6,-6,1765,1365
+2021-12-04,Ecuador,El Salvador,1,1,Friendly,the United States,-8,+8,1849,1503
+2021-12-05,Thailand,East Timor,2,0,Southeast Asian Championship,Singapore,+1,-1,1288,637
+2021-12-05,Singapore,Myanmar,3,0,Southeast Asian Championship,Singapore,+14,-14,1143,977
+2021-12-06,Vietnam,Laos,2,0,Southeast Asian Championship,Singapore,+1,-1,1357,689
+2021-12-06,Malaysia,Cambodia,3,1,Southeast Asian Championship,Singapore,+8,-8,1198,853
+2021-12-06,Tunisia,United Arab Emirates,1,0,Arab Cup,Qatar,+15,-15,1623,1499
+2021-12-06,Qatar,Iraq,3,0,Arab Cup,Qatar,+17,-17,1678,1549
+2021-12-06,Oman,Bahrain,3,0,Arab Cup,Qatar,+39,-39,1538,1504
+2021-12-06,Mauritania,Syria,2,1,Arab Cup,Qatar,+27,-27,1347,1427
+2021-12-07,Morocco,Saudi Arabia,1,0,Arab Cup,Qatar,+14,-14,1766,1628
+2021-12-07,Lebanon,Sudan,1,0,Arab Cup,Qatar,+19,-19,1384,1320
+2021-12-07,Jordan,Palestine,5,1,Arab Cup,Qatar,+28,-28,1549,1401
+2021-12-07,Algeria,Egypt,1,1,Arab Cup,Qatar,-6,+6,1759,1656
+2021-12-08,Singapore,Philippines,2,1,Southeast Asian Championship,Singapore,+14,-14,1157,1124
+2021-12-08,Myanmar,East Timor,2,0,Southeast Asian Championship,Singapore,+7,-7,984,630
+2021-12-08,Chile,Mexico,2,2,Friendly,the United States,+2,-2,1791,1840
+2021-12-09,Malaysia,Laos,4,0,Southeast Asian Championship,Singapore,+4,-4,1202,685
+2021-12-09,Indonesia,Cambodia,4,2,Southeast Asian Championship,Singapore,+10,-10,1138,843
+2021-12-09,Tanzania,Uganda,0,2,Friendly,Tanzania,-14,+14,1312,1462
+2021-12-10,Tunisia,Oman,2,1,Arab Cup,Qatar,+15,-15,1638,1523
+2021-12-10,Qatar,United Arab Emirates,5,0,Arab Cup,Qatar,+13,-13,1691,1486
+2021-12-11,Thailand,Myanmar,4,0,Southeast Asian Championship,Singapore,+11,-11,1299,973
+2021-12-11,Philippines,East Timor,7,0,Southeast Asian Championship,Singapore,+5,-5,1129,625
+2021-12-11,Egypt,Jordan,3,1,Arab Cup,Qatar,+21,-21,1677,1528
+2021-12-11,Algeria,Morocco,2,2,Arab Cup,Qatar,0,0,1759,1766
+2021-12-11,Chile,El Salvador,1,0,Friendly,the United States,+3,-3,1794,1500
+2021-12-12,Vietnam,Malaysia,3,0,Southeast Asian Championship,Singapore,+20,-20,1377,1182
+2021-12-12,Indonesia,Laos,5,1,Southeast Asian Championship,Singapore,+5,-5,1143,680
+2021-12-14,Thailand,Philippines,2,1,Southeast Asian Championship,Singapore,+11,-11,1310,1118
+2021-12-14,Singapore,East Timor,2,0,Southeast Asian Championship,Singapore,+2,-2,1159,623
+2021-12-15,Indonesia,Vietnam,0,0,Southeast Asian Championship,Singapore,+12,-12,1155,1365
+2021-12-15,Cambodia,Laos,3,0,Southeast Asian Championship,Singapore,+20,-20,863,660
+2021-12-15,Tunisia,Egypt,1,0,Arab Cup,Qatar,+22,-22,1660,1655
+2021-12-15,Qatar,Algeria,1,2,Arab Cup,Qatar,-22,+22,1669,1781
+2021-12-18,Singapore,Thailand,0,2,Southeast Asian Championship,Singapore,-26,+26,1133,1336
+2021-12-18,Philippines,Myanmar,3,2,Southeast Asian Championship,Singapore,+12,-12,1130,961
+2021-12-18,Qatar,Egypt,0,0,Arab Cup,Qatar,-6,+6,1663,1661
+2021-12-18,Algeria,Tunisia,2,0,Arab Cup,Qatar,+20,-20,1801,1640
+2021-12-18,United States,Bosnia and Herzegovina,1,0,Friendly,the United States,+2,-2,1860,1600
+2021-12-19,Vietnam,Cambodia,4,0,Southeast Asian Championship,Singapore,+4,-4,1369,859
+2021-12-19,Indonesia,Malaysia,4,1,Southeast Asian Championship,Singapore,+38,-38,1193,1144
+2021-12-22,Singapore,Indonesia,1,1,Southeast Asian Championship,Singapore,-2,+2,1131,1195
+2021-12-23,Thailand,Vietnam,2,0,Southeast Asian Championship,Singapore,+33,-33,1369,1336
+2021-12-25,Singapore,Indonesia,2,4,Southeast Asian Championship,Singapore,-33,+33,1098,1228
+2021-12-26,Thailand,Vietnam,0,0,Southeast Asian Championship,Singapore,-2,+2,1367,1338
+2021-12-29,Thailand,Indonesia,4,0,Southeast Asian Championship,Singapore,+23,-23,1390,1205
+2021-12-30,Ethiopia,Sudan,3,2,Friendly,Cameroon,+9,-9,1350,1311
+2021-12-30,Burkina Faso,Mauritania,0,0,Friendly,the United Arab Emirates,-6,+6,1563,1353
+2021-12-31,Malawi,Comoros,2,1,Friendly,Saudi Arabia,+9,-9,1284,1244

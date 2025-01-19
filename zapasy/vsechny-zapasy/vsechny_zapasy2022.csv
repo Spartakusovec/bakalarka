@@ -1,0 +1,991 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2022-01-01,Indonesia,Thailand,2,2,Southeast Asian Championship,Singapore,+10,-10,1215,1380
+2022-01-02,Sudan,Zimbabwe,0,0,Friendly,Cameroon,0,0,1311,1315
+2022-01-02,Burkina Faso,Gabon,3,0,Friendly,the United Arab Emirates,+11,-11,1574,1405
+2022-01-03,Rwanda,Guinea,3,0,Friendly,Rwanda,+20,-20,1283,1388
+2022-01-04,Gabon,Mauritania,1,1,Friendly,the United Arab Emirates,-1,+1,1404,1354
+2022-01-05,Algeria,Ghana,3,0,Friendly,Qatar,+9,-9,1810,1595
+2022-01-06,Rwanda,Guinea,0,2,Friendly,Rwanda,-15,+15,1268,1403
+2022-01-09,Cape Verde,Ethiopia,1,0,African Nations Cup,Cameroon,+17,-17,1488,1333
+2022-01-09,Cameroon,Burkina Faso,2,1,African Nations Cup,Cameroon,+16,-16,1625,1558
+2022-01-10,Senegal,Zimbabwe,1,0,African Nations Cup,Cameroon,+5,-5,1710,1310
+2022-01-10,Morocco,Ghana,1,0,African Nations Cup,Cameroon,+14,-14,1780,1581
+2022-01-10,Guinea,Malawi,1,0,African Nations Cup,Cameroon,+17,-17,1420,1267
+2022-01-10,Gabon,Comoros,1,0,African Nations Cup,Cameroon,+14,-14,1418,1230
+2022-01-11,Nigeria,Egypt,1,0,African Nations Cup,Cameroon,+26,-26,1672,1635
+2022-01-11,Guinea-Bissau,Sudan,0,0,African Nations Cup,Cameroon,-6,+6,1385,1317
+2022-01-11,Algeria,Sierra Leone,0,0,African Nations Cup,Cameroon,-22,+22,1788,1360
+2022-01-12,Iceland,Uganda,1,1,Friendly,Turkey,-2,+2,1543,1464
+2022-01-12,Mali,Tunisia,1,0,African Nations Cup,Cameroon,+27,-27,1646,1613
+2022-01-12,Ivory Coast,Equatorial Guinea,1,0,African Nations Cup,Cameroon,+11,-11,1659,1418
+2022-01-12,Gambia,Mauritania,1,0,African Nations Cup,Cameroon,+25,-25,1379,1329
+2022-01-13,Cameroon,Ethiopia,4,1,African Nations Cup,Cameroon,+8,-8,1633,1325
+2022-01-13,Burkina Faso,Cape Verde,1,0,African Nations Cup,Cameroon,+20,-20,1578,1468
+2022-01-14,Morocco,Comoros,2,0,African Nations Cup,Cameroon,+3,-3,1783,1227
+2022-01-14,Malawi,Zimbabwe,2,1,African Nations Cup,Cameroon,+28,-28,1295,1282
+2022-01-14,Guinea,Senegal,0,0,African Nations Cup,Cameroon,+17,-17,1437,1693
+2022-01-14,Gabon,Ghana,1,1,African Nations Cup,Cameroon,+11,-11,1429,1570
+2022-01-15,South Korea,Iceland,5,1,Friendly,Turkey,+7,-7,1794,1536
+2022-01-15,Nigeria,Sudan,3,1,African Nations Cup,Cameroon,+9,-9,1681,1308
+2022-01-15,Egypt,Guinea-Bissau,1,0,African Nations Cup,Cameroon,+10,-10,1645,1375
+2022-01-16,Tunisia,Mauritania,4,0,African Nations Cup,Cameroon,+15,-15,1628,1314
+2022-01-16,Ivory Coast,Sierra Leone,2,2,African Nations Cup,Cameroon,-17,+17,1642,1377
+2022-01-16,Gambia,Mali,1,1,African Nations Cup,Cameroon,+16,-16,1395,1630
+2022-01-16,Equatorial Guinea,Algeria,1,0,African Nations Cup,Cameroon,+45,-45,1463,1743
+2022-01-16,Peru,Panama,1,1,Friendly,Peru,-7,+7,1828,1635
+2022-01-16,Colombia,Honduras,2,1,Friendly,the United States,+2,-2,1906,1494
+2022-01-17,Cameroon,Cape Verde,1,1,African Nations Cup,Cameroon,-16,+16,1617,1484
+2022-01-17,Burkina Faso,Ethiopia,1,1,African Nations Cup,Cameroon,-16,+16,1562,1341
+2022-01-18,Uganda,Moldova,3,2,Friendly,Turkey,+3,-3,1467,1187
+2022-01-18,Zimbabwe,Guinea,2,1,African Nations Cup,Cameroon,+35,-35,1317,1402
+2022-01-18,Malawi,Senegal,0,0,African Nations Cup,Cameroon,+20,-20,1315,1673
+2022-01-18,Gabon,Morocco,2,2,African Nations Cup,Cameroon,+19,-19,1448,1764
+2022-01-18,Comoros,Ghana,3,2,African Nations Cup,Cameroon,+44,-44,1271,1526
+2022-01-19,Nigeria,Guinea-Bissau,2,0,African Nations Cup,Cameroon,+11,-11,1692,1364
+2022-01-19,Egypt,Sudan,1,0,African Nations Cup,Cameroon,+6,-6,1651,1302
+2022-01-20,Mali,Mauritania,2,0,African Nations Cup,Cameroon,+10,-10,1640,1304
+2022-01-20,Ivory Coast,Algeria,3,1,African Nations Cup,Cameroon,+48,-48,1690,1695
+2022-01-20,Gambia,Tunisia,1,0,African Nations Cup,Cameroon,+40,-40,1435,1588
+2022-01-20,Equatorial Guinea,Sierra Leone,1,0,African Nations Cup,Cameroon,+19,-19,1482,1358
+2022-01-20,Peru,Jamaica,3,0,Friendly,Peru,+4,-4,1832,1584
+2022-01-21,South Korea,Moldova,4,0,Friendly,Turkey,+1,-1,1795,1186
+2022-01-21,Iraq,Uganda,1,0,Friendly,Iraq,+5,-5,1554,1462
+2022-01-21,Bolivia,Trinidad and Tobago,5,0,Friendly,Bolivia,+3,-3,1696,1365
+2022-01-23,Tunisia,Nigeria,1,0,African Nations Cup,Cameroon,+32,-32,1620,1660
+2022-01-23,Burkina Faso,Gabon,1,1,African Nations Cup,Cameroon,-8,+8,1554,1456
+2022-01-24,Gambia,Guinea,1,0,African Nations Cup,Cameroon,+23,-23,1458,1379
+2022-01-24,Cameroon,Comoros,2,1,African Nations Cup,Cameroon,+4,-4,1621,1267
+2022-01-25,Senegal,Cape Verde,2,0,African Nations Cup,Cameroon,+19,-19,1692,1465
+2022-01-25,Morocco,Malawi,2,1,African Nations Cup,Cameroon,+4,-4,1768,1311
+2022-01-26,Equatorial Guinea,Mali,0,0,African Nations Cup,Cameroon,+11,-11,1493,1629
+2022-01-26,Egypt,Ivory Coast,0,0,African Nations Cup,Cameroon,+3,-3,1654,1687
+2022-01-27,Uzbekistan,South Sudan,3,0,Friendly,the United Arab Emirates,+3,-3,1525,1084
+2022-01-27,Indonesia,East Timor,4,1,Friendly,Indonesia,+1,-1,1216,622
+2022-01-27,Bahrain,Uganda,3,1,Friendly,Bahrain,+9,-9,1513,1453
+2022-01-27,Anguilla,British Virgin Islands,2,1,Friendly,England,+11,-11,568,591
+2022-01-27,United Arab Emirates,Syria,2,0,World Cup qualifier,the United Arab Emirates,+17,-17,1503,1410
+2022-01-27,Saudi Arabia,Oman,1,0,World Cup qualifier,Saudi Arabia,+9,-9,1637,1514
+2022-01-27,Lebanon,South Korea,0,1,World Cup qualifier,Lebanon,-6,+6,1378,1801
+2022-01-27,Japan,China,2,0,World Cup qualifier,Japan,+7,-7,1767,1496
+2022-01-27,Iran,Iraq,1,0,World Cup qualifier,Iran,+4,-4,1840,1550
+2022-01-27,Australia,Vietnam,4,0,World Cup qualifier,Australia,+4,-4,1737,1334
+2022-01-27,United States,El Salvador,1,0,World Cup qualifier,the United States,+3,-3,1863,1497
+2022-01-27,Jamaica,Mexico,1,2,World Cup qualifier,Jamaica,-12,+12,1572,1852
+2022-01-27,Honduras,Canada,0,2,World Cup qualifier,Honduras,-15,+15,1479,1800
+2022-01-27,Costa Rica,Panama,1,0,World Cup qualifier,Costa Rica,+15,-15,1633,1620
+2022-01-27,Paraguay,Uruguay,0,1,World Cup qualifier,Paraguay,-19,+19,1709,1867
+2022-01-27,Ecuador,Brazil,1,1,World Cup qualifier,Ecuador,+10,-10,1859,2139
+2022-01-27,Chile,Argentina,1,2,World Cup qualifier,Chile,-9,+9,1785,2110
+2022-01-28,Suriname,Barbados,1,0,Friendly tournament,Suriname,+3,-3,1337,1076
+2022-01-28,Jordan,New Zealand,3,1,Friendly,the United Arab Emirates,+15,-15,1543,1513
+2022-01-28,Venezuela,Bolivia,4,1,World Cup qualifier,Venezuela,+27,-27,1705,1669
+2022-01-28,Colombia,Peru,0,1,World Cup qualifier,Colombia,-29,+29,1877,1861
+2022-01-29,Nicaragua,Belize,4,0,Friendly,Nicaragua,+9,-9,1240,1117
+2022-01-29,Nepal,Mauritius,1,0,Friendly,Nepal,+9,-9,944,999
+2022-01-29,Kuwait,Libya,2,0,Friendly,Kuwait,+9,-9,1380,1324
+2022-01-29,Cameroon,Gambia,2,0,African Nations Cup,Cameroon,+14,-14,1635,1444
+2022-01-29,Burkina Faso,Tunisia,1,0,African Nations Cup,Cameroon,+30,-30,1584,1590
+2022-01-30,Indonesia,East Timor,3,0,Friendly,Indonesia,+1,-1,1217,621
+2022-01-30,Barbados,Guyana,0,0,Friendly tournament,Suriname,+3,-3,1079,1140
+2022-01-30,Senegal,Equatorial Guinea,3,1,African Nations Cup,Cameroon,+18,-18,1710,1475
+2022-01-30,Egypt,Morocco,2,1,African Nations Cup,Cameroon,+33,-33,1687,1735
+2022-01-30,Panama,Jamaica,3,2,World Cup qualifier,Panama,+12,-12,1632,1560
+2022-01-30,Mexico,Costa Rica,0,0,World Cup qualifier,Mexico,-15,+15,1837,1648
+2022-01-30,Honduras,El Salvador,0,2,World Cup qualifier,Honduras,-37,+37,1442,1534
+2022-01-30,Canada,United States,2,0,World Cup qualifier,Canada,+27,-27,1827,1836
+2022-01-31,Jordan,South Sudan,2,1,Friendly,the United Arab Emirates,+1,-1,1544,1083
+2022-02-01,Suriname,Guyana,2,1,Friendly tournament,Suriname,+5,-5,1342,1135
+2022-02-01,Nicaragua,Belize,1,1,Friendly,Nicaragua,-6,+6,1234,1123
+2022-02-01,Nepal,Mauritius,1,0,Friendly,Nepal,+9,-9,953,990
+2022-02-01,Kuwait,Libya,0,2,Friendly,Kuwait,-21,+21,1359,1345
+2022-02-01,Bahrain,Democratic Republic of Congo,1,0,Friendly,Bahrain,+7,-7,1520,1507
+2022-02-01,Vietnam,China,3,1,World Cup qualifier,Vietnam,+35,-35,1369,1461
+2022-02-01,South Korea,Syria,2,0,World Cup qualifier,the United Arab Emirates,+6,-6,1807,1404
+2022-02-01,Oman,Australia,2,2,World Cup qualifier,Oman,+7,-7,1521,1730
+2022-02-01,Lebanon,Iraq,1,1,World Cup qualifier,Lebanon,+4,-4,1382,1546
+2022-02-01,Japan,Saudi Arabia,2,0,World Cup qualifier,Japan,+13,-13,1780,1624
+2022-02-01,Iran,United Arab Emirates,1,0,World Cup qualifier,Iran,+3,-3,1843,1500
+2022-02-01,Uruguay,Venezuela,4,1,World Cup qualifier,Uruguay,+13,-13,1880,1692
+2022-02-01,Peru,Ecuador,1,1,World Cup qualifier,Peru,-6,+6,1855,1865
+2022-02-01,Brazil,Paraguay,4,0,World Cup qualifier,Brazil,+3,-3,2142,1706
+2022-02-01,Bolivia,Chile,2,3,World Cup qualifier,Bolivia,-19,+19,1650,1804
+2022-02-01,Argentina,Colombia,1,0,World Cup qualifier,Argentina,+5,-5,2115,1872
+2022-02-02,Senegal,Burkina Faso,3,1,African Nations Cup,Cameroon,+24,-24,1734,1560
+2022-02-02,United States,Honduras,3,0,World Cup qualifier,the United States,+4,-4,1840,1438
+2022-02-02,Mexico,Panama,1,0,World Cup qualifier,Mexico,+6,-6,1843,1626
+2022-02-02,Jamaica,Costa Rica,0,1,World Cup qualifier,Jamaica,-21,+21,1539,1669
+2022-02-02,El Salvador,Canada,0,2,World Cup qualifier,El Salvador,-15,+15,1519,1842
+2022-02-03,Cameroon,Egypt,0,0,African Nations Cup,Cameroon,-3,+3,1632,1690
+2022-02-05,Cameroon,Burkina Faso,3,3,African Nations Cup,Cameroon,-11,+11,1621,1571
+2022-02-06,Egypt,Senegal,0,0,African Nations Cup,Cameroon,+3,-3,1693,1731
+2022-02-13,Saint Martin,Anguilla,1,2,Friendly,Saint Martin,-18,+18,836,586
+2022-02-19,Guam,Northern Mariana Islands,2,0,Friendly,Guam,+3,-3,703,406
+2022-02-22,Martinique,Barbados,3,1,Friendly,Martinique,+3,-3,1390,1076
+2022-02-22,Guam,Northern Mariana Islands,3,2,Friendly,Guam,+2,-2,705,404
+2022-03-08,Eswatini,Lesotho,0,0,Friendly,Eswatini,-4,+4,1241,1208
+2022-03-08,Eswatini,Lesotho,4,0,Friendly,Eswatini,+12,-12,1253,1196
+2022-03-10,Fiji,Vanuatu,3,0,Friendly,Qatar,+15,-15,1244,1158
+2022-03-17,Solomon Islands,Cook Islands,2,0,World Cup qualifier,Qatar,+4,-4,1165,683
+2022-03-18,Iraq,Zambia,3,1,Friendly,Iraq,+7,-7,1553,1418
+2022-03-18,New Zealand,Papua New Guinea,1,0,World Cup qualifier,Qatar,+4,-4,1517,1146
+2022-03-18,Fiji,New Caledonia,2,1,World Cup qualifier,Qatar,+21,-21,1265,1248
+2022-03-19,Mauritius,Seychelles,0,0,Friendly,Mauritius,-5,+5,985,902
+2022-03-21,Papua New Guinea,New Caledonia,1,0,World Cup qualifier,Qatar,+26,-26,1172,1222
+2022-03-21,New Zealand,Fiji,4,0,World Cup qualifier,Qatar,+14,-14,1531,1251
+2022-03-23,Tanzania,Central African Republic,3,1,Friendly tournament,Tanzania,+14,-14,1326,1258
+2022-03-23,Mozambique,Niger,1,1,Friendly tournament,Mauritania,-2,+2,1305,1251
+2022-03-23,Malaysia,Philippines,2,0,Friendly tournament,Singapore,+22,-22,1166,1108
+2022-03-23,Laos,Mongolia,1,0,Friendly,Laos,+10,-10,670,758
+2022-03-23,Guinea-Bissau,Equatorial Guinea,3,0,Friendly tournament,Portugal,+34,-34,1398,1441
+2022-03-23,Gibraltar,Grenada,0,0,Friendly,Gibraltar,0,0,1048,1136
+2022-03-23,Cape Verde,Guadeloupe,2,0,Friendly,France,+6,-6,1471,1208
+2022-03-23,Bahrain,India,2,1,Friendly,Bahrain,+2,-2,1522,1204
+2022-03-23,South Sudan,Djibouti,4,2,African Nations Cup qualifier,Egypt,+15,-15,1098,873
+2022-03-23,Lesotho,Seychelles,0,0,African Nations Cup qualifier,Mauritius,-14,+14,1182,916
+2022-03-23,Gambia,Chad,1,0,African Nations Cup qualifier,Cameroon,+7,-7,1451,1176
+2022-03-23,Eswatini,Somalia,3,0,African Nations Cup qualifier,Tanzania,+9,-9,1262,903
+2022-03-24,Togo,Sierra Leone,3,0,Friendly,Turkey,+19,-19,1344,1339
+2022-03-24,Thailand,Nepal,2,0,Friendly,Thailand,+1,-1,1381,952
+2022-03-24,Scotland,Poland,1,1,Friendly,Scotland,-2,+2,1727,1772
+2022-03-24,Maldives,Bangladesh,2,0,Friendly,the Maldives,+9,-9,910,845
+2022-03-24,Kosovo,Burkina Faso,5,0,Friendly,Kosovo,+20,-20,1492,1551
+2022-03-24,Hungary,Serbia,0,1,Friendly,Hungary,-9,+9,1717,1855
+2022-03-24,Guatemala,Cuba,1,0,Friendly,Guatemala,+3,-3,1463,1274
+2022-03-24,Benin,Liberia,4,0,Friendly,Turkey,+14,-14,1458,1343
+2022-03-24,Armenia,Montenegro,1,0,Friendly,Armenia,+8,-8,1507,1506
+2022-03-24,Mauritius,São Tomé and Príncipe,0,1,African Nations Cup qualifier,Mauritius,-21,+21,964,1088
+2022-03-24,Vietnam,Oman,0,1,World Cup qualifier,Vietnam,-17,+17,1352,1538
+2022-03-24,South Korea,Iran,2,0,World Cup qualifier,South Korea,+25,-25,1832,1818
+2022-03-24,Lebanon,Syria,0,3,World Cup qualifier,Lebanon,-43,+43,1339,1447
+2022-03-24,Iraq,United Arab Emirates,1,0,World Cup qualifier,Saudi Arabia,+17,-17,1570,1483
+2022-03-24,China,Saudi Arabia,1,1,World Cup qualifier,the United Arab Emirates,+9,-9,1470,1615
+2022-03-24,Australia,Japan,0,2,World Cup qualifier,Australia,-34,+34,1696,1814
+2022-03-24,Solomon Islands,Tahiti,3,1,World Cup qualifier,Qatar,+32,-32,1197,1162
+2022-03-24,Papua New Guinea,Fiji,2,1,World Cup qualifier,Qatar,+24,-24,1196,1227
+2022-03-24,New Zealand,New Caledonia,7,1,World Cup qualifier,Qatar,+12,-12,1543,1210
+2022-03-24,Moldova,Kazakhstan,1,2,European Nations League C,Moldova,-16,+16,1170,1365
+2022-03-24,Estonia,Cyprus,0,0,European Nations League C,Estonia,-12,+12,1417,1304
+2022-03-24,Wales,Austria,2,1,World Cup qualifier,Wales,+9,-9,1845,1722
+2022-03-24,Sweden,Czechia,1,0,World Cup qualifier,Sweden,+15,-15,1836,1819
+2022-03-24,Portugal,Turkey,3,1,World Cup qualifier,Portugal,+7,-7,1979,1720
+2022-03-24,Italy,North Macedonia,0,1,World Cup qualifier,Italy,-38,+38,1992,1668
+2022-03-24,Jamaica,El Salvador,1,1,World Cup qualifier,Jamaica,-7,+7,1532,1526
+2022-03-24,Panama,Honduras,1,1,World Cup qualifier,Panama,-14,+14,1612,1452
+2022-03-24,Mexico,United States,0,0,World Cup qualifier,Mexico,-6,+6,1837,1846
+2022-03-24,Costa Rica,Canada,1,0,World Cup qualifier,Costa Rica,+24,-24,1693,1818
+2022-03-24,Uruguay,Peru,1,0,World Cup qualifier,Uruguay,+13,-13,1893,1842
+2022-03-24,Paraguay,Ecuador,3,1,World Cup qualifier,Paraguay,+35,-35,1741,1830
+2022-03-24,Colombia,Bolivia,3,0,World Cup qualifier,Colombia,+9,-9,1881,1641
+2022-03-24,Brazil,Chile,4,0,World Cup qualifier,Brazil,+6,-6,2148,1798
+2022-03-25,Zambia,Congo,3,1,Friendly,Turkey,+11,-11,1429,1307
+2022-03-25,Uzbekistan,Kyrgyzstan,3,1,Friendly tournament,Uzbekistan,+5,-5,1530,1272
+2022-03-25,Trinidad and Tobago,Barbados,9,0,Friendly tournament,Trinidad and Tobago,+7,-7,1372,1069
+2022-03-25,Tajikistan,Uganda,1,1,Friendly tournament,Uzbekistan,+8,-8,1268,1445
+2022-03-25,San Marino,Lithuania,1,2,Friendly,San Marino,-2,+2,792,1325
+2022-03-25,Romania,Greece,0,1,Friendly,Romania,-13,+13,1653,1684
+2022-03-25,Norway,Slovakia,2,0,Friendly,Norway,+8,-8,1740,1659
+2022-03-25,Malta,Azerbaijan,1,0,Friendly,Malta,+10,-10,1242,1311
+2022-03-25,Luxembourg,Northern Ireland,1,3,Friendly,Luxembourg,-11,+11,1396,1614
+2022-03-25,Kuwait,Latvia,1,1,Friendly,Malta,-1,+1,1358,1328
+2022-03-25,Guinea,South Africa,0,0,Friendly,Belgium,+5,-5,1384,1545
+2022-03-25,France,Ivory Coast,2,1,Friendly,France,+1,-1,2115,1686
+2022-03-25,Comoros,Ethiopia,2,1,Friendly,the Comoros,+9,-9,1276,1332
+2022-03-25,Cape Verde,Liechtenstein,6,0,Friendly,Spain,+4,-4,1475,1090
+2022-03-25,Bosnia and Herzegovina,Georgia,0,1,Friendly,Bosnia and Herzegovina,-14,+14,1586,1563
+2022-03-25,Andorra,Saint Kitts and Nevis,1,0,Friendly,Andorra,+11,-11,1067,1187
+2022-03-25,Mali,Tunisia,0,1,World Cup qualifier,Mali,-28,+28,1601,1618
+2022-03-25,Ghana,Nigeria,0,0,World Cup qualifier,Ghana,+2,-2,1528,1658
+2022-03-25,Egypt,Senegal,1,0,World Cup qualifier,Egypt,+16,-16,1709,1715
+2022-03-25,Democratic Republic of Congo,Morocco,1,1,World Cup qualifier,the Democratic Republic of the Congo,+7,-7,1514,1728
+2022-03-25,Cameroon,Algeria,0,1,World Cup qualifier,Cameroon,-21,+21,1600,1716
+2022-03-25,Argentina,Venezuela,3,0,World Cup qualifier,Argentina,+3,-3,2118,1689
+2022-03-26,Spain,Albania,2,1,Friendly,Spain,+1,-1,2038,1585
+2022-03-26,Singapore,Malaysia,2,1,Friendly tournament,Singapore,+14,-14,1112,1152
+2022-03-26,Saint Martin,Bahamas,2,0,Friendly,Saint Martin,+12,-12,848,854
+2022-03-26,Qatar,Bulgaria,2,1,Friendly,Qatar,+4,-4,1667,1514
+2022-03-26,Netherlands,Denmark,4,2,Friendly,the Netherlands,+11,-11,1941,1926
+2022-03-26,Mauritania,Mozambique,2,1,Friendly tournament,Mauritania,+11,-11,1315,1294
+2022-03-26,Martinique,Guadeloupe,4,3,Friendly,France,+5,-5,1395,1203
+2022-03-26,Libya,Niger,2,1,Friendly tournament,Mauritania,+11,-11,1356,1240
+2022-03-26,Ireland,Belgium,2,2,Friendly,Ireland,+7,-7,1690,2068
+2022-03-26,Gibraltar,Faroe Islands,0,0,Friendly,Gibraltar,+3,-3,1051,1243
+2022-03-26,Germany,Israel,2,0,Friendly,Germany,+2,-2,1965,1628
+2022-03-26,Finland,Iceland,1,1,Friendly,Spain,-5,+5,1717,1541
+2022-03-26,England,Switzerland,2,1,Friendly,England,+5,-5,2037,1929
+2022-03-26,Croatia,Slovenia,1,1,Friendly,Qatar,-6,+6,1853,1621
+2022-03-26,Central African Republic,Sudan,0,0,Friendly tournament,Tanzania,+2,-2,1260,1300
+2022-03-26,Belarus,India,3,0,Friendly,Bahrain,+7,-7,1460,1197
+2022-03-26,Bahrain,Burundi,1,0,Friendly,Bahrain,+2,-2,1524,1246
+2022-03-26,Angola,Guinea-Bissau,3,2,Friendly tournament,Portugal,+17,-17,1380,1381
+2022-03-27,Thailand,Suriname,1,0,Friendly,Thailand,+6,-6,1387,1336
+2022-03-27,Sierra Leone,Liberia,1,0,Friendly,Turkey,+10,-10,1349,1333
+2022-03-27,Laos,Brunei,3,2,Friendly,Laos,+6,-6,676,614
+2022-03-27,Guyana,Barbados,5,0,Friendly tournament,Trinidad and Tobago,+24,-24,1159,1045
+2022-03-27,Guatemala,Haiti,2,1,Friendly,the United States,+12,-12,1475,1515
+2022-03-27,Benin,Zambia,2,1,Friendly,Turkey,+9,-9,1467,1420
+2022-03-27,Belize,Cuba,0,3,Friendly,Belize,-15,+15,1108,1289
+2022-03-27,South Sudan,Djibouti,1,0,African Nations Cup qualifier,Uganda,+9,-9,1107,864
+2022-03-27,Mauritius,São Tomé and Príncipe,3,3,African Nations Cup qualifier,Mauritius,+1,-1,965,1087
+2022-03-27,Lesotho,Seychelles,3,1,African Nations Cup qualifier,South Africa,+11,-11,1193,905
+2022-03-27,Eswatini,Somalia,2,1,African Nations Cup qualifier,South Africa,+4,-4,1266,899
+2022-03-27,Solomon Islands,Papua New Guinea,3,2,World Cup qualifier,Qatar,+20,-20,1217,1176
+2022-03-27,New Zealand,Tahiti,1,0,World Cup qualifier,Qatar,+4,-4,1547,1158
+2022-03-27,United States,Panama,5,1,World Cup qualifier,the United States,+10,-10,1856,1602
+2022-03-27,Honduras,Mexico,0,1,World Cup qualifier,Honduras,-6,+6,1446,1843
+2022-03-27,El Salvador,Costa Rica,1,2,World Cup qualifier,El Salvador,-16,+16,1510,1709
+2022-03-27,Canada,Jamaica,4,0,World Cup qualifier,Canada,+7,-7,1825,1525
+2022-03-28,Montenegro,Greece,1,0,Friendly,Montenegro,+12,-12,1518,1672
+2022-03-28,Fiji,Vanuatu,2,1,Friendly,Qatar,+8,-8,1235,1150
+2022-03-28,Cape Verde,San Marino,2,0,Friendly,Spain,+1,-1,1476,791
+2022-03-28,Andorra,Grenada,1,0,Friendly,Andorra,+9,-9,1076,1127
+2022-03-29,Wales,Czechia,1,1,Friendly,Wales,-3,+3,1842,1822
+2022-03-29,Uzbekistan,Uganda,4,2,Friendly tournament,Uzbekistan,+12,-12,1542,1433
+2022-03-29,Turkey,Italy,2,3,Friendly,Turkey,-5,+5,1715,1997
+2022-03-29,Trinidad and Tobago,Guyana,1,1,Friendly tournament,Trinidad and Tobago,-11,+11,1361,1170
+2022-03-29,Tanzania,Sudan,1,1,Friendly tournament,Tanzania,-5,+5,1321,1305
+2022-03-29,Tajikistan,Kyrgyzstan,1,0,Friendly tournament,Uzbekistan,+15,-15,1283,1257
+2022-03-29,Switzerland,Kosovo,1,1,Friendly,Switzerland,-9,+9,1920,1501
+2022-03-29,Spain,Iceland,5,0,Friendly,Spain,+1,-1,2039,1540
+2022-03-29,Slovakia,Finland,2,0,Friendly,Spain,+17,-17,1676,1700
+2022-03-29,Singapore,Philippines,2,0,Friendly tournament,Singapore,+16,-16,1128,1092
+2022-03-29,Sierra Leone,Congo,2,1,Friendly,Turkey,+9,-9,1358,1298
+2022-03-29,Qatar,Slovenia,0,0,Friendly,Qatar,-4,+4,1663,1625
+2022-03-29,Norway,Armenia,9,0,Friendly,Norway,+6,-6,1746,1501
+2022-03-29,Northern Ireland,Hungary,0,1,Friendly,Northern Ireland,-10,+10,1604,1727
+2022-03-29,Netherlands,Germany,1,1,Friendly,the Netherlands,-2,+2,1939,1967
+2022-03-29,Mauritania,Libya,2,0,Friendly tournament,Mauritania,+19,-19,1334,1337
+2022-03-29,Malta,Kuwait,2,0,Friendly,Malta,+16,-16,1258,1342
+2022-03-29,Latvia,Azerbaijan,1,0,Friendly,Malta,+10,-10,1338,1301
+2022-03-29,Israel,Romania,2,2,Friendly,Israel,-2,+2,1626,1655
+2022-03-29,Ireland,Lithuania,1,0,Friendly,Ireland,+1,-1,1691,1324
+2022-03-29,France,South Africa,5,0,Friendly,France,+1,-1,2116,1544
+2022-03-29,Faroe Islands,Liechtenstein,1,0,Friendly,Spain,+6,-6,1249,1084
+2022-03-29,England,Ivory Coast,3,0,Friendly,England,+2,-2,2039,1684
+2022-03-29,Denmark,Serbia,3,0,Friendly,Denmark,+10,-10,1936,1845
+2022-03-29,Croatia,Bulgaria,2,1,Friendly,Qatar,+2,-2,1855,1512
+2022-03-29,Burundi,Liberia,2,1,Friendly,Turkey,+12,-12,1258,1321
+2022-03-29,Bosnia and Herzegovina,Luxembourg,1,0,Friendly,Bosnia and Herzegovina,+3,-3,1589,1393
+2022-03-29,Benin,Togo,1,1,Friendly,Turkey,-3,+3,1464,1347
+2022-03-29,Belgium,Burkina Faso,3,0,Friendly,Belgium,+1,-1,2069,1550
+2022-03-29,Bangladesh,Mongolia,0,0,Friendly,Bangladesh,-5,+5,840,763
+2022-03-29,Bahrain,Belarus,0,1,Friendly,Bahrain,-14,+14,1510,1474
+2022-03-29,Austria,Scotland,2,2,Friendly,Austria,-3,+3,1719,1730
+2022-03-29,Angola,Equatorial Guinea,0,0,Friendly tournament,Portugal,+3,-3,1383,1438
+2022-03-29,Albania,Georgia,0,0,Friendly,Albania,-3,+3,1582,1566
+2022-03-29,Chad,Gambia,2,2,African Nations Cup qualifier,Morocco,+13,-13,1189,1438
+2022-03-29,Kazakhstan,Moldova,0,1,European Nations League C,Kazakhstan,-34,+34,1331,1204
+2022-03-29,Cyprus,Estonia,2,0,European Nations League C,Cyprus,+31,-31,1335,1386
+2022-03-29,United Arab Emirates,South Korea,1,0,World Cup qualifier,the United Arab Emirates,+32,-32,1515,1800
+2022-03-29,Saudi Arabia,Australia,1,0,World Cup qualifier,Saudi Arabia,+19,-19,1634,1677
+2022-03-29,Oman,China,2,0,World Cup qualifier,Oman,+17,-17,1555,1453
+2022-03-29,Japan,Vietnam,1,1,World Cup qualifier,Japan,-18,+18,1796,1370
+2022-03-29,Iraq,Syria,1,1,World Cup qualifier,the United Arab Emirates,-7,+7,1563,1454
+2022-03-29,Iran,Lebanon,2,0,World Cup qualifier,Iran,+2,-2,1820,1337
+2022-03-29,Tunisia,Mali,0,0,World Cup qualifier,Tunisia,-6,+6,1612,1607
+2022-03-29,Senegal,Egypt,1,0,World Cup qualifier,Senegal,+14,-14,1729,1695
+2022-03-29,Nigeria,Ghana,1,1,World Cup qualifier,Nigeria,-12,+12,1646,1540
+2022-03-29,Morocco,Democratic Republic of Congo,4,1,World Cup qualifier,Morocco,+10,-10,1738,1504
+2022-03-29,Algeria,Cameroon,1,2,World Cup qualifier,Algeria,-31,+31,1685,1631
+2022-03-29,Portugal,North Macedonia,2,0,World Cup qualifier,Portugal,+5,-5,1984,1663
+2022-03-29,Poland,Sweden,2,0,World Cup qualifier,Poland,+27,-27,1799,1809
+2022-03-29,Venezuela,Colombia,0,1,World Cup qualifier,Venezuela,-15,+15,1674,1896
+2022-03-29,Peru,Paraguay,2,0,World Cup qualifier,Peru,+14,-14,1856,1727
+2022-03-29,Ecuador,Argentina,1,1,World Cup qualifier,Ecuador,+10,-10,1840,2108
+2022-03-29,Chile,Uruguay,0,2,World Cup qualifier,Chile,-30,+30,1768,1923
+2022-03-29,Bolivia,Brazil,0,4,World Cup qualifier,Bolivia,-7,+7,1634,2155
+2022-03-30,New Zealand,Solomon Islands,5,0,World Cup qualifier,Qatar,+10,-10,1557,1207
+2022-03-30,Panama,Canada,1,0,World Cup qualifier,Panama,+27,-27,1629,1798
+2022-03-30,Mexico,El Salvador,2,0,World Cup qualifier,Mexico,+5,-5,1848,1505
+2022-03-30,Jamaica,Honduras,2,1,World Cup qualifier,Jamaica,+11,-11,1536,1435
+2022-03-30,Costa Rica,United States,2,0,World Cup qualifier,Costa Rica,+34,-34,1743,1822
+2022-04-16,French Guiana,Guyana,2,1,Friendly,French Guiana,+5,-5,1274,1165
+2022-04-18,French Guiana,Guyana,1,2,Friendly,French Guiana,-15,+15,1259,1180
+2022-04-24,Guatemala,El Salvador,4,0,Friendly,the United States,+20,-20,1495,1485
+2022-04-27,Guatemala,Mexico,0,0,Friendly,the United States,+8,-8,1503,1840
+2022-05-01,El Salvador,Panama,3,2,Friendly,the United States,+14,-14,1499,1615
+2022-05-12,Dominica,Saint Vincent and the Grenadines,2,1,Friendly,Dominica,+10,-10,1033,1130
+2022-05-12,Bahamas,Turks and Caicos Islands,4,2,Friendly,the Bahamas,+8,-8,862,769
+2022-05-14,Bahamas,Turks and Caicos Islands,1,2,Friendly,the Bahamas,-15,+15,847,784
+2022-05-15,Dominica,Saint Vincent and the Grenadines,3,1,Friendly,Dominica,+15,-15,1048,1115
+2022-05-22,French Guiana,Suriname,3,1,Friendly,French Guiana,+14,-14,1273,1322
+2022-05-24,Thailand,Bahrain,3,1,Friendly,Thailand,+16,-16,1403,1494
+2022-05-24,Mozambique,Eswatini,0,1,Friendly,Mozambique,-14,+14,1280,1280
+2022-05-24,Hong Kong,Myanmar,0,0,Friendly,Thailand,-5,+5,1155,966
+2022-05-26,Lesotho,Namibia,2,1,Friendly,South Africa,+14,-14,1207,1344
+2022-05-27,Thailand,Turkmenistan,1,0,Friendly,Thailand,+4,-4,1407,1284
+2022-05-27,Malaysia,Brunei,4,0,Friendly,Malaysia,+1,-1,1153,613
+2022-05-27,Botswana,Eswatini,1,0,Friendly,South Africa,+9,-9,1309,1271
+2022-05-27,Bahrain,Myanmar,2,0,Friendly,Thailand,+1,-1,1495,965
+2022-05-28,Mexico,Nigeria,2,1,Friendly,the United States,+5,-5,1845,1641
+2022-05-28,Jordan,India,2,0,Friendly,Qatar,+4,-4,1548,1193
+2022-05-28,Guyana,Saint Lucia,3,2,Friendly,Trinidad and Tobago,+6,-6,1186,1030
+2022-05-28,Ethiopia,Lesotho,1,1,Friendly,Ethiopia,-6,+6,1326,1213
+2022-05-28,East Timor,Nepal,2,2,Friendly,Qatar,+7,-7,628,945
+2022-05-29,United Arab Emirates,Gambia,1,1,Friendly,the United Arab Emirates,-5,+5,1510,1443
+2022-05-29,South Sudan,Sudan,0,0,Friendly,Morocco,+5,-5,1112,1300
+2022-05-30,Trinidad and Tobago,Saint Lucia,1,0,Friendly,Trinidad and Tobago,+2,-2,1363,1028
+2022-05-30,Ethiopia,Lesotho,1,1,Friendly,Ethiopia,-5,+5,1321,1218
+2022-05-31,Thailand,Bahrain,1,2,Friendly,Thailand,-10,+10,1397,1505
+2022-05-31,Nepal,Sri Lanka,1,1,Friendly,Qatar,-6,+6,939,685
+2022-06-01,Vietnam,Afghanistan,2,0,Friendly,Vietnam,+4,-4,1374,1137
+2022-06-01,United States,Morocco,3,0,Friendly,the United States,+9,-9,1831,1729
+2022-06-01,Syria,Tajikistan,1,0,Friendly,the United Arab Emirates,+5,-5,1459,1278
+2022-06-01,Malta,Venezuela,0,1,Friendly,Malta,-3,+3,1255,1677
+2022-06-01,Malaysia,Hong Kong,2,0,Friendly,Malaysia,+11,-11,1164,1144
+2022-06-01,Kuwait,Singapore,2,0,Friendly,the United Arab Emirates,+7,-7,1349,1121
+2022-06-01,Indonesia,Bangladesh,0,0,Friendly,Indonesia,-9,+9,1208,849
+2022-06-01,Australia,Jordan,2,1,Friendly,Qatar,+6,-6,1683,1542
+2022-06-01,Libya,Botswana,1,0,African Nations Cup qualifier,Libya,+13,-13,1350,1296
+2022-06-01,Ghana,Madagascar,3,0,African Nations Cup qualifier,Ghana,+10,-10,1550,1317
+2022-06-01,Angola,Central African Republic,2,1,African Nations Cup qualifier,Angola,+9,-9,1392,1251
+2022-06-01,Poland,Wales,2,1,European Nations League A,Poland,+17,-17,1816,1825
+2022-06-01,Scotland,Ukraine,1,3,World Cup qualifier,Scotland,-31,+31,1699,1848
+2022-06-01,Argentina,Italy,3,0,Intercontinental Championship,England,+30,-30,2138,1967
+2022-06-02,South Korea,Brazil,1,5,Friendly,South Korea,-7,+7,1793,2162
+2022-06-02,Japan,Paraguay,4,1,Friendly,Japan,+10,-10,1806,1717
+2022-06-02,Cambodia,East Timor,2,1,Friendly,Cambodia,+3,-3,862,625
+2022-06-02,Tunisia,Equatorial Guinea,4,0,African Nations Cup qualifier,Tunisia,+13,-13,1625,1425
+2022-06-02,Mozambique,Rwanda,1,1,African Nations Cup qualifier,South Africa,-1,+1,1279,1269
+2022-06-02,Estonia,San Marino,2,0,European Nations League D,Estonia,+1,-1,1387,790
+2022-06-02,Northern Ireland,Greece,0,1,European Nations League C,Northern Ireland,-22,+22,1582,1694
+2022-06-02,Georgia,Gibraltar,4,0,European Nations League C,Georgia,+2,-2,1568,1049
+2022-06-02,Cyprus,Kosovo,0,2,European Nations League C,Cyprus,-24,+24,1311,1525
+2022-06-02,Bulgaria,North Macedonia,1,1,European Nations League C,Bulgaria,+3,-3,1515,1660
+2022-06-02,Slovenia,Sweden,0,2,European Nations League B,Slovenia,-23,+23,1602,1832
+2022-06-02,Serbia,Norway,0,1,European Nations League B,Serbia,-30,+30,1815,1776
+2022-06-02,Israel,Iceland,2,2,European Nations League B,Israel,-10,+10,1616,1550
+2022-06-02,Spain,Portugal,1,1,European Nations League A,Spain,-8,+8,2031,1992
+2022-06-02,Czechia,Switzerland,2,1,European Nations League A,Czechia,+20,-20,1842,1900
+2022-06-02,Anguilla,Dominica,0,0,CONCACAF Nations League C,Anguilla,+16,-16,602,1032
+2022-06-02,Guadeloupe,Cuba,2,1,CONCACAF Nations League B,Guadeloupe,+19,-19,1222,1270
+2022-06-02,French Guiana,Guatemala,2,0,CONCACAF Nations League B,French Guiana,+41,-41,1314,1462
+2022-06-02,Belize,Dominican Republic,0,2,CONCACAF Nations League B,Belize,-33,+33,1075,1204
+2022-06-02,Antigua and Barbuda,Barbados,1,0,CONCACAF Nations League B,Saint Lucia,+13,-13,1178,1032
+2022-06-02,Panama,Costa Rica,2,0,CONCACAF Nations League A,Panama,+32,-32,1647,1711
+2022-06-02,Uruguay,Mexico,3,0,Friendly,the United States,+14,-14,1937,1831
+2022-06-02,Ecuador,Nigeria,1,0,Friendly,the United States,+5,-5,1845,1636
+2022-06-03,Oman,Nepal,2,0,Friendly,Qatar,+1,-1,1556,938
+2022-06-03,Togo,Eswatini,2,2,African Nations Cup qualifier,Togo,-9,+9,1338,1280
+2022-06-03,Ivory Coast,Zambia,3,1,African Nations Cup qualifier,Ivory Coast,+7,-7,1691,1413
+2022-06-03,Comoros,Lesotho,2,0,African Nations Cup qualifier,the Comoros,+17,-17,1293,1201
+2022-06-03,Burkina Faso,Cape Verde,2,0,African Nations Cup qualifier,Morocco,+24,-24,1574,1452
+2022-06-03,Slovakia,Belarus,1,0,European Nations League C,Serbia,+10,-10,1686,1464
+2022-06-03,Liechtenstein,Moldova,0,2,European Nations League D,Liechtenstein,-28,+28,1056,1232
+2022-06-03,Latvia,Andorra,3,0,European Nations League D,Latvia,+8,-8,1346,1068
+2022-06-03,Kazakhstan,Azerbaijan,2,0,European Nations League C,Kazakhstan,+19,-19,1350,1282
+2022-06-03,France,Denmark,1,2,European Nations League A,France,-33,+33,2083,1969
+2022-06-03,Croatia,Austria,0,3,European Nations League A,Croatia,-56,+56,1799,1775
+2022-06-03,Belgium,Netherlands,1,4,European Nations League A,Belgium,-55,+55,2014,1994
+2022-06-03,Turks and Caicos Islands,Bonaire,1,4,CONCACAF Nations League C,Turks and Caicos Islands,-28,+28,756,986
+2022-06-03,Sint Maarten,US Virgin Islands,1,1,CONCACAF Nations League C,Curaçao,-6,+6,758,665
+2022-06-03,British Virgin Islands,Cayman Islands,1,1,CONCACAF Nations League C,the British Virgin Islands,+10,-10,601,882
+2022-06-03,Aruba,Saint Martin,0,0,CONCACAF Nations League C,Anguilla,-3,+3,906,851
+2022-06-03,Nicaragua,Trinidad and Tobago,2,1,CONCACAF Nations League B,Nicaragua,+22,-22,1256,1341
+2022-06-03,Bahamas,Saint Vincent and the Grenadines,1,0,CONCACAF Nations League B,the Bahamas,+29,-29,876,1086
+2022-06-03,Curaçao,Honduras,0,1,CONCACAF Nations League A,Curaçao,-24,+24,1382,1459
+2022-06-04,Senegal,Benin,3,1,African Nations Cup qualifier,Senegal,+7,-7,1736,1457
+2022-06-04,Niger,Tanzania,1,1,African Nations Cup qualifier,Benin,+5,-5,1245,1316
+2022-06-04,Mauritania,Sudan,3,0,African Nations Cup qualifier,Mauritania,+22,-22,1356,1278
+2022-06-04,Mali,Congo,4,0,African Nations Cup qualifier,Mali,+7,-7,1614,1291
+2022-06-04,Gambia,South Sudan,1,0,African Nations Cup qualifier,Senegal,+5,-5,1448,1107
+2022-06-04,Democratic Republic of Congo,Gabon,0,1,African Nations Cup qualifier,the Democratic Republic of the Congo,-28,+28,1476,1484
+2022-06-04,Burundi,Namibia,1,1,African Nations Cup qualifier,South Africa,+5,-5,1263,1339
+2022-06-04,Algeria,Uganda,2,0,African Nations Cup qualifier,Algeria,+7,-7,1692,1426
+2022-06-04,Turkey,Faroe Islands,4,0,European Nations League C,Turkey,+3,-3,1718,1246
+2022-06-04,Lithuania,Luxembourg,0,2,European Nations League C,Lithuania,-33,+33,1291,1426
+2022-06-04,Montenegro,Romania,2,0,European Nations League B,Montenegro,+33,-33,1551,1622
+2022-06-04,Finland,Bosnia and Herzegovina,1,1,European Nations League B,Finland,-11,+11,1689,1600
+2022-06-04,Armenia,Ireland,1,0,European Nations League B,Armenia,+25,-25,1526,1666
+2022-06-04,Italy,Germany,1,1,European Nations League A,Italy,-6,+6,1961,1973
+2022-06-04,Hungary,England,1,0,European Nations League A,Hungary,+31,-31,1758,2008
+2022-06-04,Guyana,Montserrat,2,1,CONCACAF Nations League B,the Dominican Republic,+8,-8,1194,932
+2022-06-04,Bermuda,Haiti,0,0,CONCACAF Nations League B,Bermuda,+9,-9,1257,1506
+2022-06-04,El Salvador,Grenada,3,1,CONCACAF Nations League A,El Salvador,+4,-4,1503,1123
+2022-06-04,Suriname,Jamaica,1,1,CONCACAF Nations League A,Suriname,+6,-6,1328,1530
+2022-06-05,United States,Uruguay,0,0,Friendly,the United States,0,0,1831,1937
+2022-06-05,Peru,New Zealand,1,0,Friendly,Spain,+3,-3,1859,1554
+2022-06-05,Ecuador,Mexico,0,0,Friendly,the United States,0,0,1845,1831
+2022-06-05,Colombia,Saudi Arabia,1,0,Friendly,Spain,+4,-4,1900,1630
+2022-06-05,Argentina,Estonia,5,0,Friendly,Spain,+1,-1,2139,1386
+2022-06-05,Malawi,Ethiopia,2,1,African Nations Cup qualifier,Malawi,+15,-15,1326,1306
+2022-06-05,Madagascar,Angola,1,1,African Nations Cup qualifier,Madagascar,-1,+1,1316,1393
+2022-06-05,Egypt,Guinea,1,0,African Nations Cup qualifier,Egypt,+3,-3,1698,1381
+2022-06-05,Central African Republic,Ghana,1,1,African Nations Cup qualifier,Angola,+14,-14,1265,1536
+2022-06-05,Botswana,Tunisia,0,0,African Nations Cup qualifier,Botswana,+12,-12,1308,1613
+2022-06-05,San Marino,Malta,0,2,European Nations League D,San Marino,-7,+7,783,1262
+2022-06-05,Kosovo,Greece,0,1,European Nations League C,Kosovo,-16,+16,1509,1710
+2022-06-05,Gibraltar,North Macedonia,0,2,European Nations League C,Gibraltar,-3,+3,1046,1663
+2022-06-05,Cyprus,Northern Ireland,0,0,European Nations League C,Cyprus,+9,-9,1320,1573
+2022-06-05,Bulgaria,Georgia,2,5,European Nations League C,Bulgaria,-40,+40,1475,1608
+2022-06-05,Sweden,Norway,1,2,European Nations League B,Sweden,-28,+28,1804,1804
+2022-06-05,Serbia,Slovenia,4,1,European Nations League B,Serbia,+10,-10,1825,1592
+2022-06-05,Portugal,Switzerland,4,0,European Nations League A,Portugal,+19,-19,2011,1881
+2022-06-05,Czechia,Spain,2,2,European Nations League A,Czechia,+5,-5,1847,2026
+2022-06-05,Wales,Ukraine,1,0,World Cup qualifier,Wales,+16,-16,1841,1832
+2022-06-05,Anguilla,Dominica,1,1,CONCACAF Nations League C,Saint Kitts and Nevis,+17,-17,619,1015
+2022-06-05,Guatemala,Belize,2,0,CONCACAF Nations League B,Guatemala,+3,-3,1465,1072
+2022-06-05,Dominican Republic,French Guiana,2,3,CONCACAF Nations League B,the Dominican Republic,-19,+19,1185,1333
+2022-06-05,Cuba,Barbados,3,0,CONCACAF Nations League B,Cuba,+9,-9,1279,1023
+2022-06-05,Antigua and Barbuda,Guadeloupe,1,0,CONCACAF Nations League B,Saint Kitts and Nevis,+23,-23,1201,1199
+2022-06-05,Costa Rica,Martinique,2,0,CONCACAF Nations League A,Costa Rica,+5,-5,1716,1390
+2022-06-06,South Korea,Chile,2,0,Friendly,South Korea,+10,-10,1803,1758
+2022-06-06,Japan,Brazil,0,1,Friendly,Japan,-4,+4,1802,2166
+2022-06-06,Equatorial Guinea,Libya,2,0,African Nations Cup qualifier,Equatorial Guinea,+16,-16,1441,1334
+2022-06-06,Latvia,Liechtenstein,1,0,European Nations League D,Latvia,+4,-4,1350,1052
+2022-06-06,Andorra,Moldova,0,0,European Nations League D,Andorra,+4,-4,1072,1228
+2022-06-06,Slovakia,Kazakhstan,0,1,European Nations League C,Slovakia,-37,+37,1649,1387
+2022-06-06,Azerbaijan,Belarus,0,0,European Nations League C,Serbia,+10,-10,1292,1454
+2022-06-06,Iceland,Albania,1,1,European Nations League B,Iceland,-4,+4,1546,1586
+2022-06-06,Croatia,France,1,1,European Nations League A,Croatia,+10,-10,1809,2073
+2022-06-06,Austria,Denmark,1,2,European Nations League A,Austria,-15,+15,1760,1984
+2022-06-06,US Virgin Islands,Turks and Caicos Islands,3,2,CONCACAF Nations League C,the US Virgin Islands,+19,-19,684,737
+2022-06-06,Cayman Islands,British Virgin Islands,1,1,CONCACAF Nations League C,the Cayman Islands,-16,+16,866,617
+2022-06-06,Bonaire,Sint Maarten,2,2,CONCACAF Nations League C,Curaçao,-12,+12,974,770
+2022-06-06,Aruba,Saint Martin,3,0,CONCACAF Nations League C,Curaçao,+30,-30,936,821
+2022-06-06,Trinidad and Tobago,Bahamas,1,0,CONCACAF Nations League B,Trinidad and Tobago,+1,-1,1342,875
+2022-06-06,Saint Vincent and the Grenadines,Nicaragua,2,2,CONCACAF Nations League B,Saint Vincent and the Grenadines,+4,-4,1090,1252
+2022-06-06,Honduras,Curaçao,1,2,CONCACAF Nations League A,Honduras,-29,+29,1430,1411
+2022-06-07,Zambia,Comoros,2,1,African Nations Cup qualifier,Zambia,+9,-9,1422,1284
+2022-06-07,Senegal,Rwanda,1,0,African Nations Cup qualifier,Senegal,+1,-1,1737,1268
+2022-06-07,Cape Verde,Togo,2,0,African Nations Cup qualifier,Morocco,+20,-20,1472,1318
+2022-06-07,Burkina Faso,Eswatini,3,1,African Nations Cup qualifier,South Africa,+9,-9,1583,1271
+2022-06-07,Lithuania,Turkey,0,6,European Nations League C,Lithuania,-11,+11,1280,1729
+2022-06-07,Faroe Islands,Luxembourg,0,1,European Nations League C,the Faroe Islands,-15,+15,1231,1441
+2022-06-07,Finland,Montenegro,2,0,European Nations League B,Finland,+12,-12,1701,1539
+2022-06-07,Bosnia and Herzegovina,Romania,1,0,European Nations League B,Bosnia and Herzegovina,+16,-16,1616,1606
+2022-06-07,Italy,Hungary,2,1,European Nations League A,Italy,+6,-6,1967,1752
+2022-06-07,Germany,England,1,1,European Nations League A,Germany,-4,+4,1969,2012
+2022-06-07,Australia,United Arab Emirates,2,1,World Cup qualifier,Qatar,+11,-11,1694,1499
+2022-06-07,Haiti,Montserrat,3,2,CONCACAF Nations League B,the Dominican Republic,+1,-1,1507,931
+2022-06-07,Guyana,Bermuda,2,1,CONCACAF Nations League B,Guyana,+18,-18,1212,1239
+2022-06-07,Jamaica,Suriname,3,1,CONCACAF Nations League A,Jamaica,+9,-9,1539,1319
+2022-06-07,Grenada,El Salvador,2,2,CONCACAF Nations League A,Grenada,+13,-13,1136,1490
+2022-06-08,Uzbekistan,Sri Lanka,3,0,Asian Cup qualifier,Uzbekistan,0,0,1542,685
+2022-06-08,Thailand,Maldives,3,0,Asian Cup qualifier,Uzbekistan,+4,-4,1401,906
+2022-06-08,Tajikistan,Myanmar,4,0,Asian Cup qualifier,Kyrgyzstan,+11,-11,1289,954
+2022-06-08,Philippines,Yemen,0,0,Asian Cup qualifier,Mongolia,+4,-4,1096,1165
+2022-06-08,Mongolia,Palestine,0,1,Asian Cup qualifier,Mongolia,-2,+2,761,1403
+2022-06-08,Malaysia,Turkmenistan,3,1,Asian Cup qualifier,Malaysia,+32,-32,1196,1252
+2022-06-08,Kyrgyzstan,Singapore,2,1,Asian Cup qualifier,Kyrgyzstan,+8,-8,1265,1113
+2022-06-08,Kuwait,Indonesia,1,2,Asian Cup qualifier,Kuwait,-32,+32,1317,1240
+2022-06-08,Jordan,Nepal,2,0,Asian Cup qualifier,Kuwait,+2,-2,1544,936
+2022-06-08,India,Cambodia,2,0,Asian Cup qualifier,India,+5,-5,1198,857
+2022-06-08,Hong Kong,Afghanistan,2,1,Asian Cup qualifier,India,+20,-20,1164,1117
+2022-06-08,Bahrain,Bangladesh,2,0,Asian Cup qualifier,Malaysia,+1,-1,1506,848
+2022-06-08,Uganda,Niger,1,1,African Nations Cup qualifier,Uganda,-13,+13,1413,1258
+2022-06-08,Tanzania,Algeria,0,2,African Nations Cup qualifier,Tanzania,-10,+10,1306,1702
+2022-06-08,Sudan,Democratic Republic of Congo,2,1,African Nations Cup qualifier,Sudan,+25,-25,1303,1451
+2022-06-08,Gabon,Mauritania,0,0,African Nations Cup qualifier,Gabon,-12,+12,1472,1368
+2022-06-08,Congo,Gambia,1,0,African Nations Cup qualifier,Congo,+23,-23,1314,1425
+2022-06-08,Benin,Mozambique,0,1,African Nations Cup qualifier,Benin,-33,+33,1424,1312
+2022-06-08,Scotland,Armenia,2,0,European Nations League B,Scotland,+10,-10,1709,1516
+2022-06-08,Ireland,Ukraine,0,1,European Nations League B,Ireland,-16,+16,1650,1848
+2022-06-08,Wales,Netherlands,1,2,European Nations League A,Wales,-17,+17,1824,2011
+2022-06-08,Belgium,Poland,6,1,European Nations League A,Belgium,+12,-12,2026,1804
+2022-06-09,Venezuela,Saudi Arabia,1,0,Friendly,Spain,+9,-9,1686,1621
+2022-06-09,San Marino,Iceland,0,1,Friendly,San Marino,0,0,783,1546
+2022-06-09,New Zealand,Oman,0,0,Friendly,Qatar,0,0,1554,1556
+2022-06-09,Nigeria,Sierra Leone,2,1,African Nations Cup qualifier,Nigeria,+4,-4,1640,1354
+2022-06-09,Morocco,South Africa,2,1,African Nations Cup qualifier,Morocco,+6,-6,1735,1538
+2022-06-09,Mali,South Sudan,3,1,African Nations Cup qualifier,Uganda,+3,-3,1617,1104
+2022-06-09,Ivory Coast,Lesotho,0,0,African Nations Cup qualifier,South Africa,-18,+18,1673,1219
+2022-06-09,Guinea-Bissau,São Tomé and Príncipe,5,1,African Nations Cup qualifier,Morocco,+12,-12,1393,1075
+2022-06-09,Guinea,Malawi,1,0,African Nations Cup qualifier,Guinea,+12,-12,1393,1314
+2022-06-09,Ethiopia,Egypt,2,0,African Nations Cup qualifier,Malawi,+54,-54,1360,1644
+2022-06-09,Cameroon,Burundi,1,0,African Nations Cup qualifier,Tanzania,+4,-4,1635,1259
+2022-06-09,Malta,Estonia,1,2,European Nations League D,Malta,-19,+19,1243,1405
+2022-06-09,North Macedonia,Georgia,0,3,European Nations League C,North Macedonia,-50,+50,1613,1658
+2022-06-09,Kosovo,Northern Ireland,3,2,European Nations League C,Kosovo,+18,-18,1527,1555
+2022-06-09,Greece,Cyprus,3,0,European Nations League C,Greece,+4,-4,1714,1316
+2022-06-09,Gibraltar,Bulgaria,1,1,European Nations League C,Gibraltar,+15,-15,1061,1460
+2022-06-09,Sweden,Serbia,0,1,European Nations League B,Sweden,-24,+24,1780,1849
+2022-06-09,Norway,Slovenia,0,0,European Nations League B,Norway,-14,+14,1790,1606
+2022-06-09,Switzerland,Spain,0,1,European Nations League A,Switzerland,-17,+17,1864,2043
+2022-06-09,Portugal,Czechia,2,0,European Nations League A,Portugal,+11,-11,2022,1836
+2022-06-09,Dominica,Saint Lucia,0,1,CONCACAF Nations League C,Dominica,-25,+25,990,1053
+2022-06-09,Cayman Islands,Puerto Rico,0,3,CONCACAF Nations League C,the Cayman Islands,-26,+26,840,1084
+2022-06-09,Aruba,Saint Kitts and Nevis,2,3,CONCACAF Nations League C,Curaçao,-8,+8,928,1195
+2022-06-09,Cuba,Antigua and Barbuda,2,0,CONCACAF Nations League B,Saint Kitts and Nevis,+23,-23,1302,1178
+2022-06-09,Belize,French Guiana,1,1,CONCACAF Nations League B,Belize,+9,-9,1081,1324
+2022-06-09,Barbados,Guadeloupe,0,1,CONCACAF Nations League B,Saint Lucia,-11,+11,1012,1210
+2022-06-09,Panama,Martinique,5,0,CONCACAF Nations League A,Panama,+9,-9,1656,1381
+2022-06-09,Canada,Curaçao,4,0,CONCACAF Nations League A,Canada,+4,-4,1802,1407
+2022-06-10,Tunisia,Chile,2,0,Friendly tournament,Japan,+31,-31,1644,1727
+2022-06-10,South Korea,Paraguay,2,2,Friendly,South Korea,-5,+5,1798,1722
+2022-06-10,Japan,Ghana,4,1,Friendly tournament,Japan,+6,-6,1808,1530
+2022-06-10,Moldova,Latvia,2,4,European Nations League D,Moldova,-28,+28,1200,1378
+2022-06-10,Andorra,Liechtenstein,2,1,European Nations League D,Andorra,+13,-13,1085,1039
+2022-06-10,Belarus,Kazakhstan,1,1,European Nations League C,Serbia,-4,+4,1450,1391
+2022-06-10,Azerbaijan,Slovakia,0,1,European Nations League C,Azerbaijan,-7,+7,1285,1656
+2022-06-10,Albania,Israel,1,2,European Nations League B,Albania,-24,+24,1562,1640
+2022-06-10,Denmark,Croatia,0,1,European Nations League A,Denmark,-33,+33,1951,1842
+2022-06-10,Austria,France,1,1,European Nations League A,Austria,+11,-11,1771,2062
+2022-06-10,Saint Vincent and the Grenadines,Trinidad and Tobago,0,2,CONCACAF Nations League B,Saint Vincent and the Grenadines,-18,+18,1072,1360
+2022-06-10,Dominican Republic,Guatemala,1,1,CONCACAF Nations League B,the Dominican Republic,+10,-10,1195,1455
+2022-06-10,Bahamas,Nicaragua,0,2,CONCACAF Nations League B,the Bahamas,-10,+10,865,1262
+2022-06-10,United States,Grenada,5,0,CONCACAF Nations League A,the United States,+1,-1,1832,1135
+2022-06-11,Uzbekistan,Maldives,4,0,Asian Cup qualifier,Uzbekistan,+1,-1,1543,905
+2022-06-11,Turkmenistan,Bangladesh,2,1,Asian Cup qualifier,Malaysia,+4,-4,1256,844
+2022-06-11,Thailand,Sri Lanka,2,0,Asian Cup qualifier,Uzbekistan,+1,-1,1402,684
+2022-06-11,Tajikistan,Singapore,1,0,Asian Cup qualifier,Kyrgyzstan,+11,-11,1300,1102
+2022-06-11,Palestine,Yemen,5,0,Asian Cup qualifier,Mongolia,+16,-16,1419,1149
+2022-06-11,Mongolia,Philippines,0,1,Asian Cup qualifier,Mongolia,-8,+8,753,1104
+2022-06-11,Malaysia,Bahrain,1,2,Asian Cup qualifier,Malaysia,-9,+9,1187,1515
+2022-06-11,Kyrgyzstan,Myanmar,2,0,Asian Cup qualifier,Kyrgyzstan,+5,-5,1270,949
+2022-06-11,Kuwait,Nepal,4,1,Asian Cup qualifier,Kuwait,+4,-4,1321,932
+2022-06-11,Jordan,Indonesia,1,0,Asian Cup qualifier,Kuwait,+6,-6,1550,1234
+2022-06-11,India,Afghanistan,2,1,Asian Cup qualifier,India,+10,-10,1208,1107
+2022-06-11,Hong Kong,Cambodia,3,0,Asian Cup qualifier,India,+10,-10,1174,847
+2022-06-11,Luxembourg,Turkey,0,2,European Nations League C,Luxembourg,-15,+15,1426,1744
+2022-06-11,Faroe Islands,Lithuania,2,1,European Nations League C,the Faroe Islands,+17,-17,1248,1263
+2022-06-11,Ukraine,Armenia,3,0,European Nations League B,Poland,+9,-9,1857,1507
+2022-06-11,Romania,Finland,1,0,European Nations League B,Romania,+20,-20,1626,1681
+2022-06-11,Montenegro,Bosnia and Herzegovina,1,1,European Nations League B,Montenegro,-1,+1,1538,1617
+2022-06-11,Ireland,Scotland,3,0,European Nations League B,Ireland,+31,-31,1681,1678
+2022-06-11,Wales,Belgium,1,1,European Nations League A,Wales,+6,-6,1830,2020
+2022-06-11,Netherlands,Poland,2,2,European Nations League A,the Netherlands,-14,+14,1997,1818
+2022-06-11,Hungary,Germany,1,1,European Nations League A,Hungary,+6,-6,1758,1963
+2022-06-11,England,Italy,0,0,European Nations League A,England,-8,+8,2004,1975
+2022-06-11,US Virgin Islands,Bonaire,0,2,CONCACAF Nations League C,the US Virgin Islands,-15,+15,669,989
+2022-06-11,Sint Maarten,Turks and Caicos Islands,8,2,CONCACAF Nations League C,Curaçao,+38,-38,808,699
+2022-06-11,Montserrat,Bermuda,3,2,CONCACAF Nations League B,the Dominican Republic,+34,-34,965,1205
+2022-06-11,Guyana,Haiti,2,6,CONCACAF Nations League B,Guyana,-18,+18,1194,1525
+2022-06-11,Mexico,Suriname,3,0,CONCACAF Nations League A,Mexico,+2,-2,1833,1317
+2022-06-11,Uruguay,Panama,5,0,Friendly,Uruguay,+4,-4,1941,1652
+2022-06-11,Ecuador,Cape Verde,1,0,Friendly,the United States,+2,-2,1847,1470
+2022-06-12,Algeria,Iran,2,1,Friendly,Qatar,+13,-13,1715,1807
+2022-06-12,Malta,San Marino,1,0,European Nations League D,Malta,+2,-2,1245,781
+2022-06-12,North Macedonia,Gibraltar,4,0,European Nations League C,North Macedonia,+2,-2,1615,1059
+2022-06-12,Northern Ireland,Cyprus,2,2,European Nations League C,Northern Ireland,-15,+15,1540,1331
+2022-06-12,Greece,Kosovo,2,0,European Nations League C,Greece,+10,-10,1724,1517
+2022-06-12,Georgia,Bulgaria,0,0,European Nations League C,Georgia,-14,+14,1644,1474
+2022-06-12,Slovenia,Serbia,2,2,European Nations League B,Slovenia,+8,-8,1614,1841
+2022-06-12,Norway,Sweden,3,2,European Nations League B,Norway,+14,-14,1804,1766
+2022-06-12,Switzerland,Portugal,1,0,European Nations League A,Switzerland,+23,-23,1887,1999
+2022-06-12,Spain,Czechia,2,0,European Nations League A,Spain,+9,-9,2052,1827
+2022-06-12,Saint Lucia,Anguilla,2,0,CONCACAF Nations League C,Saint Lucia,+3,-3,1056,616
+2022-06-12,Saint Kitts and Nevis,Saint Martin,1,1,CONCACAF Nations League C,Saint Kitts and Nevis,-18,+18,1177,839
+2022-06-12,Puerto Rico,British Virgin Islands,6,0,CONCACAF Nations League C,Puerto Rico,+3,-3,1087,614
+2022-06-12,Guadeloupe,Barbados,2,1,CONCACAF Nations League B,Guadeloupe,+6,-6,1216,1006
+2022-06-12,Cuba,Antigua and Barbuda,3,1,CONCACAF Nations League B,Cuba,+13,-13,1315,1165
+2022-06-12,Martinique,Panama,0,0,CONCACAF Nations League A,Martinique,+9,-9,1390,1643
+2022-06-13,Nigeria,São Tomé and Príncipe,10,0,African Nations Cup qualifier,Morocco,+4,-4,1644,1071
+2022-06-13,Morocco,Liberia,2,0,African Nations Cup qualifier,Morocco,+3,-3,1738,1318
+2022-06-13,Guinea-Bissau,Sierra Leone,2,2,African Nations Cup qualifier,Guinea,-2,+2,1391,1356
+2022-06-13,Albania,Estonia,0,0,Friendly,Albania,-6,+6,1556,1411
+2022-06-13,Kazakhstan,Slovakia,2,1,European Nations League C,Kazakhstan,+29,-29,1420,1627
+2022-06-13,Azerbaijan,Belarus,2,0,European Nations League C,Azerbaijan,+36,-36,1321,1414
+2022-06-13,Iceland,Israel,2,2,European Nations League B,Iceland,0,0,1546,1640
+2022-06-13,France,Croatia,0,1,European Nations League A,France,-35,+35,2027,1877
+2022-06-13,Denmark,Austria,2,0,European Nations League A,Denmark,+10,-10,1961,1761
+2022-06-13,Australia,Peru,0,0,World Cup qualifier,Qatar,+9,-9,1703,1850
+2022-06-13,Trinidad and Tobago,Saint Vincent and the Grenadines,4,1,CONCACAF Nations League B,Trinidad and Tobago,+7,-7,1367,1065
+2022-06-13,Nicaragua,Bahamas,4,0,CONCACAF Nations League B,Nicaragua,+4,-4,1266,861
+2022-06-13,Guatemala,Dominican Republic,2,0,CONCACAF Nations League B,Guatemala,+7,-7,1462,1188
+2022-06-13,Honduras,Canada,2,1,CONCACAF Nations League A,Honduras,+33,-33,1463,1769
+2022-06-14,South Korea,Egypt,4,1,Friendly,South Korea,+7,-7,1805,1637
+2022-06-14,Japan,Tunisia,0,3,Friendly tournament,Japan,-43,+43,1765,1687
+2022-06-14,Chile,Ghana,0,0,Friendly tournament,Japan,-8,+8,1719,1538
+2022-06-14,Uzbekistan,Thailand,2,0,Asian Cup qualifier,Uzbekistan,+12,-12,1555,1390
+2022-06-14,Singapore,Myanmar,6,2,Asian Cup qualifier,Kyrgyzstan,+22,-22,1124,927
+2022-06-14,Palestine,Philippines,4,0,Asian Cup qualifier,Mongolia,+11,-11,1430,1093
+2022-06-14,Mongolia,Yemen,2,0,Asian Cup qualifier,Mongolia,+51,-51,804,1098
+2022-06-14,Maldives,Sri Lanka,1,0,Asian Cup qualifier,Uzbekistan,+9,-9,914,675
+2022-06-14,Malaysia,Bangladesh,4,1,Asian Cup qualifier,Malaysia,+5,-5,1192,839
+2022-06-14,Kyrgyzstan,Tajikistan,0,0,Asian Cup qualifier,Kyrgyzstan,-4,+4,1266,1304
+2022-06-14,Kuwait,Jordan,0,3,Asian Cup qualifier,Kuwait,-23,+23,1298,1573
+2022-06-14,Indonesia,Nepal,7,0,Asian Cup qualifier,Kuwait,+13,-13,1247,919
+2022-06-14,India,Hong Kong,4,0,Asian Cup qualifier,India,+24,-24,1232,1150
+2022-06-14,Bahrain,Turkmenistan,1,0,Asian Cup qualifier,Malaysia,+7,-7,1522,1249
+2022-06-14,Afghanistan,Cambodia,2,2,Asian Cup qualifier,India,-13,+13,1094,860
+2022-06-14,Moldova,Andorra,2,1,European Nations League D,Moldova,+9,-9,1209,1076
+2022-06-14,Liechtenstein,Latvia,0,2,European Nations League D,Liechtenstein,-12,+12,1027,1390
+2022-06-14,Turkey,Lithuania,2,0,European Nations League C,Turkey,+2,-2,1746,1261
+2022-06-14,Luxembourg,Faroe Islands,2,2,European Nations League C,Luxembourg,-13,+13,1413,1261
+2022-06-14,Romania,Montenegro,0,3,European Nations League B,Romania,-52,+52,1574,1590
+2022-06-14,Ireland,Ukraine,1,1,European Nations League B,Poland,+9,-9,1690,1848
+2022-06-14,Bosnia and Herzegovina,Finland,3,2,European Nations League B,Bosnia and Herzegovina,+18,-18,1635,1663
+2022-06-14,Armenia,Scotland,1,4,European Nations League B,Armenia,-28,+28,1479,1706
+2022-06-14,Poland,Belgium,0,1,European Nations League A,Poland,-14,+14,1804,2034
+2022-06-14,Netherlands,Wales,3,2,European Nations League A,the Netherlands,+7,-7,2004,1823
+2022-06-14,Germany,Italy,5,2,European Nations League A,Germany,+26,-26,1989,1949
+2022-06-14,England,Hungary,0,4,European Nations League A,England,-66,+66,1938,1824
+2022-06-14,Costa Rica,New Zealand,1,0,World Cup qualifier,Qatar,+11,-11,1727,1543
+2022-06-14,Turks and Caicos Islands,Sint Maarten,2,0,CONCACAF Nations League C,Turks and Caicos Islands,+31,-31,730,777
+2022-06-14,Bonaire,US Virgin Islands,2,0,CONCACAF Nations League C,Curaçao,+8,-8,997,661
+2022-06-14,Haiti,Guyana,6,0,CONCACAF Nations League B,the Dominican Republic,+11,-11,1536,1183
+2022-06-14,French Guiana,Belize,1,0,CONCACAF Nations League B,French Guiana,+5,-5,1329,1076
+2022-06-14,Jamaica,Mexico,1,1,CONCACAF Nations League A,Jamaica,+10,-10,1549,1823
+2022-06-14,El Salvador,United States,1,1,CONCACAF Nations League A,El Salvador,+12,-12,1502,1820
+2022-07-05,Botswana,Seychelles,1,0,COSAFA Cup,South Africa,+4,-4,1312,901
+2022-07-05,Angola,Comoros,3,1,COSAFA Cup,South Africa,+21,-21,1414,1263
+2022-07-06,Lesotho,Malawi,2,1,COSAFA Cup,South Africa,+25,-25,1244,1289
+2022-07-06,Eswatini,Mauritius,3,0,COSAFA Cup,South Africa,+10,-10,1281,955
+2022-07-07,Botswana,Comoros,1,0,COSAFA Cup,South Africa,+17,-17,1329,1246
+2022-07-07,Angola,Seychelles,3,0,COSAFA Cup,South Africa,+3,-3,1417,898
+2022-07-08,Lesotho,Mauritius,2,1,COSAFA Cup,South Africa,+6,-6,1250,949
+2022-07-08,Eswatini,Malawi,1,1,COSAFA Cup,South Africa,0,0,1281,1289
+2022-07-10,Malawi,Mauritius,2,0,COSAFA Cup,South Africa,+7,-7,1296,942
+2022-07-10,Eswatini,Lesotho,2,0,COSAFA Cup,South Africa,+27,-27,1308,1223
+2022-07-10,Comoros,Seychelles,2,1,COSAFA Cup,South Africa,+5,-5,1251,893
+2022-07-10,Botswana,Angola,1,0,COSAFA Cup,South Africa,+25,-25,1354,1392
+2022-07-12,Namibia,Madagascar,2,0,COSAFA Cup,South Africa,+28,-28,1367,1288
+2022-07-12,Botswana,Zambia,1,1,COSAFA Cup,South Africa,+4,-4,1358,1418
+2022-07-13,South Africa,Mozambique,0,0,COSAFA Cup,South Africa,-15,+15,1523,1327
+2022-07-13,Eswatini,Senegal,1,1,COSAFA Cup,South Africa,+17,-17,1325,1720
+2022-07-15,Zambia,Senegal,4,3,COSAFA Cup,South Africa,+34,-34,1452,1686
+2022-07-15,South Africa,Madagascar,2,1,COSAFA Cup,South Africa,+5,-5,1528,1283
+2022-07-15,Namibia,Mozambique,1,0,COSAFA Cup,South Africa,+18,-18,1385,1309
+2022-07-15,Botswana,Eswatini,2,0,COSAFA Cup,South Africa,+27,-27,1385,1298
+2022-07-16,Philippines,East Timor,4,1,Friendly,Indonesia,+2,-2,1095,623
+2022-07-17,South Africa,Botswana,2,1,COSAFA Cup,South Africa,+8,-8,1536,1377
+2022-07-17,Mozambique,Senegal,1,1,COSAFA Cup,South Africa,+16,-16,1325,1670
+2022-07-17,Zambia,Namibia,1,0,COSAFA Cup,South Africa,+16,-16,1468,1369
+2022-07-18,Mauritius,Seychelles,2,0,Friendly,Mauritius,+9,-9,951,884
+2022-07-19,Japan,Hong Kong,6,0,East Asian Championship,Japan,+1,-1,1766,1149
+2022-07-20,South Korea,China,3,0,East Asian Championship,Japan,+8,-8,1813,1445
+2022-07-24,South Korea,Hong Kong,3,0,East Asian Championship,Japan,+1,-1,1814,1148
+2022-07-24,Japan,China,0,0,East Asian Championship,Japan,-17,+17,1749,1462
+2022-07-27,Japan,South Korea,3,0,East Asian Championship,Japan,+31,-31,1780,1783
+2022-07-27,China,Hong Kong,1,0,East Asian Championship,Japan,+6,-6,1468,1142
+2022-08-26,Jamaica,Qatar,1,1,Friendly tournament,Austria,+5,-5,1554,1658
+2022-08-31,Paraguay,Mexico,1,0,Friendly,the United States,+13,-13,1735,1810
+2022-09-17,Fiji,New Caledonia,1,0,Melanesian Cup,Vanuatu,+19,-19,1254,1191
+2022-09-21,Vietnam,Singapore,4,0,Friendly tournament,Vietnam,+7,-7,1381,1117
+2022-09-21,San Marino,Seychelles,0,0,Friendly,San Marino,0,0,781,884
+2022-09-21,Morocco,Madagascar,1,0,Friendly,Morocco,+1,-1,1739,1282
+2022-09-21,Libya,Uganda,0,0,Friendly tournament,Libya,-1,+1,1333,1414
+2022-09-21,Hong Kong,Myanmar,2,0,Friendly,Hong Kong,+4,-4,1146,923
+2022-09-21,Brunei,Maldives,0,3,Friendly tournament,Brunei,-13,+13,600,927
+2022-09-21,Solomon Islands,New Caledonia,1,0,Melanesian Cup,Vanuatu,+19,-19,1226,1172
+2022-09-21,Scotland,Ukraine,3,0,European Nations League B,Scotland,+39,-39,1745,1809
+2022-09-22,Tunisia,Comoros,1,0,Friendly,France,+2,-2,1689,1249
+2022-09-22,Suriname,Nicaragua,2,1,Friendly,the Netherlands,+9,-9,1326,1257
+2022-09-22,Iceland,Venezuela,1,0,Friendly,Austria,+14,-14,1560,1672
+2022-09-22,Cambodia,Bangladesh,0,1,Friendly,Cambodia,-13,+13,847,852
+2022-09-22,Australia,New Zealand,1,0,Friendly,Australia,+4,-4,1707,1539
+2022-09-22,Thailand,Malaysia,1,1,King's Cup,Thailand,-10,+10,1380,1202
+2022-09-22,Tajikistan,Trinidad and Tobago,2,1,King's Cup,Thailand,+18,-18,1322,1349
+2022-09-22,Liechtenstein,Andorra,0,2,European Nations League D,Liechtenstein,-34,+34,993,1110
+2022-09-22,Latvia,Moldova,1,2,European Nations League D,Latvia,-33,+33,1357,1242
+2022-09-22,Turkey,Luxembourg,3,3,European Nations League C,Turkey,-17,+17,1729,1430
+2022-09-22,Slovakia,Azerbaijan,1,2,European Nations League C,Slovakia,-36,+36,1591,1357
+2022-09-22,Lithuania,Faroe Islands,1,1,European Nations League C,Lithuania,-6,+6,1255,1267
+2022-09-22,Kazakhstan,Belarus,2,1,European Nations League C,Kazakhstan,+14,-14,1434,1400
+2022-09-22,Poland,Netherlands,0,2,European Nations League A,Poland,-22,+22,1782,2026
+2022-09-22,France,Austria,2,0,European Nations League A,France,+7,-7,2034,1754
+2022-09-22,Croatia,Denmark,2,1,European Nations League A,Croatia,+19,-19,1896,1942
+2022-09-22,Belgium,Wales,2,1,European Nations League A,Belgium,+6,-6,2040,1817
+2022-09-23,Uzbekistan,Cameroon,2,0,Friendly,South Korea,+18,-18,1573,1617
+2022-09-23,South Korea,Costa Rica,2,2,Friendly,South Korea,-4,+4,1779,1731
+2022-09-23,Paraguay,United Arab Emirates,1,0,Friendly,Austria,+4,-4,1739,1495
+2022-09-23,Morocco,Chile,2,0,Friendly,Spain,+14,-14,1753,1705
+2022-09-23,Mali,Zambia,1,0,Friendly,Mali,+4,-4,1621,1464
+2022-09-23,Jordan,Syria,2,0,Friendly tournament,Jordan,+10,-10,1583,1449
+2022-09-23,Japan,United States,2,0,Friendly,Germany,+17,-17,1797,1803
+2022-09-23,Iraq,Oman,1,1,Friendly tournament,Jordan,0,0,1563,1556
+2022-09-23,Iran,Uruguay,1,0,Friendly,Austria,+14,-14,1821,1927
+2022-09-23,Ethiopia,Sudan,1,1,Friendly,Ethiopia,-4,+4,1356,1307
+2022-09-23,Equatorial Guinea,Rwanda,0,0,Friendly,Morocco,-5,+5,1436,1273
+2022-09-23,Egypt,Niger,3,0,Friendly tournament,Egypt,+3,-3,1640,1255
+2022-09-23,Ecuador,Saudi Arabia,0,0,Friendly,Spain,-6,+6,1841,1627
+2022-09-23,Canada,Qatar,2,0,Friendly,Austria,+10,-10,1779,1648
+2022-09-23,Burkina Faso,Democratic Republic of Congo,1,0,Friendly,Morocco,+6,-6,1589,1445
+2022-09-23,Brazil,Ghana,3,0,Friendly,France,+1,-1,2167,1537
+2022-09-23,Bahrain,Cape Verde,1,2,Friendly,Bahrain,-14,+14,1508,1484
+2022-09-23,Argentina,Honduras,3,0,Friendly,the United States,+1,-1,2140,1462
+2022-09-23,Algeria,Guinea,1,0,Friendly,Algeria,+2,-2,1717,1391
+2022-09-23,Estonia,Malta,2,1,European Nations League D,Estonia,+7,-7,1418,1238
+2022-09-23,Georgia,North Macedonia,2,0,European Nations League C,Georgia,+19,-19,1663,1596
+2022-09-23,Bulgaria,Gibraltar,5,1,European Nations League C,Bulgaria,+4,-4,1478,1055
+2022-09-23,Finland,Romania,1,1,European Nations League B,Finland,-10,+10,1653,1584
+2022-09-23,Bosnia and Herzegovina,Montenegro,1,0,European Nations League B,Bosnia and Herzegovina,+12,-12,1647,1578
+2022-09-23,Italy,England,1,0,European Nations League A,Italy,+14,-14,1963,1924
+2022-09-23,Germany,Hungary,0,1,European Nations League A,Germany,-33,+33,1956,1857
+2022-09-24,Tanzania,Uganda,1,0,Friendly tournament,Libya,+20,-20,1326,1394
+2022-09-24,South Africa,Sierra Leone,4,0,Friendly,South Africa,+6,-6,1542,1350
+2022-09-24,Senegal,Bolivia,2,0,Friendly,France,+13,-13,1683,1621
+2022-09-24,Mexico,Peru,1,0,Friendly,the United States,+11,-11,1821,1839
+2022-09-24,Mauritania,Benin,1,0,Friendly,Morocco,+12,-12,1380,1412
+2022-09-24,Martinique,Guinea-Bissau,1,1,Friendly,Martinique,-3,+3,1387,1394
+2022-09-24,Maldives,Laos,3,1,Friendly tournament,Brunei,+9,-9,936,667
+2022-09-24,Kyrgyzstan,Russia,1,2,Friendly,Kyrgyzstan,-2,+2,1264,1763
+2022-09-24,Ivory Coast,Togo,2,1,Friendly,France,+2,-2,1675,1316
+2022-09-24,Indonesia,Curaçao,3,2,Friendly,Indonesia,+12,-12,1259,1395
+2022-09-24,India,Singapore,1,1,Friendly tournament,Vietnam,-5,+5,1227,1122
+2022-09-24,Hong Kong,Myanmar,0,0,Friendly,Hong Kong,-7,+7,1139,930
+2022-09-24,Grenada,Saint Vincent and the Grenadines,1,3,Friendly,Grenada,-22,+22,1113,1087
+2022-09-24,Congo,Madagascar,3,3,Friendly,Morocco,-1,+1,1313,1283
+2022-09-24,Colombia,Guatemala,4,1,Friendly,the United States,+3,-3,1903,1459
+2022-09-24,Vanuatu,Papua New Guinea,0,1,Melanesian Cup,Vanuatu,-24,+24,1126,1200
+2022-09-24,Fiji,Solomon Islands,2,2,Melanesian Cup,Vanuatu,-2,+2,1252,1228
+2022-09-24,Northern Ireland,Kosovo,2,1,European Nations League C,Northern Ireland,+13,-13,1553,1504
+2022-09-24,Cyprus,Greece,1,0,European Nations League C,Cyprus,+34,-34,1365,1690
+2022-09-24,Slovenia,Norway,2,1,European Nations League B,Slovenia,+25,-25,1639,1779
+2022-09-24,Serbia,Sweden,4,1,European Nations League B,Serbia,+19,-19,1860,1747
+2022-09-24,Scotland,Ireland,2,1,European Nations League B,Scotland,+12,-12,1757,1678
+2022-09-24,Israel,Albania,2,1,European Nations League B,Israel,+10,-10,1650,1546
+2022-09-24,Armenia,Ukraine,0,5,European Nations League B,Armenia,-17,+17,1462,1826
+2022-09-24,Spain,Switzerland,1,2,European Nations League A,Spain,-33,+33,2019,1920
+2022-09-24,Czechia,Portugal,0,4,European Nations League A,Czechia,-30,+30,1797,2029
+2022-09-25,New Zealand,Australia,0,2,Friendly,New Zealand,-12,+12,1527,1719
+2022-09-25,Liberia,Niger,0,0,Friendly tournament,Egypt,-3,+3,1315,1258
+2022-09-25,Thailand,Trinidad and Tobago,2,1,King's Cup,Thailand,+10,-10,1390,1339
+2022-09-25,Malaysia,Tajikistan,0,0,King's Cup,Thailand,+5,-5,1207,1317
+2022-09-25,Moldova,Liechtenstein,2,0,European Nations League D,Moldova,+7,-7,1249,986
+2022-09-25,Andorra,Latvia,1,1,European Nations League D,Andorra,+8,-8,1118,1349
+2022-09-25,Slovakia,Belarus,1,1,European Nations League C,Slovakia,-14,+14,1577,1414
+2022-09-25,Azerbaijan,Kazakhstan,3,0,European Nations League C,Azerbaijan,+33,-33,1390,1401
+2022-09-25,Luxembourg,Lithuania,1,0,European Nations League C,Luxembourg,+7,-7,1437,1248
+2022-09-25,Faroe Islands,Turkey,2,1,European Nations League C,the Faroe Islands,+36,-36,1303,1693
+2022-09-25,Wales,Poland,0,1,European Nations League A,Wales,-27,+27,1790,1809
+2022-09-25,Netherlands,Belgium,1,0,European Nations League A,the Netherlands,+15,-15,2041,2025
+2022-09-25,Denmark,France,2,0,European Nations League A,Denmark,+29,-29,1971,2005
+2022-09-25,Austria,Croatia,1,3,European Nations League A,Austria,-26,+26,1728,1922
+2022-09-26,Mali,Zambia,0,0,Friendly,Mali,-6,+6,1615,1470
+2022-09-26,Jordan,Oman,1,0,Friendly tournament,Jordan,+10,-10,1593,1546
+2022-09-26,Iraq,Syria,1,0,Friendly tournament,Jordan,+10,-10,1573,1439
+2022-09-26,Ethiopia,Sudan,2,2,Friendly,Ethiopia,-4,+4,1352,1311
+2022-09-26,San Marino,Estonia,0,4,European Nations League D,San Marino,-3,+3,778,1421
+2022-09-26,North Macedonia,Bulgaria,0,1,European Nations League C,North Macedonia,-31,+31,1565,1509
+2022-09-26,Gibraltar,Georgia,1,2,European Nations League C,Gibraltar,-2,+2,1053,1665
+2022-09-26,Romania,Bosnia and Herzegovina,4,1,European Nations League B,Romania,+31,-31,1615,1616
+2022-09-26,Montenegro,Finland,0,2,European Nations League B,Montenegro,-32,+32,1546,1685
+2022-09-26,Hungary,Italy,0,2,European Nations League A,Hungary,-29,+29,1828,1992
+2022-09-26,England,Germany,3,3,European Nations League A,England,-4,+4,1920,1960
+2022-09-27,Vietnam,India,3,0,Friendly tournament,Vietnam,+10,-10,1391,1217
+2022-09-27,Venezuela,United Arab Emirates,4,0,Friendly,Austria,+10,-10,1682,1485
+2022-09-27,Uruguay,Canada,2,0,Friendly,Slovakia,+9,-9,1936,1770
+2022-09-27,South Korea,Cameroon,1,0,Friendly,South Korea,+4,-4,1783,1613
+2022-09-27,South Africa,Botswana,1,0,Friendly,South Africa,+4,-4,1546,1373
+2022-09-27,Saudi Arabia,United States,0,0,Friendly,Spain,+5,-5,1632,1798
+2022-09-27,Peru,El Salvador,4,1,Friendly,the United States,+4,-4,1843,1498
+2022-09-27,Nepal,Bangladesh,3,1,Friendly,Nepal,+8,-8,927,844
+2022-09-27,Morocco,Paraguay,0,0,Friendly,Spain,0,0,1753,1739
+2022-09-27,Mauritania,Congo,2,0,Friendly,Morocco,+12,-12,1392,1301
+2022-09-27,Malta,Israel,2,1,Friendly,Malta,+17,-17,1255,1633
+2022-09-27,Madagascar,Benin,3,1,Friendly,Morocco,+20,-20,1303,1392
+2022-09-27,Libya,Tanzania,2,1,Friendly tournament,Libya,+11,-11,1344,1315
+2022-09-27,Ivory Coast,Guinea,3,1,Friendly,France,+5,-5,1680,1386
+2022-09-27,Iran,Senegal,1,1,Friendly,Austria,-4,+4,1817,1687
+2022-09-27,Indonesia,Curaçao,2,1,Friendly,Indonesia,+11,-11,1270,1384
+2022-09-27,Honduras,Guatemala,2,1,Friendly,the United States,+10,-10,1472,1449
+2022-09-27,Ghana,Nicaragua,1,0,Friendly,Spain,+3,-3,1540,1254
+2022-09-27,Equatorial Guinea,Togo,2,2,Friendly,Morocco,-3,+3,1433,1319
+2022-09-27,Egypt,Liberia,3,0,Friendly tournament,Egypt,+4,-4,1644,1311
+2022-09-27,Ecuador,Japan,0,0,Friendly,Germany,-1,+1,1840,1798
+2022-09-27,Democratic Republic of Congo,Sierra Leone,3,0,Friendly,Morocco,+13,-13,1458,1337
+2022-09-27,Costa Rica,Uzbekistan,2,1,Friendly,South Korea,+6,-6,1737,1567
+2022-09-27,Colombia,Mexico,3,2,Friendly,the United States,+8,-8,1911,1813
+2022-09-27,Chile,Qatar,2,2,Friendly,Austria,-2,+2,1703,1650
+2022-09-27,Burkina Faso,Comoros,2,1,Friendly,Morocco,+2,-2,1591,1247
+2022-09-27,Brunei,Laos,1,0,Friendly tournament,Brunei,+14,-14,614,653
+2022-09-27,Brazil,Tunisia,5,1,Friendly,France,+2,-2,2169,1687
+2022-09-27,Bahrain,Panama,0,2,Friendly,Bahrain,-13,+13,1495,1656
+2022-09-27,Argentina,Jamaica,3,0,Friendly,the United States,+1,-1,2141,1553
+2022-09-27,Algeria,Nigeria,2,1,Friendly,Algeria,+5,-5,1722,1639
+2022-09-27,Papua New Guinea,Fiji,1,0,Melanesian Cup,Vanuatu,+23,-23,1223,1229
+2022-09-27,Kosovo,Cyprus,5,1,European Nations League C,Kosovo,+15,-15,1519,1350
+2022-09-27,Greece,Northern Ireland,3,1,European Nations League C,Greece,+12,-12,1702,1541
+2022-09-27,Sweden,Slovenia,1,1,European Nations League B,Sweden,-11,+11,1736,1650
+2022-09-27,Scotland,Ukraine,0,0,European Nations League B,Poland,+4,-4,1761,1822
+2022-09-27,Norway,Serbia,0,2,European Nations League B,Norway,-32,+32,1747,1892
+2022-09-27,Ireland,Armenia,3,2,European Nations League B,Ireland,+6,-6,1684,1456
+2022-09-27,Albania,Iceland,1,1,European Nations League B,Albania,-5,+5,1541,1565
+2022-09-27,Switzerland,Czechia,2,1,European Nations League A,Switzerland,+9,-9,1929,1788
+2022-09-27,Portugal,Spain,0,1,European Nations League A,Portugal,-26,+26,2003,2045
+2022-09-30,Fiji,Solomon Islands,1,0,Melanesian Cup,Vanuatu,+20,-20,1249,1208
+2022-10-01,Saint Vincent and the Grenadines,Grenada,1,5,Friendly,Saint Vincent and the Grenadines,-23,+23,1064,1136
+2022-10-13,Qatar,Nicaragua,2,1,Friendly,Spain,+2,-2,1652,1252
+2022-10-22,Saudi Arabia,North Macedonia,1,0,Friendly,the United Arab Emirates,+8,-8,1640,1557
+2022-10-23,Qatar,Guatemala,2,0,Friendly,Spain,+7,-7,1659,1442
+2022-10-26,Albania,Saudi Arabia,1,1,Friendly,the United Arab Emirates,+3,-3,1544,1637
+2022-10-27,Qatar,Honduras,1,0,Friendly,Spain,+5,-5,1664,1467
+2022-10-30,Honduras,Saudi Arabia,0,0,Friendly,the United Arab Emirates,+5,-5,1472,1632
+2022-11-05,Qatar,Panama,2,1,Friendly,Spain,+10,-10,1674,1646
+2022-11-05,Brunei,East Timor,6,2,Southeast Asian Championship qualifier,Brunei,+28,-28,642,595
+2022-11-06,Saudi Arabia,Iceland,1,0,Friendly,the United Arab Emirates,+8,-8,1640,1557
+2022-11-08,Brunei,East Timor,0,1,Southeast Asian Championship qualifier,Brunei,-28,+28,614,623
+2022-11-09,Qatar,Albania,1,0,Friendly,Spain,+6,-6,1680,1538
+2022-11-09,Mexico,Iraq,4,0,Friendly,Spain,+8,-8,1821,1565
+2022-11-09,Costa Rica,Nigeria,2,0,Friendly,Costa Rica,+7,-7,1744,1632
+2022-11-09,Cameroon,Jamaica,1,1,Friendly,Cameroon,-4,+4,1609,1557
+2022-11-10,Panama,Saudi Arabia,1,1,Friendly,the United Arab Emirates,0,0,1646,1640
+2022-11-10,Iran,Nicaragua,1,0,Friendly,Iran,0,0,1817,1252
+2022-11-11,South Korea,Iceland,1,0,Friendly,South Korea,+3,-3,1786,1554
+2022-11-11,Bahrain,Canada,2,2,Friendly,Bahrain,+5,-5,1500,1765
+2022-11-12,Ecuador,Iraq,0,0,Friendly,Spain,-7,+7,1833,1572
+2022-11-15,Panama,Venezuela,2,2,Friendly,the United Arab Emirates,+1,-1,1647,1681
+2022-11-15,Dominican Republic,Cuba,2,4,Friendly,the Dominican Republic,-14,+14,1174,1329
+2022-11-16,Uzbekistan,Kazakhstan,2,0,Friendly,Uzbekistan,+5,-5,1572,1396
+2022-11-16,United Arab Emirates,Argentina,0,5,Friendly,the United Arab Emirates,-2,+2,1483,2143
+2022-11-16,Turkey,Scotland,2,1,Friendly,Turkey,+9,-9,1702,1752
+2022-11-16,Tunisia,Iran,2,0,Friendly,Qatar,+20,-20,1707,1797
+2022-11-16,Sweden,Mexico,2,1,Friendly,Spain,+12,-12,1748,1809
+2022-11-16,Saudi Arabia,Croatia,0,1,Friendly,Saudi Arabia,-5,+5,1635,1927
+2022-11-16,Poland,Chile,1,0,Friendly,Poland,+5,-5,1814,1698
+2022-11-16,Peru,Paraguay,1,0,Friendly,Peru,+5,-5,1848,1734
+2022-11-16,Oman,Germany,0,1,Friendly,Oman,-3,+3,1543,1963
+2022-11-16,Nicaragua,El Salvador,1,0,Friendly,Nicaragua,+14,-14,1266,1484
+2022-11-16,Nepal,Pakistan,1,0,Friendly,Nepal,+6,-6,933,870
+2022-11-16,Moldova,Azerbaijan,1,2,Friendly,Moldova,-9,+9,1240,1399
+2022-11-16,Kosovo,Armenia,2,2,Friendly,Kosovo,-4,+4,1515,1460
+2022-11-16,Ivory Coast,Burundi,4,0,Friendly,Morocco,+3,-3,1683,1256
+2022-11-16,Gibraltar,Liechtenstein,2,0,Friendly,Gibraltar,+8,-8,1061,978
+2022-11-16,Czechia,Faroe Islands,5,0,Friendly,Czechia,+1,-1,1789,1302
+2022-11-16,Cyprus,Bulgaria,0,2,Friendly,Cyprus,-12,+12,1338,1521
+2022-11-16,Austria,Andorra,1,0,Friendly,Spain,+1,-1,1729,1117
+2022-11-16,Algeria,Mali,1,1,Friendly,Algeria,-5,+5,1717,1620
+2022-11-16,Albania,Italy,1,3,Friendly,Albania,-3,+3,1535,1995
+2022-11-16,Lithuania,Iceland,0,0,Baltic Cup,Lithuania,+8,-8,1256,1546
+2022-11-16,Latvia,Estonia,1,1,Baltic Cup,Latvia,-1,+1,1348,1422
+2022-11-17,Tajikistan,Russia,0,0,Friendly,Tajikistan,+8,-8,1325,1755
+2022-11-17,South Africa,Mozambique,2,1,Friendly,South Africa,+3,-3,1549,1322
+2022-11-17,Saint Lucia,San Marino,1,1,Friendly,Saint Lucia,-8,+8,1048,786
+2022-11-17,Rwanda,Sudan,0,0,Friendly,Rwanda,-2,+2,1271,1313
+2022-11-17,Romania,Slovenia,1,2,Friendly,Romania,-12,+12,1603,1662
+2022-11-17,Portugal,Nigeria,4,0,Friendly,Portugal,+2,-2,2005,1630
+2022-11-17,North Macedonia,Finland,1,1,Friendly,North Macedonia,+1,-1,1558,1684
+2022-11-17,Morocco,Georgia,3,0,Friendly,the United Arab Emirates,+13,-13,1766,1652
+2022-11-17,Montenegro,Slovakia,2,2,Friendly,Montenegro,-2,+2,1544,1579
+2022-11-17,Malta,Greece,2,2,Friendly,Malta,+8,-8,1263,1694
+2022-11-17,Luxembourg,Hungary,2,2,Friendly,Luxembourg,+7,-7,1444,1821
+2022-11-17,Libya,Niger,3,2,Friendly,Turkey,+8,-8,1352,1250
+2022-11-17,Israel,Zambia,4,2,Friendly,Israel,+5,-5,1638,1465
+2022-11-17,Ireland,Norway,1,2,Friendly,Ireland,-11,+11,1673,1758
+2022-11-17,Ghana,Switzerland,2,0,Friendly,the United Arab Emirates,+27,-27,1567,1902
+2022-11-17,Gabon,Guinea-Bissau,3,1,Friendly,Turkey,+12,-12,1484,1382
+2022-11-17,Canada,Japan,2,1,Friendly,the United Arab Emirates,+11,-11,1776,1787
+2022-11-17,Jordan,Spain,1,3,Friendly,Jordan,-3,+3,1590,2048
+2022-11-17,Belarus,Syria,1,0,Friendly,the United Arab Emirates,+11,-11,1425,1428
+2022-11-17,Angola,Botswana,1,0,Friendly,South Africa,+9,-9,1401,1364
+2022-11-18,Egypt,Belgium,2,1,Friendly,Kuwait,+18,-18,1662,2007
+2022-11-18,Dominican Republic,Cuba,1,1,Friendly,the Dominican Republic,+2,-2,1176,1327
+2022-11-18,Cameroon,Panama,1,1,Friendly,the United Arab Emirates,+1,-1,1610,1646
+2022-11-18,Bahrain,Serbia,1,5,Friendly,Bahrain,-6,+6,1494,1898
+2022-11-19,United Arab Emirates,Kazakhstan,2,1,Friendly,the United Arab Emirates,+5,-5,1488,1391
+2022-11-19,Turkey,Czechia,2,1,Friendly,Turkey,+10,-10,1712,1779
+2022-11-19,Sweden,Algeria,2,0,Friendly,Sweden,+10,-10,1758,1707
+2022-11-19,Suriname,French Guiana,1,3,Friendly,Suriname,-19,+19,1307,1348
+2022-11-19,Rwanda,Sudan,1,0,Friendly,Rwanda,+8,-8,1279,1305
+2022-11-19,Peru,Bolivia,1,0,Friendly,Peru,+3,-3,1851,1618
+2022-11-19,Kuwait,Lebanon,2,0,Friendly,the United Arab Emirates,+17,-17,1315,1320
+2022-11-19,Kosovo,Faroe Islands,1,1,Friendly,Kosovo,-7,+7,1508,1309
+2022-11-19,Guatemala,Nicaragua,3,1,Friendly,the United States,+8,-8,1450,1258
+2022-11-19,Gibraltar,Andorra,1,0,Friendly,Gibraltar,+9,-9,1070,1108
+2022-11-19,Colombia,Paraguay,2,0,Friendly,the United States,+8,-8,1919,1726
+2022-11-19,Burkina Faso,Ivory Coast,2,1,Friendly,Morocco,+13,-13,1604,1670
+2022-11-19,Albania,Armenia,2,0,Friendly,Albania,+8,-8,1543,1452
+2022-11-19,Latvia,Iceland,1,1,Baltic Cup,Latvia,+4,-4,1352,1542
+2022-11-19,Estonia,Lithuania,2,0,Baltic Cup,Estonia,+8,-8,1430,1248
+2022-11-20,Venezuela,Syria,2,1,Friendly,the United Arab Emirates,+4,-4,1685,1424
+2022-11-20,Uzbekistan,Russia,0,0,Friendly,Uzbekistan,+2,-2,1574,1753
+2022-11-20,South Africa,Angola,1,1,Friendly,South Africa,-6,+6,1543,1407
+2022-11-20,Slovenia,Montenegro,1,0,Friendly,Slovenia,+4,-4,1666,1540
+2022-11-20,Slovakia,Chile,0,0,Friendly,Slovakia,+1,-1,1580,1697
+2022-11-20,Saint Lucia,San Marino,1,0,Friendly,Saint Lucia,+2,-2,1050,784
+2022-11-20,Oman,Belarus,2,0,Friendly,the United Arab Emirates,+10,-10,1553,1415
+2022-11-20,Norway,Finland,1,1,Friendly,Norway,-5,+5,1753,1689
+2022-11-20,North Macedonia,Azerbaijan,1,3,Friendly,North Macedonia,-24,+24,1534,1423
+2022-11-20,Moldova,Romania,0,5,Friendly,Moldova,-7,+7,1233,1610
+2022-11-20,Malta,Ireland,0,1,Friendly,Malta,-3,+3,1260,1676
+2022-11-20,Luxembourg,Bulgaria,0,0,Friendly,Luxembourg,-1,+1,1443,1522
+2022-11-20,Israel,Cyprus,2,3,Friendly,Israel,-18,+18,1620,1356
+2022-11-20,Hungary,Greece,2,1,Friendly,Hungary,+4,-4,1825,1690
+2022-11-20,Gambia,Guinea-Bissau,0,0,Friendly,Turkey,-1,+1,1424,1383
+2022-11-20,Gabon,Niger,3,1,Friendly,Turkey,+6,-6,1490,1244
+2022-11-20,Austria,Italy,2,0,Friendly,Austria,+22,-22,1751,1973
+2022-11-20,Qatar,Ecuador,0,2,World Cup,Qatar,-38,+38,1642,1871
+2022-11-21,United States,Wales,1,1,World Cup,Qatar,-1,+1,1797,1791
+2022-11-21,Netherlands,Senegal,2,0,World Cup,Qatar,+10,-10,2051,1677
+2022-11-21,England,Iran,6,2,World Cup,Qatar,+37,-37,1957,1760
+2022-11-22,Saudi Arabia,Argentina,2,1,World Cup,Qatar,+57,-57,1692,2086
+2022-11-22,Mexico,Poland,0,0,World Cup,Qatar,0,0,1809,1814
+2022-11-22,France,Australia,4,1,World Cup,Qatar,+17,-17,2022,1702
+2022-11-22,Denmark,Tunisia,0,0,World Cup,Qatar,-19,+19,1952,1726
+2022-11-23,Spain,Costa Rica,7,0,World Cup,Qatar,+20,-20,2068,1724
+2022-11-23,Japan,Germany,2,1,World Cup,Qatar,+44,-44,1831,1919
+2022-11-23,Croatia,Morocco,0,0,World Cup,Qatar,-13,+13,1914,1779
+2022-11-23,Belgium,Canada,1,0,World Cup,Qatar,+13,-13,2020,1763
+2022-11-24,Switzerland,Cameroon,1,0,World Cup,Qatar,+9,-9,1911,1601
+2022-11-24,South Korea,Uruguay,0,0,World Cup,Qatar,+12,-12,1798,1924
+2022-11-24,Portugal,Ghana,3,2,World Cup,Qatar,+4,-4,2009,1563
+2022-11-24,Brazil,Serbia,2,0,World Cup,Qatar,+16,-16,2185,1882
+2022-11-24,Suriname,Bonaire,4,1,Friendly tournament,Curaçao,+8,-8,1315,989
+2022-11-24,Curaçao,Aruba,2,2,Friendly tournament,Curaçao,-14,+14,1370,942
+2022-11-25,Qatar,Senegal,1,3,World Cup,Qatar,-53,+53,1589,1730
+2022-11-25,Iran,Wales,2,0,World Cup,Qatar,+49,-49,1809,1742
+2022-11-25,England,United States,0,0,World Cup,Qatar,-13,+13,1944,1810
+2022-11-25,Ecuador,Netherlands,1,1,World Cup,Qatar,+14,-14,1885,2037
+2022-11-26,Poland,Saudi Arabia,2,0,World Cup,Qatar,+30,-30,1844,1662
+2022-11-26,France,Denmark,2,1,World Cup,Qatar,+24,-24,2046,1928
+2022-11-26,Australia,Tunisia,1,0,World Cup,Qatar,+32,-32,1734,1694
+2022-11-26,Argentina,Mexico,2,0,World Cup,Qatar,+15,-15,2101,1794
+2022-11-26,Curaçao,Suriname,2,2,Friendly tournament,Curaçao,-6,+6,1364,1321
+2022-11-26,Aruba,Bonaire,1,0,Friendly tournament,Curaçao,+17,-17,959,972
+2022-11-27,Morocco,Belgium,2,0,World Cup,Qatar,+72,-72,1851,1948
+2022-11-27,Germany,Spain,1,1,World Cup,Qatar,+12,-12,1931,2056
+2022-11-27,Croatia,Canada,4,1,World Cup,Qatar,+31,-31,1945,1732
+2022-11-27,Costa Rica,Japan,1,0,World Cup,Qatar,+39,-39,1763,1792
+2022-11-28,Portugal,Uruguay,2,0,World Cup,Qatar,+34,-34,2043,1890
+2022-11-28,Ghana,South Korea,3,2,World Cup,Qatar,+48,-48,1611,1750
+2022-11-28,Cameroon,Serbia,3,3,World Cup,Qatar,+20,-20,1621,1862
+2022-11-28,Brazil,Switzerland,1,0,World Cup,Qatar,+10,-10,2195,1901
+2022-11-29,United States,Iran,1,0,World Cup,Qatar,+30,-30,1840,1779
+2022-11-29,Senegal,Ecuador,2,1,World Cup,Qatar,+43,-43,1773,1842
+2022-11-29,Qatar,Netherlands,0,2,World Cup,Qatar,-11,+11,1578,2048
+2022-11-29,England,Wales,3,0,World Cup,Qatar,+25,-25,1969,1717
+2022-11-30,Tunisia,France,1,0,World Cup,Qatar,+53,-53,1747,1993
+2022-11-30,Mexico,Saudi Arabia,2,1,World Cup,Qatar,+19,-19,1813,1643
+2022-11-30,Australia,Denmark,1,0,World Cup,Qatar,+45,-45,1779,1883
+2022-11-30,Argentina,Poland,2,0,World Cup,Qatar,+17,-17,2118,1827
+2022-12-01,Morocco,Canada,2,1,World Cup,Qatar,+20,-20,1871,1712
+2022-12-01,Japan,Spain,2,1,World Cup,Qatar,+49,-49,1841,2007
+2022-12-01,Germany,Costa Rica,4,2,World Cup,Qatar,+25,-25,1956,1738
+2022-12-01,Belgium,Croatia,0,0,World Cup,Qatar,0,0,1948,1945
+2022-12-02,Uruguay,Ghana,2,0,World Cup,Qatar,+15,-15,1905,1596
+2022-12-02,Switzerland,Serbia,3,2,World Cup,Qatar,+27,-27,1928,1835
+2022-12-02,South Korea,Portugal,2,1,World Cup,Qatar,+51,-51,1801,1992
+2022-12-02,Cameroon,Brazil,1,0,World Cup,Qatar,+58,-58,1679,2137
+2022-12-03,Netherlands,United States,3,1,World Cup,Qatar,+21,-21,2069,1819
+2022-12-03,Argentina,Australia,2,1,World Cup,Qatar,+7,-7,2125,1772
+2022-12-04,France,Poland,3,1,World Cup,Qatar,+25,-25,2018,1802
+2022-12-04,England,Senegal,3,0,World Cup,Qatar,+26,-26,1995,1747
+2022-12-05,Croatia,Japan,1,1,World Cup,Qatar,-9,+9,1936,1850
+2022-12-05,Brazil,South Korea,4,1,World Cup,Qatar,+13,-13,2150,1788
+2022-12-06,Portugal,Switzerland,6,1,World Cup,Qatar,+49,-49,2041,1879
+2022-12-06,Morocco,Spain,0,0,World Cup,Qatar,+11,-11,1882,1996
+2022-12-09,Malaysia,Cambodia,4,0,Friendly,Malaysia,+2,-2,1209,845
+2022-12-09,Brazil,Croatia,1,1,World Cup,Qatar,-16,+16,2134,1952
+2022-12-09,Argentina,Netherlands,2,2,World Cup,Qatar,-5,+5,2120,2074
+2022-12-10,Morocco,Portugal,1,0,World Cup,Qatar,+43,-43,1925,1998
+2022-12-10,France,England,2,1,World Cup,Qatar,+28,-28,2046,1967
+2022-12-11,Thailand,Myanmar,6,0,Friendly,Thailand,+2,-2,1392,928
+2022-12-13,Argentina,Croatia,3,0,World Cup,Qatar,+29,-29,2149,1923
+2022-12-14,Vietnam,Philippines,1,0,Friendly,Vietnam,+2,-2,1393,1093
+2022-12-14,Thailand,Taiwan,0,1,Friendly,Thailand,-19,+19,1373,900
+2022-12-14,Malaysia,Maldives,3,0,Friendly,Malaysia,+4,-4,1213,932
+2022-12-14,France,Morocco,2,0,World Cup,Qatar,+30,-30,2076,1895
+2022-12-17,Singapore,Maldives,3,1,Friendly,Singapore,+5,-5,1127,927
+2022-12-17,Croatia,Morocco,2,1,World Cup,Qatar,+28,-28,1951,1867
+2022-12-18,Argentina,France,3,3,World Cup,Qatar,-6,+6,2143,2082
+2022-12-20,Thailand,Brunei,5,0,Southeast Asian Championship,Malaysia,+1,-1,1374,613
+2022-12-20,Cambodia,Philippines,3,2,Southeast Asian Championship,Cambodia,+28,-28,873,1065
+2022-12-21,Myanmar,Malaysia,0,1,Southeast Asian Championship,Myanmar,-10,+10,918,1223
+2022-12-21,Laos,Vietnam,0,6,Southeast Asian Championship,Laos,-2,+2,651,1395
+2022-12-23,Oman,Syria,2,1,Friendly,the United Arab Emirates,+6,-6,1559,1418
+2022-12-23,Philippines,Brunei,5,1,Southeast Asian Championship,the Philippines,+3,-3,1068,610
+2022-12-23,Indonesia,Cambodia,2,1,Southeast Asian Championship,Indonesia,+2,-2,1272,871
+2022-12-24,Singapore,Myanmar,3,2,Southeast Asian Championship,Singapore,+6,-6,1133,912
+2022-12-24,Malaysia,Laos,5,0,Southeast Asian Championship,Malaysia,+2,-2,1225,649
+2022-12-26,Thailand,Philippines,4,0,Southeast Asian Championship,Thailand,+7,-7,1381,1061
+2022-12-26,Indonesia,Brunei,7,0,Southeast Asian Championship,Malaysia,+2,-2,1274,608
+2022-12-27,Vietnam,Malaysia,3,0,Southeast Asian Championship,Vietnam,+12,-12,1407,1213
+2022-12-27,Laos,Singapore,0,2,Southeast Asian Championship,Laos,-6,+6,643,1139
+2022-12-29,Indonesia,Thailand,1,1,Southeast Asian Championship,Indonesia,0,0,1274,1381
+2022-12-29,Cambodia,Brunei,5,1,Southeast Asian Championship,Cambodia,+8,-8,879,600
+2022-12-30,United Arab Emirates,Lebanon,1,0,Friendly,the United Arab Emirates,+4,-4,1492,1316
+2022-12-30,Oman,Syria,1,0,Friendly,the United Arab Emirates,+6,-6,1565,1412
+2022-12-30,Iraq,Kuwait,1,0,Friendly,Iraq,+2,-2,1574,1313
+2022-12-30,Singapore,Vietnam,0,0,Southeast Asian Championship,Singapore,+9,-9,1148,1398
+2022-12-30,Myanmar,Laos,2,2,Southeast Asian Championship,Myanmar,-16,+16,896,659
