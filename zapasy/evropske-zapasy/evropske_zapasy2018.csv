@@ -1,0 +1,225 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2018-03-22,Denmark,Panama,1,0,Friendly,Denmark,+4,-4,1844,1667
+2018-03-22,Slovakia,United Arab Emirates,2,1,King's Cup,Thailand,+8,-8,1756,1551
+2018-03-23,Argentina,Italy,2,0,Friendly,England,+12,-12,1996,1894
+2018-03-23,Austria,Slovenia,3,0,Friendly,Austria,+10,-10,1719,1629
+2018-03-23,France,Colombia,2,3,Friendly,France,-14,+14,1975,1941
+2018-03-23,Germany,Spain,1,1,Friendly,Germany,-5,+5,2104,2036
+2018-03-23,Greece,Switzerland,0,1,Friendly,Greece,-7,+7,1654,1873
+2018-03-23,Hungary,Kazakhstan,2,3,Friendly,Hungary,-18,+18,1594,1358
+2018-03-23,Morocco,Serbia,2,1,Friendly,Italy,+12,-12,1703,1758
+2018-03-23,Netherlands,England,0,1,Friendly,the Netherlands,-12,+12,1884,1945
+2018-03-23,Peru,Croatia,2,0,Friendly,the United States,+14,-14,1896,1842
+2018-03-23,Poland,Nigeria,0,1,Friendly,Poland,-16,+16,1826,1715
+2018-03-23,Portugal,Egypt,2,1,Friendly,Switzerland,+3,-3,1997,1654
+2018-03-23,Saudi Arabia,Ukraine,1,1,Friendly,Spain,+5,-5,1564,1733
+2018-03-23,Scotland,Costa Rica,0,1,Friendly,Scotland,-12,+12,1709,1757
+2018-03-23,Uruguay,Czechia,2,0,Friendly tournament,China,+13,-13,1879,1700
+2018-03-24,Georgia,Lithuania,4,0,Friendly,Georgia,+10,-10,1492,1397
+2018-03-24,Israel,Romania,1,2,Friendly,Israel,-8,+8,1526,1696
+2018-03-25,Thailand,Slovakia,2,3,King's Cup,Thailand,-6,+6,1395,1762
+2018-03-26,Albania,Norway,0,1,Friendly,Albania,-13,+13,1595,1613
+2018-03-26,China,Czechia,1,4,Friendly tournament,China,-22,+22,1520,1722
+2018-03-26,Netherlands,Portugal,3,0,Friendly,Switzerland,+23,-23,1907,1974
+2018-03-27,Belgium,Saudi Arabia,4,0,Friendly,Belgium,+2,-2,1929,1562
+2018-03-27,Croatia,Mexico,1,0,Friendly,the United States,+11,-11,1853,1859
+2018-03-27,Denmark,Chile,0,0,Friendly,Denmark,-2,+2,1842,1874
+2018-03-27,England,Italy,1,1,Friendly,England,-4,+4,1941,1898
+2018-03-27,Georgia,Estonia,2,0,Friendly,Georgia,+12,-12,1504,1504
+2018-03-27,Germany,Brazil,0,1,Friendly,Germany,-12,+12,2092,2131
+2018-03-27,Hungary,Scotland,0,1,Friendly,Hungary,-10,+10,1584,1719
+2018-03-27,Luxembourg,Austria,0,4,Friendly,Luxembourg,-6,+6,1326,1725
+2018-03-27,Poland,South Korea,3,2,Friendly,Poland,+5,-5,1831,1744
+2018-03-27,Romania,Sweden,1,0,Friendly,Romania,+10,-10,1706,1796
+2018-03-27,Russia,France,1,3,Friendly,Russia,-8,+8,1685,1983
+2018-03-27,Serbia,Nigeria,2,0,Friendly,England,+13,-13,1771,1702
+2018-03-27,Slovenia,Belarus,0,2,Friendly,Slovenia,-23,+23,1606,1531
+2018-03-27,Spain,Argentina,6,1,Friendly,Spain,+12,-12,2048,1984
+2018-03-27,Switzerland,Panama,6,0,Friendly,Switzerland,+6,-6,1879,1661
+2018-03-27,Ukraine,Japan,2,1,Friendly,Belgium,+9,-9,1742,1692
+2018-05-28,France,Ireland,2,0,Friendly,France,+3,-3,1986,1720
+2018-05-28,Italy,Saudi Arabia,2,1,Friendly,Switzerland,+3,-3,1901,1592
+2018-05-28,Portugal,Tunisia,2,2,Friendly,Portugal,-8,+8,1966,1656
+2018-05-29,Kosovo,Albania,3,0,Friendly,Switzerland,+26,-26,1431,1569
+2018-05-29,Peru,Scotland,2,0,Friendly,Peru,+5,-5,1912,1714
+2018-05-30,Austria,Russia,1,0,Friendly,Austria,+6,-6,1731,1679
+2018-05-31,Morocco,Ukraine,0,0,Friendly,Switzerland,+1,-1,1712,1741
+2018-05-31,Romania,Chile,3,2,Friendly,Austria,+14,-14,1720,1860
+2018-05-31,Slovakia,Netherlands,1,1,Friendly,Slovakia,+1,-1,1763,1906
+2018-06-01,Australia,Czechia,4,0,Friendly,Austria,+19,-19,1732,1703
+2018-06-01,France,Italy,3,1,Friendly,France,+8,-8,1994,1893
+2018-06-01,Georgia,Malta,1,0,Friendly,Austria,+3,-3,1507,1205
+2018-06-02,Austria,Germany,2,1,Friendly,Austria,+16,-16,1747,2076
+2018-06-02,Belgium,Portugal,0,0,Friendly,Belgium,-2,+2,1927,1968
+2018-06-02,England,Nigeria,2,1,Friendly,England,+2,-2,1943,1694
+2018-06-02,Mexico,Scotland,1,0,Friendly,Mexico,+4,-4,1861,1710
+2018-06-02,Montenegro,Slovenia,0,2,Friendly,Montenegro,-20,+20,1595,1626
+2018-06-02,Sweden,Denmark,0,0,Friendly,Sweden,-2,+2,1794,1844
+2018-06-03,Brazil,Croatia,2,0,Friendly,England,+5,-5,2136,1848
+2018-06-03,Spain,Switzerland,1,1,Friendly,Spain,-6,+6,2042,1885
+2018-06-03,Ukraine,Albania,4,1,Friendly,France,+9,-9,1750,1560
+2018-06-04,Chile,Serbia,1,0,Friendly,Austria,+7,-7,1867,1764
+2018-06-04,Italy,Netherlands,1,1,Friendly,Italy,-2,+2,1891,1908
+2018-06-04,Morocco,Slovakia,2,1,Friendly,Switzerland,+11,-11,1723,1752
+2018-06-05,Luxembourg,Georgia,1,0,Friendly,Luxembourg,+12,-12,1345,1495
+2018-06-05,Romania,Finland,2,0,Friendly,Romania,+7,-7,1727,1597
+2018-06-06,Belarus,Hungary,1,1,Friendly,Belarus,-1,+1,1530,1585
+2018-06-06,Belgium,Egypt,3,0,Friendly,Belgium,+4,-4,1931,1643
+2018-06-06,Czechia,Nigeria,1,0,Friendly,Austria,+10,-10,1713,1684
+2018-06-07,England,Costa Rica,2,0,Friendly,England,+5,-5,1948,1749
+2018-06-07,Portugal,Algeria,3,0,Friendly,Portugal,+1,-1,1969,1508
+2018-06-08,Croatia,Senegal,2,1,Friendly,Croatia,+5,-5,1853,1734
+2018-06-08,Germany,Saudi Arabia,2,1,Friendly,Germany,+1,-1,2077,1586
+2018-06-08,Poland,Chile,2,2,Friendly,Poland,-2,+2,1829,1869
+2018-06-08,Switzerland,Japan,2,0,Friendly,Switzerland,+4,-4,1889,1666
+2018-06-09,Denmark,Mexico,2,0,Friendly,Denmark,+11,-11,1855,1850
+2018-06-09,France,United States,1,1,Friendly,France,-7,+7,1987,1763
+2018-06-09,Hungary,Australia,1,2,Friendly,Hungary,-9,+9,1576,1741
+2018-06-09,Serbia,Bolivia,5,1,Friendly,Austria,+14,-14,1778,1661
+2018-06-09,Spain,Tunisia,1,0,Friendly,Russia,+2,-2,2044,1656
+2018-06-10,Austria,Brazil,0,3,Friendly,Austria,-6,+6,1741,2142
+2018-06-11,Belgium,Costa Rica,4,1,Friendly,Belgium,+6,-6,1937,1743
+2018-06-12,Poland,Lithuania,4,0,Friendly,Poland,+2,-2,1831,1391
+2018-06-15,Portugal,Spain,3,3,World Cup,Russia,+6,-6,1975,2038
+2018-06-16,Croatia,Nigeria,2,0,World Cup,Russia,+25,-25,1878,1659
+2018-06-16,Denmark,Peru,1,0,World Cup,Russia,+35,-35,1890,1881
+2018-06-16,France,Australia,2,1,World Cup,Russia,+12,-12,1999,1729
+2018-06-17,Brazil,Switzerland,1,1,World Cup,Russia,-19,+19,2123,1908
+2018-06-17,Mexico,Germany,1,0,World Cup,Russia,+47,-47,1897,2030
+2018-06-17,Serbia,Costa Rica,1,0,World Cup,Russia,+27,-27,1805,1716
+2018-06-18,Belgium,Panama,3,0,World Cup,Russia,+17,-17,1954,1640
+2018-06-18,England,Tunisia,2,1,World Cup,Russia,+9,-9,1957,1647
+2018-06-19,Senegal,Poland,2,1,World Cup,Russia,+37,-37,1786,1794
+2018-06-20,Portugal,Morocco,1,0,World Cup,Russia,+11,-11,1986,1697
+2018-06-20,Spain,Iran,1,0,World Cup,Russia,+13,-13,2051,1802
+2018-06-21,Australia,Denmark,1,1,World Cup,Russia,+13,-13,1742,1877
+2018-06-21,Croatia,Argentina,3,0,World Cup,Russia,+66,-66,1944,1902
+2018-06-21,France,Peru,1,0,World Cup,Russia,+20,-20,2019,1861
+2018-06-22,Switzerland,Serbia,2,1,World Cup,Russia,+21,-21,1929,1784
+2018-06-23,Belgium,Tunisia,5,2,World Cup,Russia,+15,-15,1969,1632
+2018-06-23,Germany,Sweden,2,1,World Cup,Russia,+14,-14,2044,1804
+2018-06-24,Colombia,Poland,3,0,World Cup,Russia,+40,-40,1920,1754
+2018-06-24,England,Panama,6,1,World Cup,Russia,+17,-17,1974,1623
+2018-06-25,Morocco,Spain,2,2,World Cup,Russia,+23,-23,1720,2028
+2018-06-25,Portugal,Iran,1,1,World Cup,Russia,-15,+15,1971,1817
+2018-06-26,Croatia,Iceland,2,1,World Cup,Russia,+13,-13,1957,1708
+2018-06-26,Denmark,France,0,0,World Cup,Russia,+12,-12,1889,2007
+2018-06-27,Brazil,Serbia,2,0,World Cup,Russia,+11,-11,2142,1773
+2018-06-27,Costa Rica,Switzerland,2,2,World Cup,Russia,+17,-17,1725,1912
+2018-06-27,South Korea,Germany,2,0,World Cup,Russia,+80,-80,1756,1964
+2018-06-28,Belgium,England,1,0,World Cup,Russia,+30,-30,1999,1944
+2018-06-28,Poland,Japan,1,0,World Cup,Russia,+29,-29,1783,1708
+2018-06-30,France,Argentina,4,3,World Cup,Russia,+22,-22,2029,1896
+2018-06-30,Uruguay,Portugal,2,1,World Cup,Russia,+32,-32,1985,1939
+2018-07-01,Croatia,Denmark,1,1,World Cup,Russia,-6,+6,1951,1895
+2018-07-01,Russia,Spain,1,1,World Cup,Russia,+18,-18,1709,2010
+2018-07-02,Belgium,Japan,3,2,World Cup,Russia,+9,-9,2008,1699
+2018-07-03,Colombia,England,1,1,World Cup,Russia,0,0,1939,1944
+2018-07-03,Sweden,Switzerland,1,0,World Cup,Russia,+33,-33,1905,1879
+2018-07-06,Belgium,Brazil,2,1,World Cup,Russia,+42,-42,2050,2114
+2018-07-06,France,Uruguay,2,0,World Cup,Russia,+39,-39,2068,1946
+2018-07-07,England,Sweden,2,0,World Cup,Russia,+40,-40,1984,1865
+2018-07-07,Russia,Croatia,2,2,World Cup,Russia,+12,-12,1721,1939
+2018-07-10,France,Belgium,1,0,World Cup,Russia,+28,-28,2096,2022
+2018-07-11,Croatia,England,2,1,World Cup,Russia,+34,-34,1973,1950
+2018-07-14,Belgium,England,2,0,World Cup,Russia,+36,-36,2058,1914
+2018-07-15,France,Croatia,4,2,World Cup,Russia,+30,-30,2126,1943
+2018-09-05,Slovakia,Denmark,3,0,Friendly,Slovakia,+20,-20,1772,1875
+2018-09-06,Austria,Sweden,2,0,Friendly,Austria,+16,-16,1757,1849
+2018-09-06,Czechia,Ukraine,1,2,European Nations League B,Czechia,-24,+24,1689,1774
+2018-09-06,Germany,France,0,0,European Nations League A,Germany,+4,-4,1968,2122
+2018-09-06,Kazakhstan,Georgia,0,2,European Nations League D,Kazakhstan,-28,+28,1341,1523
+2018-09-06,Netherlands,Peru,2,1,Friendly,the Netherlands,+7,-7,1915,1884
+2018-09-06,Portugal,Croatia,1,1,Friendly,Portugal,-3,+3,1936,1946
+2018-09-06,Slovenia,Bulgaria,1,2,European Nations League C,Slovenia,-26,+26,1600,1640
+2018-09-07,Albania,Israel,1,0,European Nations League C,Albania,+13,-13,1573,1513
+2018-09-07,Italy,Poland,1,1,European Nations League A,Italy,-11,+11,1880,1794
+2018-09-07,Lithuania,Serbia,0,1,European Nations League C,Lithuania,-7,+7,1384,1780
+2018-09-07,Romania,Montenegro,0,0,European Nations League C,Romania,-12,+12,1715,1607
+2018-09-07,Scotland,Belgium,0,4,Friendly,Scotland,-7,+7,1703,2065
+2018-09-08,England,Spain,1,2,European Nations League A,England,-20,+20,1894,2030
+2018-09-08,Finland,Hungary,1,0,European Nations League C,Finland,+13,-13,1618,1563
+2018-09-08,Switzerland,Iceland,6,0,European Nations League A,Switzerland,+15,-15,1894,1693
+2018-09-09,Cyprus,Slovenia,2,1,European Nations League C,Cyprus,+26,-26,1421,1574
+2018-09-09,Denmark,Wales,2,0,European Nations League B,Denmark,+16,-16,1891,1782
+2018-09-09,France,Netherlands,2,1,European Nations League A,France,+6,-6,2128,1909
+2018-09-09,Georgia,Latvia,1,0,European Nations League D,Georgia,+6,-6,1529,1326
+2018-09-09,Germany,Peru,2,1,Friendly,Germany,+5,-5,1973,1879
+2018-09-09,Ukraine,Slovakia,1,0,European Nations League B,Ukraine,+14,-14,1788,1758
+2018-09-10,Portugal,Italy,1,0,European Nations League A,Portugal,+12,-12,1948,1868
+2018-09-10,Russia,Czechia,5,1,Friendly,Russia,+11,-11,1758,1678
+2018-09-10,Scotland,Albania,2,0,European Nations League C,Scotland,+13,-13,1716,1560
+2018-09-10,Serbia,Romania,2,2,European Nations League C,Serbia,-9,+9,1771,1724
+2018-09-11,Bosnia and Herzegovina,Austria,1,0,European Nations League B,Bosnia and Herzegovina,+14,-14,1780,1743
+2018-09-11,England,Switzerland,1,0,Friendly,England,+7,-7,1901,1887
+2018-09-11,Hungary,Greece,2,1,European Nations League C,Hungary,+20,-20,1583,1642
+2018-09-11,Iceland,Belgium,0,3,European Nations League A,Iceland,-12,+12,1681,2077
+2018-09-11,Poland,Ireland,1,1,Friendly,Poland,-5,+5,1789,1712
+2018-09-11,Spain,Croatia,6,0,European Nations League A,Spain,+22,-22,2052,1924
+2018-10-10,Albania,Jordan,0,0,Friendly,Albania,-5,+5,1555,1466
+2018-10-10,Italy,Ukraine,1,1,Friendly,Italy,-5,+5,1863,1793
+2018-10-11,France,Iceland,2,2,Friendly,France,-9,+9,2119,1690
+2018-10-11,Israel,Scotland,2,1,European Nations League C,Israel,+26,-26,1532,1690
+2018-10-11,Lithuania,Romania,1,2,European Nations League C,Lithuania,-8,+8,1368,1732
+2018-10-11,Montenegro,Serbia,0,2,European Nations League C,Montenegro,-25,+25,1590,1796
+2018-10-11,Poland,Portugal,2,3,European Nations League A,Poland,-17,+17,1772,1965
+2018-10-11,Wales,Spain,1,4,Friendly,Wales,-10,+10,1772,2062
+2018-10-12,Austria,Northern Ireland,1,0,European Nations League B,Austria,+10,-10,1753,1652
+2018-10-12,Belgium,Switzerland,2,1,European Nations League A,Belgium,+6,-6,2083,1881
+2018-10-12,Croatia,England,0,0,European Nations League A,Croatia,-7,+7,1917,1908
+2018-10-12,Greece,Hungary,1,0,European Nations League C,Greece,+11,-11,1653,1572
+2018-10-13,Georgia,Andorra,3,0,European Nations League D,Georgia,+3,-3,1532,1066
+2018-10-13,Ireland,Denmark,0,0,European Nations League B,Ireland,+4,-4,1716,1887
+2018-10-13,Netherlands,Germany,3,0,European Nations League A,the Netherlands,+31,-31,1940,1942
+2018-10-13,Norway,Slovenia,1,0,European Nations League C,Norway,+12,-12,1643,1562
+2018-10-13,Slovakia,Czechia,1,2,European Nations League B,Slovakia,-30,+30,1728,1708
+2018-10-14,Israel,Albania,2,0,European Nations League C,Israel,+23,-23,1555,1532
+2018-10-14,Poland,Italy,0,1,European Nations League A,Poland,-21,+21,1751,1884
+2018-10-14,Romania,Serbia,0,0,European Nations League C,Romania,-2,+2,1730,1798
+2018-10-14,Scotland,Portugal,1,3,Friendly,Scotland,-8,+8,1682,1973
+2018-10-15,Croatia,Jordan,2,1,Friendly,Croatia,+1,-1,1918,1465
+2018-10-15,Estonia,Hungary,3,3,European Nations League C,Estonia,+1,-1,1447,1571
+2018-10-15,Iceland,Switzerland,1,2,European Nations League A,Iceland,-15,+15,1675,1896
+2018-10-15,Spain,England,2,3,European Nations League A,Spain,-32,+32,2030,1940
+2018-10-16,Belgium,Netherlands,1,1,Friendly,Belgium,-6,+6,2077,1946
+2018-10-16,Denmark,Austria,2,0,Friendly,Denmark,+6,-6,1893,1747
+2018-10-16,France,Germany,2,1,European Nations League A,France,+7,-7,2126,1935
+2018-10-16,Latvia,Georgia,0,3,European Nations League D,Latvia,-24,+24,1297,1556
+2018-10-16,Slovenia,Cyprus,1,1,European Nations League C,Slovenia,-12,+12,1550,1428
+2018-10-16,Sweden,Slovakia,1,1,Friendly,Sweden,-5,+5,1814,1733
+2018-10-16,Ukraine,Czechia,1,0,European Nations League B,Ukraine,+10,-10,1803,1698
+2018-11-14,Switzerland,Qatar,0,1,Friendly,Switzerland,-19,+19,1877,1532
+2018-11-15,Andorra,Georgia,1,1,European Nations League D,Andorra,+16,-16,1074,1540
+2018-11-15,Austria,Bosnia and Herzegovina,0,0,European Nations League B,Austria,-3,+3,1744,1798
+2018-11-15,Belgium,Iceland,2,0,European Nations League A,Belgium,+3,-3,2080,1672
+2018-11-15,Croatia,Spain,3,2,European Nations League A,Croatia,+21,-21,1939,2009
+2018-11-15,England,United States,3,0,Friendly,England,+6,-6,1946,1749
+2018-11-15,Germany,Russia,3,0,Friendly,Germany,+6,-6,1941,1770
+2018-11-15,Hungary,Estonia,2,0,European Nations League C,Hungary,+13,-13,1584,1434
+2018-11-15,Poland,Czechia,0,1,Friendly,Poland,-14,+14,1737,1712
+2018-11-16,Netherlands,France,2,0,European Nations League A,the Netherlands,+37,-37,1983,2089
+2018-11-16,Slovakia,Ukraine,4,1,European Nations League B,Slovakia,+32,-32,1765,1771
+2018-11-16,Slovenia,Norway,1,1,European Nations League C,Slovenia,0,0,1550,1658
+2018-11-16,Wales,Denmark,1,2,European Nations League B,Wales,-20,+20,1775,1913
+2018-11-17,Albania,Scotland,0,4,European Nations League C,Albania,-32,+32,1500,1714
+2018-11-17,Italy,Portugal,0,0,European Nations League A,Italy,-1,+1,1883,1974
+2018-11-17,Romania,Lithuania,3,0,European Nations League C,Romania,+4,-4,1734,1341
+2018-11-17,Serbia,Montenegro,2,1,European Nations League C,Serbia,+6,-6,1804,1607
+2018-11-18,England,Croatia,2,1,European Nations League A,England,+14,-14,1960,1925
+2018-11-18,Hungary,Finland,2,0,European Nations League C,Hungary,+27,-27,1611,1621
+2018-11-18,Northern Ireland,Austria,1,2,European Nations League B,Northern Ireland,-20,+20,1623,1764
+2018-11-18,Spain,Bosnia and Herzegovina,1,0,Friendly,Spain,+3,-3,2012,1795
+2018-11-18,Switzerland,Belgium,5,2,European Nations League A,Switzerland,+45,-45,1922,2035
+2018-11-19,Bulgaria,Slovenia,1,1,European Nations League C,Bulgaria,-10,+10,1629,1560
+2018-11-19,Czechia,Slovakia,1,0,European Nations League B,Czechia,+17,-17,1729,1748
+2018-11-19,Denmark,Ireland,0,0,European Nations League B,Denmark,-15,+15,1898,1704
+2018-11-19,Georgia,Kazakhstan,2,1,European Nations League D,Georgia,+6,-6,1546,1330
+2018-11-19,Germany,Netherlands,2,2,European Nations League A,Germany,-3,+3,1938,1986
+2018-11-20,Albania,Wales,1,0,Friendly,Albania,+15,-15,1515,1760
+2018-11-20,France,Uruguay,1,0,Friendly,France,+4,-4,2093,1923
+2018-11-20,Italy,United States,1,0,Friendly,Belgium,+6,-6,1889,1743
+2018-11-20,Montenegro,Romania,0,1,European Nations League C,Montenegro,-18,+18,1589,1752
+2018-11-20,Portugal,Poland,1,1,European Nations League A,Portugal,-15,+15,1959,1752
+2018-11-20,Scotland,Israel,3,2,European Nations League C,Scotland,+8,-8,1722,1561
+2018-11-20,Serbia,Lithuania,4,1,European Nations League C,Serbia,+3,-3,1807,1338
+2018-11-20,Turkey,Ukraine,0,0,Friendly,Turkey,-1,+1,1691,1772

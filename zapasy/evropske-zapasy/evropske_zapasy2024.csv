@@ -1,0 +1,222 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2024-01-20,United States,Slovenia,0,1,Friendly,the United States,-14,+14,1762,1724
+2024-03-21,Russia,Serbia,4,0,Friendly,Russia,+16,-16,1772,1786
+2024-03-21,Portugal,Sweden,5,2,Friendly,Portugal,+3,-3,2035,1692
+2024-03-21,Malta,Slovenia,2,2,Friendly,Malta,+8,-8,1258,1716
+2024-03-21,Italy,Venezuela,2,1,Friendly,the United States,+5,-5,1942,1751
+2024-03-21,Poland,Estonia,5,1,European Championship qualifier,Poland,+5,-5,1715,1358
+2024-03-21,Georgia,Luxembourg,2,0,European Championship qualifier,Georgia,+13,-13,1651,1507
+2024-03-21,Bosnia and Herzegovina,Ukraine,1,2,European Championship qualifier,Bosnia and Herzegovina,-7,+7,1478,1857
+2024-03-22,Romania,Northern Ireland,1,1,Friendly,Romania,-7,+7,1667,1498
+2024-03-22,Norway,Czechia,1,2,Friendly,Norway,-13,+13,1741,1770
+2024-03-22,Netherlands,Scotland,4,0,Friendly,the Netherlands,+7,-7,1978,1794
+2024-03-22,Hungary,Turkey,1,0,Friendly,Hungary,+6,-6,1840,1760
+2024-03-22,Colombia,Spain,1,0,Friendly,England,+11,-11,1996,2022
+2024-03-22,Chile,Albania,3,0,Friendly,Italy,+14,-14,1714,1617
+2024-03-23,Slovakia,Austria,0,2,Friendly,Slovakia,-12,+12,1650,1847
+2024-03-23,Ireland,Belgium,0,0,Friendly,Ireland,+7,-7,1616,1983
+2024-03-23,France,Germany,0,2,Friendly,France,-26,+26,2084,1912
+2024-03-23,England,Brazil,0,1,Friendly,England,-13,+13,2002,2025
+2024-03-23,Denmark,Switzerland,0,0,Friendly,Denmark,-4,+4,1821,1796
+2024-03-23,Croatia,Tunisia,0,0,Friendly tournament,Egypt,-10,+10,1942,1686
+2024-03-24,Italy,Ecuador,2,0,Friendly,the United States,+13,-13,1955,1873
+2024-03-25,Sweden,Albania,1,0,Friendly,Sweden,+5,-5,1697,1612
+2024-03-25,Cyprus,Serbia,0,1,Friendly,Cyprus,-2,+2,1319,1788
+2024-03-26,Spain,Brazil,3,3,Friendly,Spain,-3,+3,2019,2028
+2024-03-26,Slovenia,Portugal,2,0,Friendly,Slovenia,+23,-23,1739,2012
+2024-03-26,Scotland,Northern Ireland,0,1,Friendly,Scotland,-18,+18,1776,1516
+2024-03-26,Norway,Slovakia,1,1,Friendly,Norway,-5,+5,1736,1655
+2024-03-26,Ireland,Switzerland,0,1,Friendly,Ireland,-8,+8,1608,1804
+2024-03-26,Hungary,Kosovo,2,0,Friendly,Hungary,+2,-2,1842,1510
+2024-03-26,Germany,Netherlands,2,1,Friendly,Germany,+9,-9,1921,1969
+2024-03-26,France,Chile,3,2,Friendly,France,+1,-1,2085,1713
+2024-03-26,England,Belgium,2,2,Friendly,England,-3,+3,1999,1986
+2024-03-26,Egypt,Croatia,2,4,Friendly tournament,Egypt,-11,+11,1637,1953
+2024-03-26,Denmark,Faroe Islands,2,0,Friendly,Denmark,+1,-1,1822,1269
+2024-03-26,Czechia,Armenia,2,1,Friendly,Czechia,+2,-2,1772,1456
+2024-03-26,Colombia,Romania,3,2,Friendly,Spain,+3,-3,1999,1664
+2024-03-26,Austria,Turkey,6,1,Friendly,Austria,+10,-10,1857,1750
+2024-03-26,Wales,Poland,0,0,European Championship qualifier,Wales,-6,+6,1710,1721
+2024-03-26,Ukraine,Iceland,2,1,European Championship qualifier,Poland,+6,-6,1863,1544
+2024-03-26,Georgia,Greece,0,0,European Championship qualifier,Georgia,-1,+1,1650,1740
+2024-06-03,Scotland,Gibraltar,2,0,Friendly,Portugal,0,0,1776,1048
+2024-06-03,Germany,Ukraine,0,0,Friendly,Germany,-4,+4,1917,1867
+2024-06-03,England,Bosnia and Herzegovina,3,0,Friendly,England,+1,-1,2000,1477
+2024-06-03,Croatia,North Macedonia,3,0,Friendly,Croatia,+2,-2,1955,1550
+2024-06-03,Albania,Liechtenstein,3,0,Friendly,Hungary,+1,-1,1613,958
+2024-06-04,Switzerland,Estonia,4,0,Friendly,Switzerland,+2,-2,1806,1354
+2024-06-04,Slovenia,Armenia,2,1,Friendly,Slovenia,+2,-2,1741,1454
+2024-06-04,Romania,Bulgaria,0,0,Friendly,Romania,-7,+7,1657,1480
+2024-06-04,Portugal,Finland,4,2,Friendly,Portugal,+2,-2,2014,1621
+2024-06-04,Italy,Turkey,0,0,Friendly,Italy,-7,+7,1948,1757
+2024-06-04,Ireland,Hungary,2,1,Friendly,Ireland,+14,-14,1622,1828
+2024-06-04,Austria,Serbia,2,1,Friendly,Austria,+5,-5,1862,1783
+2024-06-05,Spain,Andorra,5,0,Friendly,Spain,0,0,2019,1113
+2024-06-05,Slovakia,San Marino,4,0,Friendly,Austria,0,0,1655,777
+2024-06-05,France,Luxembourg,3,0,Friendly,France,+1,-1,2086,1512
+2024-06-05,Denmark,Sweden,2,1,Friendly,Denmark,+4,-4,1826,1693
+2024-06-05,Belgium,Montenegro,2,0,Friendly,Belgium,+1,-1,1987,1570
+2024-06-06,Netherlands,Canada,4,0,Friendly,the Netherlands,+4,-4,1973,1712
+2024-06-07,Scotland,Finland,2,2,Friendly,Scotland,-6,+6,1770,1627
+2024-06-07,Romania,Liechtenstein,0,0,Friendly,Romania,-10,+10,1647,968
+2024-06-07,Poland,Ukraine,3,1,Friendly,Poland,+17,-17,1738,1850
+2024-06-07,Germany,Greece,2,1,Friendly,Germany,+3,-3,1920,1737
+2024-06-07,England,Iceland,0,1,Friendly,England,-19,+19,1981,1563
+2024-06-07,Czechia,Malta,7,1,Friendly,Austria,+2,-2,1774,1259
+2024-06-07,Albania,Azerbaijan,3,1,Friendly,Hungary,+10,-10,1623,1483
+2024-06-08,Switzerland,Austria,1,1,Friendly,Switzerland,-1,+1,1805,1863
+2024-06-08,Sweden,Serbia,0,3,Friendly,Sweden,-18,+18,1675,1801
+2024-06-08,Spain,Northern Ireland,5,1,Friendly,Spain,+1,-1,2020,1515
+2024-06-08,Slovenia,Bulgaria,1,1,Friendly,Slovenia,-8,+8,1733,1488
+2024-06-08,Portugal,Croatia,1,2,Friendly,Portugal,-14,+14,2000,1969
+2024-06-08,Hungary,Israel,3,0,Friendly,Hungary,+4,-4,1832,1554
+2024-06-08,Denmark,Norway,3,1,Friendly,Denmark,+8,-8,1834,1733
+2024-06-08,Belgium,Luxembourg,3,0,Friendly,Belgium,+1,-1,1988,1511
+2024-06-09,Slovakia,Wales,4,0,Friendly,Slovakia,+16,-16,1671,1684
+2024-06-09,Montenegro,Georgia,1,3,Friendly,Montenegro,-16,+16,1554,1666
+2024-06-09,Italy,Bosnia and Herzegovina,1,0,Friendly,Italy,+1,-1,1949,1476
+2024-06-09,France,Canada,0,0,Friendly,France,-9,+9,2077,1721
+2024-06-10,Poland,Turkey,2,1,Friendly,Poland,+8,-8,1746,1749
+2024-06-10,Netherlands,Iceland,4,0,Friendly,the Netherlands,+2,-2,1975,1561
+2024-06-10,Czechia,North Macedonia,2,1,Friendly,Czechia,+3,-3,1777,1547
+2024-06-11,Portugal,Ireland,3,0,Friendly,Portugal,+2,-2,2002,1620
+2024-06-11,Moldova,Ukraine,0,4,Friendly,Moldova,-3,+3,1350,1853
+2024-06-14,Germany,Scotland,5,1,European Championship,Germany,+18,-18,1938,1752
+2024-06-15,Switzerland,Hungary,3,1,European Championship,Germany,+40,-40,1845,1792
+2024-06-15,Spain,Croatia,3,0,European Championship,Germany,+37,-37,2057,1932
+2024-06-15,Italy,Albania,2,1,European Championship,Germany,+7,-7,1956,1616
+2024-06-16,Netherlands,Poland,2,1,European Championship,Germany,+11,-11,1986,1735
+2024-06-16,England,Serbia,1,0,European Championship,Germany,+13,-13,1994,1788
+2024-06-16,Denmark,Slovenia,1,1,European Championship,Germany,-7,+7,1827,1740
+2024-06-17,Slovakia,Belgium,1,0,European Championship,Germany,+43,-43,1714,1945
+2024-06-17,Romania,Ukraine,3,0,European Championship,Germany,+67,-67,1714,1786
+2024-06-17,France,Austria,1,0,European Championship,Germany,+11,-11,2088,1852
+2024-06-18,Turkey,Georgia,3,1,European Championship,Germany,+29,-29,1778,1637
+2024-06-18,Portugal,Czechia,2,1,European Championship,Germany,+11,-11,2013,1766
+2024-06-19,Scotland,Switzerland,1,1,European Championship,Germany,+7,-7,1759,1838
+2024-06-19,Germany,Hungary,2,0,European Championship,Germany,+15,-15,1953,1777
+2024-06-19,Albania,Croatia,2,2,European Championship,Germany,+18,-18,1634,1914
+2024-06-20,Spain,Italy,1,0,European Championship,Germany,+18,-18,2075,1938
+2024-06-20,Serbia,Slovenia,1,1,European Championship,Germany,-3,+3,1785,1743
+2024-06-20,Denmark,England,1,1,European Championship,Germany,+11,-11,1838,1983
+2024-06-21,Ukraine,Slovakia,2,1,European Championship,Germany,+20,-20,1806,1694
+2024-06-21,France,Netherlands,0,0,European Championship,Germany,-7,+7,2081,1993
+2024-06-21,Austria,Poland,3,1,European Championship,Germany,+25,-25,1877,1710
+2024-06-22,Portugal,Turkey,3,0,European Championship,Germany,+18,-18,2031,1760
+2024-06-22,Czechia,Georgia,1,1,European Championship,Germany,-9,+9,1757,1646
+2024-06-22,Belgium,Romania,2,0,European Championship,Germany,+16,-16,1961,1698
+2024-06-23,Hungary,Scotland,1,0,European Championship,Germany,+24,-24,1801,1735
+2024-06-23,Germany,Switzerland,1,1,European Championship,Germany,-14,+14,1939,1852
+2024-06-24,Spain,Albania,1,0,European Championship,Germany,+4,-4,2079,1630
+2024-06-24,Croatia,Italy,1,1,European Championship,Germany,+2,-2,1916,1936
+2024-06-25,France,Poland,1,1,European Championship,Germany,-20,+20,2061,1730
+2024-06-25,England,Slovenia,0,0,European Championship,Germany,-15,+15,1968,1758
+2024-06-25,Denmark,Serbia,0,0,European Championship,Germany,-4,+4,1834,1789
+2024-06-25,Austria,Netherlands,3,2,European Championship,Germany,+33,-33,1910,1960
+2024-06-26,Turkey,Czechia,2,1,European Championship,Germany,+25,-25,1785,1732
+2024-06-26,Romania,Slovakia,1,1,European Championship,Germany,0,0,1698,1694
+2024-06-26,Georgia,Portugal,2,0,European Championship,Germany,+68,-68,1714,1963
+2024-06-26,Belgium,Ukraine,0,0,European Championship,Germany,-10,+10,1951,1816
+2024-06-29,Switzerland,Italy,2,0,European Championship,Germany,+46,-46,1898,1890
+2024-06-29,Germany,Denmark,2,0,European Championship,Germany,+18,-18,1957,1816
+2024-06-30,Spain,Georgia,4,1,European Championship,Germany,+10,-10,2089,1704
+2024-06-30,England,Slovakia,2,1,European Championship,Germany,+9,-9,1977,1685
+2024-07-01,Portugal,Slovenia,0,0,European Championship,Germany,-13,+13,1950,1771
+2024-07-01,France,Belgium,1,0,European Championship,Germany,+17,-17,2078,1934
+2024-07-02,Turkey,Austria,2,1,European Championship,Germany,+34,-34,1819,1876
+2024-07-02,Netherlands,Romania,3,0,European Championship,Germany,+16,-16,1976,1682
+2024-07-05,Germany,Spain,1,2,European Championship,Germany,-23,+23,1934,2112
+2024-07-05,France,Portugal,0,0,European Championship,Germany,-9,+9,2069,1959
+2024-07-06,Netherlands,Turkey,2,1,European Championship,Germany,+14,-14,1990,1805
+2024-07-06,England,Switzerland,1,1,European Championship,Germany,-6,+6,1971,1904
+2024-07-09,Spain,France,2,1,European Championship,Germany,+22,-22,2134,2047
+2024-07-10,England,Netherlands,2,1,European Championship,Germany,+26,-26,1997,1964
+2024-07-14,Spain,England,2,1,European Championship,Germany,+16,-16,2150,1981
+2024-09-05,Estonia,Slovakia,0,1,European Nations League C,Estonia,-9,+9,1362,1694
+2024-09-05,Serbia,Spain,0,0,European Nations League A,Serbia,+13,-13,1802,2137
+2024-09-05,Scotland,Poland,2,3,European Nations League A,Scotland,-26,+26,1709,1756
+2024-09-05,Portugal,Croatia,2,1,European Nations League A,Portugal,+12,-12,1971,1904
+2024-09-05,Denmark,Switzerland,2,0,European Nations League A,Denmark,+29,-29,1845,1875
+2024-09-06,Kosovo,Romania,0,3,European Nations League C,Kosovo,-27,+27,1478,1709
+2024-09-06,Slovenia,Austria,1,1,European Nations League B,Slovenia,0,0,1771,1876
+2024-09-06,France,Italy,1,3,European Nations League A,France,-49,+49,1998,1939
+2024-09-06,Belgium,Israel,3,1,European Nations League A,Hungary,+6,-6,1940,1561
+2024-09-07,Ireland,England,0,2,European Nations League B,Ireland,-11,+11,1609,1992
+2024-09-07,Georgia,Czechia,4,1,European Nations League B,Georgia,+28,-28,1732,1704
+2024-09-07,Albania,Ukraine,2,1,European Nations League B,Czechia,+30,-30,1660,1786
+2024-09-07,Netherlands,Bosnia and Herzegovina,5,2,European Nations League A,the Netherlands,+2,-2,1966,1474
+2024-09-07,Germany,Hungary,5,0,European Nations League A,Germany,+17,-17,1951,1784
+2024-09-08,Slovakia,Azerbaijan,2,0,European Nations League C,Slovakia,+8,-8,1702,1461
+2024-09-08,Switzerland,Spain,1,4,European Nations League A,Switzerland,-20,+20,1855,2157
+2024-09-08,Portugal,Scotland,2,1,European Nations League A,Portugal,+4,-4,1975,1705
+2024-09-08,Denmark,Serbia,2,0,European Nations League A,Denmark,+18,-18,1863,1784
+2024-09-08,Croatia,Poland,1,0,European Nations League A,Croatia,+8,-8,1912,1748
+2024-09-09,Romania,Lithuania,3,1,European Nations League C,Romania,+4,-4,1713,1324
+2024-09-09,Slovenia,Kazakhstan,3,0,European Nations League B,Slovenia,+6,-6,1777,1457
+2024-09-09,Norway,Austria,2,1,European Nations League B,Norway,+23,-23,1746,1853
+2024-09-09,Italy,Israel,2,1,European Nations League A,Hungary,+4,-4,1943,1557
+2024-09-09,France,Belgium,2,0,European Nations League A,France,+17,-17,2015,1923
+2024-09-10,England,Finland,2,0,European Nations League B,England,+4,-4,1996,1607
+2024-09-10,Czechia,Ukraine,3,2,European Nations League B,Czechia,+19,-19,1723,1767
+2024-09-10,Albania,Georgia,0,1,European Nations League B,Albania,-22,+22,1638,1754
+2024-09-10,Netherlands,Germany,2,2,European Nations League A,the Netherlands,-6,+6,1960,1957
+2024-09-10,Hungary,Bosnia and Herzegovina,0,0,European Nations League A,Hungary,-17,+17,1767,1491
+2024-10-10,Norway,Slovenia,3,0,European Nations League B,Norway,+28,-28,1774,1749
+2024-10-10,England,Greece,1,2,European Nations League B,England,-34,+34,1962,1815
+2024-10-10,Austria,Kazakhstan,4,0,European Nations League B,Austria,+4,-4,1857,1453
+2024-10-10,Italy,Belgium,2,2,European Nations League A,Italy,-7,+7,1936,1930
+2024-10-10,France,Israel,4,1,European Nations League A,Hungary,+5,-5,2020,1552
+2024-10-11,Slovakia,Sweden,2,2,European Nations League C,Slovakia,-6,+6,1696,1709
+2024-10-11,Ukraine,Georgia,1,0,European Nations League B,Poland,+19,-19,1786,1735
+2024-10-11,Czechia,Albania,2,0,European Nations League B,Czechia,+15,-15,1738,1623
+2024-10-11,Hungary,Netherlands,1,1,European Nations League A,Hungary,+5,-5,1772,1955
+2024-10-11,Bosnia and Herzegovina,Germany,1,2,European Nations League A,Bosnia and Herzegovina,-4,+4,1487,1961
+2024-10-12,Cyprus,Romania,0,3,European Nations League C,Cyprus,-10,+10,1300,1723
+2024-10-12,Spain,Denmark,1,0,European Nations League A,Spain,+4,-4,2161,1859
+2024-10-12,Serbia,Switzerland,2,0,European Nations League A,Serbia,+28,-28,1812,1827
+2024-10-12,Poland,Portugal,1,3,European Nations League A,Poland,-19,+19,1729,1994
+2024-10-12,Croatia,Scotland,2,1,European Nations League A,Croatia,+6,-6,1918,1699
+2024-10-13,Kazakhstan,Slovenia,0,1,European Nations League B,Kazakhstan,-10,+10,1443,1759
+2024-10-13,Finland,England,1,3,European Nations League B,Finland,-10,+10,1570,1972
+2024-10-13,Austria,Norway,5,1,European Nations League B,Austria,+19,-19,1876,1755
+2024-10-14,Azerbaijan,Slovakia,1,3,European Nations League C,Azerbaijan,-17,+17,1414,1713
+2024-10-14,Georgia,Albania,0,1,European Nations League B,Georgia,-31,+31,1704,1654
+2024-10-14,Czechia,Ukraine,1,1,European Nations League B,Poland,+3,-3,1741,1783
+2024-10-14,Italy,Israel,4,1,European Nations League A,Italy,+4,-4,1940,1548
+2024-10-14,Germany,Netherlands,1,0,European Nations League A,Germany,+14,-14,1975,1941
+2024-10-14,Bosnia and Herzegovina,Hungary,0,2,European Nations League A,Bosnia and Herzegovina,-15,+15,1472,1787
+2024-10-14,Belgium,France,1,2,European Nations League A,Belgium,-21,+21,1909,2041
+2024-10-15,Lithuania,Romania,1,2,European Nations League C,Lithuania,-6,+6,1303,1729
+2024-10-15,Switzerland,Denmark,2,2,European Nations League A,Switzerland,-4,+4,1823,1863
+2024-10-15,Spain,Serbia,3,0,European Nations League A,Spain,+5,-5,2166,1807
+2024-10-15,Scotland,Portugal,0,0,European Nations League A,Scotland,+10,-10,1709,1984
+2024-10-15,Poland,Croatia,3,3,European Nations League A,Poland,+5,-5,1734,1913
+2024-11-14,Slovenia,Norway,1,4,European Nations League B,Slovenia,-45,+45,1714,1800
+2024-11-14,Kazakhstan,Austria,0,2,European Nations League B,Kazakhstan,-8,+8,1435,1884
+2024-11-14,Greece,England,0,3,European Nations League B,Greece,-30,+30,1794,2002
+2024-11-14,France,Israel,0,0,European Nations League A,France,-19,+19,2022,1567
+2024-11-14,Belgium,Italy,0,1,European Nations League A,Belgium,-24,+24,1885,1964
+2024-11-15,Romania,Kosovo,0,0,European Nations League C,Romania,-14,+14,1715,1550
+2024-11-15,Switzerland,Serbia,1,1,European Nations League A,Switzerland,-6,+6,1817,1813
+2024-11-15,Scotland,Croatia,1,0,European Nations League A,Scotland,+26,-26,1735,1887
+2024-11-15,Portugal,Poland,5,1,European Nations League A,Portugal,+9,-9,1993,1725
+2024-11-15,Denmark,Spain,1,2,European Nations League A,Denmark,-9,+9,1854,2175
+2024-11-16,Sweden,Slovakia,2,1,European Nations League C,Sweden,+14,-14,1738,1699
+2024-11-16,Georgia,Ukraine,1,1,European Nations League B,Georgia,-1,+1,1703,1784
+2024-11-16,Albania,Czechia,0,0,European Nations League B,Albania,-1,+1,1653,1742
+2024-11-16,Netherlands,Hungary,4,0,European Nations League A,the Netherlands,+14,-14,1955,1773
+2024-11-16,Germany,Bosnia and Herzegovina,7,0,European Nations League A,Germany,+3,-3,1978,1469
+2024-11-17,England,Ireland,5,0,European Nations League B,England,+5,-5,2007,1609
+2024-11-17,Austria,Slovenia,1,1,European Nations League B,Austria,-13,+13,1871,1727
+2024-11-17,Italy,France,1,3,European Nations League A,Italy,-34,+34,1930,2056
+2024-11-17,Israel,Belgium,1,0,European Nations League A,Hungary,+34,-34,1601,1851
+2024-11-18,Romania,Cyprus,4,1,European Nations League C,Romania,+4,-4,1719,1302
+2024-11-18,Spain,Switzerland,3,2,European Nations League A,Spain,+3,-3,2178,1814
+2024-11-18,Serbia,Denmark,0,0,European Nations League A,Serbia,-3,+3,1810,1857
+2024-11-18,Poland,Scotland,1,2,European Nations League A,Poland,-25,+25,1700,1760
+2024-11-18,Croatia,Portugal,1,1,European Nations League A,Croatia,0,0,1887,1993
+2024-11-19,Slovakia,Estonia,1,0,European Nations League C,Slovakia,+3,-3,1702,1377
+2024-11-19,Czechia,Georgia,2,1,European Nations League B,Czechia,+12,-12,1754,1691
+2024-11-19,Albania,Ukraine,1,2,European Nations League B,Albania,-18,+18,1635,1802
+2024-11-19,Hungary,Germany,1,1,European Nations League A,Hungary,+6,-6,1779,1972
+2024-11-19,Bosnia and Herzegovina,Netherlands,1,1,European Nations League A,Bosnia and Herzegovina,+16,-16,1485,1939

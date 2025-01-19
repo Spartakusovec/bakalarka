@@ -1,0 +1,162 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2015-03-25,Denmark,United States,3,2,Friendly,Denmark,+9,-9,1764,1807
+2015-03-25,Georgia,Malta,2,0,Friendly,Georgia,+4,-4,1472,1234
+2015-03-25,Germany,Australia,2,2,Friendly,Germany,-9,+9,2125,1736
+2015-03-25,Scotland,Northern Ireland,1,0,Friendly,Scotland,+3,-3,1727,1499
+2015-03-26,France,Brazil,1,3,Friendly,France,-16,+16,1950,2058
+2015-03-27,England,Lithuania,4,0,European Championship qualifier,England,+3,-3,1927,1464
+2015-03-27,Liechtenstein,Austria,0,5,European Championship qualifier,Liechtenstein,-7,+7,1213,1722
+2015-03-27,Slovakia,Luxembourg,3,0,European Championship qualifier,Slovakia,+2,-2,1753,1224
+2015-03-27,Slovenia,San Marino,6,0,European Championship qualifier,Slovenia,+1,-1,1656,889
+2015-03-27,Spain,Ukraine,1,0,European Championship qualifier,Spain,+8,-8,1962,1816
+2015-03-27,Switzerland,Estonia,3,0,European Championship qualifier,Switzerland,+5,-5,1797,1455
+2015-03-28,Belgium,Cyprus,5,0,European Championship qualifier,Belgium,+3,-3,1901,1403
+2015-03-28,Bulgaria,Italy,2,2,European Championship qualifier,Bulgaria,+10,-10,1615,1875
+2015-03-28,Croatia,Norway,5,1,European Championship qualifier,Croatia,+11,-11,1836,1614
+2015-03-28,Czechia,Latvia,1,1,European Championship qualifier,Czechia,-17,+17,1788,1462
+2015-03-28,Netherlands,Turkey,1,1,European Championship qualifier,the Netherlands,-17,+17,2013,1702
+2015-03-29,Albania,Armenia,2,1,European Championship qualifier,Albania,+13,-13,1590,1537
+2015-03-29,France,Denmark,2,0,Friendly,France,+5,-5,1955,1759
+2015-03-29,Georgia,Germany,0,2,European Championship qualifier,Georgia,-2,+2,1470,2127
+2015-03-29,Hungary,Greece,0,0,European Championship qualifier,Hungary,-5,+5,1653,1677
+2015-03-29,Ireland,Poland,1,1,European Championship qualifier,Ireland,-6,+6,1726,1733
+2015-03-29,Portugal,Serbia,2,1,European Championship qualifier,Portugal,+7,-7,1918,1720
+2015-03-29,Romania,Faroe Islands,1,0,European Championship qualifier,Romania,+1,-1,1788,1225
+2015-03-29,Scotland,Gibraltar,6,1,European Championship qualifier,Scotland,+1,-1,1728,1131
+2015-03-30,Qatar,Slovenia,1,0,Friendly,Qatar,+11,-11,1548,1645
+2015-03-31,Austria,Bosnia and Herzegovina,1,1,Friendly,Austria,-3,+3,1719,1715
+2015-03-31,Israel,Belgium,0,1,European Championship qualifier,Israel,-11,+11,1623,1912
+2015-03-31,Italy,England,1,1,Friendly,Italy,-1,+1,1874,1928
+2015-03-31,Netherlands,Spain,2,0,Friendly,the Netherlands,+9,-9,2022,1953
+2015-03-31,Portugal,Cape Verde,0,2,Friendly,Portugal,-28,+28,1890,1538
+2015-03-31,Slovakia,Czechia,1,0,Friendly,Slovakia,+8,-8,1761,1780
+2015-03-31,Switzerland,United States,1,1,Friendly,Switzerland,-3,+3,1794,1810
+2015-03-31,Ukraine,Latvia,1,1,Friendly,Ukraine,-9,+9,1807,1471
+2015-06-05,Hungary,Lithuania,4,0,Friendly,Hungary,+6,-6,1659,1458
+2015-06-05,Netherlands,United States,3,4,Friendly,the Netherlands,-17,+17,2005,1842
+2015-06-05,Scotland,Qatar,1,0,Friendly,Scotland,+3,-3,1731,1544
+2015-06-07,Croatia,Gibraltar,4,0,Friendly,Croatia,0,0,1836,1131
+2015-06-07,France,Belgium,3,4,Friendly,France,-14,+14,1941,1926
+2015-06-07,Ireland,England,0,0,Friendly,Ireland,+3,-3,1722,1925
+2015-06-07,Serbia,Azerbaijan,4,1,Friendly,Austria,+5,-5,1725,1410
+2015-06-08,Denmark,Montenegro,2,1,Friendly,Denmark,+4,-4,1763,1594
+2015-06-09,Ukraine,Georgia,2,1,Friendly,Austria,+3,-3,1810,1467
+2015-06-10,Germany,United States,1,2,Friendly,Germany,-18,+18,2109,1860
+2015-06-10,Switzerland,Liechtenstein,3,0,Friendly,Switzerland,+1,-1,1795,1214
+2015-06-11,Spain,Costa Rica,2,1,Friendly,Spain,+5,-5,1958,1838
+2015-06-12,Croatia,Italy,1,1,European Championship qualifier,Croatia,-4,+4,1832,1878
+2015-06-12,Iceland,Czechia,2,1,European Championship qualifier,Iceland,+20,-20,1696,1760
+2015-06-12,Latvia,Netherlands,0,2,European Championship qualifier,Latvia,-5,+5,1466,2010
+2015-06-12,Wales,Belgium,1,0,European Championship qualifier,Wales,+28,-28,1699,1898
+2015-06-13,Albania,France,1,0,Friendly,Albania,+16,-16,1606,1925
+2015-06-13,Armenia,Portugal,2,3,European Championship qualifier,Armenia,-8,+8,1529,1898
+2015-06-13,Denmark,Serbia,2,0,European Championship qualifier,Denmark,+19,-19,1782,1706
+2015-06-13,Finland,Hungary,0,1,European Championship qualifier,Finland,-22,+22,1564,1681
+2015-06-13,Germany,Gibraltar,7,0,European Championship qualifier,Portugal,0,0,2109,1131
+2015-06-13,Ireland,Scotland,1,1,European Championship qualifier,Ireland,-5,+5,1717,1736
+2015-06-13,Northern Ireland,Romania,0,0,European Championship qualifier,Northern Ireland,+9,-9,1538,1779
+2015-06-13,Poland,Georgia,4,0,European Championship qualifier,Poland,+8,-8,1741,1459
+2015-06-14,Belarus,Spain,0,1,European Championship qualifier,Belarus,-6,+6,1559,1964
+2015-06-14,Lithuania,Switzerland,1,2,European Championship qualifier,Lithuania,-7,+7,1430,1802
+2015-06-14,Russia,Austria,0,1,European Championship qualifier,Russia,-28,+28,1742,1747
+2015-06-14,Slovakia,Macedonia,2,1,European Championship qualifier,Slovakia,+4,-4,1765,1461
+2015-06-14,Slovenia,England,2,3,European Championship qualifier,Slovenia,-10,+10,1635,1935
+2015-06-14,Ukraine,Luxembourg,3,0,European Championship qualifier,Ukraine,+1,-1,1811,1223
+2015-06-16,Poland,Greece,0,0,Friendly,Poland,-5,+5,1736,1647
+2015-06-16,Portugal,Italy,1,0,Friendly,Switzerland,+9,-9,1907,1869
+2015-09-03,Azerbaijan,Croatia,0,0,European Championship qualifier,Azerbaijan,+14,-14,1438,1818
+2015-09-03,Belgium,Bosnia and Herzegovina,3,1,European Championship qualifier,Belgium,+11,-11,1909,1719
+2015-09-03,Czechia,Kazakhstan,2,1,European Championship qualifier,Czechia,+2,-2,1762,1341
+2015-09-03,Italy,Malta,1,0,European Championship qualifier,Italy,+1,-1,1870,1237
+2015-09-03,Netherlands,Iceland,0,1,European Championship qualifier,the Netherlands,-37,+37,1973,1733
+2015-09-04,Denmark,Albania,0,0,European Championship qualifier,Denmark,-13,+13,1769,1619
+2015-09-04,Georgia,Scotland,1,0,European Championship qualifier,Georgia,+29,-29,1488,1707
+2015-09-04,Germany,Poland,3,1,European Championship qualifier,Germany,+4,-4,2113,1732
+2015-09-04,Hungary,Romania,0,0,European Championship qualifier,Hungary,0,0,1681,1779
+2015-09-04,Portugal,France,0,1,Friendly,Portugal,-12,+12,1895,1937
+2015-09-04,Serbia,Armenia,2,0,European Championship qualifier,Serbia,+10,-10,1716,1519
+2015-09-05,Austria,Moldova,1,0,European Championship qualifier,Austria,+3,-3,1750,1390
+2015-09-05,San Marino,England,0,6,European Championship qualifier,San Marino,0,0,886,1935
+2015-09-05,Spain,Slovakia,2,0,European Championship qualifier,Spain,+9,-9,1973,1756
+2015-09-05,Switzerland,Slovenia,3,2,European Championship qualifier,Switzerland,+7,-7,1809,1628
+2015-09-05,Ukraine,Belarus,3,1,European Championship qualifier,Ukraine,+7,-7,1818,1552
+2015-09-06,Cyprus,Belgium,0,1,European Championship qualifier,Cyprus,-3,+3,1398,1912
+2015-09-06,Italy,Bulgaria,1,0,European Championship qualifier,Italy,+4,-4,1874,1583
+2015-09-06,Latvia,Czechia,1,2,European Championship qualifier,Latvia,-10,+10,1471,1772
+2015-09-06,Norway,Croatia,2,0,European Championship qualifier,Norway,+38,-38,1666,1780
+2015-09-06,Turkey,Netherlands,3,0,European Championship qualifier,Turkey,+51,-51,1756,1922
+2015-09-07,Albania,Portugal,0,1,European Championship qualifier,Albania,-11,+11,1608,1906
+2015-09-07,Armenia,Denmark,0,0,European Championship qualifier,Armenia,+8,-8,1527,1761
+2015-09-07,France,Serbia,2,1,Friendly,France,+3,-3,1940,1713
+2015-09-07,Ireland,Georgia,1,0,European Championship qualifier,Ireland,+5,-5,1724,1483
+2015-09-07,Northern Ireland,Hungary,1,1,European Championship qualifier,Northern Ireland,+2,-2,1556,1679
+2015-09-07,Poland,Gibraltar,8,1,European Championship qualifier,Poland,+2,-2,1734,1127
+2015-09-07,Romania,Greece,0,0,European Championship qualifier,Romania,-13,+13,1766,1630
+2015-09-07,Scotland,Germany,2,3,European Championship qualifier,Scotland,-6,+6,1701,2119
+2015-09-08,England,Switzerland,2,0,European Championship qualifier,England,+13,-13,1948,1796
+2015-09-08,Macedonia,Spain,0,1,European Championship qualifier,Macedonia,-3,+3,1430,1976
+2015-09-08,Slovakia,Ukraine,0,0,European Championship qualifier,Slovakia,-2,+2,1754,1820
+2015-09-08,Slovenia,Estonia,1,0,European Championship qualifier,Slovenia,+8,-8,1636,1487
+2015-09-08,Sweden,Austria,1,4,European Championship qualifier,Sweden,-48,+48,1740,1798
+2015-10-08,Albania,Serbia,0,2,European Championship qualifier,Albania,-30,+30,1578,1743
+2015-10-08,France,Armenia,4,0,Friendly,France,+2,-2,1942,1525
+2015-10-08,Georgia,Gibraltar,4,0,European Championship qualifier,Georgia,+5,-5,1488,1122
+2015-10-08,Hungary,Faroe Islands,2,1,European Championship qualifier,Hungary,+2,-2,1681,1239
+2015-10-08,Ireland,Germany,1,0,European Championship qualifier,Ireland,+34,-34,1758,2085
+2015-10-08,Portugal,Denmark,1,0,European Championship qualifier,Portugal,+8,-8,1914,1753
+2015-10-08,Romania,Finland,1,1,European Championship qualifier,Romania,-13,+13,1753,1610
+2015-10-08,Scotland,Poland,2,2,European Championship qualifier,Scotland,-4,+4,1697,1738
+2015-10-09,England,Estonia,2,0,European Championship qualifier,England,+2,-2,1950,1485
+2015-10-09,Macedonia,Ukraine,0,2,European Championship qualifier,Macedonia,-10,+10,1420,1830
+2015-10-09,Montenegro,Austria,2,3,European Championship qualifier,Montenegro,-15,+15,1596,1813
+2015-10-09,Slovakia,Belarus,0,1,European Championship qualifier,Slovakia,-34,+34,1720,1591
+2015-10-09,Slovenia,Lithuania,1,1,European Championship qualifier,Slovenia,-14,+14,1622,1433
+2015-10-09,Spain,Luxembourg,4,0,European Championship qualifier,Spain,+1,-1,1977,1245
+2015-10-09,Switzerland,San Marino,7,0,European Championship qualifier,Switzerland,0,0,1796,885
+2015-10-10,Andorra,Belgium,1,4,European Championship qualifier,Andorra,-1,+1,961,1913
+2015-10-10,Azerbaijan,Italy,1,3,European Championship qualifier,Azerbaijan,-7,+7,1425,1881
+2015-10-10,Croatia,Bulgaria,3,0,European Championship qualifier,Croatia,+11,-11,1791,1572
+2015-10-10,Czechia,Turkey,0,2,European Championship qualifier,Czechia,-40,+40,1732,1796
+2015-10-10,Kazakhstan,Netherlands,1,2,European Championship qualifier,Kazakhstan,-3,+3,1356,1925
+2015-10-11,Armenia,Albania,0,3,European Championship qualifier,Armenia,-40,+40,1485,1618
+2015-10-11,Denmark,France,1,2,Friendly,Denmark,-7,+7,1746,1949
+2015-10-11,Faroe Islands,Romania,0,3,European Championship qualifier,the Faroe Islands,-6,+6,1233,1759
+2015-10-11,Germany,Georgia,2,1,European Championship qualifier,Germany,+1,-1,2086,1487
+2015-10-11,Greece,Hungary,4,3,European Championship qualifier,Greece,+19,-19,1621,1662
+2015-10-11,Poland,Ireland,2,1,European Championship qualifier,Poland,+15,-15,1753,1743
+2015-10-11,Scotland,Gibraltar,6,0,European Championship qualifier,Portugal,+3,-3,1700,1119
+2015-10-11,Serbia,Portugal,1,2,European Championship qualifier,Serbia,-16,+16,1727,1930
+2015-10-12,Austria,Liechtenstein,3,0,European Championship qualifier,Austria,+1,-1,1814,1203
+2015-10-12,Estonia,Switzerland,0,1,European Championship qualifier,Estonia,-9,+9,1476,1805
+2015-10-12,Lithuania,England,0,3,European Championship qualifier,Lithuania,-6,+6,1427,1956
+2015-10-12,Luxembourg,Slovakia,2,4,European Championship qualifier,Luxembourg,-6,+6,1239,1726
+2015-10-12,San Marino,Slovenia,0,2,European Championship qualifier,San Marino,-1,+1,884,1623
+2015-10-12,Ukraine,Spain,0,1,European Championship qualifier,Ukraine,-17,+17,1813,1994
+2015-10-13,Belgium,Israel,3,1,European Championship qualifier,Belgium,+5,-5,1918,1579
+2015-10-13,Italy,Norway,2,1,European Championship qualifier,Italy,+6,-6,1887,1663
+2015-10-13,Malta,Croatia,0,1,European Championship qualifier,Malta,-3,+3,1237,1794
+2015-10-13,Netherlands,Czechia,2,3,European Championship qualifier,the Netherlands,-34,+34,1891,1766
+2015-11-11,Estonia,Georgia,3,0,Friendly,Estonia,+13,-13,1489,1474
+2015-11-12,Norway,Hungary,0,1,European Championship qualifier,Norway,-26,+26,1637,1688
+2015-11-13,Belgium,Italy,3,1,Friendly,Belgium,+10,-10,1928,1877
+2015-11-13,Czechia,Serbia,4,1,Friendly,Czechia,+11,-11,1777,1716
+2015-11-13,France,Germany,2,0,Friendly,France,+17,-17,1966,2069
+2015-11-13,Kosovo,Albania,2,2,Friendly,Kosovo,+4,-4,1391,1614
+2015-11-13,Poland,Iceland,4,2,Friendly,Poland,+8,-8,1761,1682
+2015-11-13,Slovakia,Switzerland,3,2,Friendly,Slovakia,+9,-9,1735,1796
+2015-11-13,Spain,England,2,0,Friendly,Spain,+9,-9,2003,1947
+2015-11-13,Wales,Netherlands,2,3,Friendly,Wales,-7,+7,1673,1898
+2015-11-14,Russia,Portugal,1,0,Friendly,Russia,+11,-11,1793,1919
+2015-11-14,Sweden,Denmark,2,1,European Championship qualifier,Sweden,+14,-14,1763,1732
+2015-11-14,Ukraine,Slovenia,2,0,European Championship qualifier,Ukraine,+10,-10,1823,1613
+2015-11-15,Hungary,Norway,2,1,European Championship qualifier,Hungary,+12,-12,1700,1625
+2015-11-16,Albania,Georgia,2,2,Friendly,Albania,-6,+6,1608,1480
+2015-11-17,Austria,Switzerland,1,2,Friendly,Austria,-13,+13,1801,1809
+2015-11-17,Denmark,Sweden,2,2,European Championship qualifier,Denmark,-4,+4,1728,1767
+2015-11-17,England,France,2,0,Friendly,England,+12,-12,1959,1954
+2015-11-17,Italy,Romania,2,2,Friendly,Italy,-6,+6,1871,1765
+2015-11-17,Luxembourg,Portugal,0,2,Friendly,Luxembourg,-1,+1,1255,1920
+2015-11-17,Poland,Czechia,3,1,Friendly,Poland,+11,-11,1772,1766
+2015-11-17,Russia,Croatia,1,3,Friendly,Russia,-19,+19,1774,1813
+2015-11-17,Slovakia,Iceland,3,1,Friendly,Slovakia,+9,-9,1744,1673
+2015-11-17,Slovenia,Ukraine,1,1,European Championship qualifier,Slovenia,+6,-6,1619,1817

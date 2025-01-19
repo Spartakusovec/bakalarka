@@ -1,0 +1,277 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2021-01-25,Dominican Republic,Serbia,0,0,Friendly,the Dominican Republic,+9,-9,1174,1779
+2021-01-28,Panama,Serbia,0,0,Friendly,Panama,+4,-4,1539,1775
+2021-03-24,Turkey,Netherlands,4,2,World Cup qualifier,Turkey,+42,-42,1795,1953
+2021-03-24,Slovenia,Croatia,1,0,World Cup qualifier,Slovenia,+27,-27,1654,1833
+2021-03-24,Serbia,Ireland,3,2,World Cup qualifier,Serbia,+9,-9,1784,1649
+2021-03-24,Portugal,Azerbaijan,1,0,World Cup qualifier,Italy,+1,-1,2039,1383
+2021-03-24,France,Ukraine,1,1,World Cup qualifier,France,-16,+16,2076,1849
+2021-03-24,Czechia,Estonia,6,2,World Cup qualifier,Poland,+8,-8,1769,1375
+2021-03-24,Cyprus,Slovakia,0,0,World Cup qualifier,Cyprus,+12,-12,1338,1652
+2021-03-24,Belgium,Wales,3,1,World Cup qualifier,Belgium,+6,-6,2117,1823
+2021-03-25,Sweden,Georgia,1,0,World Cup qualifier,Sweden,+3,-3,1824,1504
+2021-03-25,Spain,Greece,1,1,World Cup qualifier,Spain,-18,+18,2033,1645
+2021-03-25,Scotland,Austria,2,2,World Cup qualifier,Scotland,+1,-1,1661,1785
+2021-03-25,Romania,North Macedonia,3,2,World Cup qualifier,Romania,+10,-10,1676,1559
+2021-03-25,Italy,Northern Ireland,2,0,World Cup qualifier,Italy,+3,-3,2001,1584
+2021-03-25,Israel,Denmark,0,2,World Cup qualifier,Israel,-12,+12,1580,1939
+2021-03-25,Hungary,Poland,3,3,World Cup qualifier,Hungary,-2,+2,1743,1815
+2021-03-25,Germany,Iceland,3,0,World Cup qualifier,Germany,+6,-6,1962,1626
+2021-03-25,England,San Marino,5,0,World Cup qualifier,England,0,0,1962,831
+2021-03-25,Bulgaria,Switzerland,1,3,World Cup qualifier,Bulgaria,-11,+11,1494,1882
+2021-03-25,Andorra,Albania,0,1,World Cup qualifier,Andorra,-3,+3,1032,1559
+2021-03-27,Slovakia,Malta,2,2,World Cup qualifier,Slovakia,-18,+18,1634,1228
+2021-03-27,Serbia,Portugal,2,2,World Cup qualifier,Serbia,+8,-8,1792,2031
+2021-03-27,Russia,Slovenia,2,1,World Cup qualifier,Russia,+10,-10,1758,1644
+2021-03-27,Netherlands,Latvia,2,0,World Cup qualifier,the Netherlands,+1,-1,1954,1249
+2021-03-27,Czechia,Belgium,1,1,World Cup qualifier,Czechia,+12,-12,1781,2105
+2021-03-27,Croatia,Cyprus,1,0,World Cup qualifier,Croatia,+1,-1,1834,1337
+2021-03-28,Ukraine,Finland,1,1,World Cup qualifier,Ukraine,-12,+12,1837,1711
+2021-03-28,Switzerland,Lithuania,1,0,World Cup qualifier,Switzerland,+1,-1,1883,1361
+2021-03-28,San Marino,Hungary,0,3,World Cup qualifier,San Marino,-1,+1,830,1744
+2021-03-28,Romania,Germany,0,1,World Cup qualifier,Romania,-10,+10,1666,1972
+2021-03-28,Poland,Andorra,3,0,World Cup qualifier,Poland,0,0,1815,1032
+2021-03-28,Kazakhstan,France,0,2,World Cup qualifier,Kazakhstan,-1,+1,1333,2077
+2021-03-28,Israel,Scotland,1,1,World Cup qualifier,Israel,-1,+1,1579,1662
+2021-03-28,Georgia,Spain,1,2,World Cup qualifier,Georgia,-3,+3,1501,2036
+2021-03-28,Denmark,Moldova,8,0,World Cup qualifier,Denmark,+1,-1,1940,1222
+2021-03-28,Bulgaria,Italy,0,2,World Cup qualifier,Bulgaria,-5,+5,1489,2006
+2021-03-28,Austria,Faroe Islands,3,1,World Cup qualifier,Austria,+2,-2,1787,1265
+2021-03-28,Albania,England,0,2,World Cup qualifier,Albania,-9,+9,1550,1971
+2021-03-30,Wales,Czechia,1,0,World Cup qualifier,Wales,+12,-12,1845,1769
+2021-03-30,Slovakia,Russia,2,1,World Cup qualifier,Slovakia,+21,-21,1655,1737
+2021-03-30,Luxembourg,Portugal,1,3,World Cup qualifier,Luxembourg,-3,+3,1393,2034
+2021-03-30,Gibraltar,Netherlands,0,7,World Cup qualifier,Gibraltar,-1,+1,1089,1955
+2021-03-30,Cyprus,Slovenia,1,0,World Cup qualifier,Cyprus,+31,-31,1368,1613
+2021-03-30,Croatia,Malta,3,0,World Cup qualifier,Croatia,+1,-1,1835,1227
+2021-03-30,Belgium,Belarus,8,0,World Cup qualifier,Belgium,+2,-2,2107,1508
+2021-03-30,Azerbaijan,Serbia,1,2,World Cup qualifier,Azerbaijan,-6,+6,1373,1798
+2021-03-31,Switzerland,Finland,3,2,Friendly,Switzerland,+3,-3,1886,1708
+2021-03-31,Ukraine,Kazakhstan,1,1,World Cup qualifier,Ukraine,-19,+19,1818,1352
+2021-03-31,Spain,Kosovo,3,1,World Cup qualifier,Spain,+1,-1,2037,1484
+2021-03-31,Scotland,Faroe Islands,4,0,World Cup qualifier,Scotland,+4,-4,1666,1261
+2021-03-31,San Marino,Albania,0,2,World Cup qualifier,San Marino,-2,+2,828,1552
+2021-03-31,Lithuania,Italy,0,2,World Cup qualifier,Lithuania,-2,+2,1359,2008
+2021-03-31,Greece,Georgia,1,1,World Cup qualifier,Greece,-12,+12,1639,1513
+2021-03-31,Germany,North Macedonia,1,2,World Cup qualifier,Germany,-38,+38,1934,1600
+2021-03-31,England,Poland,2,1,World Cup qualifier,England,+7,-7,1978,1808
+2021-03-31,Bosnia and Herzegovina,France,0,1,World Cup qualifier,Bosnia and Herzegovina,-5,+5,1635,2082
+2021-03-31,Austria,Denmark,0,4,World Cup qualifier,Austria,-32,+32,1755,1972
+2021-03-31,Armenia,Romania,3,2,World Cup qualifier,Armenia,+20,-20,1579,1646
+2021-03-31,Andorra,Hungary,1,4,World Cup qualifier,Andorra,-2,+2,1030,1746
+2021-05-23,Ukraine,Bahrain,1,1,Friendly,Ukraine,-8,+8,1810,1563
+2021-05-28,Italy,San Marino,7,0,Friendly,Italy,0,0,2008,828
+2021-05-30,Switzerland,United States,2,1,Friendly,Switzerland,+4,-4,1890,1762
+2021-06-01,Poland,Russia,1,1,Friendly,Poland,-5,+5,1803,1742
+2021-06-01,North Macedonia,Slovenia,1,1,Friendly,North Macedonia,-2,+2,1598,1615
+2021-06-01,Croatia,Armenia,1,1,Friendly,Croatia,-8,+8,1827,1587
+2021-06-01,Bulgaria,Slovakia,1,1,Friendly,Austria,+4,-4,1503,1651
+2021-06-02,Romania,Georgia,1,2,Friendly,Romania,-16,+16,1630,1529
+2021-06-02,Netherlands,Scotland,2,2,Friendly,Portugal,-7,+7,1948,1673
+2021-06-02,France,Wales,3,0,Friendly,France,+4,-4,2086,1841
+2021-06-02,England,Austria,1,0,Friendly,England,+3,-3,1981,1752
+2021-06-02,Denmark,Germany,1,1,Friendly,Austria,-1,+1,1971,1935
+2021-06-03,Ukraine,Northern Ireland,1,0,Friendly,Ukraine,+2,-2,1812,1568
+2021-06-03,Switzerland,Liechtenstein,7,0,Friendly,Switzerland,0,0,1890,1100
+2021-06-03,Belgium,Greece,1,1,Friendly,Belgium,-9,+9,2098,1648
+2021-06-04,Spain,Portugal,0,0,Friendly,Spain,-3,+3,2034,2037
+2021-06-04,Slovenia,Gibraltar,6,0,Friendly,Slovenia,+1,-1,1616,1088
+2021-06-04,Italy,Czechia,4,0,Friendly,Italy,+5,-5,2013,1764
+2021-06-04,Hungary,Cyprus,1,0,Friendly,Hungary,+1,-1,1747,1367
+2021-06-05,Wales,Albania,0,0,Friendly,Wales,-8,+8,1833,1560
+2021-06-06,Netherlands,Georgia,3,0,Friendly,the Netherlands,+2,-2,1950,1527
+2021-06-06,Luxembourg,Scotland,0,1,Friendly,Luxembourg,-5,+5,1386,1678
+2021-06-06,England,Romania,1,0,Friendly,England,+1,-1,1982,1629
+2021-06-06,Denmark,Bosnia and Herzegovina,2,0,Friendly,Denmark,+2,-2,1973,1628
+2021-06-06,Belgium,Croatia,1,0,Friendly,Belgium,+2,-2,2100,1825
+2021-06-06,Austria,Slovakia,0,0,Friendly,Austria,-5,+5,1747,1656
+2021-06-07,Ukraine,Cyprus,4,0,Friendly,Ukraine,+2,-2,1814,1365
+2021-06-07,Jamaica,Serbia,1,1,Friendly,Japan,+6,-6,1580,1792
+2021-06-07,Germany,Latvia,7,1,Friendly,Germany,+1,-1,1936,1288
+2021-06-08,Spain,Lithuania,4,0,Friendly,Spain,0,0,2034,1319
+2021-06-08,Poland,Iceland,2,2,Friendly,Poland,-7,+7,1796,1611
+2021-06-08,Hungary,Ireland,0,0,Friendly,Hungary,-6,+6,1741,1622
+2021-06-08,France,Bulgaria,3,0,Friendly,France,+1,-1,2087,1500
+2021-06-08,Czechia,Albania,3,1,Friendly,Czechia,+4,-4,1768,1556
+2021-06-09,Portugal,Israel,4,0,Friendly,Portugal,+2,-2,2039,1607
+2021-06-11,Japan,Serbia,1,0,Friendly,Japan,+8,-8,1769,1784
+2021-06-11,Italy,Turkey,3,0,European Championship,Italy,+12,-12,2025,1789
+2021-06-12,Switzerland,Wales,1,1,European Championship,Azerbaijan,-4,+4,1886,1837
+2021-06-12,Russia,Belgium,0,3,European Championship,Russia,-16,+16,1728,2116
+2021-06-12,Denmark,Finland,0,1,European Championship,Denmark,-45,+45,1928,1729
+2021-06-13,Netherlands,Ukraine,3,2,European Championship,the Netherlands,+10,-10,1960,1804
+2021-06-13,England,Croatia,1,0,European Championship,England,+9,-9,1991,1816
+2021-06-13,Austria,North Macedonia,3,1,European Championship,Romania,+23,-23,1770,1580
+2021-06-14,Spain,Sweden,0,0,European Championship,Spain,-17,+17,2017,1866
+2021-06-14,Slovakia,Poland,2,1,European Championship,Russia,+35,-35,1691,1761
+2021-06-14,Scotland,Czechia,0,2,European Championship,Scotland,-39,+39,1639,1807
+2021-06-15,Hungary,Portugal,0,3,European Championship,Hungary,-21,+21,1720,2060
+2021-06-15,Germany,France,0,1,European Championship,Germany,-21,+21,1915,2108
+2021-06-16,Italy,Switzerland,3,0,European Championship,Italy,+18,-18,2043,1868
+2021-06-17,Ukraine,North Macedonia,2,1,European Championship,Romania,+11,-11,1815,1569
+2021-06-17,Netherlands,Austria,2,0,European Championship,the Netherlands,+12,-12,1972,1758
+2021-06-17,Denmark,Belgium,1,2,European Championship,Denmark,-19,+19,1909,2135
+2021-06-18,Sweden,Slovakia,1,0,European Championship,Russia,+13,-13,1879,1678
+2021-06-18,England,Scotland,0,0,European Championship,England,-22,+22,1969,1661
+2021-06-18,Croatia,Czechia,1,1,European Championship,Scotland,-1,+1,1815,1808
+2021-06-19,Spain,Poland,1,1,European Championship,Spain,-19,+19,1998,1780
+2021-06-19,Hungary,France,1,1,European Championship,Hungary,+17,-17,1737,2091
+2021-06-19,Germany,Portugal,4,2,European Championship,Germany,+42,-42,1957,2018
+2021-06-20,Switzerland,Turkey,3,1,European Championship,Azerbaijan,+26,-26,1894,1731
+2021-06-20,Italy,Wales,1,0,European Championship,Italy,+9,-9,2052,1860
+2021-06-21,Netherlands,North Macedonia,3,0,European Championship,the Netherlands,+5,-5,1977,1564
+2021-06-21,Denmark,Russia,4,1,European Championship,Denmark,+16,-16,1925,1730
+2021-06-21,Belgium,Finland,2,0,European Championship,Russia,+6,-6,2141,1705
+2021-06-21,Austria,Ukraine,1,0,European Championship,Romania,+29,-29,1787,1786
+2021-06-22,Scotland,Croatia,1,3,European Championship,Scotland,-32,+32,1629,1847
+2021-06-22,England,Czechia,1,0,European Championship,England,+9,-9,1978,1799
+2021-06-23,Sweden,Poland,3,2,European Championship,Russia,+18,-18,1897,1762
+2021-06-23,Spain,Slovakia,5,0,European Championship,Spain,+8,-8,2006,1670
+2021-06-23,Germany,Hungary,2,2,European Championship,Germany,-18,+18,1939,1755
+2021-06-23,France,Portugal,2,2,European Championship,Hungary,-5,+5,2086,2023
+2021-06-26,Italy,Austria,2,1,European Championship,England,+9,-9,2061,1778
+2021-06-26,Denmark,Wales,4,0,European Championship,the Netherlands,+38,-38,1963,1822
+2021-06-27,Czechia,Netherlands,2,0,European Championship,Hungary,+55,-55,1854,1922
+2021-06-27,Belgium,Portugal,1,0,European Championship,Spain,+17,-17,2158,2006
+2021-06-28,Spain,Croatia,5,3,European Championship,Denmark,+21,-21,2027,1826
+2021-06-28,France,Switzerland,3,3,European Championship,Romania,-13,+13,2073,1907
+2021-06-29,Ukraine,Sweden,2,1,European Championship,Scotland,+33,-33,1819,1864
+2021-06-29,England,Germany,2,0,European Championship,England,+23,-23,2001,1916
+2021-07-02,Spain,Switzerland,1,1,European Championship,Russia,-8,+8,2019,1915
+2021-07-02,Italy,Belgium,2,1,European Championship,Germany,+32,-32,2093,2126
+2021-07-03,England,Ukraine,4,0,European Championship,Italy,+24,-24,2025,1795
+2021-07-03,Denmark,Czechia,2,1,European Championship,Azerbaijan,+17,-17,1980,1837
+2021-07-06,Italy,Spain,1,1,European Championship,England,-5,+5,2088,2024
+2021-07-07,England,Denmark,2,1,European Championship,England,+15,-15,2040,1965
+2021-07-11,England,Italy,1,1,European Championship,England,-4,+4,2036,2092
+2021-09-01,Switzerland,Greece,2,1,Friendly,Switzerland,+2,-2,1917,1659
+2021-09-01,Serbia,Qatar,4,0,Friendly,Hungary,+14,-14,1798,1684
+2021-09-01,Slovenia,Slovakia,1,1,World Cup qualifier,Slovenia,-3,+3,1613,1673
+2021-09-01,Russia,Croatia,0,0,World Cup qualifier,Russia,0,0,1730,1826
+2021-09-01,Portugal,Ireland,2,1,World Cup qualifier,Portugal,+2,-2,2008,1620
+2021-09-01,Norway,Netherlands,1,1,World Cup qualifier,Norway,+5,-5,1742,1917
+2021-09-01,Moldova,Austria,0,2,World Cup qualifier,Moldova,-4,+4,1216,1782
+2021-09-01,Kazakhstan,Ukraine,2,2,World Cup qualifier,Kazakhstan,+15,-15,1362,1780
+2021-09-01,France,Bosnia and Herzegovina,1,1,World Cup qualifier,France,-18,+18,2055,1646
+2021-09-01,Denmark,Scotland,2,0,World Cup qualifier,Denmark,+5,-5,1970,1624
+2021-09-02,Sweden,Spain,2,1,World Cup qualifier,Sweden,+23,-23,1887,2001
+2021-09-02,Poland,Albania,4,1,World Cup qualifier,Poland,+10,-10,1772,1546
+2021-09-02,Italy,Bulgaria,1,1,World Cup qualifier,Italy,-19,+19,2073,1519
+2021-09-02,Iceland,Romania,0,2,World Cup qualifier,Iceland,-37,+37,1574,1666
+2021-09-02,Hungary,England,0,4,World Cup qualifier,Hungary,-20,+20,1735,2056
+2021-09-02,Germany,Liechtenstein,2,0,World Cup qualifier,Switzerland,+1,-1,1917,1092
+2021-09-02,Georgia,Kosovo,0,1,World Cup qualifier,Georgia,-28,+28,1499,1511
+2021-09-02,Estonia,Belgium,2,5,World Cup qualifier,Estonia,-2,+2,1403,2128
+2021-09-02,Czechia,Belarus,1,0,World Cup qualifier,Czechia,+3,-3,1840,1489
+2021-09-04,Portugal,Qatar,3,1,Friendly,Hungary,+4,-4,2012,1680
+2021-09-04,Ukraine,France,1,1,World Cup qualifier,Ukraine,+9,-9,1789,2046
+2021-09-04,Slovenia,Malta,1,0,World Cup qualifier,Slovenia,+3,-3,1616,1256
+2021-09-04,Slovakia,Croatia,0,1,World Cup qualifier,Slovakia,-17,+17,1656,1843
+2021-09-04,Serbia,Luxembourg,4,1,World Cup qualifier,Serbia,+4,-4,1802,1396
+2021-09-04,Scotland,Moldova,1,0,World Cup qualifier,Scotland,+2,-2,1626,1214
+2021-09-04,Netherlands,Montenegro,4,0,World Cup qualifier,the Netherlands,+4,-4,1921,1528
+2021-09-04,Israel,Austria,5,2,World Cup qualifier,Israel,+41,-41,1663,1741
+2021-09-04,Faroe Islands,Denmark,0,1,World Cup qualifier,the Faroe Islands,-1,+1,1248,1971
+2021-09-05,Switzerland,Italy,0,0,World Cup qualifier,Switzerland,+3,-3,1920,2070
+2021-09-05,Spain,Georgia,4,0,World Cup qualifier,Spain,+2,-2,2003,1497
+2021-09-05,San Marino,Poland,1,7,World Cup qualifier,San Marino,-1,+1,818,1773
+2021-09-05,Romania,Liechtenstein,2,0,World Cup qualifier,Romania,+1,-1,1667,1091
+2021-09-05,Germany,Armenia,6,0,World Cup qualifier,Germany,+7,-7,1924,1582
+2021-09-05,England,Andorra,4,0,World Cup qualifier,England,0,0,2056,1036
+2021-09-05,Belgium,Czechia,3,0,World Cup qualifier,Belgium,+7,-7,2135,1833
+2021-09-05,Albania,Hungary,1,0,World Cup qualifier,Albania,+25,-25,1571,1710
+2021-09-07,Azerbaijan,Portugal,0,3,World Cup qualifier,Azerbaijan,-3,+3,1374,2015
+2021-09-07,Slovakia,Cyprus,2,0,World Cup qualifier,Slovakia,+4,-4,1660,1312
+2021-09-07,Netherlands,Turkey,6,1,World Cup qualifier,the Netherlands,+12,-12,1933,1708
+2021-09-07,Ireland,Serbia,1,1,World Cup qualifier,Ireland,+5,-5,1610,1797
+2021-09-07,France,Finland,2,0,World Cup qualifier,France,+4,-4,2050,1704
+2021-09-07,Denmark,Israel,5,0,World Cup qualifier,Denmark,+7,-7,1978,1656
+2021-09-07,Croatia,Slovenia,3,0,World Cup qualifier,Croatia,+9,-9,1852,1607
+2021-09-07,Austria,Scotland,0,1,World Cup qualifier,Austria,-31,+31,1710,1657
+2021-09-08,Czechia,Ukraine,1,1,Friendly,Czechia,-4,+4,1829,1793
+2021-09-08,Bulgaria,Georgia,4,1,Friendly,Bulgaria,+11,-11,1535,1486
+2021-09-08,Poland,England,1,1,World Cup qualifier,Poland,+10,-10,1783,2046
+2021-09-08,Northern Ireland,Switzerland,0,0,World Cup qualifier,Northern Ireland,+11,-11,1608,1909
+2021-09-08,North Macedonia,Romania,0,0,World Cup qualifier,North Macedonia,0,0,1565,1667
+2021-09-08,Kosovo,Spain,0,2,World Cup qualifier,Kosovo,-6,+6,1508,2009
+2021-09-08,Italy,Lithuania,5,0,World Cup qualifier,Italy,+1,-1,2071,1292
+2021-09-08,Iceland,Germany,0,4,World Cup qualifier,Iceland,-14,+14,1554,1938
+2021-09-08,Hungary,Andorra,2,1,World Cup qualifier,Hungary,0,0,1710,1036
+2021-09-08,Belarus,Belgium,0,1,World Cup qualifier,Russia,-1,+1,1483,2136
+2021-09-08,Albania,San Marino,5,0,World Cup qualifier,Albania,+1,-1,1572,817
+2021-10-06,Italy,Spain,1,2,European Nations League,Italy,-36,+36,2035,2045
+2021-10-07,France,Belgium,3,2,European Nations League,Italy,+31,-31,2081,2105
+2021-10-08,Russia,Slovakia,1,0,World Cup qualifier,Russia,+10,-10,1751,1650
+2021-10-08,Malta,Slovenia,0,4,World Cup qualifier,Malta,-14,+14,1240,1621
+2021-10-08,Latvia,Netherlands,0,1,World Cup qualifier,Latvia,-2,+2,1296,1935
+2021-10-08,Germany,Romania,2,1,World Cup qualifier,Germany,+4,-4,1942,1663
+2021-10-08,Czechia,Wales,2,2,World Cup qualifier,Czechia,-7,+7,1822,1816
+2021-10-08,Cyprus,Croatia,0,3,World Cup qualifier,Cyprus,-5,+5,1307,1857
+2021-10-09,Portugal,Qatar,3,0,Friendly,Portugal,+3,-3,2018,1672
+2021-10-09,Switzerland,Northern Ireland,2,0,World Cup qualifier,Switzerland,+5,-5,1914,1603
+2021-10-09,Scotland,Israel,3,2,World Cup qualifier,Scotland,+14,-14,1671,1642
+2021-10-09,Poland,San Marino,5,0,World Cup qualifier,Poland,0,0,1783,817
+2021-10-09,Moldova,Denmark,0,4,World Cup qualifier,Moldova,-1,+1,1200,1979
+2021-10-09,Luxembourg,Serbia,0,1,World Cup qualifier,Luxembourg,-6,+6,1395,1803
+2021-10-09,Hungary,Albania,0,1,World Cup qualifier,Hungary,-32,+32,1678,1604
+2021-10-09,Georgia,Greece,0,2,World Cup qualifier,Georgia,-22,+22,1464,1705
+2021-10-09,Finland,Ukraine,1,2,World Cup qualifier,Finland,-21,+21,1683,1814
+2021-10-09,Faroe Islands,Austria,0,2,World Cup qualifier,the Faroe Islands,-7,+7,1254,1717
+2021-10-09,Andorra,England,0,5,World Cup qualifier,Andorra,0,0,1036,2046
+2021-10-10,Italy,Belgium,2,1,European Nations League,Italy,+23,-23,2058,2082
+2021-10-10,France,Spain,2,1,European Nations League,Italy,+22,-22,2103,2023
+2021-10-11,Slovenia,Russia,1,2,World Cup qualifier,Slovenia,-18,+18,1603,1769
+2021-10-11,Romania,Armenia,1,0,World Cup qualifier,Romania,+10,-10,1673,1558
+2021-10-11,North Macedonia,Germany,0,4,World Cup qualifier,North Macedonia,-13,+13,1561,1955
+2021-10-11,Netherlands,Gibraltar,6,0,World Cup qualifier,the Netherlands,0,0,1935,1067
+2021-10-11,Czechia,Belarus,2,0,World Cup qualifier,Russia,+7,-7,1829,1449
+2021-10-11,Croatia,Slovakia,2,2,World Cup qualifier,Croatia,-14,+14,1843,1664
+2021-10-12,Ukraine,Bosnia and Herzegovina,1,1,World Cup qualifier,Ukraine,-13,+13,1801,1662
+2021-10-12,Serbia,Azerbaijan,3,1,World Cup qualifier,Serbia,+2,-2,1805,1350
+2021-10-12,Portugal,Luxembourg,5,0,World Cup qualifier,Portugal,+1,-1,2019,1394
+2021-10-12,Lithuania,Switzerland,0,4,World Cup qualifier,Lithuania,-4,+4,1330,1918
+2021-10-12,Kosovo,Georgia,1,2,World Cup qualifier,Kosovo,-28,+28,1475,1492
+2021-10-12,Faroe Islands,Scotland,0,1,World Cup qualifier,the Faroe Islands,-6,+6,1248,1677
+2021-10-12,England,Hungary,1,1,World Cup qualifier,England,-17,+17,2029,1695
+2021-10-12,Denmark,Austria,1,0,World Cup qualifier,Denmark,+4,-4,1983,1713
+2021-10-12,Albania,Poland,0,1,World Cup qualifier,Albania,-16,+16,1588,1799
+2021-11-11,Ukraine,Bulgaria,1,1,Friendly,Ukraine,-8,+8,1793,1522
+2021-11-11,Serbia,Qatar,4,0,Friendly,Serbia,+7,-7,1812,1649
+2021-11-11,Czechia,Kuwait,7,0,Friendly,Czechia,+2,-2,1831,1369
+2021-11-11,Slovakia,Slovenia,2,2,World Cup qualifier,Slovakia,-9,+9,1655,1612
+2021-11-11,Romania,Iceland,0,0,World Cup qualifier,Romania,-11,+11,1662,1563
+2021-11-11,Malta,Croatia,1,7,World Cup qualifier,Malta,-5,+5,1244,1848
+2021-11-11,Ireland,Portugal,0,0,World Cup qualifier,Ireland,+13,-13,1661,2006
+2021-11-11,Greece,Spain,0,1,World Cup qualifier,Greece,-8,+8,1686,2031
+2021-11-11,Germany,Liechtenstein,9,0,World Cup qualifier,Germany,0,0,1955,1098
+2021-11-11,Georgia,Sweden,2,0,World Cup qualifier,Georgia,+50,-50,1542,1827
+2021-11-12,Moldova,Scotland,0,2,World Cup qualifier,Moldova,-6,+6,1192,1683
+2021-11-12,Italy,Switzerland,1,1,World Cup qualifier,Italy,-12,+12,2046,1930
+2021-11-12,Hungary,San Marino,4,0,World Cup qualifier,Hungary,0,0,1695,794
+2021-11-12,England,Albania,5,0,World Cup qualifier,England,+3,-3,2032,1585
+2021-11-12,Denmark,Faroe Islands,3,1,World Cup qualifier,Denmark,0,0,1983,1248
+2021-11-12,Austria,Israel,4,2,World Cup qualifier,Austria,+16,-16,1729,1628
+2021-11-12,Andorra,Poland,1,4,World Cup qualifier,Andorra,-2,+2,1057,1801
+2021-11-13,Montenegro,Netherlands,2,2,World Cup qualifier,Montenegro,+15,-15,1529,1920
+2021-11-13,France,Kazakhstan,8,0,World Cup qualifier,France,+1,-1,2104,1344
+2021-11-13,Belgium,Estonia,3,1,World Cup qualifier,Belgium,+1,-1,2083,1432
+2021-11-14,Spain,Sweden,1,0,World Cup qualifier,Spain,+6,-6,2037,1821
+2021-11-14,Slovenia,Cyprus,2,1,World Cup qualifier,Slovenia,+3,-3,1615,1292
+2021-11-14,Portugal,Serbia,1,2,World Cup qualifier,Portugal,-34,+34,1972,1846
+2021-11-14,Malta,Slovakia,0,6,World Cup qualifier,Malta,-12,+12,1232,1667
+2021-11-14,Liechtenstein,Romania,0,2,World Cup qualifier,Liechtenstein,-4,+4,1094,1666
+2021-11-14,Croatia,Russia,1,0,World Cup qualifier,Croatia,+11,-11,1859,1761
+2021-11-14,Armenia,Germany,1,4,World Cup qualifier,Armenia,-8,+8,1499,1963
+2021-11-15,Georgia,Uzbekistan,1,0,Friendly,Georgia,+7,-7,1549,1522
+2021-11-15,Switzerland,Bulgaria,4,0,World Cup qualifier,Switzerland,+4,-4,1934,1518
+2021-11-15,Scotland,Denmark,2,0,World Cup qualifier,Scotland,+46,-46,1729,1937
+2021-11-15,San Marino,England,0,10,World Cup qualifier,San Marino,0,0,794,2032
+2021-11-15,Poland,Hungary,1,2,World Cup qualifier,Poland,-31,+31,1770,1726
+2021-11-15,Northern Ireland,Italy,0,0,World Cup qualifier,Northern Ireland,+16,-16,1603,2030
+2021-11-15,Austria,Moldova,4,1,World Cup qualifier,Austria,+2,-2,1731,1190
+2021-11-15,Albania,Andorra,1,0,World Cup qualifier,Albania,+1,-1,1586,1056
+2021-11-16,Wales,Belgium,1,1,World Cup qualifier,Wales,+8,-8,1836,2075
+2021-11-16,Netherlands,Norway,2,0,World Cup qualifier,the Netherlands,+10,-10,1930,1732
+2021-11-16,Finland,France,0,2,World Cup qualifier,Finland,-10,+10,1722,2114
+2021-11-16,Czechia,Estonia,2,0,World Cup qualifier,Czechia,+3,-3,1834,1429
+2021-11-16,Bosnia and Herzegovina,Ukraine,0,2,World Cup qualifier,Bosnia and Herzegovina,-24,+24,1602,1817

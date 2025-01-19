@@ -1,0 +1,190 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2017-01-11,Chile,Croatia,1,1,Friendly tournament,China,-4,+4,1978,1890
+2017-01-14,China,Croatia,1,1,Friendly tournament,China,+10,-10,1519,1880
+2017-01-23,Georgia,Uzbekistan,2,2,Friendly,the United Arab Emirates,+5,-5,1478,1661
+2017-01-25,Jordan,Georgia,1,0,Friendly,the United Arab Emirates,+9,-9,1512,1469
+2017-01-29,United States,Serbia,0,0,Friendly,the United States,-3,+3,1732,1729
+2017-03-22,Czechia,Lithuania,3,0,Friendly,Czechia,+4,-4,1702,1460
+2017-03-22,Germany,England,1,0,Friendly,Germany,+5,-5,2043,1924
+2017-03-22,Scotland,Canada,1,1,Friendly,Scotland,-6,+6,1665,1531
+2017-03-24,Austria,Moldova,2,0,World Cup qualifier,Austria,+5,-5,1690,1345
+2017-03-24,Croatia,Ukraine,1,0,World Cup qualifier,Croatia,+9,-9,1889,1760
+2017-03-24,Georgia,Serbia,1,3,World Cup qualifier,Georgia,-17,+17,1452,1746
+2017-03-24,Italy,Albania,2,0,World Cup qualifier,Italy,+4,-4,1947,1576
+2017-03-24,Spain,Israel,4,1,World Cup qualifier,Spain,+5,-5,1984,1622
+2017-03-25,Belgium,Greece,1,1,World Cup qualifier,Belgium,-15,+15,1890,1668
+2017-03-25,Bulgaria,Netherlands,2,0,World Cup qualifier,Bulgaria,+46,-46,1632,1843
+2017-03-25,Luxembourg,France,1,3,World Cup qualifier,Luxembourg,-1,+1,1243,2010
+2017-03-25,Portugal,Hungary,3,0,World Cup qualifier,Portugal,+9,-9,1940,1682
+2017-03-25,Switzerland,Latvia,1,0,World Cup qualifier,Switzerland,+2,-2,1859,1413
+2017-03-26,Azerbaijan,Germany,1,4,World Cup qualifier,Azerbaijan,-4,+4,1436,2047
+2017-03-26,England,Lithuania,2,0,World Cup qualifier,England,+2,-2,1926,1458
+2017-03-26,Malta,Slovakia,1,3,World Cup qualifier,Malta,-4,+4,1211,1757
+2017-03-26,Montenegro,Poland,1,2,World Cup qualifier,Montenegro,-12,+12,1583,1863
+2017-03-26,Romania,Denmark,0,0,World Cup qualifier,Romania,-4,+4,1678,1719
+2017-03-26,San Marino,Czechia,0,6,World Cup qualifier,San Marino,-1,+1,859,1703
+2017-03-26,Scotland,Slovenia,1,0,World Cup qualifier,Scotland,+14,-14,1679,1639
+2017-03-28,Albania,Bosnia and Herzegovina,1,2,Friendly,Albania,-8,+8,1568,1764
+2017-03-28,Austria,Finland,1,1,Friendly,Austria,-6,+6,1684,1550
+2017-03-28,Estonia,Croatia,3,0,Friendly,Estonia,+31,-31,1473,1858
+2017-03-28,France,Spain,0,2,Friendly,France,-20,+20,1990,2004
+2017-03-28,Georgia,Latvia,5,0,Friendly,Georgia,+12,-12,1464,1401
+2017-03-28,Netherlands,Italy,1,2,Friendly,the Netherlands,-10,+10,1833,1957
+2017-03-28,Portugal,Sweden,2,3,Friendly,Portugal,-17,+17,1923,1787
+2017-03-28,Russia,Belgium,3,3,Friendly,Russia,+3,-3,1674,1887
+2017-05-27,Croatia,Mexico,2,1,Friendly,the United States,+12,-12,1870,1921
+2017-05-31,Italy,San Marino,8,0,Friendly,Italy,0,0,1957,859
+2017-05-31,Morocco,Netherlands,1,2,Friendly,Morocco,-7,+7,1613,1840
+2017-06-01,Switzerland,Belarus,1,0,Friendly,Switzerland,+2,-2,1861,1553
+2017-06-02,France,Paraguay,5,0,Friendly,France,+4,-4,1994,1717
+2017-06-03,Portugal,Cyprus,4,0,Friendly,Portugal,+1,-1,1924,1412
+2017-06-04,Luxembourg,Albania,2,1,Friendly,Luxembourg,+16,-16,1248,1552
+2017-06-04,Netherlands,Ivory Coast,5,0,Friendly,the Netherlands,+8,-8,1848,1689
+2017-06-05,Belgium,Czechia,2,1,Friendly,Belgium,+3,-3,1890,1700
+2017-06-05,Hungary,Russia,0,3,Friendly,Hungary,-23,+23,1659,1697
+2017-06-06,Denmark,Germany,1,1,Friendly,Denmark,+6,-6,1725,2041
+2017-06-06,Ukraine,Malta,0,1,Friendly,Austria,-19,+19,1741,1230
+2017-06-07,Georgia,Saint Kitts and Nevis,3,0,Friendly,Georgia,+5,-5,1469,1258
+2017-06-07,Italy,Uruguay,3,0,Friendly,France,+13,-13,1970,1842
+2017-06-07,Spain,Colombia,2,2,Friendly,Spain,-4,+4,2000,1964
+2017-06-09,Andorra,Hungary,1,0,World Cup qualifier,Andorra,+39,-39,1023,1620
+2017-06-09,Estonia,Belgium,0,2,World Cup qualifier,Estonia,-8,+8,1465,1898
+2017-06-09,Faroe Islands,Switzerland,0,2,World Cup qualifier,the Faroe Islands,-4,+4,1281,1865
+2017-06-09,Latvia,Portugal,0,3,World Cup qualifier,Latvia,-6,+6,1395,1930
+2017-06-09,Netherlands,Luxembourg,5,0,World Cup qualifier,the Netherlands,+1,-1,1849,1247
+2017-06-09,Sweden,France,2,1,World Cup qualifier,Sweden,+26,-26,1813,1968
+2017-06-10,Germany,San Marino,7,0,World Cup qualifier,Germany,0,0,2041,859
+2017-06-10,Kazakhstan,Denmark,1,3,World Cup qualifier,Kazakhstan,-12,+12,1369,1737
+2017-06-10,Lithuania,Slovakia,1,2,World Cup qualifier,Lithuania,-10,+10,1448,1767
+2017-06-10,Norway,Czechia,1,1,World Cup qualifier,Norway,+2,-2,1561,1698
+2017-06-10,Poland,Romania,3,1,World Cup qualifier,Poland,+10,-10,1873,1668
+2017-06-10,Scotland,England,2,2,World Cup qualifier,Scotland,+8,-8,1687,1918
+2017-06-10,Slovenia,Malta,2,0,World Cup qualifier,Slovenia,+3,-3,1642,1227
+2017-06-11,Finland,Ukraine,1,2,World Cup qualifier,Finland,-14,+14,1527,1755
+2017-06-11,Iceland,Croatia,1,0,World Cup qualifier,Iceland,+19,-19,1802,1851
+2017-06-11,Ireland,Austria,1,1,World Cup qualifier,Ireland,-10,+10,1776,1694
+2017-06-11,Israel,Albania,0,3,World Cup qualifier,Israel,-50,+50,1564,1602
+2017-06-11,Italy,Liechtenstein,5,0,World Cup qualifier,Italy,0,0,1970,1166
+2017-06-11,Macedonia,Spain,1,2,World Cup qualifier,Macedonia,-3,+3,1447,2003
+2017-06-11,Moldova,Georgia,2,2,World Cup qualifier,Moldova,+1,-1,1353,1468
+2017-06-11,Serbia,Wales,1,1,World Cup qualifier,Serbia,-4,+4,1742,1772
+2017-06-13,France,England,3,2,Friendly,France,+6,-6,1974,1912
+2017-06-13,Romania,Chile,3,2,Friendly,Romania,+15,-15,1683,1962
+2017-06-18,Mexico,Portugal,2,2,Confederations Cup,Russia,+1,-1,1923,1929
+2017-06-19,Germany,Australia,3,2,Confederations Cup,Russia,+7,-7,2048,1707
+2017-06-21,Russia,Portugal,0,1,Confederations Cup,Russia,-17,+17,1700,1946
+2017-06-22,Chile,Germany,1,1,Confederations Cup,Russia,+5,-5,1980,2043
+2017-06-24,Portugal,New Zealand,4,0,Confederations Cup,Russia,+8,-8,1954,1526
+2017-06-25,Germany,Cameroon,3,1,Confederations Cup,Russia,+8,-8,2051,1668
+2017-06-28,Chile,Portugal,0,0,Confederations Cup,Russia,-1,+1,1963,1955
+2017-06-29,Germany,Mexico,4,1,Confederations Cup,Russia,+31,-31,2082,1915
+2017-07-02,Germany,Chile,1,0,Confederations Cup,Russia,+17,-17,2099,1946
+2017-07-02,Portugal,Mexico,2,1,Confederations Cup,Russia,+22,-22,1977,1898
+2017-08-31,Belgium,Gibraltar,9,0,World Cup qualifier,Belgium,+1,-1,1899,1089
+2017-08-31,France,Netherlands,4,0,World Cup qualifier,France,+16,-16,1990,1833
+2017-08-31,Hungary,Latvia,3,1,World Cup qualifier,Hungary,+8,-8,1628,1376
+2017-08-31,Portugal,Faroe Islands,5,1,World Cup qualifier,Portugal,+1,-1,1978,1280
+2017-08-31,Switzerland,Andorra,3,0,World Cup qualifier,Switzerland,0,0,1865,1022
+2017-09-01,Czechia,Germany,1,2,World Cup qualifier,Czechia,-6,+6,1692,2105
+2017-09-01,Denmark,Poland,4,0,World Cup qualifier,Denmark,+41,-41,1778,1832
+2017-09-01,Lithuania,Scotland,0,3,World Cup qualifier,Lithuania,-22,+22,1426,1709
+2017-09-01,Malta,England,0,4,World Cup qualifier,Malta,-2,+2,1225,1914
+2017-09-01,Romania,Armenia,1,0,World Cup qualifier,Romania,+7,-7,1690,1494
+2017-09-01,Slovakia,Slovenia,1,0,World Cup qualifier,Slovakia,+9,-9,1776,1633
+2017-09-02,Albania,Liechtenstein,2,0,World Cup qualifier,Albania,+3,-3,1605,1163
+2017-09-02,Georgia,Ireland,1,1,World Cup qualifier,Georgia,+11,-11,1479,1765
+2017-09-02,Serbia,Moldova,3,0,World Cup qualifier,Serbia,+4,-4,1746,1349
+2017-09-02,Spain,Italy,3,0,World Cup qualifier,Spain,+22,-22,2025,1948
+2017-09-02,Ukraine,Turkey,2,0,World Cup qualifier,Ukraine,+25,-25,1780,1769
+2017-09-02,Wales,Austria,1,0,World Cup qualifier,Wales,+11,-11,1783,1683
+2017-09-03,Croatia,Kosovo,1,0,World Cup qualifier,Croatia,+1,-1,1852,1383
+2017-09-03,France,Luxembourg,0,0,World Cup qualifier,France,-20,+20,1970,1299
+2017-09-03,Greece,Belgium,1,2,World Cup qualifier,Greece,-13,+13,1651,1912
+2017-09-03,Hungary,Portugal,0,1,World Cup qualifier,Hungary,-8,+8,1620,1986
+2017-09-03,Latvia,Switzerland,0,3,World Cup qualifier,Latvia,-7,+7,1369,1872
+2017-09-03,Netherlands,Bulgaria,3,1,World Cup qualifier,the Netherlands,+9,-9,1842,1629
+2017-09-04,Armenia,Denmark,1,4,World Cup qualifier,Armenia,-18,+18,1476,1796
+2017-09-04,England,Slovakia,2,1,World Cup qualifier,England,+8,-8,1922,1768
+2017-09-04,Germany,Norway,6,0,World Cup qualifier,Germany,+2,-2,2107,1575
+2017-09-04,Montenegro,Romania,1,0,World Cup qualifier,Montenegro,+18,-18,1637,1672
+2017-09-04,Northern Ireland,Czechia,2,0,World Cup qualifier,Northern Ireland,+22,-22,1705,1670
+2017-09-04,Poland,Kazakhstan,3,0,World Cup qualifier,Poland,+2,-2,1834,1344
+2017-09-04,Scotland,Malta,2,0,World Cup qualifier,Scotland,+2,-2,1711,1223
+2017-09-04,Slovenia,Lithuania,4,0,World Cup qualifier,Slovenia,+11,-11,1644,1415
+2017-09-05,Austria,Georgia,1,1,World Cup qualifier,Austria,-14,+14,1669,1493
+2017-09-05,Iceland,Ukraine,2,0,World Cup qualifier,Iceland,+22,-22,1795,1758
+2017-09-05,Ireland,Serbia,0,1,World Cup qualifier,Ireland,-27,+27,1738,1773
+2017-09-05,Italy,Israel,1,0,World Cup qualifier,Italy,+2,-2,1950,1531
+2017-09-05,Liechtenstein,Spain,0,8,World Cup qualifier,Liechtenstein,-1,+1,1162,2026
+2017-09-05,Macedonia,Albania,1,1,World Cup qualifier,Macedonia,+2,-2,1480,1603
+2017-09-05,Turkey,Croatia,1,0,World Cup qualifier,Turkey,+19,-19,1788,1833
+2017-10-05,Armenia,Poland,1,6,World Cup qualifier,Armenia,-15,+15,1461,1849
+2017-10-05,Azerbaijan,Czechia,1,2,World Cup qualifier,Azerbaijan,-12,+12,1401,1682
+2017-10-05,England,Slovenia,1,0,World Cup qualifier,England,+4,-4,1926,1640
+2017-10-05,Montenegro,Denmark,0,1,World Cup qualifier,Montenegro,-17,+17,1620,1813
+2017-10-05,Northern Ireland,Germany,1,3,World Cup qualifier,Northern Ireland,-9,+9,1696,2116
+2017-10-05,Romania,Kazakhstan,3,1,World Cup qualifier,Romania,+5,-5,1677,1339
+2017-10-05,Scotland,Slovakia,1,0,World Cup qualifier,Scotland,+18,-18,1729,1750
+2017-10-06,Austria,Serbia,3,2,World Cup qualifier,Austria,+20,-20,1689,1753
+2017-10-06,Croatia,Finland,1,1,World Cup qualifier,Croatia,-16,+16,1817,1583
+2017-10-06,Georgia,Wales,0,1,World Cup qualifier,Georgia,-10,+10,1483,1801
+2017-10-06,Italy,Macedonia,1,1,World Cup qualifier,Italy,-19,+19,1931,1499
+2017-10-06,Kosovo,Ukraine,0,2,World Cup qualifier,Albania,-6,+6,1366,1764
+2017-10-06,Spain,Albania,3,0,World Cup qualifier,Spain,+3,-3,2029,1600
+2017-10-07,Andorra,Portugal,0,2,World Cup qualifier,Andorra,0,0,1017,1986
+2017-10-07,Belarus,Netherlands,1,3,World Cup qualifier,Belarus,-13,+13,1511,1855
+2017-10-07,Bosnia and Herzegovina,Belgium,3,4,World Cup qualifier,Bosnia and Herzegovina,-15,+15,1709,1927
+2017-10-07,Bulgaria,France,0,1,World Cup qualifier,Bulgaria,-8,+8,1621,1978
+2017-10-07,Switzerland,Hungary,5,2,World Cup qualifier,Switzerland,+8,-8,1880,1612
+2017-10-08,Czechia,San Marino,5,0,World Cup qualifier,Czechia,0,0,1682,853
+2017-10-08,Denmark,Romania,1,1,World Cup qualifier,Denmark,-12,+12,1801,1689
+2017-10-08,Germany,Azerbaijan,5,1,World Cup qualifier,Germany,+1,-1,2117,1400
+2017-10-08,Lithuania,England,0,1,World Cup qualifier,Lithuania,-3,+3,1407,1929
+2017-10-08,Poland,Montenegro,4,2,World Cup qualifier,Poland,+8,-8,1857,1612
+2017-10-08,Slovakia,Malta,3,0,World Cup qualifier,Slovakia,+2,-2,1752,1226
+2017-10-08,Slovenia,Scotland,2,2,World Cup qualifier,Slovenia,-1,+1,1639,1730
+2017-10-09,Albania,Italy,0,1,World Cup qualifier,Albania,-8,+8,1592,1939
+2017-10-09,Israel,Spain,0,1,World Cup qualifier,Israel,-4,+4,1534,2033
+2017-10-09,Moldova,Austria,0,1,World Cup qualifier,Moldova,-8,+8,1330,1697
+2017-10-09,Serbia,Georgia,1,0,World Cup qualifier,Serbia,+4,-4,1757,1479
+2017-10-09,Ukraine,Croatia,0,2,World Cup qualifier,Ukraine,-34,+34,1730,1851
+2017-10-10,Belgium,Cyprus,4,0,World Cup qualifier,Belgium,+2,-2,1929,1422
+2017-10-10,France,Belarus,2,1,World Cup qualifier,France,+1,-1,1979,1510
+2017-10-10,Hungary,Faroe Islands,1,0,World Cup qualifier,Hungary,+3,-3,1615,1281
+2017-10-10,Netherlands,Sweden,2,0,World Cup qualifier,the Netherlands,+18,-18,1873,1792
+2017-10-10,Portugal,Switzerland,2,0,World Cup qualifier,Portugal,+14,-14,2000,1866
+2017-11-08,Czechia,Iceland,2,1,Friendly tournament,Qatar,+21,-21,1703,1820
+2017-11-09,Croatia,Greece,4,1,World Cup qualifier,Croatia,+11,-11,1862,1655
+2017-11-09,Luxembourg,Hungary,2,1,Friendly,Luxembourg,+15,-15,1322,1600
+2017-11-09,Northern Ireland,Switzerland,0,1,World Cup qualifier,Northern Ireland,-15,+15,1660,1881
+2017-11-09,Romania,Turkey,2,0,Friendly,Romania,+13,-13,1702,1728
+2017-11-09,Scotland,Netherlands,0,1,Friendly,Scotland,-9,+9,1721,1882
+2017-11-10,Belgium,Mexico,3,3,Friendly,Belgium,-5,+5,1924,1835
+2017-11-10,China,Serbia,0,2,Friendly,China,-12,+12,1578,1769
+2017-11-10,England,Germany,0,0,Friendly,England,+2,-2,1931,2115
+2017-11-10,France,Wales,2,0,Friendly,France,+4,-4,1983,1768
+2017-11-10,Georgia,Cyprus,1,0,Friendly,Georgia,+6,-6,1485,1416
+2017-11-10,Poland,Uruguay,0,0,Friendly,Poland,-2,+2,1855,1878
+2017-11-10,Portugal,Saudi Arabia,3,0,Friendly,Portugal,+2,-2,2002,1604
+2017-11-10,Sweden,Italy,1,0,World Cup qualifier,Sweden,+23,-23,1815,1916
+2017-11-10,Ukraine,Slovakia,2,1,Friendly,Ukraine,+8,-8,1738,1744
+2017-11-11,Denmark,Ireland,0,0,World Cup qualifier,Denmark,-7,+7,1794,1777
+2017-11-11,Qatar,Czechia,0,1,Friendly tournament,Qatar,-10,+10,1478,1713
+2017-11-11,Spain,Costa Rica,5,0,Friendly,Spain,+4,-4,2037,1757
+2017-11-12,Greece,Croatia,0,0,World Cup qualifier,Greece,+6,-6,1661,1856
+2017-11-12,Switzerland,Northern Ireland,0,0,World Cup qualifier,Switzerland,-15,+15,1866,1675
+2017-11-13,Georgia,Belarus,2,2,Friendly,Georgia,-3,+3,1482,1498
+2017-11-13,Italy,Sweden,0,0,World Cup qualifier,Italy,-10,+10,1906,1825
+2017-11-13,Poland,Mexico,0,1,Friendly,Poland,-13,+13,1842,1848
+2017-11-13,Turkey,Albania,2,3,Friendly,Turkey,-16,+16,1712,1608
+2017-11-14,Austria,Uruguay,2,1,Friendly,Austria,+12,-12,1709,1866
+2017-11-14,Belgium,Japan,1,0,Friendly,Belgium,+3,-3,1927,1744
+2017-11-14,England,Brazil,0,0,Friendly,England,+2,-2,1933,2114
+2017-11-14,Germany,France,2,2,Friendly,Germany,-6,+6,2109,1989
+2017-11-14,Hungary,Costa Rica,1,0,Friendly,Hungary,+12,-12,1612,1745
+2017-11-14,Ireland,Denmark,1,5,World Cup qualifier,Ireland,-46,+46,1731,1840
+2017-11-14,Portugal,United States,1,1,Friendly,Portugal,-8,+8,1994,1751
+2017-11-14,Romania,Netherlands,0,3,Friendly,Romania,-14,+14,1688,1896
+2017-11-14,Russia,Spain,3,3,Friendly,Russia,+6,-6,1698,2031
+2017-11-14,Slovakia,Norway,1,0,Friendly,Slovakia,+4,-4,1748,1580
+2017-11-14,South Korea,Serbia,1,1,Friendly,South Korea,-1,+1,1711,1770

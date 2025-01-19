@@ -1,0 +1,200 @@
+Date,TeamA,TeamB,ScoreA,ScoreB,Tournament,Location,RatingChangeA,RatingChangeB,NewRatingA,NewRatingB
+2022-03-24,Scotland,Poland,1,1,Friendly,Scotland,-2,+2,1727,1772
+2022-03-24,Hungary,Serbia,0,1,Friendly,Hungary,-9,+9,1717,1855
+2022-03-24,Wales,Austria,2,1,World Cup qualifier,Wales,+9,-9,1845,1722
+2022-03-24,Sweden,Czechia,1,0,World Cup qualifier,Sweden,+15,-15,1836,1819
+2022-03-24,Portugal,Turkey,3,1,World Cup qualifier,Portugal,+7,-7,1979,1720
+2022-03-24,Italy,North Macedonia,0,1,World Cup qualifier,Italy,-38,+38,1992,1668
+2022-03-25,Romania,Greece,0,1,Friendly,Romania,-13,+13,1653,1684
+2022-03-25,Norway,Slovakia,2,0,Friendly,Norway,+8,-8,1740,1659
+2022-03-25,France,Ivory Coast,2,1,Friendly,France,+1,-1,2115,1686
+2022-03-25,Bosnia and Herzegovina,Georgia,0,1,Friendly,Bosnia and Herzegovina,-14,+14,1586,1563
+2022-03-26,Spain,Albania,2,1,Friendly,Spain,+1,-1,2038,1585
+2022-03-26,Netherlands,Denmark,4,2,Friendly,the Netherlands,+11,-11,1941,1926
+2022-03-26,Ireland,Belgium,2,2,Friendly,Ireland,+7,-7,1690,2068
+2022-03-26,Germany,Israel,2,0,Friendly,Germany,+2,-2,1965,1628
+2022-03-26,England,Switzerland,2,1,Friendly,England,+5,-5,2037,1929
+2022-03-26,Croatia,Slovenia,1,1,Friendly,Qatar,-6,+6,1853,1621
+2022-03-29,Wales,Czechia,1,1,Friendly,Wales,-3,+3,1842,1822
+2022-03-29,Turkey,Italy,2,3,Friendly,Turkey,-5,+5,1715,1997
+2022-03-29,Switzerland,Kosovo,1,1,Friendly,Switzerland,-9,+9,1920,1501
+2022-03-29,Spain,Iceland,5,0,Friendly,Spain,+1,-1,2039,1540
+2022-03-29,Slovakia,Finland,2,0,Friendly,Spain,+17,-17,1676,1700
+2022-03-29,Qatar,Slovenia,0,0,Friendly,Qatar,-4,+4,1663,1625
+2022-03-29,Northern Ireland,Hungary,0,1,Friendly,Northern Ireland,-10,+10,1604,1727
+2022-03-29,Netherlands,Germany,1,1,Friendly,the Netherlands,-2,+2,1939,1967
+2022-03-29,Israel,Romania,2,2,Friendly,Israel,-2,+2,1626,1655
+2022-03-29,France,South Africa,5,0,Friendly,France,+1,-1,2116,1544
+2022-03-29,England,Ivory Coast,3,0,Friendly,England,+2,-2,2039,1684
+2022-03-29,Denmark,Serbia,3,0,Friendly,Denmark,+10,-10,1936,1845
+2022-03-29,Croatia,Bulgaria,2,1,Friendly,Qatar,+2,-2,1855,1512
+2022-03-29,Belgium,Burkina Faso,3,0,Friendly,Belgium,+1,-1,2069,1550
+2022-03-29,Austria,Scotland,2,2,Friendly,Austria,-3,+3,1719,1730
+2022-03-29,Albania,Georgia,0,0,Friendly,Albania,-3,+3,1582,1566
+2022-03-29,Portugal,North Macedonia,2,0,World Cup qualifier,Portugal,+5,-5,1984,1663
+2022-03-29,Poland,Sweden,2,0,World Cup qualifier,Poland,+27,-27,1799,1809
+2022-06-01,Poland,Wales,2,1,European Nations League A,Poland,+17,-17,1816,1825
+2022-06-01,Scotland,Ukraine,1,3,World Cup qualifier,Scotland,-31,+31,1699,1848
+2022-06-01,Argentina,Italy,3,0,Intercontinental Championship,England,+30,-30,2138,1967
+2022-06-02,Georgia,Gibraltar,4,0,European Nations League C,Georgia,+2,-2,1568,1049
+2022-06-02,Slovenia,Sweden,0,2,European Nations League B,Slovenia,-23,+23,1602,1832
+2022-06-02,Serbia,Norway,0,1,European Nations League B,Serbia,-30,+30,1815,1776
+2022-06-02,Spain,Portugal,1,1,European Nations League A,Spain,-8,+8,2031,1992
+2022-06-02,Czechia,Switzerland,2,1,European Nations League A,Czechia,+20,-20,1842,1900
+2022-06-03,Slovakia,Belarus,1,0,European Nations League C,Serbia,+10,-10,1686,1464
+2022-06-03,France,Denmark,1,2,European Nations League A,France,-33,+33,2083,1969
+2022-06-03,Croatia,Austria,0,3,European Nations League A,Croatia,-56,+56,1799,1775
+2022-06-03,Belgium,Netherlands,1,4,European Nations League A,Belgium,-55,+55,2014,1994
+2022-06-04,Montenegro,Romania,2,0,European Nations League B,Montenegro,+33,-33,1551,1622
+2022-06-04,Italy,Germany,1,1,European Nations League A,Italy,-6,+6,1961,1973
+2022-06-04,Hungary,England,1,0,European Nations League A,Hungary,+31,-31,1758,2008
+2022-06-05,Bulgaria,Georgia,2,5,European Nations League C,Bulgaria,-40,+40,1475,1608
+2022-06-05,Serbia,Slovenia,4,1,European Nations League B,Serbia,+10,-10,1825,1592
+2022-06-05,Portugal,Switzerland,4,0,European Nations League A,Portugal,+19,-19,2011,1881
+2022-06-05,Czechia,Spain,2,2,European Nations League A,Czechia,+5,-5,1847,2026
+2022-06-05,Wales,Ukraine,1,0,World Cup qualifier,Wales,+16,-16,1841,1832
+2022-06-06,Slovakia,Kazakhstan,0,1,European Nations League C,Slovakia,-37,+37,1649,1387
+2022-06-06,Iceland,Albania,1,1,European Nations League B,Iceland,-4,+4,1546,1586
+2022-06-06,Croatia,France,1,1,European Nations League A,Croatia,+10,-10,1809,2073
+2022-06-06,Austria,Denmark,1,2,European Nations League A,Austria,-15,+15,1760,1984
+2022-06-07,Bosnia and Herzegovina,Romania,1,0,European Nations League B,Bosnia and Herzegovina,+16,-16,1616,1606
+2022-06-07,Italy,Hungary,2,1,European Nations League A,Italy,+6,-6,1967,1752
+2022-06-07,Germany,England,1,1,European Nations League A,Germany,-4,+4,1969,2012
+2022-06-08,Scotland,Armenia,2,0,European Nations League B,Scotland,+10,-10,1709,1516
+2022-06-08,Ireland,Ukraine,0,1,European Nations League B,Ireland,-16,+16,1650,1848
+2022-06-08,Wales,Netherlands,1,2,European Nations League A,Wales,-17,+17,1824,2011
+2022-06-08,Belgium,Poland,6,1,European Nations League A,Belgium,+12,-12,2026,1804
+2022-06-09,North Macedonia,Georgia,0,3,European Nations League C,North Macedonia,-50,+50,1613,1658
+2022-06-09,Sweden,Serbia,0,1,European Nations League B,Sweden,-24,+24,1780,1849
+2022-06-09,Norway,Slovenia,0,0,European Nations League B,Norway,-14,+14,1790,1606
+2022-06-09,Switzerland,Spain,0,1,European Nations League A,Switzerland,-17,+17,1864,2043
+2022-06-09,Portugal,Czechia,2,0,European Nations League A,Portugal,+11,-11,2022,1836
+2022-06-10,Azerbaijan,Slovakia,0,1,European Nations League C,Azerbaijan,-7,+7,1285,1656
+2022-06-10,Albania,Israel,1,2,European Nations League B,Albania,-24,+24,1562,1640
+2022-06-10,Denmark,Croatia,0,1,European Nations League A,Denmark,-33,+33,1951,1842
+2022-06-10,Austria,France,1,1,European Nations League A,Austria,+11,-11,1771,2062
+2022-06-11,Ukraine,Armenia,3,0,European Nations League B,Poland,+9,-9,1857,1507
+2022-06-11,Romania,Finland,1,0,European Nations League B,Romania,+20,-20,1626,1681
+2022-06-11,Ireland,Scotland,3,0,European Nations League B,Ireland,+31,-31,1681,1678
+2022-06-11,Wales,Belgium,1,1,European Nations League A,Wales,+6,-6,1830,2020
+2022-06-11,Netherlands,Poland,2,2,European Nations League A,the Netherlands,-14,+14,1997,1818
+2022-06-11,Hungary,Germany,1,1,European Nations League A,Hungary,+6,-6,1758,1963
+2022-06-11,England,Italy,0,0,European Nations League A,England,-8,+8,2004,1975
+2022-06-12,Georgia,Bulgaria,0,0,European Nations League C,Georgia,-14,+14,1644,1474
+2022-06-12,Slovenia,Serbia,2,2,European Nations League B,Slovenia,+8,-8,1614,1841
+2022-06-12,Switzerland,Portugal,1,0,European Nations League A,Switzerland,+23,-23,1887,1999
+2022-06-12,Spain,Czechia,2,0,European Nations League A,Spain,+9,-9,2052,1827
+2022-06-13,Albania,Estonia,0,0,Friendly,Albania,-6,+6,1556,1411
+2022-06-13,Kazakhstan,Slovakia,2,1,European Nations League C,Kazakhstan,+29,-29,1420,1627
+2022-06-13,France,Croatia,0,1,European Nations League A,France,-35,+35,2027,1877
+2022-06-13,Denmark,Austria,2,0,European Nations League A,Denmark,+10,-10,1961,1761
+2022-06-14,Romania,Montenegro,0,3,European Nations League B,Romania,-52,+52,1574,1590
+2022-06-14,Ireland,Ukraine,1,1,European Nations League B,Poland,+9,-9,1690,1848
+2022-06-14,Armenia,Scotland,1,4,European Nations League B,Armenia,-28,+28,1479,1706
+2022-06-14,Poland,Belgium,0,1,European Nations League A,Poland,-14,+14,1804,2034
+2022-06-14,Netherlands,Wales,3,2,European Nations League A,the Netherlands,+7,-7,2004,1823
+2022-06-14,Germany,Italy,5,2,European Nations League A,Germany,+26,-26,1989,1949
+2022-06-14,England,Hungary,0,4,European Nations League A,England,-66,+66,1938,1824
+2022-09-21,Scotland,Ukraine,3,0,European Nations League B,Scotland,+39,-39,1745,1809
+2022-09-22,Slovakia,Azerbaijan,1,2,European Nations League C,Slovakia,-36,+36,1591,1357
+2022-09-22,Poland,Netherlands,0,2,European Nations League A,Poland,-22,+22,1782,2026
+2022-09-22,France,Austria,2,0,European Nations League A,France,+7,-7,2034,1754
+2022-09-22,Croatia,Denmark,2,1,European Nations League A,Croatia,+19,-19,1896,1942
+2022-09-22,Belgium,Wales,2,1,European Nations League A,Belgium,+6,-6,2040,1817
+2022-09-23,Georgia,North Macedonia,2,0,European Nations League C,Georgia,+19,-19,1663,1596
+2022-09-23,Finland,Romania,1,1,European Nations League B,Finland,-10,+10,1653,1584
+2022-09-23,Italy,England,1,0,European Nations League A,Italy,+14,-14,1963,1924
+2022-09-23,Germany,Hungary,0,1,European Nations League A,Germany,-33,+33,1956,1857
+2022-09-24,Slovenia,Norway,2,1,European Nations League B,Slovenia,+25,-25,1639,1779
+2022-09-24,Serbia,Sweden,4,1,European Nations League B,Serbia,+19,-19,1860,1747
+2022-09-24,Scotland,Ireland,2,1,European Nations League B,Scotland,+12,-12,1757,1678
+2022-09-24,Israel,Albania,2,1,European Nations League B,Israel,+10,-10,1650,1546
+2022-09-24,Armenia,Ukraine,0,5,European Nations League B,Armenia,-17,+17,1462,1826
+2022-09-24,Spain,Switzerland,1,2,European Nations League A,Spain,-33,+33,2019,1920
+2022-09-24,Czechia,Portugal,0,4,European Nations League A,Czechia,-30,+30,1797,2029
+2022-09-25,Slovakia,Belarus,1,1,European Nations League C,Slovakia,-14,+14,1577,1414
+2022-09-25,Wales,Poland,0,1,European Nations League A,Wales,-27,+27,1790,1809
+2022-09-25,Netherlands,Belgium,1,0,European Nations League A,the Netherlands,+15,-15,2041,2025
+2022-09-25,Denmark,France,2,0,European Nations League A,Denmark,+29,-29,1971,2005
+2022-09-25,Austria,Croatia,1,3,European Nations League A,Austria,-26,+26,1728,1922
+2022-09-26,Gibraltar,Georgia,1,2,European Nations League C,Gibraltar,-2,+2,1053,1665
+2022-09-26,Romania,Bosnia and Herzegovina,4,1,European Nations League B,Romania,+31,-31,1615,1616
+2022-09-26,Hungary,Italy,0,2,European Nations League A,Hungary,-29,+29,1828,1992
+2022-09-26,England,Germany,3,3,European Nations League A,England,-4,+4,1920,1960
+2022-09-27,Sweden,Slovenia,1,1,European Nations League B,Sweden,-11,+11,1736,1650
+2022-09-27,Scotland,Ukraine,0,0,European Nations League B,Poland,+4,-4,1761,1822
+2022-09-27,Norway,Serbia,0,2,European Nations League B,Norway,-32,+32,1747,1892
+2022-09-27,Albania,Iceland,1,1,European Nations League B,Albania,-5,+5,1541,1565
+2022-09-27,Switzerland,Czechia,2,1,European Nations League A,Switzerland,+9,-9,1929,1788
+2022-09-27,Portugal,Spain,0,1,European Nations League A,Portugal,-26,+26,2003,2045
+2022-10-26,Albania,Saudi Arabia,1,1,Friendly,the United Arab Emirates,+3,-3,1544,1637
+2022-11-09,Qatar,Albania,1,0,Friendly,Spain,+6,-6,1680,1538
+2022-11-16,Turkey,Scotland,2,1,Friendly,Turkey,+9,-9,1702,1752
+2022-11-16,Saudi Arabia,Croatia,0,1,Friendly,Saudi Arabia,-5,+5,1635,1927
+2022-11-16,Poland,Chile,1,0,Friendly,Poland,+5,-5,1814,1698
+2022-11-16,Oman,Germany,0,1,Friendly,Oman,-3,+3,1543,1963
+2022-11-16,Czechia,Faroe Islands,5,0,Friendly,Czechia,+1,-1,1789,1302
+2022-11-16,Austria,Andorra,1,0,Friendly,Spain,+1,-1,1729,1117
+2022-11-16,Albania,Italy,1,3,Friendly,Albania,-3,+3,1535,1995
+2022-11-17,Romania,Slovenia,1,2,Friendly,Romania,-12,+12,1603,1662
+2022-11-17,Portugal,Nigeria,4,0,Friendly,Portugal,+2,-2,2005,1630
+2022-11-17,Morocco,Georgia,3,0,Friendly,the United Arab Emirates,+13,-13,1766,1652
+2022-11-17,Montenegro,Slovakia,2,2,Friendly,Montenegro,-2,+2,1544,1579
+2022-11-17,Luxembourg,Hungary,2,2,Friendly,Luxembourg,+7,-7,1444,1821
+2022-11-17,Ghana,Switzerland,2,0,Friendly,the United Arab Emirates,+27,-27,1567,1902
+2022-11-17,Jordan,Spain,1,3,Friendly,Jordan,-3,+3,1590,2048
+2022-11-18,Egypt,Belgium,2,1,Friendly,Kuwait,+18,-18,1662,2007
+2022-11-18,Bahrain,Serbia,1,5,Friendly,Bahrain,-6,+6,1494,1898
+2022-11-19,Turkey,Czechia,2,1,Friendly,Turkey,+10,-10,1712,1779
+2022-11-19,Albania,Armenia,2,0,Friendly,Albania,+8,-8,1543,1452
+2022-11-20,Slovenia,Montenegro,1,0,Friendly,Slovenia,+4,-4,1666,1540
+2022-11-20,Slovakia,Chile,0,0,Friendly,Slovakia,+1,-1,1580,1697
+2022-11-20,Moldova,Romania,0,5,Friendly,Moldova,-7,+7,1233,1610
+2022-11-20,Hungary,Greece,2,1,Friendly,Hungary,+4,-4,1825,1690
+2022-11-20,Austria,Italy,2,0,Friendly,Austria,+22,-22,1751,1973
+2022-11-21,Netherlands,Senegal,2,0,World Cup,Qatar,+10,-10,2051,1677
+2022-11-21,England,Iran,6,2,World Cup,Qatar,+37,-37,1957,1760
+2022-11-22,Mexico,Poland,0,0,World Cup,Qatar,0,0,1809,1814
+2022-11-22,France,Australia,4,1,World Cup,Qatar,+17,-17,2022,1702
+2022-11-22,Denmark,Tunisia,0,0,World Cup,Qatar,-19,+19,1952,1726
+2022-11-23,Spain,Costa Rica,7,0,World Cup,Qatar,+20,-20,2068,1724
+2022-11-23,Japan,Germany,2,1,World Cup,Qatar,+44,-44,1831,1919
+2022-11-23,Croatia,Morocco,0,0,World Cup,Qatar,-13,+13,1914,1779
+2022-11-23,Belgium,Canada,1,0,World Cup,Qatar,+13,-13,2020,1763
+2022-11-24,Switzerland,Cameroon,1,0,World Cup,Qatar,+9,-9,1911,1601
+2022-11-24,Portugal,Ghana,3,2,World Cup,Qatar,+4,-4,2009,1563
+2022-11-24,Brazil,Serbia,2,0,World Cup,Qatar,+16,-16,2185,1882
+2022-11-25,England,United States,0,0,World Cup,Qatar,-13,+13,1944,1810
+2022-11-25,Ecuador,Netherlands,1,1,World Cup,Qatar,+14,-14,1885,2037
+2022-11-26,Poland,Saudi Arabia,2,0,World Cup,Qatar,+30,-30,1844,1662
+2022-11-26,France,Denmark,2,1,World Cup,Qatar,+24,-24,2046,1928
+2022-11-27,Morocco,Belgium,2,0,World Cup,Qatar,+72,-72,1851,1948
+2022-11-27,Germany,Spain,1,1,World Cup,Qatar,+12,-12,1931,2056
+2022-11-27,Croatia,Canada,4,1,World Cup,Qatar,+31,-31,1945,1732
+2022-11-28,Portugal,Uruguay,2,0,World Cup,Qatar,+34,-34,2043,1890
+2022-11-28,Cameroon,Serbia,3,3,World Cup,Qatar,+20,-20,1621,1862
+2022-11-28,Brazil,Switzerland,1,0,World Cup,Qatar,+10,-10,2195,1901
+2022-11-29,Qatar,Netherlands,0,2,World Cup,Qatar,-11,+11,1578,2048
+2022-11-29,England,Wales,3,0,World Cup,Qatar,+25,-25,1969,1717
+2022-11-30,Tunisia,France,1,0,World Cup,Qatar,+53,-53,1747,1993
+2022-11-30,Australia,Denmark,1,0,World Cup,Qatar,+45,-45,1779,1883
+2022-11-30,Argentina,Poland,2,0,World Cup,Qatar,+17,-17,2118,1827
+2022-12-01,Japan,Spain,2,1,World Cup,Qatar,+49,-49,1841,2007
+2022-12-01,Germany,Costa Rica,4,2,World Cup,Qatar,+25,-25,1956,1738
+2022-12-01,Belgium,Croatia,0,0,World Cup,Qatar,0,0,1948,1945
+2022-12-02,Switzerland,Serbia,3,2,World Cup,Qatar,+27,-27,1928,1835
+2022-12-02,South Korea,Portugal,2,1,World Cup,Qatar,+51,-51,1801,1992
+2022-12-03,Netherlands,United States,3,1,World Cup,Qatar,+21,-21,2069,1819
+2022-12-04,France,Poland,3,1,World Cup,Qatar,+25,-25,2018,1802
+2022-12-04,England,Senegal,3,0,World Cup,Qatar,+26,-26,1995,1747
+2022-12-05,Croatia,Japan,1,1,World Cup,Qatar,-9,+9,1936,1850
+2022-12-06,Portugal,Switzerland,6,1,World Cup,Qatar,+49,-49,2041,1879
+2022-12-06,Morocco,Spain,0,0,World Cup,Qatar,+11,-11,1882,1996
+2022-12-09,Brazil,Croatia,1,1,World Cup,Qatar,-16,+16,2134,1952
+2022-12-09,Argentina,Netherlands,2,2,World Cup,Qatar,-5,+5,2120,2074
+2022-12-10,Morocco,Portugal,1,0,World Cup,Qatar,+43,-43,1925,1998
+2022-12-10,France,England,2,1,World Cup,Qatar,+28,-28,2046,1967
+2022-12-13,Argentina,Croatia,3,0,World Cup,Qatar,+29,-29,2149,1923
+2022-12-14,France,Morocco,2,0,World Cup,Qatar,+30,-30,2076,1895
+2022-12-17,Croatia,Morocco,2,1,World Cup,Qatar,+28,-28,1951,1867
+2022-12-18,Argentina,France,3,3,World Cup,Qatar,-6,+6,2143,2082
