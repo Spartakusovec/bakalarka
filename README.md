@@ -1,4 +1,14 @@
-# 19.1.2024 
+# 25.1.2025
+## Co je nového a moje myšlenky abych na něco nezapomněl.
+- Ošetřil jsem vyjímky, aby se při nějakém erroru u printování playerIDs, počkalo 10 sekund a pak se zkusilo znovu přečíst ID hráče.
+- Ohledně toho jaká data používat k simulaci:
+  
+    - Přemýšel jsem, do toho zakomponovat i únavu hráčů, to bych měřil, podle termínu, kdy se odehrály zápasy. Pokud by tam byl veliký rozdil mezi daty nastavil bych jako defaultní hodnotu týden. K tomu velkému rozdílu může dojít, když se předtím hraje normální liga
+    - Převedení názvů týmu na čísla, simulace s tím bude umět lépe pracovat a pak pomocí mapy bych těm číslům zase načetl zpátky názvy týmů nebo udělat One-Hot encoding, ale to úplně nevím co je a vzhledem k tomu, že to trénuju na datech, která obsahují více než 100 týmu, tak bych tam musel přidat 100*2 sloupců :D 
+    - Nastavení domácí výhody např. podle čísel 1,0,-1. 1 - týmA hraje zápas na domácím hřišti, tj týmB -1, hraje zápas na venkovním hřišti. 0 - neutrální půda. Z toho budu moct udělat i analýzu toho, jak moc týmům pomáhá domácí výhoda
+    - U toho minulého modelu, jsem si stěžoval, že má přesnost 28,9 %. Reálně to možná nemusí být tak špatné, já jsem zkoušel odhadovat přesné výsledky a pokud se ten model trefuje kolem 30 %, tak je to celkem fajn. Možná mám už dost dat, abych zkusil nasimulovat ten turnaj, ale chtěl bych ještě udělat ty úpravy, které jsem zmiňoval výše.
+
+# 19.1.2025
 ## Co je potřeba a co je hotovo?
 - [x] Scrapování playerIDs - tj. jsem schopen si z webovky stáhnout data co potřebuju
 - [x] Scrapování dat fotbalistů - pomocí playerIDs si vytáhnu veškerá potřebná data o fotbalistech
